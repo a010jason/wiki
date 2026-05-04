@@ -4,46 +4,6 @@ title: Jason 的知識庫
 
 跨工作、跨領域的個人長期知識累積——概念、實體、技能、洞察、日誌一處彙整。
 
-<div class="stats-row">
-  <div class="stat-item">
-    <div class="stat-number">4</div>
-    <div class="stat-label">概念條目</div>
-  </div>
-  <div class="stat-item">
-    <div class="stat-number">2</div>
-    <div class="stat-label">洞察 / 編譯摘要</div>
-  </div>
-  <div class="stat-item">
-    <div class="stat-number">1</div>
-    <div class="stat-label">實體</div>
-  </div>
-  <div class="stat-item">
-    <div class="stat-number">1</div>
-    <div class="stat-label">日誌條目</div>
-  </div>
-</div>
-
-### 批判成熟度
-
-<div class="stats-row lifecycle-stats">
-  <div class="stat-item lifecycle-draft">
-    <div class="stat-number">7</div>
-    <div class="stat-label">草稿</div>
-  </div>
-  <div class="stat-item lifecycle-challenged">
-    <div class="stat-number">1</div>
-    <div class="stat-label">已批判</div>
-  </div>
-  <div class="stat-item lifecycle-validated">
-    <div class="stat-number">0</div>
-    <div class="stat-label">已驗證</div>
-  </div>
-  <div class="stat-item lifecycle-stale">
-    <div class="stat-number">0</div>
-    <div class="stat-label">過期</div>
-  </div>
-</div>
-
 ## Concepts
 
 - [[concepts/llm-wiki-pattern]] — Karpathy 提的三層架構 + ingest/query/lint 三大操作
