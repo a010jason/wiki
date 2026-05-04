@@ -1,3 +1,309 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// ===== Codotx-style customizations =====
+
+// Heading bars (yellow vertical accent on H2 like Codotx 定義/跨文章觀察)
+article {
+  h2 {
+    position: relative;
+    padding-left: 0.85rem;
+    border-bottom: none;
+    margin-top: 2.5rem;
+    font-weight: 700;
+
+    &::before {
+      content: "";
+      position: absolute;
+      left: 0;
+      top: 0.15em;
+      bottom: 0.15em;
+      width: 4px;
+      border-radius: 2px;
+      background: var(--secondary);
+    }
+  }
+
+  h3 {
+    font-weight: 700;
+    margin-top: 1.75rem;
+  }
+
+  // Slight breathing room
+  p {
+    line-height: 1.85;
+  }
+}
+
+// Page title in sidebar — make it the brand
+.page-title {
+  font-size: 1.5rem !important;
+  font-weight: 800;
+  letter-spacing: -0.01em;
+
+  a {
+    background-image: none;
+    color: var(--dark) !important;
+  }
+
+  // Brand chip prefix
+  &::before {
+    content: "📚";
+    margin-right: 0.4rem;
+  }
+}
+
+// Brand subtitle under page-title
+.brand-subtitle {
+  font-size: 0.78rem;
+  color: var(--gray);
+  margin: -0.4rem 0 1rem 0;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+// Tag pills — yellow Codotx style
+.tags {
+  margin-top: 0.6rem;
+
+  & > a.internal.tag-link {
+    background-color: var(--highlight);
+    color: var(--secondary);
+    border-radius: 999px;
+    padding: 0.2rem 0.7rem;
+    font-size: 0.78rem;
+    font-weight: 600;
+    border: 1px solid transparent;
+    transition: all 0.15s ease;
+
+    &:hover {
+      background-color: var(--secondary);
+      color: var(--light);
+    }
+  }
+}
+
+// Article hero — type badge + subtitle row
+.content-meta {
+  font-size: 0.85rem;
+  color: var(--gray);
+  margin-top: 0.4rem;
+
+  &::before {
+    display: inline-block;
+    background: var(--secondary);
+    color: var(--light);
+    border-radius: 4px;
+    padding: 0.15rem 0.6rem;
+    font-size: 0.72rem;
+    font-weight: 700;
+    margin-right: 0.6rem;
+    letter-spacing: 0.05em;
+    vertical-align: middle;
+  }
+
+  // Hide pill when no type set
+  &[data-type=""]::before,
+  &:not([data-type])::before {
+    display: none;
+  }
+
+  // Type → Chinese label mapping
+  &[data-type="concept"]::before,
+  &[data-type="concepts"]::before { content: "概念"; }
+
+  &[data-type="entity"]::before,
+  &[data-type="entities"]::before { content: "實體"; }
+
+  &[data-type="skill"]::before,
+  &[data-type="skills"]::before { content: "技能"; }
+
+  &[data-type="reference"]::before,
+  &[data-type="references"]::before { content: "參考"; }
+
+  &[data-type="synthesis"]::before { content: "洞察"; }
+
+  &[data-type="journal"]::before { content: "日誌"; }
+
+  &[data-type="project"]::before,
+  &[data-type="projects"]::before { content: "專案"; }
+}
+
+// Article title — bigger, bolder
+article > h1,
+.popover-inner > h1,
+.article-title {
+  font-size: 2.4rem !important;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  margin-bottom: 0.4rem;
+}
+
+// Source-articles callout (Obsidian callout becomes the gray box like Codotx 來源文章)
+.callout {
+  border-left: none;
+  border-radius: 8px;
+  background: var(--lightgray);
+  padding: 1rem 1.25rem;
+
+  &[data-callout="source"],
+  &[data-callout="info"] {
+    background: var(--lightgray);
+
+    .callout-title {
+      color: var(--darkgray);
+      font-size: 0.85rem;
+      font-weight: 700;
+      margin-bottom: 0.4rem;
+    }
+  }
+}
+
+// Sidebar Explorer — quieter, card-ish
+.explorer {
+  & > h1, & > h2 {
+    display: none; // hide "Explorer" header, save space
+  }
+
+  & ul.overflow li > a {
+    color: var(--darkgray);
+    font-size: 0.88rem;
+
+    &:hover {
+      color: var(--secondary);
+    }
+  }
+
+  // Active item — yellow tint
+  & ul.overflow li.active > a,
+  & ul.overflow li > a.active {
+    background: var(--highlight);
+    color: var(--secondary);
+    border-radius: 4px;
+    padding: 0.2rem 0.4rem;
+    font-weight: 600;
+  }
+
+  & svg.folder-icon {
+    color: var(--secondary);
+  }
+}
+
+// Search box — rounder, more welcoming
+#search-bar {
+  border-radius: 8px !important;
+  background: var(--lightgray) !important;
+  border: 1px solid transparent !important;
+
+  &:focus {
+    border-color: var(--secondary) !important;
+    background: var(--light) !important;
+  }
+}
+
+// TOC — yellow active indicator
+.toc-content {
+  & > ul li > a {
+    border-left: 2px solid transparent;
+    padding-left: 0.5rem;
+    transition: all 0.15s ease;
+
+    &.in-view {
+      border-left-color: var(--secondary);
+      color: var(--secondary);
+      font-weight: 600;
+    }
+  }
+}
+
+// Backlinks header
+.backlinks {
+  & > h3 {
+    font-size: 0.95rem;
+    color: var(--darkgray);
+    border-bottom: 1px solid var(--lightgray);
+    padding-bottom: 0.4rem;
+  }
+}
+
+// Graph — yellow nodes, subtler links
+#graph-container,
+.global-graph-outer {
+  --node-color: var(--secondary);
+}
+
+// Stats card row on landing page (used by index.md)
+.stats-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 1rem;
+  margin: 2rem 0;
+  padding: 1.5rem;
+  background: var(--lightgray);
+  border-radius: 12px;
+
+  .stat-item {
+    text-align: left;
+    padding: 0.5rem 1rem;
+
+    .stat-number {
+      font-size: 2.4rem;
+      font-weight: 800;
+      color: var(--dark);
+      line-height: 1;
+      letter-spacing: -0.02em;
+    }
+
+    .stat-label {
+      font-size: 0.78rem;
+      color: var(--gray);
+      margin-top: 0.4rem;
+      letter-spacing: 0.05em;
+    }
+  }
+}
+
+// Top "site nav" row above main content (mimics Codotx top bar)
+.site-nav {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 1.5rem;
+  padding: 0.5rem 0 1.5rem 0;
+  font-size: 0.9rem;
+  border-bottom: 1px solid var(--lightgray);
+  margin-bottom: 1.5rem;
+
+  a {
+    color: var(--darkgray);
+    background-image: none;
+    font-weight: 500;
+
+    &:hover {
+      color: var(--secondary);
+    }
+  }
+
+  .site-nav-cta {
+    background: var(--secondary);
+    color: var(--light) !important;
+    padding: 0.4rem 1rem;
+    border-radius: 999px;
+    font-weight: 600;
+
+    &:hover {
+      background: var(--tertiary);
+    }
+  }
+}
+
+// Cleaner article links
+article a {
+  color: var(--secondary);
+  background-image: linear-gradient(transparent 60%, var(--highlight) 60%);
+  background-size: 100% 100%;
+
+  &:hover {
+    color: var(--secondary);
+    filter: brightness(0.85);
+  }
+}

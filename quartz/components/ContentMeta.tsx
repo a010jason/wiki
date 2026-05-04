@@ -42,8 +42,14 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         segments.push(<span>{displayedTime}</span>)
       }
 
+      const fm = fileData.frontmatter as any
+      const fmType = (fm?.type ?? fm?.category) as string | undefined
       return (
-        <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
+        <p
+          show-comma={options.showComma}
+          class={classNames(displayClass, "content-meta")}
+          data-type={fmType ?? ""}
+        >
           {segments}
         </p>
       )
