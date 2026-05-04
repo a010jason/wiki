@@ -129,6 +129,67 @@ article {
 
   &[data-type="project"]::before,
   &[data-type="projects"]::before { content: "專案"; }
+
+  // Lifecycle badge — sits right after the type badge
+  &::after {
+    display: inline-block;
+    border-radius: 4px;
+    padding: 0.15rem 0.55rem;
+    font-size: 0.7rem;
+    font-weight: 700;
+    margin-right: 0.6rem;
+    letter-spacing: 0.05em;
+    vertical-align: middle;
+    border: 1px solid transparent;
+  }
+  &[data-lifecycle=""]::after,
+  &:not([data-lifecycle])::after { display: none; }
+
+  // 草稿 — neutral gray
+  &[data-lifecycle="draft"]::after {
+    content: "草稿";
+    background: var(--lightgray);
+    color: var(--gray);
+    border-color: var(--lightgray);
+  }
+  // 已批判 — yellow (matches accent)
+  &[data-lifecycle="challenged"]::after {
+    content: "已批判";
+    background: rgba(245, 200, 66, 0.18);
+    color: var(--secondary);
+    border-color: var(--secondary);
+  }
+  // 已驗證 — green
+  &[data-lifecycle="validated"]::after {
+    content: "已驗證";
+    background: rgba(82, 183, 136, 0.18);
+    color: #2d6a4f;
+    border-color: #52b788;
+  }
+  // 過期 — red
+  &[data-lifecycle="stale"]::after {
+    content: "過期";
+    background: rgba(220, 53, 69, 0.15);
+    color: #c0392b;
+    border-color: #dc3545;
+  }
+}
+
+// Lifecycle stats row variant — compact 4-cell with colored numbers
+.stats-row.lifecycle-stats {
+  background: transparent;
+  border: 1px solid var(--lightgray);
+  padding: 1rem 1.5rem;
+
+  .stat-item {
+    .stat-number {
+      font-size: 1.8rem;
+    }
+    &.lifecycle-draft .stat-number { color: var(--gray); }
+    &.lifecycle-challenged .stat-number { color: var(--secondary); }
+    &.lifecycle-validated .stat-number { color: #2d6a4f; }
+    &.lifecycle-stale .stat-number { color: #c0392b; }
+  }
 }
 
 // Article title — bigger, bolder

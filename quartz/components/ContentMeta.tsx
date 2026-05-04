@@ -44,11 +44,13 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
 
       const fm = fileData.frontmatter as any
       const fmType = (fm?.type ?? fm?.category) as string | undefined
+      const fmLifecycle = fm?.lifecycle as string | undefined
       return (
         <p
           show-comma={options.showComma}
           class={classNames(displayClass, "content-meta")}
           data-type={fmType ?? ""}
+          data-lifecycle={fmLifecycle ?? ""}
         >
           {segments}
         </p>

@@ -98,6 +98,32 @@ provenance:
 
 ---
 
+## Lifecycle Taxonomy
+
+每個 content page 都應該有 `lifecycle:` frontmatter，標示這頁的批判成熟度。**4 個狀態，單向往前推進，可以倒退**：
+
+| Lifecycle | 意義 | 觸發方式 | 公開頁徽章 |
+|---|---|---|---|
+| `draft` | 剛 ingest 進來的原始 distillation，**未經批判** | wiki-ingest 預設 | 灰色「草稿」 |
+| `challenged` | 跑過 wiki-challenge，**質疑層做完**，brittle/unsupported claim 已標出 | wiki-challenge 自動 | 黃色「已批判」 |
+| `validated` | 質疑+對標都做完，且 unsupported / brittle claim 已修或弱化 | 手動（將來可能有 wiki-validate skill） | 綠色「已驗證」 |
+| `stale` | 超過 6 個月沒更新、或事實過期、或被新頁取代 | wiki-lint 自動偵測 | 紅色「過期」 |
+
+### 規則
+
+1. **不可跳級**：`draft` → `challenged` → `validated` 是單向；想直接從 `draft` 標 `validated` 不行
+2. **可以倒退**：`validated` 頁如果新證據顯示 claim 有問題，可以降回 `challenged` 或 `draft`，並更新 `lifecycle_changed`
+3. **每次變更都記錄**：`lifecycle_changed: YYYY-MM-DD` 必填
+4. **特殊頁不掛 lifecycle**：`index.md`、`hot.md`、`log.md`、`graph.md`、`_meta/*`、`_archives/*` 不需要
+
+### 看法
+
+- 介面上：每頁右上角的 type badge（概念 / 實體 / 洞察…）旁會出現 lifecycle 徽章
+- 首頁 `stats-row` 有一格「批判成熟度」分布
+- 命令列：`grep -h '^lifecycle:' content/**/*.md | sort | uniq -c`
+
+---
+
 ## 進入 Synthesis 的規則
 
 `synthesis/` 是 Jason 自己的判斷區。原則：

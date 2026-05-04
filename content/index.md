@@ -23,6 +23,27 @@ title: Jason 的知識庫
   </div>
 </div>
 
+### 批判成熟度
+
+<div class="stats-row lifecycle-stats">
+  <div class="stat-item lifecycle-draft">
+    <div class="stat-number">7</div>
+    <div class="stat-label">草稿</div>
+  </div>
+  <div class="stat-item lifecycle-challenged">
+    <div class="stat-number">1</div>
+    <div class="stat-label">已批判</div>
+  </div>
+  <div class="stat-item lifecycle-validated">
+    <div class="stat-number">0</div>
+    <div class="stat-label">已驗證</div>
+  </div>
+  <div class="stat-item lifecycle-stale">
+    <div class="stat-number">0</div>
+    <div class="stat-label">過期</div>
+  </div>
+</div>
+
 ## Concepts
 
 - [[concepts/llm-wiki-pattern]] — Karpathy 提的三層架構 + ingest/query/lint 三大操作
