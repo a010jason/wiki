@@ -1,0 +1,66 @@
+# ============================================================
+# LLM Wiki — .gitignore
+# Strategy: track wiki content (.md), ignore tooling (skills,
+# symlinks, caches) which can be re-installed via `npx skills add`.
+# ============================================================
+
+# --- npm-installed wiki skills (re-installable) ---
+.agents/
+.npm-cache/
+node_modules/
+skills-lock.json
+
+# --- Per-agent skill discovery mirrors (symlinks, re-creatable) ---
+.adal/
+.aider-desk/
+.augment/
+.bob/
+.claude/
+.codeartsdoer/
+.codebuddy/
+.codemaker/
+.codestudio/
+.commandcode/
+.continue/
+.cortex/
+.crush/
+.devin/
+.factory/
+.forge/
+.goose/
+.iflow/
+.junie/
+.kilocode/
+.kiro/
+.kode/
+.mcpjam/
+.mux/
+.neovate/
+.openhands/
+.pi/
+.pochi/
+.qoder/
+.qwen/
+.roo/
+.rovodev/
+.skills-universal/
+.tabnine/
+.trae/
+.vibe/
+.windsurf/
+.zencoder/
+
+# --- Personal configuration ---
+# .env has machine-specific paths; share .env.example instead
+.env
+
+# --- Obsidian per-machine state (keep app.json + appearance.json only) ---
+.obsidian/*
+!.obsidian/app.json
+!.obsidian/appearance.json
+
+# --- OS / editor noise ---
+.DS_Store
+*.swp
+*.swo
+*~
