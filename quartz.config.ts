@@ -10,7 +10,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "zh-TW",
     baseUrl: "a010jason.github.io/wiki",
-    ignorePatterns: [".obsidian", "hot.md", "log.md", "_archives", "_raw"],
+    ignorePatterns: [".obsidian", "hot.md", "log.md", "_archives", "_raw", "_meta"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
