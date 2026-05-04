@@ -1,17 +1,6 @@
 ---
-title: Jason's Knowledge Base
+title: Jason 的醫療 AI 筆記
 ---
-
-<div class="site-nav">
-  <a href="/wiki/">首頁</a>
-  <a href="/wiki/concepts/">概念</a>
-  <a href="/wiki/entities/">實體</a>
-  <a href="/wiki/synthesis/">洞察</a>
-  <a href="/wiki/journal/">日誌</a>
-  <a href="/wiki/tags/" class="site-nav-cta">標籤瀏覽</a>
-</div>
-
-# Jason 的醫療 AI 筆記
 
 醫療 AI PM 的個人長期知識庫——管理、醫療影像 AI、PACS / FHIR、學習筆記跨工作累積。
 

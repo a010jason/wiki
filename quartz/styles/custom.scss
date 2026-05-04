@@ -36,16 +36,19 @@ article {
 
 // Page title in sidebar — make it the brand
 .page-title {
-  font-size: 1.5rem !important;
+  font-size: 1.35rem !important;
   font-weight: 800;
   letter-spacing: -0.01em;
+  line-height: 1.2;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 
   a {
     background-image: none;
     color: var(--dark) !important;
   }
 
-  // Brand chip prefix
   &::before {
     content: "📚";
     margin-right: 0.4rem;
@@ -54,10 +57,10 @@ article {
 
 // Brand subtitle under page-title
 .brand-subtitle {
-  font-size: 0.78rem;
+  font-size: 0.7rem;
   color: var(--gray);
-  margin: -0.4rem 0 1rem 0;
-  letter-spacing: 0.04em;
+  margin: -0.2rem 0 1rem 0;
+  letter-spacing: 0.06em;
   text-transform: uppercase;
 }
 
@@ -262,38 +265,37 @@ article > h1,
   }
 }
 
-// Top "site nav" row above main content (mimics Codotx top bar)
-.site-nav {
-  display: flex;
-  align-items: center;
-  justify-content: flex-end;
-  gap: 1.5rem;
-  padding: 0.5rem 0 1.5rem 0;
-  font-size: 0.9rem;
-  border-bottom: 1px solid var(--lightgray);
-  margin-bottom: 1.5rem;
+// Dedicated graph page — full-bleed canvas
+.graph-page-wrap {
+  margin: 1rem 0 2rem 0;
+}
+.graph-page-hint {
+  font-size: 0.85rem;
+  color: var(--gray);
+  margin-bottom: 0.8rem;
+}
+.graph-page-canvas {
+  width: 100%;
+  height: 75vh;
+  min-height: 500px;
+  border: 1px solid var(--lightgray);
+  border-radius: 12px;
+  background: var(--lightgray);
+  overflow: hidden;
+  position: relative;
 
-  a {
-    color: var(--darkgray);
-    background-image: none;
-    font-weight: 500;
-
-    &:hover {
-      color: var(--secondary);
-    }
+  & > .graph-container {
+    width: 100%;
+    height: 100%;
   }
+}
 
-  .site-nav-cta {
-    background: var(--secondary);
-    color: var(--light) !important;
-    padding: 0.4rem 1rem;
-    border-radius: 999px;
-    font-weight: 600;
-
-    &:hover {
-      background: var(--tertiary);
-    }
-  }
+// Hide article title on the graph page (we render our own)
+body[data-slug="graph"] {
+  .page-header h1.article-title { display: none; }
+  .page-header .content-meta { display: none; }
+  // and any default left graph sidebar component on this page (avoid duplicate)
+  .right .graph { display: none; }
 }
 
 // Cleaner article links

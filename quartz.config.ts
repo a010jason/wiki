@@ -3,8 +3,8 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Jason's Knowledge Base",
-    pageTitleSuffix: " | Jason Wiki",
+    pageTitle: "知識庫",
+    pageTitleSuffix: " | Jason's Wiki",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
