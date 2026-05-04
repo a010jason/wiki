@@ -1,6 +1,6 @@
 ---
 title: LLM Wiki Pattern (Karpathy)
-category: concepts
+type: concept
 tags: [llm-wiki, knowledge-management, architecture]
 aliases: [Karpathy LLM Wiki, three-layer architecture]
 sources:

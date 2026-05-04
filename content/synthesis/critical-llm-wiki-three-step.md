@@ -1,6 +1,6 @@
 ---
 title: 批判式 LLM Wiki 三步法（Distillation → 質疑 → 對標）
-category: synthesis
+type: synthesis
 tags: [llm-wiki, methodology, critical-thinking]
 aliases: [批判式三步法, LLM Wiki 批判延伸, distillation-critique-benchmark]
 sources:

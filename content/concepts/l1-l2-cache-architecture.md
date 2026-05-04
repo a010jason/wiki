@@ -1,6 +1,6 @@
 ---
 title: L1/L2 Cache Architecture (Mehmet Goekce)
-category: concepts
+type: concept
 tags: [llm-wiki, knowledge-management, optimization]
 aliases: [L1 L2 cache, Mehmet 兩層架構]
 sources:

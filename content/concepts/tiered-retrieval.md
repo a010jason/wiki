@@ -1,6 +1,6 @@
 ---
 title: Tiered Retrieval（Tier 1/2/3）
-category: concepts
+type: concept
 tags: [llm-wiki, retrieval, optimization]
 aliases: [Tier 1 2 3, 分層檢索]
 sources:

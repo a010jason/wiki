@@ -1,6 +1,6 @@
 ---
 title: Ar9av/obsidian-wiki
-category: entities
+type: entity
 tags: [llm-wiki, tool, claude-code]
 aliases: [obsidian-wiki, Ar9av, llm-wiki-skills]
 sources:

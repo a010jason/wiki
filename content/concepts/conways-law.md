@@ -1,6 +1,6 @@
 ---
 title: Conway's Law
-category: concepts
+type: concept
 tags: [software-engineering, organization-design, mental-model]
 aliases: [康威定律, organizational structure determines system architecture]
 sources:

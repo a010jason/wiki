@@ -1,6 +1,6 @@
 ---
 title: 為什麼選 Ar9av/obsidian-wiki 而非其他 LLM Wiki 方案
-category: synthesis
+type: synthesis
 tags: [llm-wiki, decisions, claude-code]
 aliases: [Ar9av decision rationale, LLM Wiki tool choice]
 sources:

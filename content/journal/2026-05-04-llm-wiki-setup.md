@@ -1,6 +1,6 @@
 ---
 title: 2026-05-04 LLM Wiki 建置 session
-category: journal
+type: journal
 tags: [llm-wiki, knowledge-management, obsidian, setup]
 sources:
   - conversation:2026-05-04
