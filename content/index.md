@@ -1,8 +1,8 @@
 ---
-title: Jason 的醫療 AI 筆記
+title: Jason 的知識庫
 ---
 
-醫療 AI PM 的個人長期知識庫——管理、醫療影像 AI、PACS / FHIR、學習筆記跨工作累積。
+跨工作、跨領域的個人長期知識累積——概念、實體、技能、洞察、日誌一處彙整。
 
 <div class="stats-row">
   <div class="stat-item">

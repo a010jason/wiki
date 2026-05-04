@@ -2,17 +2,39 @@ import { pathToRoot } from "../util/path"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
 
-const SiteNav: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
+// Top-level folders we want in the nav, in display order, with Chinese labels.
+// Folders not in this list are ignored. A folder appears in the nav only if it
+// has at least one content file at build time.
+const NAV_ORDER: Array<{ slug: string; label: string }> = [
+  { slug: "concepts", label: "概念" },
+  { slug: "entities", label: "實體" },
+  { slug: "skills", label: "技能" },
+  { slug: "references", label: "參考" },
+  { slug: "synthesis", label: "洞察" },
+  { slug: "journal", label: "日誌" },
+  { slug: "projects", label: "專案" },
+]
+
+const SiteNav: QuartzComponent = ({ fileData, allFiles, displayClass }: QuartzComponentProps) => {
   const root = pathToRoot(fileData.slug!)
   const link = (sub: string) => `${root}/${sub}`
+
+  const populated = new Set<string>()
+  for (const f of allFiles) {
+    const slug = f.slug ?? ""
+    const top = slug.split("/")[0]
+    if (top) populated.add(top)
+  }
+
+  const items = NAV_ORDER.filter((n) => populated.has(n.slug))
+
   return (
     <nav class={classNames(displayClass, "site-nav-top")} aria-label="Site navigation">
       <a class="site-nav-home" href={root}>← 首頁</a>
       <div class="site-nav-links">
-        <a href={link("concepts/")}>概念</a>
-        <a href={link("entities/")}>實體</a>
-        <a href={link("synthesis/")}>洞察</a>
-        <a href={link("journal/")}>日誌</a>
+        {items.map((item) => (
+          <a href={link(`${item.slug}/`)}>{item.label}</a>
+        ))}
         <a href={link("graph")}>關係圖譜</a>
         <a class="site-nav-cta" href={link("tags/")}>標籤</a>
       </div>
