@@ -10,6 +10,10 @@
 node_modules/
 skills-lock.json
 
+# --- Quartz build output ---
+public/
+.quartz-cache/
+
 # --- Per-agent skill discovery mirrors (symlinks, re-creatable) ---
 .adal/
 .aider-desk/
