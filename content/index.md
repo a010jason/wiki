@@ -42,6 +42,12 @@ title: Jason 的知識庫
 - [[concepts/strategic-fit]] — Firm × Environment 連結，取代 SWOT
 - [[concepts/intended-vs-emergent-strategy]] — Mintzberg：design vs process + 3 fallacies
 - [[concepts/corporate-vs-business-strategy]] — 兩層策略（佈局 vs 競爭）
+- [[concepts/competitive-advantage]] — 形成（內外變革）+ 維繫（4 層 isolating mechanisms）
+- [[concepts/porters-generic-strategies]] — Cost / Differentiation / Focus 三策略
+- [[concepts/experience-curve]] — 累積產量翻倍降本 15-30%（Ford 85% rule）
+- [[concepts/value-chain]] — Porter 價值鏈，cost + differentiation 分析共用
+- [[concepts/blue-ocean-strategy]] — 未爭奪市場 + Strategy Canvas + Cirque du Soleil
+- [[concepts/disruptive-innovation]] — Christensen 1997，從次等市場切入向上侵蝕
 
 ## Entities
 
@@ -52,6 +58,7 @@ title: Jason 的知識庫
 
 - [[skills/setting-OKR]] — 設 OKR 的 how-to：困難度＋清晰度＋參與度＋透明度＋KR 寫法
 - [[skills/leading-agile-transformation]] — 推動敏捷轉型的 6 原則 + 10 步驟 + 案例對照
+- [[skills/differentiation-analysis]] — 差異化分析：demand-side STP + supply-side uniqueness + product integrity
 
 ## References
 

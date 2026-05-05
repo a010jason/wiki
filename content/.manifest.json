@@ -137,12 +137,35 @@
         "log.md",
         "hot.md"
       ]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/ch07_Competitive Advantage.pdf.pdf": {
+      "ingested_at": "2026-05-05T21:00:00+08:00",
+      "size_bytes": 1804463,
+      "modified_at": "2026-04-22T02:42:14+08:00",
+      "content_hash": "sha256:c8d0e5a5023cf77aadc1dc42e47590ce1186d7e41adcae01c79ae8391fa9690a",
+      "source_type": "document",
+      "project": null,
+      "path_history": [],
+      "pages_created": [
+        "concepts/competitive-advantage.md",
+        "concepts/porters-generic-strategies.md",
+        "concepts/experience-curve.md",
+        "concepts/blue-ocean-strategy.md",
+        "concepts/disruptive-innovation.md",
+        "concepts/value-chain.md",
+        "skills/differentiation-analysis.md"
+      ],
+      "pages_updated": [
+        "index.md",
+        "log.md",
+        "hot.md"
+      ]
     }
   },
   "projects": {},
   "stats": {
-    "total_sources_ingested": 5,
-    "total_pages": 41,
+    "total_sources_ingested": 6,
+    "total_pages": 48,
     "total_projects": 0,
     "last_full_rebuild": null
   }

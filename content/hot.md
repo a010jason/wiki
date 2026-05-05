@@ -9,6 +9,8 @@ updated: 2026-05-05T19:05+08:00
 
 ## Recent Activity
 
+- [2026-05-05 21:30] FIX — pdf-plan.sh v2：v1 以「檔案大小」判斷 chunk 是錯的（slide PDF 渲染後爆 32MB），改以頁數為主，slide PDF 預設 5 頁/批
+- [2026-05-05 21:00] INGEST — Phase 1 pilot 6/20：Grant 策略管理 Ch7（Competitive Advantage），7 新頁（competitive-advantage / porters-generic-strategies / experience-curve / value-chain / blue-ocean-strategy / disruptive-innovation / differentiation-analysis）
 - [2026-05-05 20:10] VERIFY — 5 個已 ingest PDF 全部 pdfinfo 比對頁數確認完整。SOP：未來所有 PDF 必須 pdfinfo + 分批讀完才開始 distill
 - [2026-05-05 20:00] AUDIT — OB Ch1 重讀 p.71-125（之前只讀到 p.70），補 2 新頁（contingency-approach、learning-from-failure）+ 更新 2 既有頁（加 5 Anchors、causation、meta-analysis、evidence-based mgmt）
 - [2026-05-05 19:30] INGEST — Phase 1 pilot 5/20：Grant 策略管理 Ch1，產出 5 頁（strategy / strategic-fit / intended-vs-emergent-strategy / corporate-vs-business-strategy / grant-contemporary-strategy-analysis）
