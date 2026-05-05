@@ -98,6 +98,35 @@ provenance:
 
 ---
 
+## Visibility / 公私分層
+
+Wiki 預設**全部公開**（GitHub Pages 上線）。只有觸及下列類別才打 `visibility/internal` tag（pages 級即可，不必 per-section）：
+
+| 類別 | 例子 |
+|---|---|
+| **EBM 內部** | 提到 ebmtech 產品名、客戶醫院名、未公開策略、salary/comp、內部政治 |
+| **指名判斷** | 對特定教授／同事／競品 PM 的人物評價（不是學術討論的範疇） |
+| **生涯與情緒** | 想離職的理由、對主管的不滿、職涯下一步盤算 |
+| **PII** | 客戶資料、特定醫師姓名與診斷案例 |
+| **未公開研究** | 投稿中的論文核心發現、合作中的研究細節 |
+
+### 不算 internal（保持公開）
+
+- 「Jason 是 PM @ ebmtech」這類身份脈絡
+- 把方法論套用在自己工作的 **hypothetical** 思考（沒提到具體產品/客戶）
+- 方法論 self-critique（「這個論點證據薄弱」）— 學術誠信加分項
+- 對公開人物（Karpathy、Doerr 等）的判斷
+- 學習中的 open questions
+
+### `_meta/critique/` 的定位
+
+`_meta/critique/<slug>.md` 是 `wiki-challenge` 產出的**結構化批判記錄**，**不是強制隔離**：
+- 公開的 synthesis 頁可以包含自我批判段落（Counter-arguments / Open Questions），不必都搬到 `_meta/`
+- 只有當批判內容**觸及上述 internal 類別**時，才需要把該段移到 `_meta/critique/`
+- `_meta/` 已在 `quartz.config.ts` `ignorePatterns` 排除，不會發布到網站
+
+---
+
 ## Lifecycle Taxonomy
 
 每個 content page 都應該有 `lifecycle:` frontmatter，標示這頁的批判成熟度。**4 個狀態，單向往前推進，可以倒退**：
