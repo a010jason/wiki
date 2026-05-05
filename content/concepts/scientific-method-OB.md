@@ -56,6 +56,19 @@ OB 學科**選 Science** —— 教科書知識多數來自科學研究，而非
 
 4. **Verification** —— 用統計方法（如相關係數）檢驗 hypothesis 是否成立 → 結果回饋修正 Theory
 
+## ⚠️ Correlation ≠ Causation
+
+**重要免責**：相關係數本身不證明因果。教科書（Colquitt et al. Ch1, p.74）強調：^[extracted]
+
+要證明 X 因果地導致 Y，需要三個條件**同時成立**：
+1. **Correlation** — X 與 Y 有相關
+2. **Temporal precedence** — X **在 Y 之前**發生
+3. **Elimination of alternative explanations** — 排除其他可能解釋（特別是混淆變數 confounding variables）
+
+經典反例：冰淇淋銷量 vs 鯊魚攻擊次數 高度相關 — 但是因為**夏天**這個共同混淆變數，不是冰淇淋導致鯊魚攻擊。^[extracted]
+
+→ OB 文獻看到「X 與 Y 顯著相關」時要警覺：**這只是條件 1 達成**，2 和 3 未必。^[inferred]
+
 ## Correlation Coefficient（相關係數）
 
 OB 實證最常用的工具：^[extracted]
@@ -70,6 +83,24 @@ OB 實證最常用的工具：^[extracted]
 - (a) r = 1.00：點全在一條線上
 - (b) r = 0.50：點有趨勢但散
 - (c) r = 0.00：點隨機分布
+
+## Meta-Analysis（多研究整合）
+
+單一研究的相關係數有抽樣誤差。**Meta-analysis** 是把多個研究的相關係數**加權平均**，得到更穩健的估計。^[extracted]
+
+Meta-analysis 是 OB 學科累積知識的關鍵工具：^[inferred]
+- 單一研究：r = 0.32（n=200）— 訊號但不可靠
+- 50 個研究的 meta-analysis：r = 0.28（n_total = 12,000）— 訊號可信很多
+
+## Evidence-Based Management（EBM）
+
+> Meta-analyses can form the foundation for **evidence-based management**—the use of scientific findings to inform management practice. ^[extracted]
+
+對應醫學界的 evidence-based medicine。核心主張：^[inferred]
+- 管理決策應該基於 systematic research（meta-analysis 結果），而非個別主管的「經驗 / 直覺 / 權威」
+- 每個重要的人事決策前先問：「這條 practice 有 meta-analysis 支撐嗎？效果量多大？」
+
+→ 但 EBM 在實務上落地不易（[[concepts/rule-of-one-eighth]] 解釋為什麼）。^[inferred]
 
 ## 限制與批判
 

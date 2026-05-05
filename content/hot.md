@@ -9,16 +9,19 @@ updated: 2026-05-05T19:05+08:00
 
 ## Recent Activity
 
-- [2026-05-05 19:05] MIGRATE — sources_dir 從本機 Desktop 搬到 Google Drive；manifest 4 條 path 更新；順手修了 cross-cultural 那筆的 JSON 巢狀 bug
-- [2026-05-05 19:00] INGEST — Phase 1 pilot 4/20：OB 教科書 Ch1（McGraw-Hill），產出 6 頁（organizational-behavior / VRIO-framework / porters-five-forces / rule-of-one-eighth / scientific-method-OB / colquitt-OB-textbook）
+- [2026-05-05 20:10] VERIFY — 5 個已 ingest PDF 全部 pdfinfo 比對頁數確認完整。SOP：未來所有 PDF 必須 pdfinfo + 分批讀完才開始 distill
+- [2026-05-05 20:00] AUDIT — OB Ch1 重讀 p.71-125（之前只讀到 p.70），補 2 新頁（contingency-approach、learning-from-failure）+ 更新 2 既有頁（加 5 Anchors、causation、meta-analysis、evidence-based mgmt）
+- [2026-05-05 19:30] INGEST — Phase 1 pilot 5/20：Grant 策略管理 Ch1，產出 5 頁（strategy / strategic-fit / intended-vs-emergent-strategy / corporate-vs-business-strategy / grant-contemporary-strategy-analysis）
+- [2026-05-05 19:05] MIGRATE — sources_dir 從本機 Desktop 搬到 Google Drive；4 個檔案 hash 重核全部 match（content 沒受影響）
+- [2026-05-05 19:00] INGEST — Phase 1 pilot 4/20：OB 教科書 Ch1，6 頁
 - [2026-05-05 18:00] INGEST — Phase 1 pilot 3/20：跨文化管理，4 頁
 - [2026-05-05 17:00] INGEST — Phase 1 pilot 2/20：Agile Org，6 頁
 - [2026-05-05 15:00] INGEST — Phase 1 pilot 1/20：OKR，7 頁
 
 ## Active Threads
 
-- **Phase 1 pilot ingest：** **4/20 完成（組織與人力資源組整組搞定）**。下一輪：commit 一次 + 跑策略管理組 5 個 PDF
-- **Sources 路徑遷移：** 本機 Desktop → Google Drive `AI PM 資料/管理技能與策略/` ✅
+- **Phase 1 pilot ingest：** **5/20 完成**。下一輪：策略管理組剩 4 個 PDF（ch07 + GAFA + Competing in the age of AI + Moderna）
+- **Sources 路徑遷移：** 本機 Desktop → Google Drive `AI PM 資料/管理技能與策略/` ✅；hash 驗證全 match
 - **CLAUDE.md 結構決議：** B-pragmatic（content/ 為 vault root）✅
 - **Visibility filter（A）：** RemoveInternal plugin 已上 ✅
 - **Tier B/C 候選：** Tier A 跑完再評估

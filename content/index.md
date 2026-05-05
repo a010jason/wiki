@@ -34,6 +34,14 @@ title: Jason 的知識庫
 - [[concepts/porters-five-forces]] — Porter 五力，I/O 觀點與 VRIO 互補
 - [[concepts/rule-of-one-eighth]] — Pfeffer 為什麼 OB 實務只有 1/8 公司能落地
 - [[concepts/scientific-method-OB]] — OB 知識怎麼產生（vs 經驗/直覺/權威）
+- [[concepts/contingency-approach]] — There Are Few Absolutes in OB；x → y under z
+- [[concepts/learning-from-failure]] — 5 條從失敗學習原則（高壓 / 失敗未必壞 / root cause / 獎勵承認 / 獎勵實驗）
+
+### 管理 / 策略管理
+- [[concepts/strategy]] — 策略定義 + 4 ingredients of success + 兩個維度（positioning / direction）
+- [[concepts/strategic-fit]] — Firm × Environment 連結，取代 SWOT
+- [[concepts/intended-vs-emergent-strategy]] — Mintzberg：design vs process + 3 fallacies
+- [[concepts/corporate-vs-business-strategy]] — 兩層策略（佈局 vs 競爭）
 
 ## Entities
 

@@ -107,6 +107,20 @@ OB 形成 VRIO（[[concepts/VRIO-framework]]）的「Inimitable」一柱：^[inf
 
 延伸到「為什麼 OB 實務難落地」見 [[concepts/rule-of-one-eighth]]。
 
+## 5 Anchors of OB Knowledge
+
+OB 學科的 5 個方法論定錨（McShane & Von Glinow 框架，Colquitt 教科書 p.76 引述）：^[extracted]
+
+| Anchor | 內涵 |
+|---|---|
+| **Systematic research anchor** | 用系統性研究方法研究組織（不是經驗 / 直覺）|
+| **Practical orientation anchor** | OB 理論必須在實務情境中有用 |
+| **Multidisciplinary anchor** | 從其他學科（心理學、社會學、人類學、政治學、經濟學）匯入知識，而非自己創造 |
+| **Contingency anchor** | 認知行動的有效性**取決於情境** — 詳見 [[concepts/contingency-approach]] |
+| **Multiple levels of analysis anchor** | 從個人 / 團隊 / 組織三層次理解 OB 事件 |
+
+**Multidisciplinary anchor** 是 OB 區別於管理學其他子領域的關鍵：OB 整合而非自創。^[inferred] 這也意味讀 OB 文獻時要追根到原學科（例 Hofstede 維度來自人類學、Maslow 需求來自心理學）。
+
 ## How Do We Know
 
 四種「方法」中，OB 採用 **Science**：^[extracted]

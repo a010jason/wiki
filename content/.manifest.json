@@ -92,10 +92,47 @@
         "concepts/porters-five-forces.md",
         "concepts/rule-of-one-eighth.md",
         "concepts/scientific-method-OB.md",
-        "references/colquitt-OB-textbook.md"
+        "references/colquitt-OB-textbook.md",
+        "concepts/contingency-approach.md",
+        "concepts/learning-from-failure.md"
       ],
       "pages_updated": [
         "entities/wen-jin-feng.md",
+        "index.md",
+        "log.md",
+        "hot.md"
+      ],
+      "audit_history": [
+        {
+          "audited_at": "2026-05-05T20:00:00+08:00",
+          "reason": "initial ingest only covered pages 1-70 of 125; user requested complete re-read",
+          "added_pages": [
+            "concepts/contingency-approach.md",
+            "concepts/learning-from-failure.md"
+          ],
+          "updated_pages": [
+            "concepts/scientific-method-OB.md",
+            "concepts/organizational-behavior.md"
+          ]
+        }
+      ]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/ch01_Concept of strategy.pdf.pdf": {
+      "ingested_at": "2026-05-05T19:30:00+08:00",
+      "size_bytes": 826542,
+      "modified_at": "2026-04-24T02:02:00+08:00",
+      "content_hash": "sha256:1aea919b24837830008af7e15de08c48138bd6f4287d73fa919d990b2742199a",
+      "source_type": "document",
+      "project": null,
+      "path_history": [],
+      "pages_created": [
+        "concepts/strategy.md",
+        "concepts/strategic-fit.md",
+        "concepts/intended-vs-emergent-strategy.md",
+        "concepts/corporate-vs-business-strategy.md",
+        "references/grant-contemporary-strategy-analysis.md"
+      ],
+      "pages_updated": [
         "index.md",
         "log.md",
         "hot.md"
@@ -104,8 +141,8 @@
   },
   "projects": {},
   "stats": {
-    "total_sources_ingested": 4,
-    "total_pages": 36,
+    "total_sources_ingested": 5,
+    "total_pages": 41,
     "total_projects": 0,
     "last_full_rebuild": null
   }

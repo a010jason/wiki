@@ -35,11 +35,13 @@ lifecycle_changed: 2026-05-05
 
 ## Ch1 已 ingest 的核心內容
 
-- [[concepts/organizational-behavior]] —— OB 定義 + 3 levels + Integrated Model
+- [[concepts/organizational-behavior]] —— OB 定義 + 3 levels + Integrated Model + **5 Anchors of OB Knowledge**
 - [[concepts/VRIO-framework]] —— RBV / Sustained Competitive Advantage
 - [[concepts/porters-five-forces]] —— I/O 觀點，與 RBV 互補
 - [[concepts/rule-of-one-eighth]] —— Pfeffer 為什麼 OB 實務難落地
-- [[concepts/scientific-method-OB]] —— 4 methods of knowing + 科學循環 + correlation
+- [[concepts/scientific-method-OB]] —— 4 methods of knowing + 科學循環 + correlation + **causation 三條件 + meta-analysis + evidence-based mgmt**
+- [[concepts/contingency-approach]] —— **There Are Few Absolutes in OB**：x → y under z (contingency variables)
+- [[concepts/learning-from-failure]] —— **5 條原則**：高壓引發錯誤 / 失敗未必壞 / root cause / reward owning up / reward worthy experimentation
 
 ## 教科書的核心案例
 

@@ -68,3 +68,8 @@ public/
 *.swp
 *.swo
 *~
+
+# --- Source material drop zone (raw exports too big / sensitive for git) ---
+# Evernote .enex exports, raw note dumps, etc. Ingest via wiki-ingest, don't commit.
+evernote/
+*.enex
