@@ -1,14 +1,17 @@
 {
   "version": 1,
-  "last_updated": "2026-05-05T15:00:00+08:00",
+  "last_updated": "2026-05-05T19:00:00+08:00",
   "sources": {
-    "/Users/jason/Desktop/2026專案/AI PM/管理技能與策略/組織與人力資源管理/0820-OKR-講義.pdf": {
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/0820-OKR-講義.pdf": {
       "ingested_at": "2026-05-05T15:00:00+08:00",
       "size_bytes": 3938827,
       "modified_at": "2026-04-24T10:14:58+08:00",
       "content_hash": "sha256:7e703b05e0378d38c1f249b76fd860a67e12c0bcf1cbbf09e3771a27955980e1",
       "source_type": "document",
       "project": null,
+      "path_history": [
+        "/Users/jason/Desktop/2026專案/AI PM/管理技能與策略/組織與人力資源管理/0820-OKR-講義.pdf"
+      ],
       "pages_created": [
         "concepts/OKR.md",
         "concepts/KPI.md",
@@ -23,12 +26,86 @@
         "log.md",
         "hot.md"
       ]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/0820-Agile Org-講義.pdf": {
+      "ingested_at": "2026-05-05T17:00:00+08:00",
+      "size_bytes": 4154708,
+      "modified_at": "2026-04-24T10:14:48+08:00",
+      "content_hash": "sha256:50b3f7576781c8e05dfa4b33e5cb1777ae45dd99e836c628979d5581ce750ca9",
+      "source_type": "document",
+      "project": null,
+      "path_history": [
+        "/Users/jason/Desktop/2026專案/AI PM/管理技能與策略/組織與人力資源管理/0820-Agile Org-講義.pdf"
+      ],
+      "pages_created": [
+        "concepts/agile-organization.md",
+        "concepts/scrum-method.md",
+        "concepts/agile-manifesto.md",
+        "concepts/post-bureaucratic-mindset.md",
+        "skills/leading-agile-transformation.md",
+        "references/denning-2018-age-of-agile.md",
+        "synthesis/agile-vs-waterfall-when-to-use.md"
+      ],
+      "pages_updated": [
+        "entities/wen-jin-feng.md",
+        "index.md",
+        "log.md",
+        "hot.md"
+      ]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/0827-Cross-culltural management.pdf": {
+      "ingested_at": "2026-05-05T18:00:00+08:00",
+      "size_bytes": 1931535,
+      "modified_at": "2026-04-24T10:14:38+08:00",
+      "content_hash": "sha256:76a6f68dacf71db2fffc10d0aaab98fc594ceaefef30b6107260ef9d462a2227",
+      "source_type": "document",
+      "project": null,
+      "path_history": [
+        "/Users/jason/Desktop/2026專案/AI PM/管理技能與策略/組織與人力資源管理/0827-Cross-culltural management.pdf"
+      ],
+      "pages_created": [
+        "concepts/cross-cultural-management.md",
+        "concepts/hofstede-cultural-dimensions.md",
+        "concepts/cultural-intelligence-CQ.md",
+        "synthesis/taiwan-culture-mgmt-implications.md"
+      ],
+      "pages_updated": [
+        "entities/wen-jin-feng.md",
+        "index.md",
+        "log.md",
+        "hot.md"
+      ]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/Ch1.pdf.pdf": {
+      "ingested_at": "2026-05-05T19:00:00+08:00",
+      "size_bytes": 7869562,
+      "modified_at": "2026-04-24T02:01:00+08:00",
+      "content_hash": "sha256:e28842b2169a47370c72fefc1597d678267539430fcd34cecf4b9dbbe7e07cf1",
+      "source_type": "document",
+      "project": null,
+      "path_history": [
+        "/Users/jason/Desktop/2026專案/AI PM/管理技能與策略/組織與人力資源管理/Ch1.pdf.pdf"
+      ],
+      "pages_created": [
+        "concepts/organizational-behavior.md",
+        "concepts/VRIO-framework.md",
+        "concepts/porters-five-forces.md",
+        "concepts/rule-of-one-eighth.md",
+        "concepts/scientific-method-OB.md",
+        "references/colquitt-OB-textbook.md"
+      ],
+      "pages_updated": [
+        "entities/wen-jin-feng.md",
+        "index.md",
+        "log.md",
+        "hot.md"
+      ]
     }
   },
   "projects": {},
   "stats": {
-    "total_sources_ingested": 1,
-    "total_pages": 19,
+    "total_sources_ingested": 4,
+    "total_pages": 36,
     "total_projects": 0,
     "last_full_rebuild": null
   }

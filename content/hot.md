@@ -1,6 +1,6 @@
 ---
 title: Hot Cache
-updated: 2026-05-05T15:00+08:00
+updated: 2026-05-05T19:05+08:00
 ---
 
 # Hot Cache
@@ -9,28 +9,37 @@ updated: 2026-05-05T15:00+08:00
 
 ## Recent Activity
 
-- [2026-05-05 15:00] INGEST — Phase 1 pilot smoke：溫金豐 2023/8/20 OKR 課程 PDF ingest，產出 7 頁（OKR / KPI / performance-management / setting-OKR / wen-jin-feng / measure-what-matters-doerr-2018 / OKR-vs-KPI-when-to-use）
-- [2026-05-04 11:50] CAPTURE — LLM Wiki 建置 session 存進 wiki，產出 6 頁（1 session journal + 3 concepts + 1 entity + 1 synthesis）
-- [2026-05-04 00:30] INIT — vault 建立於 /Users/jason/Documents/wiki
+- [2026-05-05 19:05] MIGRATE — sources_dir 從本機 Desktop 搬到 Google Drive；manifest 4 條 path 更新；順手修了 cross-cultural 那筆的 JSON 巢狀 bug
+- [2026-05-05 19:00] INGEST — Phase 1 pilot 4/20：OB 教科書 Ch1（McGraw-Hill），產出 6 頁（organizational-behavior / VRIO-framework / porters-five-forces / rule-of-one-eighth / scientific-method-OB / colquitt-OB-textbook）
+- [2026-05-05 18:00] INGEST — Phase 1 pilot 3/20：跨文化管理，4 頁
+- [2026-05-05 17:00] INGEST — Phase 1 pilot 2/20：Agile Org，6 頁
+- [2026-05-05 15:00] INGEST — Phase 1 pilot 1/20：OKR，7 頁
 
 ## Active Threads
 
-- **Phase 1 pilot ingest：** smoke 跑 1/20 PDF 完成。下一步驗證 NFC、繁中乾淨度、lifecycle 掛載；通過後跑剩餘 19 個 Tier A PDF
-- **CLAUDE.md 結構決議：** B-pragmatic（content/ 為 vault root）；`.env` 已指過去
-- **Tier B/C 候選：** Tier B（ESG / 管理專題研討 / 企業經營與倫理 / 管理經濟學）等 Tier A 跑完再評估；Tier C（會計 / 財管教科書）原則不 ingest
+- **Phase 1 pilot ingest：** **4/20 完成（組織與人力資源組整組搞定）**。下一輪：commit 一次 + 跑策略管理組 5 個 PDF
+- **Sources 路徑遷移：** 本機 Desktop → Google Drive `AI PM 資料/管理技能與策略/` ✅
+- **CLAUDE.md 結構決議：** B-pragmatic（content/ 為 vault root）✅
+- **Visibility filter（A）：** RemoveInternal plugin 已上 ✅
+- **Tier B/C 候選：** Tier A 跑完再評估
 
 ## Key Takeaways
 
-- 績效管理有兩條互補路線：evaluation（KPI）vs development（OKR），不是替代
-- OKR 三大原則：困難度（會不舒適 + 沒發生過 + 確實有機會）、自下而上參與、組織透明
-- KR 寫法 = 「執行方法 + 結果（impact）」；只寫方法 → KPI 化，只寫結果 → 難追蹤
-- L1（`~/.claude/projects/.../memory/`）+ L2（此 wiki）是兩層快取，不重做 L1
-- Tiered retrieval 是查詢成本分層**不是**回答深度
-- 全域裝 skills 便利性 > 干擾風險
+- **OB 三層次：** Individual ⊂ Group ⊂ Organization；任何一層議題都被外層影響
+- **VRIO 四問：** Valuable / Rare / Inimitable / Organized 都 YES 才有 sustained advantage；OB 是 Inimitable 一柱
+- **Pfeffer Rule of 1/8：** 1/2 不信 × 1/2 單點解 × 1/2 不持續 = 只有 12.5% 公司真正拿到 OB practices 的好處
+- **OB vs HRM vs Strategy：** OB 是 why、HRM 是 how、Strategy 是 what
+- 台灣 Hofstede profile：**高 PD (58) + 高集體 (17) + 偏陰柔 (45) + 高 UA (69) + 極長期 (93)** → agile 導入有結構性阻力
+- CQ 提升路徑：**多國短期派外 > 單國長期**；英語能力比在地語言更顯著預測 CQ
+- 敏捷組織 Denning 三大法則：**聚焦顧客 / 小就是美 / 網路式結構**；獲利是結果而非目的
+- doing agile（局部 Scrum）≠ being agile（組織級轉型）；90% 主管想做、僅 10% 認為自己做到
+- **OKR 不是獨立的制度** — 需要 agile 組織的整體配合（領導力、結構、HRM）
+- 績效管理兩條互補路線：evaluation（KPI）vs development（OKR），不是替代
+- 醫療業 agile 雙軌假說：**法規部分 waterfall + 模型/UX 部分 agile**（待 wiki-challenge 驗證）
 
 ## Flagged Contradictions
 
-*None yet.*
+- 「OKR vs KPI 用環境變動性判斷」與「agile vs waterfall 用產品成熟度判斷」可能矛盾 — 醫療 AI 是「成熟產品在變動環境」，兩判準推不同結論。^[ambiguous]
 
 ## Open Questions（待驗證）
 
