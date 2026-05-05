@@ -171,6 +171,38 @@ Wiki 預設**全部公開**（GitHub Pages 上線）。只有觸及下列類別�
 - 中文 source **單線程**處理，不要平行
 - 完成後更新 `index.md`、`log.md`、`hot.md`
 
+### PDF Ingest 操作規範（強制 SOP）
+
+**所有 PDF 必須先 `pdfinfo` 取真實頁數 + `du -h` 看大小，依下表自動切 chunk 讀完全部頁，才開始 distill。** Read 工具 PDF 回應有 32 MB 上限，硬讀大檔會撞牆。
+
+| PDF 大小 | 頁數 | 一次讀幾頁 |
+|---|---|---|
+| < 2 MB | 任何 | 全部一次 |
+| 2–5 MB | < 30 頁 | 全部一次 |
+| 2–5 MB | 30+ 頁 | 15 頁/批 |
+| 5–10 MB | 任何 | 8–10 頁/批 |
+| > 10 MB | 任何 | 5 頁/批 |
+
+**標準起手式：**
+```
+1. pdfinfo + du -h → 知道真實頁數和大小
+2. 依上表決定 chunk 大小
+3. 第一批讀完先確認沒被截斷，再繼續
+4. 讀到最後一頁才開始 distill
+5. 撞 32 MB 上限就把當前 chunk 切半重試，不來回問使用者
+```
+
+**禁止行為：**
+- 只讀前 10 頁就開始 distill（之前 OB Ch1 踩雷，125 頁只讀 70 頁）
+- 用同一個大 chunk 反覆撞 32 MB 上限
+- ingest 後不驗證 hash 與 page count
+
+**ingest 完成驗證：**
+```bash
+pdfinfo "<file>" | awk '/Pages:/ {print $2}'   # 真實頁數
+shasum -a 256 -- "<file>"                       # hash 比對 manifest
+```
+
 ### wiki-query
 - 預設 Tier 1（只看 frontmatter）
 - 找不到才升到 Tier 2 / 3
