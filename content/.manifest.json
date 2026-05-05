@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "last_updated": "2026-05-05T15:00:00+08:00",
+  "sources": {
+    "/Users/jason/Desktop/2026專案/AI PM/管理技能與策略/組織與人力資源管理/0820-OKR-講義.pdf": {
+      "ingested_at": "2026-05-05T15:00:00+08:00",
+      "size_bytes": 3938827,
+      "modified_at": "2026-04-24T10:14:58+08:00",
+      "content_hash": "sha256:7e703b05e0378d38c1f249b76fd860a67e12c0bcf1cbbf09e3771a27955980e1",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "concepts/OKR.md",
+        "concepts/KPI.md",
+        "concepts/performance-management.md",
+        "skills/setting-OKR.md",
+        "entities/wen-jin-feng.md",
+        "references/measure-what-matters-doerr-2018.md",
+        "synthesis/OKR-vs-KPI-when-to-use.md"
+      ],
+      "pages_updated": [
+        "index.md",
+        "log.md",
+        "hot.md"
+      ]
+    }
+  },
+  "projects": {},
+  "stats": {
+    "total_sources_ingested": 1,
+    "total_pages": 19,
+    "total_projects": 0,
+    "last_full_rebuild": null
+  }
+}

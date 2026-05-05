@@ -13,3 +13,4 @@ title: Wiki Log
 - [2026-05-04T11:50+08:00] CAPTURE type=decision page="synthesis/why-Ar9av-over-alternatives.md" title="為什麼選 Ar9av/obsidian-wiki 而非其他 LLM Wiki 方案"
 - [2026-05-04T12:00+08:00] CAPTURE type=synthesis page="synthesis/critical-llm-wiki-three-step.md" title="批判式 LLM Wiki 三步法"
 - [2026-05-04T12:00+08:00] CAPTURE type=concept page="concepts/conways-law.md" title="Conway's Law"
+- [2026-05-05T15:00+08:00] INGEST source="0820-OKR-講義.pdf" pages_created=7 pages_updated=1 mode=smoke note="Phase 1 pilot smoke test，Tier A 第一個 PDF" pages=concepts/OKR,concepts/KPI,concepts/performance-management,skills/setting-OKR,entities/wen-jin-feng,references/measure-what-matters-doerr-2018,synthesis/OKR-vs-KPI-when-to-use
