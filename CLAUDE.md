@@ -200,6 +200,21 @@ Wiki 預設**全部公開**（GitHub Pages 上線）。只有觸及下列類別�
 - 用同一個大 chunk 反覆撞 32 MB 上限
 - ingest 後不驗證 hash 與 page count
 
+**升級路徑（chunk 切到 1 頁仍爆，或單頁就 >32 MB 渲染）：**
+
+正常 textbook / slide PDF 走完上面 SOP 即可。以下 fallback 只在**單頁渲染就爆 32 MB** 的罕見場景啟動（高解析醫學影像、掃描書本、滿版向量 diagram）。**做任何 fallback 前先告知使用者，不要默默改 source 檔。**
+
+| Level | 場景 | 動作 |
+|---|---|---|
+| **L2-A 純文字繞過** | 文字為主、表格少、不需要看圖（多數 textbook） | `pdftotext -layout "<file>" out.txt` 然後 `Read out.txt`。**速度最快、保真度最低**（圖片/版面全失） |
+| **L2-B Ghostscript 壓縮** | 需要保留圖與版面，但解析度可降 | `gs -sDEVICE=pdfwrite -dPDFSETTINGS=/ebook -o small.pdf "<file>"`。產出新檔，原檔不動。壓完重跑 `pdf-plan.sh small.pdf` |
+| **L2-C 物理切檔** | PDF 結構沒問題、就是頁數太多檔太大 | `qpdf "<file>" --pages . 1-N -- part1.pdf`（N = 安全頁數）。多份 part 各自 ingest |
+| **L3 渲圖逐頁** | 連 1 頁 pdftotext + ebook 壓縮都吃不下 | `pdftoppm -r 100 "<file>" page -png` 產出每頁一張 PNG，逐張 Read |
+
+**選擇順序：L2-A → L2-B → L2-C → L3**。優先嘗試純文字（最便宜），最後才走渲圖（最貴、context 占用最多）。
+
+**L2/L3 完成後一樣要驗證**：page count 對得上原檔 `pdfinfo`，並在 frontmatter 註記 `ingest_method: pdftotext | gs-ebook | qpdf-split | pdftoppm` 方便將來追溯保真度。
+
 **ingest 完成驗證：**
 ```bash
 pdfinfo "<file>" | awk '/Pages:/ {print $2}'   # 真實頁數
