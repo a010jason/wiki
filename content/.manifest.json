@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-05-05T19:00:00+08:00",
+  "last_updated": "2026-05-06T15:00:00+08:00",
   "sources": {
     "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/0820-OKR-講義.pdf": {
       "ingested_at": "2026-05-05T15:00:00+08:00",
@@ -160,12 +160,93 @@
         "log.md",
         "hot.md"
       ]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/GAFA.pdf.pdf": {
+      "ingested_at": "2026-05-06T11:00:00+08:00",
+      "size_bytes": 30996063,
+      "modified_at": "2026-04-24T02:02:16+08:00",
+      "content_hash": "sha256:c2b3f6070e774e8cec4646abffa79e1dc4ee1fbeaa799c07ee816b16686430d1",
+      "source_type": "document",
+      "project": null,
+      "path_history": [],
+      "note": "HBS 9-513-060 GAFA case 中譯版 (516-C05), 19p / 29.6MB, chunk=5 全程未撞 32MB",
+      "pages_created": [
+        "references/hbs-gafa-case-deighton-2013.md",
+        "concepts/platform-competition.md",
+        "concepts/winner-take-all-vs-always-a-share.md",
+        "concepts/stickiness-vs-reach.md",
+        "concepts/audience-volume-vs-premium-content.md",
+        "entities/Amazon.md",
+        "entities/Apple.md",
+        "entities/Facebook.md",
+        "entities/Google.md",
+        "synthesis/medical-ai-platform-vs-pipeline.md"
+      ],
+      "pages_updated": [
+        "index.md",
+        "log.md",
+        "hot.md"
+      ],
+      "visibility_internal": [
+        "synthesis/medical-ai-platform-vs-pipeline.md"
+      ]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/2Competing_in_the_age_of_AI.pdf.pdf": {
+      "ingested_at": "2026-05-06T13:00:00+08:00",
+      "size_bytes": 1106512,
+      "modified_at": "2026-04-24T02:02:04+08:00",
+      "content_hash": "sha256:20c766b1a6cc7f290486d8a8fefb4227f9836a0907ba57dd8938e726523dcc45",
+      "source_type": "document",
+      "project": null,
+      "path_history": [],
+      "note": "Iansiti & Lakhani《Competing in the Age of AI》Ch1 (24p / 1.1MB); 全書 10 章僅 ingest Ch1 (已涵蓋核心論點地圖)",
+      "pages_created": [
+        "references/iansiti-lakhani-competing-age-of-ai-2020.md",
+        "concepts/digital-operating-model.md",
+        "concepts/scale-scope-learning.md",
+        "concepts/weak-ai-sufficiency.md",
+        "concepts/strategic-collisions.md",
+        "concepts/humans-on-edge-ai-in-core.md"
+      ],
+      "pages_updated": [
+        "synthesis/medical-ai-platform-vs-pipeline.md",
+        "index.md",
+        "log.md",
+        "hot.md"
+      ]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/8. Moderna.pdf.pdf": {
+      "ingested_at": "2026-05-06T15:00:00+08:00",
+      "size_bytes": 10263593,
+      "modified_at": "2026-04-24T02:02:06+08:00",
+      "content_hash": "sha256:dd7e53150cae9e0a73e308d406a8af1c8bd8594174354e98bcdf162d973e0ede",
+      "source_type": "document",
+      "project": null,
+      "path_history": [],
+      "note": "HBS 9-621-032 Moderna(A) case 中譯版 (Iansiti et al. 2021), 21p / 9.8MB, 9 exhibits, Iansiti book 的活案例",
+      "pages_created": [
+        "references/iansiti-moderna-case-2021.md",
+        "entities/Moderna.md",
+        "entities/Stephane-Bancel.md",
+        "entities/Noubar-Afeyan.md",
+        "concepts/ai-factory.md",
+        "concepts/platform-vs-pipeline-pharma.md",
+        "concepts/flagship-pioneering-model.md",
+        "concepts/cdo-chief-digital-officer.md"
+      ],
+      "pages_updated": [
+        "references/iansiti-lakhani-competing-age-of-ai-2020.md",
+        "synthesis/medical-ai-platform-vs-pipeline.md",
+        "index.md",
+        "log.md",
+        "hot.md"
+      ]
     }
   },
   "projects": {},
   "stats": {
-    "total_sources_ingested": 6,
-    "total_pages": 48,
+    "total_sources_ingested": 9,
+    "total_pages": 72,
     "total_projects": 0,
     "last_full_rebuild": null
   }

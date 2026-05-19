@@ -1,6 +1,6 @@
 ---
 title: Hot Cache
-updated: 2026-05-05T19:05+08:00
+updated: 2026-05-06T15:30+08:00
 ---
 
 # Hot Cache
@@ -9,6 +9,11 @@ updated: 2026-05-05T19:05+08:00
 
 ## Recent Activity
 
+- [2026-05-06 15:30] FEEDBACK — 存進 memory：wiki 範圍是全方位知識（mgmt + 醫療 AI + 學習筆記），distillation 默認 include 而非 exclude，跨領域知識可移轉
+- [2026-05-06 15:00] INGEST — Phase 1 pilot 9/20：HBS Moderna(A) case（Iansiti et al. 2021，21p / 9.8MB / 9 exhibits），8 新頁（reference / 3 entity / 4 concept）+ 2 更新。是 Iansiti book 的活案例：Bancel「technology company that happens to do biology」、AI Factory 金字塔、mRNA-as-platform、42 天送疫苗
+- [2026-05-06 13:00] INGEST — Phase 1 pilot 8/20：Iansiti & Lakhani《Competing in the Age of AI》Ch1（HBR 2020，24p / 1.1MB），6 新頁（reference / 5 concept）+ 1 synthesis 更新。核心概念：digital-operating-model / scale-scope-learning / weak-ai-sufficiency / strategic-collisions / humans-on-edge-ai-in-core
+- [2026-05-06 11:00] INGEST — Phase 1 pilot 7/20：HBS GAFA case（Deighton 2013，中譯版 516-C05），10 新頁（reference / 4 concept / 4 entity / 1 synthesis）。29.6 MB / 19p 大檔案測試 chunk=5 全程未撞 32MB
+- [2026-05-06 10:00] DOCS — CLAUDE.md PDF SOP 補 L2/L3 fallback 升級路徑（pdftotext / gs-ebook / qpdf-split / pdftoppm），單頁渲染就爆 32 MB 才啟動
 - [2026-05-05 21:30] FIX — pdf-plan.sh v2：v1 以「檔案大小」判斷 chunk 是錯的（slide PDF 渲染後爆 32MB），改以頁數為主，slide PDF 預設 5 頁/批
 - [2026-05-05 21:00] INGEST — Phase 1 pilot 6/20：Grant 策略管理 Ch7（Competitive Advantage），7 新頁（competitive-advantage / porters-generic-strategies / experience-curve / value-chain / blue-ocean-strategy / disruptive-innovation / differentiation-analysis）
 - [2026-05-05 20:10] VERIFY — 5 個已 ingest PDF 全部 pdfinfo 比對頁數確認完整。SOP：未來所有 PDF 必須 pdfinfo + 分批讀完才開始 distill
@@ -22,7 +27,7 @@ updated: 2026-05-05T19:05+08:00
 
 ## Active Threads
 
-- **Phase 1 pilot ingest：** **5/20 完成**。下一輪：策略管理組剩 4 個 PDF（ch07 + GAFA + Competing in the age of AI + Moderna）
+- **Phase 1 pilot ingest：** **9/20 完成**。策略管理組原列 4 PDF 全收（GAFA + Competing in the Age of AI Ch1 + Moderna(A)；ch07 已於 5/5 完成）。下一輪待定 manifest（user 已要求把 20 鎖成清單）
 - **Sources 路徑遷移：** 本機 Desktop → Google Drive `AI PM 資料/管理技能與策略/` ✅；hash 驗證全 match
 - **CLAUDE.md 結構決議：** B-pragmatic（content/ 為 vault root）✅
 - **Visibility filter（A）：** RemoveInternal plugin 已上 ✅
@@ -41,6 +46,21 @@ updated: 2026-05-05T19:05+08:00
 - **OKR 不是獨立的制度** — 需要 agile 組織的整體配合（領導力、結構、HRM）
 - 績效管理兩條互補路線：evaluation（KPI）vs development（OKR），不是替代
 - 醫療業 agile 雙軌假說：**法規部分 waterfall + 模型/UX 部分 agile**（待 wiki-challenge 驗證）
+- **Platform 跨界滲透**：GAFA 各從一 vertical 起家、8-10 年內全部跨成多 vertical platform；傳統 industry analysis 失效，要改用 contested boundaries 視角
+- **WTA vs Always-a-share 二分**：搜索/社交是 WTA（Google 桌面 66% / 行動 93.3%、FB 月均 6:41 vs Google 1:54）；零售/display 廣告是 always-a-share（前 5 名合計才 47%）
+- **Stickiness × Reach 廣告變現方程式**：FB reach 比 Google 少 13% 但黏著度高 3.5x → 廣告載體面積反而 3 倍，預測 13 年後（2026）已驗證
+- **醫療 AI 三類**：Class A platform（Sectra/GE/Epic 高勝率）、Class B 資料壁壘 pipeline（Aidoc/Heartflow 中勝率）、Class C 通用 pipeline（低勝率）；EBM 接近 Class B 中間態（internal）
+- **AI as Runtime**：AI 不再是工具，是企業跑業務的執行環境（Nadella 引言）；員工從「critical path 執行者」變成「邊緣例外處理者」
+- **Digital Operating Model 反轉曲線**：傳統 ops 邊際遞減（規模大→complexity 上升）vs DOM 邊際遞增（規模大→資料多→AI 強→服務好）；Iansiti & Lakhani Figure 1-2 是核心圖
+- **Scale-Scope-Learning 三軸**：DOM 三優勢同時成立才有質變；醫療業 Learning 軸被法規/隱私壓制 → 平台化路線該靠 Scale + Scope 而非 Learning
+- **Weak AI 已夠顛覆**：FB / Tencent / Amazon 用的 AI 並非 sophisticated；不要為等 AGI 而拖延 DOM 轉型
+- **Strategic Collisions（collateral damage 視角）**：Kodak 不是被同行 / 數位相機 startup 殺死，是被 FB / Tencent / Google 為搶用戶而**順便**輾過；醫療 AI 的雷達該超出同業
+- **Humans on the Edge, AI in the Core**：Amazon 員工只做 AI 還搞不定的物理 / 例外任務；醫療業因法規天花板，edge 不會隨 AI 變強而縮小
+- **AI Factory 金字塔（Moderna Exhibit 4）**：Cloud → Integration → IoT → Automation → Analytics → AI → Digital，**不可跳級**；多數公司直接「上 AI」失敗是因下層沒搭好
+- **Day 1 數位化哲學（Bancel）**：「從一開始執行數位化比後處理容易多了」；後補成本 10x。CDO 與 COO 雙重彙報是跨部門整合 AI Factory 的結構前提
+- **mRNA = iPhone, drugs = apps（Moore）**：Platform vs Pipeline 製藥業二分；Moderna 用同一 mRNA 平台同時跑 23 個藥物。可移轉到 Sectra/Epic/GE Edison 醫療 AI platform 思考
+- **Flagship Pioneering 4 階段（Afeyan）**：Explorations（What if?）→ ProtoCo（PoC）→ NewCo（董事會）→ GrowthCo（CEO 招募 + spin out）；hypothesis-driven 而非 trend-driven 的 venture creation 模式，可移轉到 PM、內部創新、個人 side project
+- **Moderna 42 天疫苗 vs 傳統 20 個月**：不是「努力」，是 DOM + AI Factory + 自有製造 + Day 1 數位化的累積結果。COVID 是 strategic collision 機會視窗，但 process 可移植、context 不可移植
 
 ## Flagged Contradictions
 
