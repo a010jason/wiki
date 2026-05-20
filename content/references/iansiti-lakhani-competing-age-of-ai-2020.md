@@ -113,6 +113,18 @@ ingest_method: pdf-read-chunked
 - **2020 出版，AI 概念前 LLM 時代**：書中 AI 主要指 traditional ML / deep learning。書中許多論點 ChatGPT 後（2022-）需重新檢視 —— LLM 大幅降低「需要哪些 AI 能力」的門檻^[inferred]
 - **缺中國本土視角**：雖然提到 Tencent / Ant Financial，但對中國 AI 競爭格局（百度、字節、商湯、聯影醫療）著墨不多^[extracted]
 
+## Ingest TODO
+
+- ⏸️ **Ch2-10 待補源**（2026-05-20 BLOCKED）：Google Drive 內僅 Ch1（24p、sha `20c766b1...`），是陽明交大課堂老師提供的單章節抽印本。Ch2-10 不在已知位置。
+- **合法取得管道**：
+  - HBR Store / Amazon Kindle / Apple Books（電子書 ~USD 30）
+  - 陽明交大圖書館電子館藏（建議先查 NYCU library 是否購入此書，HBL / EBSCO 線上可能直接看）
+  - 同作者在 HBR 雜誌的兩篇先導文章可免費 / Premium 取得，論點覆蓋部分章節：
+    - "Competing in the Age of AI" (HBR Jan-Feb 2020)
+    - "From Disruption to Collision: The New Competitive Dynamics" (MIT Sloan, 2020)
+- **取得後**：丟到 `PDF_ROOT/策略管理/` 同資料夾，命名 `iansiti-AoAI-ChN.pdf`，跑 path B subagent ingest
+- **優先級**：Ch3 (AI Factory) + Ch7 (Strategic Collisions) 對醫療 AI 戰略最直接相關，其他章節可緩
+
 ## Sources
 
 - Iansiti & Lakhani (2020) Ch1, Harvard Business Review Press
