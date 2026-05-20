@@ -173,117 +173,66 @@ Wiki 預設**全部公開**（GitHub Pages 上線）。只有觸及下列類別�
 
 ### PDF Ingest 操作規範（強制 SOP）
 
-#### 核心原則（必讀）
+**所有 PDF 必須先跑 `pdfinfo` 決定路徑，再開始讀。** Read 工具 PDF 的 32 MB 上限是「渲染後 response」的限制，每頁渲染圖 3-5 MB，主 agent 累積爆 context 是常見死法。Subagent 邊界是釋放 image render 的唯一方式。
 
-**主 agent 的 context 中，所有 image render 累積到 auto-compaction 前都不會釋放。**
+#### 起手決定路徑（不來回）
 
-- 「單頁太重」是 **source-side** 問題（L2-A/B/C/L3 fallback 處理）
-- 「session 已累積太多」是 **context-side** 問題 — **更常見、更危險**
+| 條件 | 路徑 |
+|---|---|
+| 頁數 ≤ 30 **且** session 累積 < 60 頁 image render | 路徑 A：主 agent 讀 |
+| 頁數 > 30，**或** session 累積 ≥ 60 頁 | 路徑 B：subagent 分批 |
+| 頁數 > 100 | 強制路徑 B |
 
-唯一能模擬「邊讀邊釋放」的機制：**subagent boundary**。Subagent return 那刻，它的 context 連同 image render 全消失，主 agent 只收 distilled text。
+#### 路徑 A：主 agent 讀
 
-→ **長 PDF 預設用 subagent dispatch，不要主 agent 自己讀**。彈性下放到 subagent 層，主 agent 保乾淨。
+chunk 規則：
 
-#### 起手式：pdfinfo + 決策樹
-
-```bash
-pdfinfo "<path>" | head -5
-du -h "<path>"
-```
-
-**決策樹**（依優先序判斷，第一個 match 即適用）：
-
-| 條件 | 路徑 | 理由 |
-|---|---|---|
-| Session 已累積渲染 > 50 頁 | **B (subagent)** | context 重，不能再加 |
-| 這份 > 60 頁 OR > 5 MB | **B (subagent)** | 自己讀預計撞牆 |
-| Textbook 文字密集（章/節結構，圖少） | **A2 (pdftotext)** | 圖少不損資訊 |
-| Slide PDF 圖密集 AND ≤ 30 頁 AND session 未累積 | **A1 (Read 渲圖)** | 視覺資訊需要 |
-| 其他 | **A2 (pdftotext) 起手** | 保守取向 |
-
-#### 路徑 A：主 agent 直接讀
-
-**A1 — Read 圖片渲染**（slide / 視覺資訊 carry 內容）
-
-| 條件 | chunk |
+| 條件 | 一次讀幾頁 |
 |---|---|
 | 頁數 ≤ 10 且 < 2 MB | 全部一次 |
-| 頁數 ≤ 15 且 < 3 MB | 5 頁/批 |
-| 其他 | **3 頁/批**（不是 5） |
+| 頁數 ≤ 15 且 < 3 MB | 8 頁/批 |
+| 檔案 ≥ 5 MB | 5 頁/批 |
+| 其他 | 5 頁/批 |
 
-**失敗即跳路徑 B，不要切半重試**。切半是治標、撞兩次就證明 context 飽和。
+**撞 32 MB 上限** → 切半重試**一次**（5→3 或 3→2）。再爆 → **升路徑 B，不在主 agent 繼續切**。根因常是 session 累積，主 agent 切半救不了。
 
-**A2 — pdftotext 純文字**（textbook、表格、結構化文字）
+#### 路徑 B：subagent 分批
 
-```bash
-pdftotext -layout "<file>" /tmp/<slug>.txt
-```
+1. 主 agent 用 chunk 規則切 batch
+2. 每 batch dispatch 一個 subagent（Explore 或 general-purpose）
+3. Subagent return distilled text → 主 agent 累積
+4. 全 batch 完才寫 wiki 頁
 
-然後 `Read /tmp/<slug>.txt`（純文字進 context，KB 級不爆）。
-
-#### 路徑 B：Subagent dispatch（長 PDF / session 已重）
-
-**標準 Subagent prompt template**：
+**Subagent prompt template（強制統一回傳結構）：**
 
 ```
-Agent(Explore, """
-Read pages X-Y of <ABSOLUTE_PATH>.
-Distill into structured text and return ONLY:
+讀 PDF <絕對路徑> 第 X-Y 頁，distill 成下列五欄結構回傳。
+純文字回傳，不要附渲染圖、不要附原文段落。
 
-## 主概念
-- 概念名 — 1-3 句 essence
+- 主概念：本批的核心 concept / framework / claim
+- 關鍵實證：研究、數據、量表名（含 cite 來源）
+- 案例：source 提到的真實案例（含公司 / 人名 / 情境）
+- 反例 / 質疑：source 自己提到的限制、反論、boundary condition
+  （給將來 wiki-challenge 用，沒有就寫「source 未提」）
+- 量表 / 頁碼：頁碼錨點，方便事後回查
 
-## 關鍵實證 / 數據
-- 來源（公司/作者/年份）+ 具體數字
-
-## 案例索引
-- 案例名 — 1 句要點 — 頁碼
-
-## 量表 / 問卷
-- 名稱 — 來源 — 頁碼（不抄全題目，留頁碼可回查）
-
-## Figure / Diagram
-- 名稱 — 1 句說明 — 頁碼（不描述細節，留頁碼）
-
-不要 return image 描述、不要 return raw 文字 dump、不要 return PDF 渲染 metadata。
-只要 distilled text。
-""")
+讀完最後一頁才回傳，不要中途回報。
 ```
 
-**多 batch 策略**：
+**Subagent 失敗** → 主 agent 派**新** subagent 改策略（縮 batch / 改 prompt）。**不在主 agent context 重試。**
 
-- **序列**（長章節）：subagent 1 跑 1-50 → return → subagent 2 跑 51-100 → return
-- **平行**（同 PDF 不同節）：同一訊息派多個 subagent
-- 收齊所有 batch 後，主 agent 用累積文字寫 wiki 頁
+#### 升級路徑（L2 / L3）
 
-**Subagent 失敗 → 重派新 subagent 改策略，不在主線重試**。
-
-#### L1.5 — Session-level budget tracking
-
-每完成一份 PDF readthrough 在 hot.md 維護：
-
-```
-## PDF Session Budget
-- OB Ch2: 166 pages rendered (full)
-- Cumulative: 166 / 80 budget → next PDF MUST use Path B
-```
-
-新 session 起算才能歸零。Auto-compaction 後可重估。
-
-#### L2/L3 — Source-side fallback（單頁就爆 32 MB 才啟動）
-
-罕見場景：高解析醫學影像、掃描書本、滿版向量 diagram。**做任何 source 改檔前先告知使用者**。
+只在**單頁渲染就爆 32 MB** 的罕見場景啟動（高解析醫學影像、掃描書本、滿版向量 diagram）。**動 source 檔前先告知使用者。**
 
 | Level | 場景 | 動作 |
 |---|---|---|
-| **L2-A 純文字繞過** | 文字為主，跟路徑 A2 動作同；差別在「被動 fallback」vs「主動選擇」 | `pdftotext -layout "<file>" out.txt` |
-| **L2-B Ghostscript 壓縮** | 需保留圖與版面但解析度可降 | `gs -sDEVICE=pdfwrite -dPDFSETTINGS=/ebook -o small.pdf "<file>"`，原檔不動 |
-| **L2-C 物理切檔** | 結構沒問題、頁數太多檔太大 | `qpdf "<file>" --pages . 1-N -- part1.pdf` |
-| **L3 渲圖逐頁** | 連 1 頁 pdftotext + ebook 壓縮都吃不下 | `pdftoppm -r 100 "<file>" page -png` 逐張 Read |
+| **L2-A 純文字繞過** | 文字為主、可丟圖 | `pdftotext -layout "<file>" out.txt` 然後 Read out.txt |
+| **L2-B Ghostscript 壓縮** | 需保留圖但解析度可降 | `gs -sDEVICE=pdfwrite -dPDFSETTINGS=/ebook -o small.pdf "<file>"` |
+| **L2-C 物理切檔** | 結構 OK、頁數太多 | `qpdf "<file>" --pages . 1-N -- part1.pdf` |
+| **L3 渲圖逐頁** | 上述全失敗 | `pdftoppm -r 100 "<file>" page -png` 逐張 Read |
 
-**選擇順序：L2-A → L2-B → L2-C → L3**。
-
-完成後在 frontmatter 註記 `ingest_method: pdftotext | gs-ebook | qpdf-split | pdftoppm` 方便追溯保真度。
+**選擇順序：L2-A → L2-B → L2-C → L3**（純文字最便宜，渲圖最貴）。
 
 #### 完成驗證
 
@@ -292,13 +241,15 @@ pdfinfo "<file>" | awk '/Pages:/ {print $2}'   # 真實頁數
 shasum -a 256 -- "<file>"                       # hash 比對 manifest
 ```
 
+Frontmatter 註記 `ingest_method: read-main | read-subagent | pdftotext | gs-ebook | qpdf-split | pdftoppm` 方便追溯保真度。
+
 #### 禁止行為
 
-- 主 agent 直接讀 > 60 頁的 PDF（一律 subagent）
-- 主 agent 在 session 累積 > 80 頁 image render 後還繼續 Read 渲圖
-- chunk 失敗後切半重試超過一次（直接跳路徑 B）
-- 只讀前 N 頁就開始 distill（OB Ch1 踩雷案）
-- 用「後段都是文字」這類**事後合理化**選擇 pdftotext — 真正原因是 context 累積，不是內容類型
+- 主 agent 直接讀 > 30 頁 PDF（一律路徑 B）
+- 主 agent session 累積 ≥ 60 頁 image render 後還繼續 Read 渲圖
+- chunk 切半重試超過一次（直接升路徑 B）
+- 用「後段都是文字」這類**事後合理化**選擇 fallback —— 真正原因是 context 累積
+- 只讀前 N 頁就 distill（OB Ch1 踩雷案，125 頁只讀 70 頁）
 - ingest 後不驗證 hash 與 page count
 
 ### wiki-query
