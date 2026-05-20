@@ -9,12 +9,12 @@ sources:
 created: 2026-05-05
 updated: 2026-05-05
 summary: >-
-  美國主流 MBA 級 Organizational Behavior 教科書（McGraw-Hill 2017 版）。Ch1 建立 OB Integrated Model 框架、4 種知識方法、VRIO/Five Forces 對比、Pfeffer Rule of One-Eighth。本 wiki 至此 ingest Ch1 一章。
+  美國主流 MBA 級 Organizational Behavior 教科書（McGraw-Hill 2017 版）。Ch1 建立 OB Integrated Model 框架、4 種知識方法、VRIO/Five Forces 對比、Pfeffer Rule of One-Eighth、5 Anchors、Contingency Approach、Learning from Failure。本 wiki 至此 ingest Ch1 完整章（含 commit 0bcb17f audit 補完 pp.71-125）。
 provenance:
   extracted: 0.6
   inferred: 0.35
   ambiguous: 0.05
-base_confidence: 0.32
+base_confidence: 0.42
 lifecycle: draft
 lifecycle_changed: 2026-05-05
 ---
@@ -71,7 +71,6 @@ Ch1 內案例（Hyundai/Kia 品質逆轉、Nvidia 文化、Wegmans、Google PiLa
 
 ## Ingest TODO
 
-- ⚠️ **Ch1 audit 缺漏未回補**：commit `0bcb17f` 的 audit 顯示 125 頁只讀了 70 頁，剩下 ~55 頁未 ingest。下次跑 Ch1 補完時走路徑 B（subagent）。
 - **Ch2 待 ingest**：前次 session 嘗試過、產出 14 頁 wiki 後因主 agent context 爆掉作廢；新 SOP v3 強制路徑 B（125 頁 > 100 門檻）。
 - **Ch3+ 待 ingest**：依 Integrated Model 順序（Individual Outcomes → Mechanisms → Group → Organizational）。
 
