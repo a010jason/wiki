@@ -178,6 +178,27 @@ Wiki 預設**全部公開**（GitHub Pages 上線）。只有觸及下列類別�
 
 ---
 
+## 強制 log 規則
+
+**任何對 wiki 的變動都必須在完成後寫一筆 `log.md`，不得省略。**
+
+涵蓋範圍（不限於 ingest）：
+
+| 類型 | 例子 | log type |
+|---|---|---|
+| 內容新增 / 更新 | ingest PDF、audit、backfill | `INGEST` / `AUDIT` / `UPDATE` |
+| 系統 / 工具變更 | Quartz 設定、GitHub Actions、rclone | `DEPLOY` / `CONFIG` |
+| 資料修正 | 補 source URL、修 broken link、frontmatter 更正 | `FIX` / `UPDATE` |
+| 封鎖 / 待辦 | source 找不到、待補資料 | `BLOCKED` |
+| 規範更新 | 修改 CLAUDE.md | `DOCS` |
+
+log 格式（append-only，新的加在最後）：
+```
+- [YYYY-MM-DDTHH:MM+08:00] TYPE key=value key=value ...
+```
+
+---
+
 ## Skill 行為規範
 
 ### wiki-ingest
