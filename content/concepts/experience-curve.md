@@ -45,21 +45,13 @@ Learning curve 與 experience curve 常被混用，但 Grant 區分：^[inferred
 - **Learning curve**（Wright 1936）—— 單純的人工學習效應（操作員越做越快）
 - **Experience curve**（BCG 1960s）—— **總體**累積經驗效應，包含 learning + scale + tech + design 等多重來源
 
-## Drivers of Cost Advantage（不只 experience curve）
+## Experience Curve 在 7 大 Cost Driver 中的位置
 
-Grant 整理 7 個 cost driver：^[extracted]
+Grant 整理 7 個 cost driver，experience curve 對應第 2 條「Economies of Learning」。^[extracted]
 
-| Driver | 內涵 |
-|---|---|
-| **Economies of scale** | 不可分割性（indivisibilities）、專業分工 |
-| **Economies of learning** | dexterity 提升、organizational routines 改善 |
-| **Production techniques** | process innovation、business process reengineering |
-| **Product design** | 標準化零件、design for manufacture（OEM/ODM 思維 ^[extracted-from-margin]）|
-| **Input costs** | location advantages、low-cost inputs ownership、non-union labor、bargaining power |
-| **Capacity utilization** | fixed/variable cost ratio、speed of capacity adjustment |
-| **Residual efficiency** | organizational slack（組織冗余）、motivation、culture、managerial efficiency |
+→ 7 driver 全表與展開：[[concepts/drivers-of-cost-advantage]]
 
-最後一條「**residual efficiency**」是看不見的成本來源 —— 即「除了上述 6 條解釋完的剩餘部分」，跟組織文化高度相關。^[inferred]
+簡要對照：experience curve 是**外觀現象**（累積產量 → 單位成本下降）；7 driver 是**機制拆解**（為什麼會下降）。Experience curve 把多個 driver 的綜合效果合在同一條曲線上。^[inferred]
 
 ## Long-Run Cost Curve & Minimum Efficient Plant Size
 

@@ -87,8 +87,11 @@ Porter 原本警告：**同時追求兩種會卡在中間**（兩種需要的資
 - [[concepts/competitive-advantage]]
 - [[concepts/value-chain]] —— 兩種策略都靠 value chain 分析
 - [[concepts/experience-curve]] —— Cost leadership 的核心機制
+- [[concepts/drivers-of-cost-advantage]] —— Cost Leadership 的 7 個機制詳述
+- [[concepts/strategic-innovation]] —— Differentiation 的進階形態
+- [[concepts/isolating-mechanisms]] —— 兩種優勢的維繫防線
 - [[skills/differentiation-analysis]]
-- [[synthesis/competitive-advantage-types-and-sources]]
+- [[synthesis/competitive-advantage-types-and-sources]] —— Ricardian vs Schumpeterian rent 的 hybrid 條件
 - [[references/grant-contemporary-strategy-analysis]]
 
 ## Sources

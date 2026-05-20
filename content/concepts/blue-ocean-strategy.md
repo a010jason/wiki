@@ -86,7 +86,8 @@ Jason 邊註：Strategy Canvas 本質上是 **expectancy-value model** 的策略
 ## Related
 
 - [[concepts/competitive-advantage]] —— Blue ocean 是內部創新優勢的具體形態
-- [[concepts/disruptive-innovation]] —— 對照
+- [[concepts/strategic-innovation]] —— Blue ocean 是 strategic innovation 的子型
+- [[concepts/disruptive-innovation]] —— 對照（同為 strategic innovation 子型）
 - [[concepts/porters-generic-strategies]] —— 對照（Porter 是紅海框架）
 - [[references/grant-contemporary-strategy-analysis]]
 

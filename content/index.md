@@ -73,11 +73,17 @@ title: Jason 的知識庫
 - [[concepts/intended-vs-emergent-strategy]] — Mintzberg：design vs process + 3 fallacies
 - [[concepts/corporate-vs-business-strategy]] — 兩層策略（佈局 vs 競爭）
 - [[concepts/competitive-advantage]] — 形成（內外變革）+ 維繫（4 層 isolating mechanisms）
+- [[concepts/isolating-mechanisms]] — Rumelt 1984 的 4 層防線（Ch7 audit 拆出）
+- [[concepts/causal-ambiguity]] — Lippman & Rumelt 1982 的核心防線（Ch7 audit 拆出）
+- [[concepts/strategic-innovation]] — 3 路徑 + 歷史商業模式創新表（Ch7 audit 拆出）
 - [[concepts/porters-generic-strategies]] — Cost / Differentiation / Focus 三策略
+- [[concepts/drivers-of-cost-advantage]] — Grant 7-driver 成本優勢框架（Ch7 audit 拆出）
 - [[concepts/experience-curve]] — 累積產量翻倍降本 15-30%（Ford 85% rule）
 - [[concepts/value-chain]] — Porter 價值鏈，cost + differentiation 分析共用
 - [[concepts/blue-ocean-strategy]] — 未爭奪市場 + Strategy Canvas + Cirque du Soleil
 - [[concepts/disruptive-innovation]] — Christensen 1997，從次等市場切入向上侵蝕
+- [[concepts/RPV-framework]] — Christensen Resources / Processes / Values 三層能力診斷（Values 最難改）
+- [[concepts/intrapreneurship-vs-venture-capital]] — HBS Intel NBI 案例 Exhibit 1 九維對比，incumbent 系統性偏離成功 VC 模式
 - [[concepts/balanced-scorecard]] — Kaplan-Norton 四維度（Grant Ch2）
 - [[concepts/resource-based-view]] — RBV 母框架（Penrose-Wernerfelt-Barney-Teece 譜系，Grant Ch5）
 - [[concepts/hypercompetition]] — Schumpeterian competition + transient advantage（Grant Ch4）
@@ -87,10 +93,44 @@ title: Jason 的知識庫
 - [[concepts/transaction-cost-economics]] — Coase-Williamson 框架（Grant Ch10）
 - [[concepts/CAGE-distance-framework]] — Ghemawat 跨國距離四維 + AAA Triangle（Grant Ch11）
 
+### 管理 / 行銷管理（Kotler 16e）
+- [[concepts/marketing-definition]] — Kotler/AMA 雙定義 + get/keep/grow + 10 類可被行銷的對象（Ch01 hub）
+- [[concepts/STP-framework]] — Segmentation → Targeting → Positioning（跨章 hub）
+- [[concepts/G-STIC-framework]] — Goal-Strategy-Tactics-Implementation-Control（見-識-謀-斷-行-控）（Ch02 spine）
+- [[concepts/5C-target-market-framework]] — Customers/Collaborators/Competitors/Company/Context（Ch02）
+- [[concepts/3V-market-value-principle]] — Customer/Collaborator/Company value 三圓交集 = OVP（Ch02）
+- [[concepts/7Ts-marketing-tactics]] — Product/Service/Brand/Price/Incentives/Communication/Distribution（升級 4P）（Ch02）
+- [[concepts/customer-value-proposition]] — Total Benefit − Total Cost × 3 domains（Ch07）
+- [[concepts/positioning]] — mind-space distinctive place + FOR/POD/POP（Ch07）
+- [[concepts/points-of-difference-and-parity]] — POD 3D 準則 + POP 三型（Ch07）
+- [[concepts/frame-of-reference]] — 顧客評估的 benchmark；重設 FOR 是策略級動作（Ch07）
+- [[concepts/perceptual-map]] — 品牌感知圖 + 背後 PCA/MDS（Ch07）
+- [[concepts/minimum-winning-game]] — Burgelman & Siegel 2007，Intel SRAM→DRAM→CPU 連續推進（Ch07）
+- [[concepts/holistic-marketing]] — 4 支柱（Relationship/Integrated/Internal/Performance）（Ch01）
+- [[concepts/marketing-orientations]] — Production→Product→Selling→Marketing→Market-value 五階段演進（Ch01）
+- [[concepts/customer-centricity]] — Figure 1.7 同心圓組織 + Table 1.2 六 axis（Ch01）
+- [[concepts/SOR-model-consumer]] — Stimulus→Organism→Response 消費者行為 macro 模型（Ch03）
+- [[concepts/maslow-hierarchy-of-needs]] — 五層需求金字塔 + Needs/Wants/Demands 三階梯（Ch03）
+- [[concepts/buying-decision-process-consumer]] — 5 階段消費者購買流程（Ch03）
+- [[concepts/successive-sets]] — Total→Awareness→Consideration→Choice→Choice 收斂漏斗（Ch03）
+- [[concepts/buying-center]] — B2B 七角色決策結構（Ch04）
+- [[concepts/business-buying-process]] — B2B 8 階段購買流程（Ch04）
+- [[concepts/market-segmentation]] — 消費者四變數族 + B2B 五層切法（Ch06）
+- [[concepts/targeting]] — Strategic vs Tactical Targeting 雙層 + 三策略邏輯（Ch06）
+- [[concepts/core-competency]] — Kotler 三條件版（與 Prahalad-Hamel + VRIO 對照）（Ch06）
+- [[concepts/customer-persona]] — Tactical Targeting 工具（Ch06）
+- [[concepts/marketing-research-process]] — 6 步驟流程 + 5 構面 plan（Ch05）
+- [[concepts/marketing-dashboard]] — 4 pathway 框架（Customer/Unit/Cash-flow/Brand）（Ch05）
+- [[concepts/product-differentiation-9-dimensions]] — Kotler 9 維度，#1-2 vs #3-9 階層（Ch08）
+- [[concepts/product-line-strategies]] — Line stretching/filling/modernization/featuring/pruning（Ch08）
+
 ## Entities
 
 - [[entities/Ar9av-obsidian-wiki]] — Claude Code 原生 LLM Wiki 工具，25 個 skills
 - [[entities/wen-jin-feng]] — 陽明交大經管所教授兼所長，EMBA「管理技能發展專題」授課
+- [[entities/intel-NBI]] — Intel 內部 corporate venturing 單位，HBS 9-609-043 主角組織
+- [[entities/Philip-Kotler]] — 「現代行銷學之父」，Northwestern Kellogg；《Marketing Management》16 版作者
+- [[entities/Patrick-Hanlon]] — Thinktopia CEO，《Primal Branding》七要素信念系統作者
 
 ## Skills
 
@@ -103,7 +143,9 @@ title: Jason 的知識庫
 - [[references/measure-what-matters-doerr-2018]] — Doerr 把 OKR 從 Intel 推廣到 Google 的經典書
 - [[references/denning-2018-age-of-agile]] — Denning 整理敏捷三大法則 + 推動原則的學理骨幹
 - [[references/colquitt-OB-textbook]] — McGraw-Hill OB 教科書，**全書 14 章 ingest 完成**（Ch1-14 / 1,635 頁）
-- [[references/grant-contemporary-strategy-analysis]] — Wiley 策略管理教科書 11th ed，已 ingest Ch1-6 + Ch8-14（Ch7 部分概念已散見其他頁）
+- [[references/grant-contemporary-strategy-analysis]] — Wiley 策略管理教科書 11th ed，**Ch1-14 全章 ingest 完成**（Ch7 於 2026-05-20 audit 補完 5 頁）
+- [[references/shih-thurston-intel-nbi-2010-HBS]] — HBS 9-609-043 *Intel NBI (A)*，corporate venturing 失敗的經典案例
+- [[references/kotler-keller-chernev-marketing-management-16e]] — Pearson 2022，行銷管理 standard 教科書，**Wave 1 完成 Ch01-08**（剩 Ch09-18）
 
 ## Synthesis
 
@@ -112,6 +154,12 @@ title: Jason 的知識庫
 - [[synthesis/OKR-vs-KPI-when-to-use]] — OKR / KPI 不是替代而是兩條互補路線的 Jason 判準
 - [[synthesis/agile-vs-waterfall-when-to-use]] — 醫療業視角，分層套用而非整體選邊
 - [[synthesis/taiwan-culture-mgmt-implications]] — 台灣 Hofstede profile 對管理風格、敏捷導入、跨國經營的意涵
+- [[synthesis/competitive-advantage-types-and-sources]] — Ricardian vs Schumpeterian rent + hybrid 策略條件（Toyota / Zara / IKEA）
+- [[synthesis/corporate-venturing-isolation-paradox]] — Intel NBI Catch-22 是 isolating mechanisms 反向作用 + RPV 不相容，唯一出路 C 象限 spinoff
+- [[synthesis/porter-vs-kotler-differentiation-debate]] — 跨層級對話：Porter BU 級 vs Kotler brand/ecosystem 級的差異化；教師批註「波特的差異化只停在 BU 而已」
+- [[synthesis/HTC-marketing-research-gap]] — HTC 失敗三層整合：customer centricity（Ch01 出貨給 Carrier）+ positioning（Ch07 lacks aspirational）+ product differentiation（Ch08 機海戰術）
+- [[synthesis/5C-vs-PESTLE-vs-Porter-five-forces]] — 三個常被混用的環境分析框架，**範疇與層級不同**；何時用哪個 ≠ 偏好，是 unit-of-analysis
+- [[synthesis/G-STIC-vs-OKR-SMART]] — 三框架對應三時間尺度（年 / 季 / 月），不是替代關係而是嵌套使用
 
 ## Journal
 

@@ -10,7 +10,7 @@ created: 2026-05-05
 updated: 2026-05-20
 summary: >-
   Robert M. Grant 的策略管理經典教科書，11th ed (Wiley 2022)。EMBA 策略管理課程教材。
-  2026-05-20 完成 Ch1-6, Ch8-14（13 章 lecture slides，路徑 B subagent 分章 distill），全書骨幹已完整。Ch7 為 Competitive Advantage，PDF 已在 source 但未專責 ingest（其概念分散於其他章節已覆蓋）。
+  2026-05-20 完成 Ch1-14（14 章 lecture slides 全部 ingest）。Ch7（Competitive Advantage）2026-05-05 初次 ingest（7 頁）後，於 2026-05-20 完成 audit + backfill：補 4 個獨立概念頁（isolating-mechanisms / causal-ambiguity / strategic-innovation / drivers-of-cost-advantage） + 1 synthesis（Ricardian vs Schumpeterian rent）。
 provenance:
   extracted: 0.82
   inferred: 0.15
@@ -33,9 +33,31 @@ lifecycle_changed: 2026-05-20
 | 階段 | 章節 | 路徑 | 日期 |
 |---|---|---|---|
 | Phase 1 | Ch1（Concept of Strategy） | A（主 agent） | 2026-05-05 |
+| Phase 1 | Ch7（Competitive Advantage）初次 ingest | A（主 agent） | 2026-05-05 |
 | Phase 2 | Ch2-6, Ch8-14（共 12 章 lecture slides） | B（subagent，每章 1 agent） | 2026-05-20 |
+| Audit | Ch7 backfill（13p 全文重讀 + 4 獨立概念頁 + 1 synthesis） | A（主 agent，path 內） | 2026-05-20 |
 
 Phase 2 採 path B subagent-first，避免主 agent context 累積；每章用 CLAUDE.md 5 欄 distill template 統一回傳。
+
+## Ch7 已 ingest 的核心內容（2026-05-05 初版 + 2026-05-20 audit）
+
+### 初版 7 頁
+- [[concepts/competitive-advantage]] — 形成 + 維繫 hub 頁
+- [[concepts/porters-generic-strategies]] — Cost / Differentiation / Focus
+- [[concepts/experience-curve]] — BCG 經驗曲線 + PIMS market share data
+- [[concepts/value-chain]] — Porter 工具 + Can Mfr linkage
+- [[concepts/blue-ocean-strategy]] — Cirque du Soleil + Strategy Canvas
+- [[concepts/disruptive-innovation]] — Christensen 機制
+- [[skills/differentiation-analysis]] — 需求/供給雙面分析 + Product Integrity
+
+### Audit 新增 5 頁（2026-05-20）
+- [[concepts/isolating-mechanisms]] — Rumelt 1984 的 4 層防線（從章內提升為獨立概念）
+- [[concepts/causal-ambiguity]] — Lippman & Rumelt 1982（從章內提升為獨立概念）
+- [[concepts/strategic-innovation]] — 3 路徑 + 歷史商業模式創新表（從章內提升為獨立概念）
+- [[concepts/drivers-of-cost-advantage]] — Grant 7 driver 框架（從 experience-curve.md 提升為獨立概念）
+- [[synthesis/competitive-advantage-types-and-sources]] — Ricardian vs Schumpeterian rent + hybrid 條件（補 broken link）
+
+Audit 動機：第一輪 ingest 把多個獨立概念塞在 competitive-advantage 與 experience-curve 兩頁中，跨頁交叉引用時不便。Audit 後拆出獨立概念頁，並保留母頁的整合敘述（hub 角色）。
 
 ## Ch1 已 ingest 的核心內容
 

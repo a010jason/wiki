@@ -8,87 +8,101 @@ sources:
   - id: Colquitt-OB-Ch1
     type: textbook-chapter
     rel_path: 組織與人力資源管理/Ch1.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1qTkjFJ2-M96jrrHtE44Rx4VFqbuQUV3F/view
     pages: 125
     sha256: e28842b2169a47370c72fefc1597d678267539430fcd34cecf4b9dbbe7e07cf1
     ingested_commit: 0bcb17f
   - id: Colquitt-OB-Ch2
     type: textbook-chapter
     rel_path: 組織與人力資源管理/Ch2.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1JXNpWrHhyLClBj3MxLAAPC1tlVqQanTF/view
     pages: 166
     sha256: 9f2f060122e656745284c4c18493a8bbceb0949b5f41caf5b556039cfc7dabec
     ingested_commit: 4d31e72
   - id: Colquitt-OB-Ch3
     type: textbook-chapter
     rel_path: 組織與人力資源管理/Ch3.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1iivYOyq4SEL3AjPtek1Jn00KsFCRduYU/view
     pages: 131
     sha256: ed0ebaa5553041dda1c2eb38f23fd085bdc95a73952d556ff22d0a3799e23eb0
-    ingested_commit: pending
+    ingested_commit: f6531ee
   - id: Colquitt-OB-Ch4
     type: textbook-chapter
     rel_path: 組織與人力資源管理/Ch4.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1HZ2keTFxuoLHwUyKoIezb_7HOZRC_pBd/view
     pages: 115
     sha256: a2741f0d09f81c52e243be02afe17fa4532a85ab9eacebac101391de3cf937ba
-    ingested_commit: pending
+    ingested_commit: f6531ee
   - id: Colquitt-OB-Ch5
     type: textbook-chapter
     rel_path: 組織與人力資源管理/Ch5.pdf.pdf
+    drive_url: https://drive.google.com/file/d/193R5r6z2ohTBerHetrP27wtMP6m7bN1r/view
     pages: 113
     sha256: 5be8828c04ab8d59006f7f9f15aeb68a1572885b77c6bdeb2b5dbc113930c4ba
-    ingested_commit: pending
+    ingested_commit: f6531ee
   - id: Colquitt-OB-Ch6
     type: textbook-chapter
     rel_path: 組織與人力資源管理/Ch6.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1S4xpDPPmDIBHS8ncBx4PoNIFVQ6BHZng/view
     pages: 120
     sha256: 10918fd06f24862cfee9655b8337be862170fe9e129112fd9dc8cf9021d8f9aa
-    ingested_commit: pending
+    ingested_commit: f6531ee
   - id: Colquitt-OB-Ch7
     type: textbook-chapter
     rel_path: 組織與人力資源管理/Ch7.pdf.pdf
+    drive_url: https://drive.google.com/file/d/13xjQPdMwwklekOw5ScTJ6VebMubFC4WL/view
     pages: 122
     sha256: d6ba85907d1cc02a608d39370cdbdf81ef2dc99e35c3b891ccedb9768840cdbb
-    ingested_commit: pending
+    ingested_commit: f6531ee
   - id: Colquitt-OB-Ch8
     type: textbook-chapter
     rel_path: 組織與人力資源管理/Ch8.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1hTzalzNooThHsEbSVWkYM703rOmnwxFI/view
     pages: 115
     sha256: 6f3ef757607a1a07fe6362cf20d615ce3e5ce631f4999bccff0ea139b35b3856
-    ingested_commit: pending
+    ingested_commit: f6531ee
   - id: Colquitt-OB-Ch9
     type: textbook-chapter
     rel_path: 組織與人力資源管理/Ch9.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1dY7aGoVQQBhkuYCzplk0s0Uwk_As3ST7/view
     pages: 118
     sha256: fc60250742405bb340f1b5fd73261fc6f364a0f62b249e885c998659aa24974b
-    ingested_commit: pending
+    ingested_commit: f6531ee
   - id: Colquitt-OB-Ch10
     type: textbook-chapter
     rel_path: 組織與人力資源管理/Ch10.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1DLkWJV33gmD6dxNfnmz9px8doUSjPeNh/view
     pages: 92
     sha256: ea786168a2fbf7d740bfa8f0e6d0d42b0f72f2bb494e1c683ca2d1b5c2b3c0f0
-    ingested_commit: pending
+    ingested_commit: f6531ee
   - id: Colquitt-OB-Ch11
     type: textbook-chapter
     rel_path: 組織與人力資源管理/Ch11.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1CFEncbVDDpB_h0KqTMmldIvz089EwWFl/view
     pages: 109
     sha256: f38e8f295a384968ee6127308dd51d3d2c18ad8d0f23227a0d5cebda13ff0e47
-    ingested_commit: pending
+    ingested_commit: f6531ee
   - id: Colquitt-OB-Ch12
     type: textbook-chapter
     rel_path: 組織與人力資源管理/Ch12.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1qjRFZ8FomlFhaTqsOp1fLYWnU1Yw8Oin/view
     pages: 127
     sha256: 9ffd69134a0c64aac8a112596a9339bead5c14be1723215bcb33f015b87cf954
-    ingested_commit: pending
+    ingested_commit: f6531ee
   - id: Colquitt-OB-Ch13
     type: textbook-chapter
     rel_path: 組織與人力資源管理/Ch13.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1U3otjjTqlVej42sfn8-pC4rMr9_28xq8/view
     pages: 98
     sha256: d5ad7745cc90ab0198749d4a30a8df8eeaaefcaa15874d3bdd76864b637aa2fb
-    ingested_commit: pending
+    ingested_commit: f6531ee
   - id: Colquitt-OB-Ch14
     type: textbook-chapter
     rel_path: 組織與人力資源管理/Ch14.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1Wee_GN9sYFwwCLZD1oRfTnMA__U95HGr/view
     pages: 84
     sha256: af277041df3fa9bd5b339b4bb46428a6bd4ee83eb8532f282225c633b0aaf7fa
-    ingested_commit: pending
+    ingested_commit: f6531ee
 created: 2026-05-05
 updated: 2026-05-20
 summary: >-
@@ -216,22 +230,22 @@ Ch1 內案例（Hyundai/Kia 品質逆轉、Nvidia 文化、Wegmans、Google PiLa
 
 > Source PDF 存放於 Google Drive（本機掛載），完整路徑在 frontmatter `sources[].rel_path`（相對於 `PDF_ROOT`，定義於 [CLAUDE.md](../../CLAUDE.md)）。
 
-| ID | 章節 | 頁數 | SHA256 (prefix) | Ingested |
+| ID | 章節（點開 Drive）| 頁數 | SHA256 (prefix) | Ingested |
 |---|---|---|---|---|
-| `Colquitt-OB-Ch1` | Ch1.pdf.pdf | 125 | `e28842b2…` | commit `0bcb17f` |
-| `Colquitt-OB-Ch2` | Ch2.pdf.pdf | 166 | `9f2f0601…` | commit `4d31e72` |
-| `Colquitt-OB-Ch3` | Ch3.pdf.pdf | 131 | `ed0ebaa5…` | this session |
-| `Colquitt-OB-Ch4` | Ch4.pdf.pdf | 115 | `a2741f0d…` | this session |
-| `Colquitt-OB-Ch5` | Ch5.pdf.pdf | 113 | `5be8828c…` | this session |
-| `Colquitt-OB-Ch6` | Ch6.pdf.pdf | 120 | `10918fd0…` | this session |
-| `Colquitt-OB-Ch7` | Ch7.pdf.pdf | 122 | `d6ba8590…` | this session |
-| `Colquitt-OB-Ch8` | Ch8.pdf.pdf | 115 | `6f3ef757…` | this session |
-| `Colquitt-OB-Ch9` | Ch9.pdf.pdf | 118 | `fc602507…` | this session |
-| `Colquitt-OB-Ch10` | Ch10.pdf.pdf | 92 | `ea786168…` | this session |
-| `Colquitt-OB-Ch11` | Ch11.pdf.pdf | 109 | `f38e8f29…` | this session |
-| `Colquitt-OB-Ch12` | Ch12.pdf.pdf | 127 | `9ffd6913…` | this session |
-| `Colquitt-OB-Ch13` | Ch13.pdf.pdf | 98 | `d5ad7745…` | this session |
-| `Colquitt-OB-Ch14` | Ch14.pdf.pdf | 84 | `af277041…` | this session |
+| `Colquitt-OB-Ch1` | [Ch1.pdf.pdf](https://drive.google.com/file/d/1qTkjFJ2-M96jrrHtE44Rx4VFqbuQUV3F/view) | 125 | `e28842b2…` | commit `0bcb17f` |
+| `Colquitt-OB-Ch2` | [Ch2.pdf.pdf](https://drive.google.com/file/d/1JXNpWrHhyLClBj3MxLAAPC1tlVqQanTF/view) | 166 | `9f2f0601…` | commit `4d31e72` |
+| `Colquitt-OB-Ch3` | [Ch3.pdf.pdf](https://drive.google.com/file/d/1iivYOyq4SEL3AjPtek1Jn00KsFCRduYU/view) | 131 | `ed0ebaa5…` | commit `f6531ee` |
+| `Colquitt-OB-Ch4` | [Ch4.pdf.pdf](https://drive.google.com/file/d/1HZ2keTFxuoLHwUyKoIezb_7HOZRC_pBd/view) | 115 | `a2741f0d…` | commit `f6531ee` |
+| `Colquitt-OB-Ch5` | [Ch5.pdf.pdf](https://drive.google.com/file/d/193R5r6z2ohTBerHetrP27wtMP6m7bN1r/view) | 113 | `5be8828c…` | commit `f6531ee` |
+| `Colquitt-OB-Ch6` | [Ch6.pdf.pdf](https://drive.google.com/file/d/1S4xpDPPmDIBHS8ncBx4PoNIFVQ6BHZng/view) | 120 | `10918fd0…` | commit `f6531ee` |
+| `Colquitt-OB-Ch7` | [Ch7.pdf.pdf](https://drive.google.com/file/d/13xjQPdMwwklekOw5ScTJ6VebMubFC4WL/view) | 122 | `d6ba8590…` | commit `f6531ee` |
+| `Colquitt-OB-Ch8` | [Ch8.pdf.pdf](https://drive.google.com/file/d/1hTzalzNooThHsEbSVWkYM703rOmnwxFI/view) | 115 | `6f3ef757…` | commit `f6531ee` |
+| `Colquitt-OB-Ch9` | [Ch9.pdf.pdf](https://drive.google.com/file/d/1dY7aGoVQQBhkuYCzplk0s0Uwk_As3ST7/view) | 118 | `fc602507…` | commit `f6531ee` |
+| `Colquitt-OB-Ch10` | [Ch10.pdf.pdf](https://drive.google.com/file/d/1DLkWJV33gmD6dxNfnmz9px8doUSjPeNh/view) | 92 | `ea786168…` | commit `f6531ee` |
+| `Colquitt-OB-Ch11` | [Ch11.pdf.pdf](https://drive.google.com/file/d/1CFEncbVDDpB_h0KqTMmldIvz089EwWFl/view) | 109 | `f38e8f29…` | commit `f6531ee` |
+| `Colquitt-OB-Ch12` | [Ch12.pdf.pdf](https://drive.google.com/file/d/1qjRFZ8FomlFhaTqsOp1fLYWnU1Yw8Oin/view) | 127 | `9ffd6913…` | commit `f6531ee` |
+| `Colquitt-OB-Ch13` | [Ch13.pdf.pdf](https://drive.google.com/file/d/1U3otjjTqlVej42sfn8-pC4rMr9_28xq8/view) | 98 | `d5ad7745…` | commit `f6531ee` |
+| `Colquitt-OB-Ch14` | [Ch14.pdf.pdf](https://drive.google.com/file/d/1Wee_GN9sYFwwCLZD1oRfTnMA__U95HGr/view) | 84 | `af277041…` | commit `f6531ee` |
 
 ## Related
 

@@ -80,14 +80,52 @@ EBM 的對應：
 - 觀察被忽略的市場（小診所、FHR、健檢）—— 是不是某些人的破壞戰場
 - Allow internal disruption：分子公司？孵化團隊？
 
+## Christensen 的配套框架
+
+Disruptive innovation 之後 Christensen 提出兩個配套診斷工具，用來解釋**為什麼 incumbent 看到 disruption 仍然回不過頭**：
+
+### 1. RPV Framework（Resources, Processes, Values）
+
+[[concepts/RPV-framework]]：incumbent 的能力由三層決定，**Values 最難改變**——所以即使 Resources / Processes 可以建立新事業，Values 仍會把 disruptive opportunity deprioritize 掉。
+
+### 2. 4-Quadrant Fit Matrix（Christensen & Raynor 2003）
+
+依新業務是否 fit 既有 organization processes / values，分 4 種團隊形態：^[extracted-from-lecture]
+
+| 象限 | 條件 | 適合 | 例 |
+|---|---|---|---|
+| A 內部擴大 | Both fit | sustaining innovation | 主流產品升級 |
+| B 雙元（heavyweight within）| Process 不 fit, Values fit | mixed | Intel Atom 內 mobile group 獨立 team |
+| **C 獨立門戶（holding）** | **Both poor** | **disruptive innovation** | Intel 收購 Mobileye |
+| D 切割（分公司）| Process fit, Values 不 fit | hybrid | in-house dev + spinout commercialize |
+
+→ **C 象限是 disruptive innovation 的標準答案**，但要求高層放棄「leverage 既有資源」的執念。詳見 [[entities/intel-NBI]] / [[synthesis/corporate-venturing-isolation-paradox]]。
+
+## Intel NBI 是「incumbent 內部嘗試 disruption 失敗」的標準案例
+
+[[entities/intel-NBI]]（[[references/shih-thurston-intel-nbi-2010-HBS]]）完整記錄一家 microprocessor 巨頭如何用 internal corporate venturing 試圖孕育 disruptive innovation 而系統性失敗。Wykoff 的「Catch-22」直接點出 disruptive innovation 在 incumbent 內部的不可解：
+
+- 靠近 core 業務 → 被批不夠 differentiated（其實是 RPV 太 fit，自然 sustain 而非 disrupt）
+- 遠離 core 業務 → 失去 strategic proximity，graduate 不回去
+
+→ 這直接驗證 Christensen 的 thesis：**真正的 disruptive innovation 在 incumbent 內部結構性不可能；唯一出路是 C 象限**。
+
 ## Related
 
 - [[concepts/competitive-advantage]] —— 內部創新優勢的具體形態之一
-- [[concepts/blue-ocean-strategy]] —— 對照
+- [[concepts/strategic-innovation]] —— Disruptive innovation 是 strategic innovation 的子型
+- [[concepts/blue-ocean-strategy]] —— 對照（同為 strategic innovation 子型）
 - [[concepts/agile-organization]] —— Disrupt 自己需要 agile mindset
+- [[concepts/RPV-framework]] —— Christensen 的配套診斷
+- [[concepts/intrapreneurship-vs-venture-capital]] —— Exhibit 1 失敗模式對比
+- [[entities/intel-NBI]] —— 標準失敗案例
+- [[synthesis/corporate-venturing-isolation-paradox]] —— 為什麼不可解
 - [[references/grant-contemporary-strategy-analysis]]
+- [[references/shih-thurston-intel-nbi-2010-HBS]]
 
 ## Sources
 
 - [[references/grant-contemporary-strategy-analysis]] Ch7
 - 原典：Christensen, C. M. (1997). *The Innovator's Dilemma*. HBS Press
+- *The Innovator's Solution*（Christensen & Raynor 2003）—— 4-quadrant fit matrix
+- *Seeing What's Next*（Christensen, Anthony, Roth）—— RPV framework

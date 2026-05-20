@@ -9,14 +9,14 @@ sources:
 created: 2026-05-05
 updated: 2026-05-05
 summary: >-
-  競爭優勢的形成 = 外部變革 + 內部變革 + 資源異質性 + 創新能力。維繫 = 4 層 isolating mechanisms（識別困難 / 抑制模仿動機 / 因果模糊 / 資源不可移）。Causal Ambiguity 是核心防禦線。
+  競爭優勢的形成 = 外部變革 + 內部變革 + 資源異質性 + 創新能力。維繫 = 4 層 isolating mechanisms（識別困難 / 抑制模仿動機 / 因果模糊 / 資源不可移）。Causal Ambiguity 是核心防禦線。Ch7 完整章節 audit 後（2026-05-20），相關獨立概念頁有 isolating-mechanisms / causal-ambiguity / strategic-innovation / drivers-of-cost-advantage。
 provenance:
   extracted: 0.7
   inferred: 0.25
   ambiguous: 0.05
 base_confidence: 0.45
 lifecycle: draft
-lifecycle_changed: 2026-05-05
+lifecycle_changed: 2026-05-20
 ---
 
 # Competitive Advantage（競爭優勢）
@@ -47,7 +47,8 @@ lifecycle_changed: 2026-05-05
 | Creating new **customer segments** | AirAsia（東南亞低成本航空）、Nintendo Wii |
 | **New sources of competitive advantage**：reconfigure value chain / reconceptualize product / new performance combinations | Zara、Southwest、Cemex、IKEA、Cirque du Soleil、Starbucks、Apple、Virgin Atlantic、H&M |
 
-詳見 [[concepts/blue-ocean-strategy]]（特別是「reconfigure value chain」與 [[concepts/disruptive-innovation]]（重新定義 segment）。
+→ 詳述：[[concepts/strategic-innovation]]（3 路徑展開 + 歷史商業模式創新表 + 為什麼大公司做不到）。
+[[concepts/blue-ocean-strategy]] 與 [[concepts/disruptive-innovation]] 是 strategic innovation 的子型。
 
 ## Sustaining Competitive Advantage：4 層 Isolating Mechanisms
 
@@ -61,6 +62,8 @@ lifecycle_changed: 2026-05-05
 | **Resource acquisition** — 取得資源 | 用 immobile / difficult-to-replicate 資源（[[concepts/VRIO-framework]] Inimitable）|
 
 **Causal ambiguity** 是核心：**對手只看得到皮毛**。^[extracted-from-margin]
+
+→ 詳述：[[concepts/isolating-mechanisms]]（4 層展開 + Rumelt 1984 由來）；[[concepts/causal-ambiguity]]（Lippman & Rumelt 1982 獨立詳述）。
 
 ## RPP / RPV Model（Jason 邊註）
 
@@ -93,11 +96,15 @@ lifecycle_changed: 2026-05-05
 
 ## Related
 
+- [[concepts/isolating-mechanisms]] —— 4 層防線獨立詳述（Rumelt 1984）
+- [[concepts/causal-ambiguity]] —— 核心防線獨立詳述（Lippman & Rumelt 1982）
+- [[concepts/strategic-innovation]] —— 內部變革路徑獨立詳述（Markides）
+- [[concepts/drivers-of-cost-advantage]] —— Grant 7-driver 框架獨立詳述
 - [[concepts/VRIO-framework]] —— Inimitable 一柱對應 Causal Ambiguity
 - [[concepts/porters-generic-strategies]] —— 取得競爭優勢的兩條路
 - [[concepts/experience-curve]] —— 取得 cost advantage 的機制
-- [[concepts/blue-ocean-strategy]] —— 創造新競爭空間
-- [[concepts/disruptive-innovation]] —— 從次等市場切入的競爭優勢
+- [[concepts/blue-ocean-strategy]] —— 創造新競爭空間（strategic innovation 子型）
+- [[concepts/disruptive-innovation]] —— 從次等市場切入的競爭優勢（strategic innovation 子型）
 - [[concepts/value-chain]] —— 競爭優勢分析的工具
 - [[skills/differentiation-analysis]] —— 取得 differentiation advantage 的 how-to
 - [[synthesis/competitive-advantage-types-and-sources]] —— Ricardian vs Schumpeterian rent

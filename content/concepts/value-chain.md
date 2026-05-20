@@ -87,7 +87,10 @@ Jason 邊註：「差異化和成本的連接點在 Value Chain → 應該要擴
 - [[concepts/competitive-advantage]]
 - [[concepts/strategic-fit]] —— Activity system 的進階版
 - [[concepts/experience-curve]] —— Cost driver 識別的工具
+- [[concepts/drivers-of-cost-advantage]] —— 7 cost driver 對應 value chain 各段
 - [[concepts/porters-generic-strategies]] —— 兩個 generic strategy 都用 value chain 分析
+- [[concepts/causal-ambiguity]] —— Cross-activity linkages 是 causal ambiguity 的來源
+- [[synthesis/competitive-advantage-types-and-sources]] —— Hybrid strategy 的 leverage point
 - [[skills/differentiation-analysis]]
 - [[references/grant-contemporary-strategy-analysis]]
 

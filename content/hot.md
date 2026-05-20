@@ -1,6 +1,6 @@
 ---
 title: Hot Cache
-updated: 2026-05-20T15:00+08:00
+updated: 2026-05-20T19:30+08:00 (Kotler MM 16e Ch01-08 Wave 1 寫入完成)
 ---
 
 # Hot Cache
@@ -9,6 +9,11 @@ updated: 2026-05-20T15:00+08:00
 
 ## Recent Activity
 
+- [2026-05-20 19:30] INGEST — **Kotler MM 16e Ch01-08 Wave 1 完成（8 章 / 276 頁全文 / 36 個 wiki 頁批量寫入）**：行銷管理 21 份 PDF 的第一批，8 parallel subagent 並行 distill（Ch01/02/03/04/05/06/07 + 6PSB/Ch08），主 agent 從未渲染 PDF，Ch05/Ch03 自動降級 pdftotext L2-A。寫入：1 manifest reference（kotler-keller-chernev-marketing-management-16e）+ 30 concept 頁（hub: marketing-definition / STP-framework / G-STIC-framework / 5C / 3V / 7Ts / customer-value-proposition / positioning / points-of-difference-and-parity + supporting 21 個）+ 2 entities（Philip-Kotler / Patrick-Hanlon）+ 4 synthesis（**porter-vs-kotler-differentiation-debate** / **HTC-marketing-research-gap**（教師批註三層失敗整合）/ 5C-vs-PESTLE-vs-Porter-five-forces / G-STIC-vs-OKR-SMART）。教師中文眉批全採集（TSMC 生態系 / HTC quietly brilliant / Nokia drop dead test / Acer / Asus 本地案例 + 對 Porter stuck-in-the-middle 的挑戰）。**剩 Wave 2 (Kotler ch09-18 共 5 章) + Wave 3 (8 個案例 PDF)**
+
+- [2026-05-20 20:00] INGEST — **Intel NBI 講義（HBS 9-609-043 / Shih & Thurston 2010）path A 全文 9p 一次讀完**：策略課程 2024/4/9 版講義，主軸是 HBS Intel NBI (A) 案例 + Christensen RPV / 4-quadrant fit matrix。5 新頁——1 reference（shih-thurston-intel-nbi-2010-HBS）+ 1 entity（intel-NBI 完整組織歷史與 T-Up 失敗解釋）+ 2 concept（**RPV-framework** Christensen 三層能力診斷 / **intrapreneurship-vs-venture-capital** Exhibit 1 九維對比）+ 1 synthesis（**corporate-venturing-isolation-paradox** 落地 Grant Ch7 audit 留下的 thread，Catch-22 = isolating mechanisms 反向作用 + RPV 不相容 = 不可解，唯一出路 C 象限 spinoff，Intel 自己後來收購 Mobileye 印證）。4 個既有頁更新 cross-link（isolating-mechanisms / causal-ambiguity / disruptive-innovation / intended-vs-emergent-strategy）
+
+- [2026-05-20 18:00] AUDIT — **Grant Ch7 Competitive Advantage 完整 backfill（path A 全文 13p 重讀）**：初版 7 頁（2026-05-05）把 isolating-mechanisms / causal-ambiguity / strategic-innovation / 7-cost-driver 框架塞在 competitive-advantage + experience-curve 兩 hub 頁中；audit 後拆 5 新獨立頁——4 個 concept（isolating-mechanisms / causal-ambiguity / strategic-innovation / drivers-of-cost-advantage）+ 1 synthesis（competitive-advantage-types-and-sources，補 broken link，Ricardian vs Schumpeterian rent + hybrid 條件）。同時更新 8 個既有頁 cross-link。**Grant 全書 Ch1-14 至此完整**。Open thread：Jason 邊註「NBI 預算聽 HQ → 又要求數字 → deliver 不出來」可發展為 corporate-venturing-isolation-paradox synthesis
 - [2026-05-20 15:00] INGEST — **Colquitt OB Ch3-14 完整 ingest（12 章 / 1,344 頁 / 12 parallel subagent）**：分 2 wave（Ch3-8 + Ch9-14）一次性 distill 全書下半段。20 新概念頁覆蓋 Individual Outcomes（organizational-commitment + EVLN-framework）→ Individual Mechanisms（job-satisfaction + JCT、stress、Vroom expectancy + Locke goal-setting + Adams equity、trust + organizational-justice、bounded-rationality + decision-making-biases + escalation-of-commitment）→ Individual Characteristics（big-five-personality + emotional-intelligence）→ Group Mechanisms（team-interdependence + groupthink + transactive-memory + 5 power/leadership 頁）。**全書 14 章 ingest 完成**。Ch5/7/9/10/12 subagent 自動降級 pdftotext L2-A
 - [2026-05-20 12:55] INGEST — Colquitt OB Ch2 **第二輪深耕**（同檔重 ingest）：8 個 subagent × 21 頁細分覆蓋 166 頁全部，補齊三維度展開。5 個新概念頁（task-performance / organizational-citizenship-behavior / job-analysis / MBO / forced-ranking）+ 2 更新（job-performance hub + reference 頁）。**Path B SOP 二次驗證**：8 個並行 subagent 全部完整讀完所屬頁數，五欄 distill 統一格式回傳；主 agent context 完整無慮
 - [2026-05-20 12:30] INGEST — Phase 2 大爆發：Grant 策略管理 Ch2-6 + Ch8-14（12 章 lecture slides，~145 頁），8 個新概念頁（balanced-scorecard / hypercompetition / resource-based-view / cooperation-vs-coordination / industry-life-cycle / dominant-design / transaction-cost-economics / CAGE-distance-framework）。**首次大規模驗證 path B subagent-first SOP**：9 個 subagent 並行，主 agent 從未渲染 PDF，全用 5 欄 distill template 統一回傳

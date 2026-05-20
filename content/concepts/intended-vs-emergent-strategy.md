@@ -104,6 +104,7 @@ Jason 邊註整理（兩端對照）：^[extracted-from-margin]
 - [[concepts/scrum-method]] —— process-based 工作模式
 - [[concepts/OKR]] —— 嘗試把 design 與 process 結合的目標管理
 - [[synthesis/agile-vs-waterfall-when-to-use]] —— Jason 的雙軌判斷
+- [[entities/intel-NBI]] —— Intel CEO 世代（Noyce / Moore / Rock / Grove）對應 DRAM → Microprocessor → Internet 的策略轉折，部分 deliberate（Grove "Only the Paranoid Survive"）部分 emergent
 - [[references/grant-contemporary-strategy-analysis]]
 
 ## Sources

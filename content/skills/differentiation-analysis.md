@@ -138,8 +138,11 @@ THE CUSTOMER
 
 - [[concepts/competitive-advantage]] —— 上層概念
 - [[concepts/porters-generic-strategies]] —— Differentiation 是其一
+- [[concepts/strategic-innovation]] —— Differentiation 的進階形態
+- [[concepts/causal-ambiguity]] —— 多重 sources of uniqueness 自然產生 causal ambiguity
 - [[concepts/value-chain]] —— linkage 分析的工具
 - [[concepts/blue-ocean-strategy]] —— differentiation 的極端形式（重設維度）
+- [[synthesis/competitive-advantage-types-and-sources]] —— Schumpeterian rent 的取得路徑
 - [[references/grant-contemporary-strategy-analysis]]
 
 ## Sources
