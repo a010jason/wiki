@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-05-06T15:00:00+08:00",
+  "last_updated": "2026-05-20T12:30:00+08:00",
   "sources": {
     "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/0820-OKR-講義.pdf": {
       "ingested_at": "2026-05-05T15:00:00+08:00",
@@ -241,12 +241,155 @@
         "log.md",
         "hot.md"
       ]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/ch02_Goals, Values, and performance.pdf.pdf": {
+      "ingested_at": "2026-05-20T12:30:00+08:00",
+      "size_bytes": 1281526,
+      "content_hash": "sha256:6e2cea858e1180e6e592252ec83f9db02d28c32053817560e0f88642ca913720",
+      "source_type": "document",
+      "ingest_method": "read-subagent",
+      "pages": 10,
+      "note": "Grant Ch2 Goals/Values/Performance lecture slides",
+      "pages_created": ["concepts/balanced-scorecard.md"],
+      "pages_updated": ["references/grant-contemporary-strategy-analysis.md"]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/ch03_Industry Analysis.pdf.pdf": {
+      "ingested_at": "2026-05-20T12:30:00+08:00",
+      "size_bytes": 4474664,
+      "content_hash": "sha256:a1f96087be45e95cb0a541f52c721d2a6abd0b6681d70ff8f7a1643c0b37cb94",
+      "source_type": "document",
+      "ingest_method": "read-subagent",
+      "pages": 11,
+      "note": "Grant Ch3 Industry Analysis lecture slides",
+      "pages_created": [],
+      "pages_updated": ["references/grant-contemporary-strategy-analysis.md", "concepts/porters-five-forces.md"]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/ch04_Competitive Analysis.pdf.pdf": {
+      "ingested_at": "2026-05-20T12:30:00+08:00",
+      "size_bytes": 794194,
+      "content_hash": "sha256:c8f7e716247909f65934317a60fdafe7d586c33b0354de7c3bbc4ab30b3ea85f",
+      "source_type": "document",
+      "ingest_method": "read-subagent",
+      "pages": 11,
+      "note": "Grant Ch4 Further Topics in Industry & Competitive Analysis",
+      "pages_created": ["concepts/hypercompetition.md"],
+      "pages_updated": ["references/grant-contemporary-strategy-analysis.md"]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/ch05_Resources Capability.pdf.pdf": {
+      "ingested_at": "2026-05-20T12:30:00+08:00",
+      "size_bytes": 737146,
+      "content_hash": "sha256:24a9f53962f5b00b34de7a1b68f523b52855ac85ebbdf6b2c7bc4dc4c6e7d45c",
+      "source_type": "document",
+      "ingest_method": "read-subagent",
+      "pages": 12,
+      "note": "Grant Ch5 Resources and Capabilities",
+      "pages_created": ["concepts/resource-based-view.md"],
+      "pages_updated": ["references/grant-contemporary-strategy-analysis.md"]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/ch06_Organization Structure.pdf.pdf": {
+      "ingested_at": "2026-05-20T12:30:00+08:00",
+      "size_bytes": 990890,
+      "content_hash": "sha256:b98623b0e2eb3de50370f23763e96901a52fc17858cf501f5fec7068a3263fe3",
+      "source_type": "document",
+      "ingest_method": "read-subagent",
+      "pages": 10,
+      "note": "Grant Ch6 Organization Structure",
+      "pages_created": ["concepts/cooperation-vs-coordination.md"],
+      "pages_updated": ["references/grant-contemporary-strategy-analysis.md"]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/ch08-Evolution strategic changes.pdf.pdf": {
+      "ingested_at": "2026-05-20T12:30:00+08:00",
+      "size_bytes": 1595109,
+      "content_hash": "sha256:a6d48244d0818d19afe787c1b5a7a51f9c4f21268c09187b5fb02292969c10e1",
+      "source_type": "document",
+      "ingest_method": "read-subagent",
+      "pages": 12,
+      "note": "Grant Ch8 Industry Evolution and Strategic Change",
+      "pages_created": ["concepts/industry-life-cycle.md"],
+      "pages_updated": ["references/grant-contemporary-strategy-analysis.md"]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/ch09_Innovations.pdf.pdf": {
+      "ingested_at": "2026-05-20T12:30:00+08:00",
+      "size_bytes": 1652544,
+      "content_hash": "sha256:0ef79548a22c4e89a2d7bb3e2fc1ca46e6885852e2d5cd8c1ccbfa9ef0b57b2d",
+      "source_type": "document",
+      "ingest_method": "read-subagent",
+      "pages": 12,
+      "note": "Grant Ch9 Innovation and Technology-based Industries",
+      "pages_created": ["concepts/dominant-design.md"],
+      "pages_updated": ["references/grant-contemporary-strategy-analysis.md"]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/ch10_Vertical Integration_S.pdf.pdf": {
+      "ingested_at": "2026-05-20T12:30:00+08:00",
+      "size_bytes": 3099441,
+      "content_hash": "sha256:9395c5251e6a359ee27a1a94cd97388ce280366137cb1b4e41a46c905838f62b",
+      "source_type": "document",
+      "ingest_method": "read-subagent",
+      "pages": 26,
+      "note": "Grant Ch10 Vertical Integration and the Scope of the Firm",
+      "pages_created": ["concepts/transaction-cost-economics.md"],
+      "pages_updated": ["references/grant-contemporary-strategy-analysis.md"]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/ch11_Global Strategy.pdf.pdf": {
+      "ingested_at": "2026-05-20T12:30:00+08:00",
+      "size_bytes": 1079274,
+      "content_hash": "sha256:5e19b9cd31d431fc8a49ec8b04017477e816b157207b4079d665d5f77968fcf1",
+      "source_type": "document",
+      "ingest_method": "read-subagent",
+      "pages": 12,
+      "note": "Grant Ch11 Global Strategy",
+      "pages_created": ["concepts/CAGE-distance-framework.md"],
+      "pages_updated": ["references/grant-contemporary-strategy-analysis.md"]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/ch12_Diversification.pdf.pdf": {
+      "ingested_at": "2026-05-20T12:30:00+08:00",
+      "size_bytes": 1202249,
+      "content_hash": "sha256:4b8a6b4d1f1bf327eae5e45c29879c4e0baa9e86c5d9c0035c23be734be11848",
+      "source_type": "document",
+      "ingest_method": "read-subagent",
+      "pages": 8,
+      "note": "Grant Ch12 Diversification — concepts captured in reference page; standalone concept pages deferred",
+      "pages_created": [],
+      "pages_updated": ["references/grant-contemporary-strategy-analysis.md"]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/ch13_Multibusiness.pdf.pdf": {
+      "ingested_at": "2026-05-20T12:30:00+08:00",
+      "size_bytes": 2556462,
+      "content_hash": "sha256:d0931d5a9102e864ff7654a62745b07861f4a27d0a8ac5821975241b8fc83613",
+      "source_type": "document",
+      "ingest_method": "read-subagent",
+      "pages": 15,
+      "note": "Grant Ch13 Implementing Multibusiness Strategy — captured in reference; standalone concept pages deferred",
+      "pages_created": [],
+      "pages_updated": ["references/grant-contemporary-strategy-analysis.md"]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/ch14_current trends_S.pdf.pdf": {
+      "ingested_at": "2026-05-20T12:30:00+08:00",
+      "size_bytes": 2120504,
+      "content_hash": "sha256:23b351bcf8392461a32f72dc7a98aefbd64c04ffc49517fbd4d561e1a1c2ad69",
+      "source_type": "document",
+      "ingest_method": "read-subagent",
+      "pages": 6,
+      "note": "Grant Ch14 Current Trends in Strategic Management",
+      "pages_created": [],
+      "pages_updated": ["references/grant-contemporary-strategy-analysis.md"]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/Ch2.pdf.pdf": {
+      "ingested_at": "2026-05-20T12:30:00+08:00",
+      "size_bytes": 10796981,
+      "content_hash": "sha256:9f2f060122e656745284c4c18493a8bbceb0949b5f41caf5b556039cfc7dabec",
+      "source_type": "document",
+      "ingest_method": "read-subagent",
+      "pages": 166,
+      "note": "Colquitt OB Ch2 Job Performance — path B dual subagent (pp.1-84 + pp.85-166)",
+      "pages_created": ["concepts/job-performance.md", "concepts/counterproductive-workplace-behavior.md"],
+      "pages_updated": ["references/colquitt-OB-textbook.md"]
     }
   },
   "projects": {},
   "stats": {
-    "total_sources_ingested": 9,
-    "total_pages": 72,
+    "total_sources_ingested": 22,
+    "total_pages": 82,
     "total_projects": 0,
     "last_full_rebuild": null
   }

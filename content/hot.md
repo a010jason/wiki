@@ -1,6 +1,6 @@
 ---
 title: Hot Cache
-updated: 2026-05-06T15:30+08:00
+updated: 2026-05-20T12:30+08:00
 ---
 
 # Hot Cache
@@ -9,6 +9,9 @@ updated: 2026-05-06T15:30+08:00
 
 ## Recent Activity
 
+- [2026-05-20 12:30] INGEST — Phase 2 大爆發：Grant 策略管理 Ch2-6 + Ch8-14（12 章 lecture slides，~145 頁），8 個新概念頁（balanced-scorecard / hypercompetition / resource-based-view / cooperation-vs-coordination / industry-life-cycle / dominant-design / transaction-cost-economics / CAGE-distance-framework）。**首次大規模驗證 path B subagent-first SOP**：9 個 subagent 並行，主 agent 從未渲染 PDF，全用 5 欄 distill template 統一回傳
+- [2026-05-20 12:30] INGEST — Colquitt OB Ch2 Job Performance（166p / 10.8MB），雙 subagent 分批（pp.1-84 + pp.85-166）。新增 job-performance + counterproductive-workplace-behavior 兩個主概念頁。**前次 session 此章因主 agent context 爆掉作廢，本次採 v3 SOP 順利完成**
+- [2026-05-20 12:30] BLOCKED — Iansiti AoAI Ch2+：Google Drive 僅有 24 頁 Ch1 PDF，Ch2-10 完整檔案不在已知位置；待使用者補檔
 - [2026-05-06 15:30] FEEDBACK — 存進 memory：wiki 範圍是全方位知識（mgmt + 醫療 AI + 學習筆記），distillation 默認 include 而非 exclude，跨領域知識可移轉
 - [2026-05-06 15:00] INGEST — Phase 1 pilot 9/20：HBS Moderna(A) case（Iansiti et al. 2021，21p / 9.8MB / 9 exhibits），8 新頁（reference / 3 entity / 4 concept）+ 2 更新。是 Iansiti book 的活案例：Bancel「technology company that happens to do biology」、AI Factory 金字塔、mRNA-as-platform、42 天送疫苗
 - [2026-05-06 13:00] INGEST — Phase 1 pilot 8/20：Iansiti & Lakhani《Competing in the Age of AI》Ch1（HBR 2020，24p / 1.1MB），6 新頁（reference / 5 concept）+ 1 synthesis 更新。核心概念：digital-operating-model / scale-scope-learning / weak-ai-sufficiency / strategic-collisions / humans-on-edge-ai-in-core
@@ -27,11 +30,12 @@ updated: 2026-05-06T15:30+08:00
 
 ## Active Threads
 
-- **Phase 1 pilot ingest：** **9/20 完成**。策略管理組原列 4 PDF 全收（GAFA + Competing in the Age of AI Ch1 + Moderna(A)；ch07 已於 5/5 完成）。下一輪待定 manifest（user 已要求把 20 鎖成清單）
-- **Sources 路徑遷移：** 本機 Desktop → Google Drive `AI PM 資料/管理技能與策略/` ✅；hash 驗證全 match
+- **Phase 2 ingest：** Grant 12 章 + Colquitt OB Ch2 完成（2026-05-20）；剩餘大宗 = Colquitt OB Ch3-14（13 章 × 84-166 頁）+ Iansiti AoAI Ch2-10（需補源頭）。**path B subagent-first SOP 大規模驗證成功**
+- **path B SOP 經驗：** 9 個 subagent 並行 + 統一 5 欄 distill template = 主 agent context 完整無慮；單一 chapter slide 用 1 個 subagent、textbook chapter（>100p）用 2-6 個 subagent 分批
+- **下一輪 priority：** (a) Iansiti AoAI Ch2-10 源頭補檔（user input needed）；(b) Colquitt OB Ch3 Organizational Commitment（131p）；(c) Grant Ch7 Competitive Advantage 已在 source 但其概念已散在現有頁
+- **Sources 路徑：** Google Drive `AI PM 資料/管理技能與策略/` ✅；hash 驗證全 match
 - **CLAUDE.md 結構決議：** B-pragmatic（content/ 為 vault root）✅
 - **Visibility filter（A）：** RemoveInternal plugin 已上 ✅
-- **Tier B/C 候選：** Tier A 跑完再評估
 
 ## Key Takeaways
 

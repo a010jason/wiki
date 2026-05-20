@@ -6,17 +6,19 @@ tags: [OB, textbook, reference, mgmt]
 aliases: [Colquitt OB, McGraw-Hill OB]
 sources:
   - textbook:Colquitt-OB-Ch1-McGraw-Hill-2017
+  - textbook:Colquitt-OB-Ch2-McGraw-Hill-2017
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-05-20
 summary: >-
-  美國主流 MBA 級 Organizational Behavior 教科書（McGraw-Hill 2017 版）。Ch1 建立 OB Integrated Model 框架、4 種知識方法、VRIO/Five Forces 對比、Pfeffer Rule of One-Eighth、5 Anchors、Contingency Approach、Learning from Failure。本 wiki 至此 ingest Ch1 完整章（含 commit 0bcb17f audit 補完 pp.71-125）。
+  美國主流 MBA 級 Organizational Behavior 教科書（McGraw-Hill 2017 版）。Ch1 建立 OB Integrated Model 框架、4 種知識方法、VRIO/Five Forces 對比、Pfeffer Rule of One-Eighth、5 Anchors、Contingency Approach、Learning from Failure。
+  2026-05-20 增補 Ch2（Job Performance，166 頁路徑 B 雙 subagent 分批），完成 task / citizenship / counterproductive 三維框架建構。
 provenance:
-  extracted: 0.6
-  inferred: 0.35
+  extracted: 0.62
+  inferred: 0.33
   ambiguous: 0.05
-base_confidence: 0.42
+base_confidence: 0.45
 lifecycle: draft
-lifecycle_changed: 2026-05-05
+lifecycle_changed: 2026-05-20
 ---
 
 # Organizational Behavior (Colquitt, LePine, Wesson — McGraw-Hill, 2017)
@@ -49,16 +51,22 @@ Ch1 內案例（Hyundai/Kia 品質逆轉、Nvidia 文化、Wegmans、Google PiLa
 
 特別 Moses & Jethro 故事（Exodus 18:13-27）：3,500 年前的「組織設計」原型 —— delegate authority、select on character (truthful, not driven by material gain)、daily issues at lowest level、leader focuses on strategy。OB 最原始的智慧。^[inferred]
 
-## 後續 Ch 預告（推測，待 ingest）
+## Ch2 已 ingest 的核心內容（2026-05-20，Job Performance）
+
+- [[concepts/job-performance]] — 三維分解 hub（task / citizenship / counterproductive）+ behavior vs outcome 之爭 + AI levelling 效應
+- [[concepts/counterproductive-workplace-behavior]] — Robinson-Bennett (1995) 四象限分類 + 防護 SOP
+- 案例錨點：Pulakos 8 維 adaptive、Pixar atrium、JAL 516 / Sully 哈德遜 adaptive performance、Walgreens 五步轉型、Netflix Maria 案 + Patty McCord PIP 批判、Tesco 360 度回饋、GE forced ranking 衰減曲線
+- Subagent 完成 166 頁雙批 distill（pp.1-84 + pp.85-166）
+
+## 後續 Ch 預告（待 ingest，Ch3-14 共 1,344 頁）
 
 教科書接著進入 Integrated Model 的各個 box：^[inferred]
-- Individual Outcomes：Job Performance、Organizational Commitment
-- Individual Mechanisms：Job Satisfaction、Stress、Motivation、Trust/Justice/Ethics、Learning & Decision Making
-- Group Mechanisms：Leadership、Power、Teams
-- Organizational Mechanisms：Culture、Structure
-- Individual Characteristics：Ability、Personality
+- **Ch3 Organizational Commitment**（131 頁）
+- **Ch4-9 Individual Mechanisms**（Job Satisfaction、Stress、Motivation、Trust/Justice/Ethics、Learning & Decision Making；合計 ~700 頁）
+- **Ch10-12 Group Mechanisms**（Teams、Leadership 等；合計 ~330 頁）
+- **Ch13-14 Organizational + Individual Characteristics**（合計 ~180 頁）
 
-→ 如果 ingest 後續章節，本 reference 頁的 ingested chapters 清單會增加。
+→ 每章 84-166 頁，全部走 path B subagent。一個 session 約能完成 2 章。
 
 ## 與其他 wiki 主題的連結
 
@@ -71,8 +79,10 @@ Ch1 內案例（Hyundai/Kia 品質逆轉、Nvidia 文化、Wegmans、Google PiLa
 
 ## Ingest TODO
 
-- **Ch2 待 ingest**：前次 session 嘗試過、產出 14 頁 wiki 後因主 agent context 爆掉作廢；新 SOP v3 強制路徑 B（125 頁 > 100 門檻）。
-- **Ch3+ 待 ingest**：依 Integrated Model 順序（Individual Outcomes → Mechanisms → Group → Organizational）。
+- ✅ Ch1（done 2026-05-05、commit `0bcb17f` audit）
+- ✅ Ch2 Job Performance（done 2026-05-20，path B 雙 subagent 分批 166 頁完成）
+- **Ch3 Organizational Commitment**（131 頁，下一個 priority）
+- **Ch4+ 待 ingest**：依 Integrated Model 順序（Individual Mechanisms → Group → Organizational）
 
 ## Open Questions
 
@@ -83,8 +93,12 @@ Ch1 內案例（Hyundai/Kia 品質逆轉、Nvidia 文化、Wegmans、Google PiLa
 ## Related
 
 - [[concepts/organizational-behavior]]
+- [[concepts/job-performance]]
+- [[concepts/counterproductive-workplace-behavior]]
 - [[concepts/VRIO-framework]]
 - [[concepts/porters-five-forces]]
 - [[concepts/rule-of-one-eighth]]
 - [[concepts/scientific-method-OB]]
+- [[concepts/learning-from-failure]]
+- [[concepts/contingency-approach]]
 - [[entities/wen-jin-feng]]

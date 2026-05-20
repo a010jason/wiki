@@ -36,6 +36,8 @@ title: Jason 的知識庫
 - [[concepts/scientific-method-OB]] — OB 知識怎麼產生（vs 經驗/直覺/權威）
 - [[concepts/contingency-approach]] — There Are Few Absolutes in OB；x → y under z
 - [[concepts/learning-from-failure]] — 5 條從失敗學習原則（高壓 / 失敗未必壞 / root cause / 獎勵承認 / 獎勵實驗）
+- [[concepts/job-performance]] — Task / Citizenship / Counterproductive 三維（Colquitt Ch2 hub）
+- [[concepts/counterproductive-workplace-behavior]] — Robinson-Bennett 四象限 + 預防 SOP
 
 ### 管理 / 策略管理
 - [[concepts/strategy]] — 策略定義 + 4 ingredients of success + 兩個維度（positioning / direction）
@@ -48,6 +50,14 @@ title: Jason 的知識庫
 - [[concepts/value-chain]] — Porter 價值鏈，cost + differentiation 分析共用
 - [[concepts/blue-ocean-strategy]] — 未爭奪市場 + Strategy Canvas + Cirque du Soleil
 - [[concepts/disruptive-innovation]] — Christensen 1997，從次等市場切入向上侵蝕
+- [[concepts/balanced-scorecard]] — Kaplan-Norton 四維度（Grant Ch2）
+- [[concepts/resource-based-view]] — RBV 母框架（Penrose-Wernerfelt-Barney-Teece 譜系，Grant Ch5）
+- [[concepts/hypercompetition]] — Schumpeterian competition + transient advantage（Grant Ch4）
+- [[concepts/cooperation-vs-coordination]] — 組織存在的兩個根本問題（Grant Ch6）
+- [[concepts/industry-life-cycle]] — ILC 四階段 + regeneration 反例（Grant Ch8）
+- [[concepts/dominant-design]] — 三鎖死機制 + standards war 戰術（Grant Ch9）
+- [[concepts/transaction-cost-economics]] — Coase-Williamson 框架（Grant Ch10）
+- [[concepts/CAGE-distance-framework]] — Ghemawat 跨國距離四維 + AAA Triangle（Grant Ch11）
 
 ## Entities
 
@@ -64,7 +74,8 @@ title: Jason 的知識庫
 
 - [[references/measure-what-matters-doerr-2018]] — Doerr 把 OKR 從 Intel 推廣到 Google 的經典書
 - [[references/denning-2018-age-of-agile]] — Denning 整理敏捷三大法則 + 推動原則的學理骨幹
-- [[references/colquitt-OB-textbook]] — McGraw-Hill OB 教科書，已 ingest Ch1
+- [[references/colquitt-OB-textbook]] — McGraw-Hill OB 教科書，已 ingest Ch1-2（Ch3-14 待續）
+- [[references/grant-contemporary-strategy-analysis]] — Wiley 策略管理教科書 11th ed，已 ingest Ch1-6 + Ch8-14（Ch7 部分概念已散見其他頁）
 
 ## Synthesis
 
