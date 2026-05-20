@@ -17,16 +17,88 @@ sources:
     pages: 166
     sha256: 9f2f060122e656745284c4c18493a8bbceb0949b5f41caf5b556039cfc7dabec
     ingested_commit: 4d31e72
+  - id: Colquitt-OB-Ch3
+    type: textbook-chapter
+    rel_path: 組織與人力資源管理/Ch3.pdf.pdf
+    pages: 131
+    sha256: ed0ebaa5553041dda1c2eb38f23fd085bdc95a73952d556ff22d0a3799e23eb0
+    ingested_commit: pending
+  - id: Colquitt-OB-Ch4
+    type: textbook-chapter
+    rel_path: 組織與人力資源管理/Ch4.pdf.pdf
+    pages: 115
+    sha256: a2741f0d09f81c52e243be02afe17fa4532a85ab9eacebac101391de3cf937ba
+    ingested_commit: pending
+  - id: Colquitt-OB-Ch5
+    type: textbook-chapter
+    rel_path: 組織與人力資源管理/Ch5.pdf.pdf
+    pages: 113
+    sha256: 5be8828c04ab8d59006f7f9f15aeb68a1572885b77c6bdeb2b5dbc113930c4ba
+    ingested_commit: pending
+  - id: Colquitt-OB-Ch6
+    type: textbook-chapter
+    rel_path: 組織與人力資源管理/Ch6.pdf.pdf
+    pages: 120
+    sha256: 10918fd06f24862cfee9655b8337be862170fe9e129112fd9dc8cf9021d8f9aa
+    ingested_commit: pending
+  - id: Colquitt-OB-Ch7
+    type: textbook-chapter
+    rel_path: 組織與人力資源管理/Ch7.pdf.pdf
+    pages: 122
+    sha256: d6ba85907d1cc02a608d39370cdbdf81ef2dc99e35c3b891ccedb9768840cdbb
+    ingested_commit: pending
+  - id: Colquitt-OB-Ch8
+    type: textbook-chapter
+    rel_path: 組織與人力資源管理/Ch8.pdf.pdf
+    pages: 115
+    sha256: 6f3ef757607a1a07fe6362cf20d615ce3e5ce631f4999bccff0ea139b35b3856
+    ingested_commit: pending
+  - id: Colquitt-OB-Ch9
+    type: textbook-chapter
+    rel_path: 組織與人力資源管理/Ch9.pdf.pdf
+    pages: 118
+    sha256: fc60250742405bb340f1b5fd73261fc6f364a0f62b249e885c998659aa24974b
+    ingested_commit: pending
+  - id: Colquitt-OB-Ch10
+    type: textbook-chapter
+    rel_path: 組織與人力資源管理/Ch10.pdf.pdf
+    pages: 92
+    sha256: ea786168a2fbf7d740bfa8f0e6d0d42b0f72f2bb494e1c683ca2d1b5c2b3c0f0
+    ingested_commit: pending
+  - id: Colquitt-OB-Ch11
+    type: textbook-chapter
+    rel_path: 組織與人力資源管理/Ch11.pdf.pdf
+    pages: 109
+    sha256: f38e8f295a384968ee6127308dd51d3d2c18ad8d0f23227a0d5cebda13ff0e47
+    ingested_commit: pending
+  - id: Colquitt-OB-Ch12
+    type: textbook-chapter
+    rel_path: 組織與人力資源管理/Ch12.pdf.pdf
+    pages: 127
+    sha256: 9ffd69134a0c64aac8a112596a9339bead5c14be1723215bcb33f015b87cf954
+    ingested_commit: pending
+  - id: Colquitt-OB-Ch13
+    type: textbook-chapter
+    rel_path: 組織與人力資源管理/Ch13.pdf.pdf
+    pages: 98
+    sha256: d5ad7745cc90ab0198749d4a30a8df8eeaaefcaa15874d3bdd76864b637aa2fb
+    ingested_commit: pending
+  - id: Colquitt-OB-Ch14
+    type: textbook-chapter
+    rel_path: 組織與人力資源管理/Ch14.pdf.pdf
+    pages: 84
+    sha256: af277041df3fa9bd5b339b4bb46428a6bd4ee83eb8532f282225c633b0aaf7fa
+    ingested_commit: pending
 created: 2026-05-05
 updated: 2026-05-20
 summary: >-
   美國主流 MBA 級 Organizational Behavior 教科書（McGraw-Hill 2017 版）。Ch1 建立 OB Integrated Model 框架、4 種知識方法、VRIO/Five Forces 對比、Pfeffer Rule of One-Eighth、5 Anchors、Contingency Approach、Learning from Failure。
-  2026-05-20 增補 Ch2（Job Performance，166 頁路徑 B 雙 subagent 分批），完成 task / citizenship / counterproductive 三維框架建構。
+  2026-05-20 第二輪：Ch2（Job Performance 166 頁雙 subagent）+ Ch3-14（1,344 頁 / 12 parallel subagent 一次性 distill），覆蓋 Individual Mechanisms（Job Sat / Stress / Motivation / Trust-Justice-Ethics / Learning）+ Individual Characteristics（Personality / Ability）+ Group Mechanisms（Teams / Leadership）三大層。**全書 14 章 ingest 完成。**
 provenance:
-  extracted: 0.62
-  inferred: 0.33
+  extracted: 0.7
+  inferred: 0.25
   ambiguous: 0.05
-base_confidence: 0.45
+base_confidence: 0.5
 lifecycle: draft
 lifecycle_changed: 2026-05-20
 ---
@@ -85,31 +157,54 @@ Ch1 內案例（Hyundai/Kia 品質逆轉、Nvidia 文化、Wegmans、Google PiLa
 - **Pay-for-Performance 爭議**：CEO bad pay Disney / AT&T / Exxon / Verizon；Michael Eisner $38M above industry average；小公司 vs 大公司 correlation
 - **AI 效應**：law students × GPT-4「great equalizer」研究
 
-## 後續 Ch 預告（待 ingest，Ch3-14 共 1,344 頁）
+## Ch3-14 已 ingest 的核心內容（2026-05-20，1,344 頁 / 12 parallel subagent）
 
-教科書接著進入 Integrated Model 的各個 box：^[inferred]
-- **Ch3 Organizational Commitment**（131 頁）
-- **Ch4-9 Individual Mechanisms**（Job Satisfaction、Stress、Motivation、Trust/Justice/Ethics、Learning & Decision Making；合計 ~700 頁）
-- **Ch10-12 Group Mechanisms**（Teams、Leadership 等；合計 ~330 頁）
-- **Ch13-14 Organizational + Individual Characteristics**（合計 ~180 頁）
+### Individual Outcomes（接續 Ch2）
+- **Ch3 Organizational Commitment**（131 頁）→ [[concepts/organizational-commitment]]（Affective / Continuance / Normative + embeddedness）+ [[concepts/EVLN-framework]]（Exit / Voice / Loyalty / Neglect + Stars/Citizens/Lone Wolves/Apathetics 四象限）
 
-→ 每章 84-166 頁，全部走 path B subagent。一個 session 約能完成 2 章。
+### Individual Mechanisms
+- **Ch4 Job Satisfaction**（115 頁）→ [[concepts/job-satisfaction]]（Value-Percept + 5 facets，Work Itself r=.70 最強）+ [[concepts/job-characteristics-theory]]（Hackman & Oldham VISAF / SPS / GNS moderator）
+- **Ch5 Stress**（113 頁）→ [[concepts/stress]]（Transactional Theory / 2×2 stressor / coping / hardiness / 組織介入 4 階層）
+- **Ch6 Motivation**（120 頁）→ [[concepts/expectancy-theory]]（VIE / Bandura self-efficacy）+ [[concepts/goal-setting-theory]]（Locke-Latham 倒 U 型 / SMART 缺 Difficult 批判）+ [[concepts/equity-theory]]（Adams mental ledger / under-/over-reward）
+- **Ch7 Trust, Justice, Ethics**（122 頁）→ [[concepts/trust]]（三類基礎 + Trustworthiness ABI）+ [[concepts/organizational-justice]]（Distributive / Procedural / Interpersonal / Informational 四維 + 6 規則）+ Rest 4-Component Model（Awareness / Judgment / Intent / Identity，Kohlberg 三階段）
+- **Ch8 Learning & Decision Making**（115 頁）→ [[concepts/bounded-rationality]]（Simon satisficing）+ [[concepts/decision-making-biases]]（Availability / Anchoring / Framing / Representativeness / Contrast / Recency + Kelley Attribution）+ [[concepts/escalation-of-commitment]]（United Denver / Concorde）
+
+### Individual Characteristics
+- **Ch9 Personality & Cultural Values**（118 頁）→ [[concepts/big-five-personality]]（OCEAN，genetic 35-49%，Conscientiousness 跨職業最強 predictor + integrity tests）+ 補強既有 [[concepts/hofstede-cultural-dimensions]] / [[concepts/cultural-intelligence-CQ]]（MPQ 5 維度）
+- **Ch10 Ability**（92 頁）→ [[concepts/emotional-intelligence]]（Goleman 四維 + Air Force 3× hit rate + EI dark side）；Cognitive Ability + Physical Ability 子類整合於頁中
+
+### Group Mechanisms
+- **Ch11 Teams: Characteristics & Diversity**（109 頁）→ [[concepts/team-interdependence]]（Task 4 levels / Goal mission statement / Outcome reward sharing；Campion-Medsker-Higgs 1993 meta-analysis ~.30）+ 5 team types + Big Five 在團隊中的不對稱效應
+- **Ch12 Teams: Processes & Communication**（127 頁）→ [[concepts/groupthink]]（180+ 旅行社團隊倒 U 型 + Bezos Have Backbone）+ [[concepts/transactive-memory]]（誰知道什麼 / MWH-IBM-Solvay 社網 mapping）
+- **Ch13 Leadership: Power & Negotiation**（98 頁）→ [[concepts/power-bases]]（5 bases × Org/Personal + 4 contingency factors）+ [[concepts/influence-tactics]]（9 tactics × 3 levels；Rational Persuasion 唯一 upward 有效）+ [[concepts/conflict-resolution-styles]]（Thomas-Kilmann + BATNA / distributive vs integrative negotiation）
+- **Ch14 Leadership: Styles & Behaviors**（84 頁）→ [[concepts/transformational-leadership]]（4 I model + Full Range spectrum + charisma 60% genetic）+ [[concepts/leader-member-exchange]]（ingroup/outgroup dyadic + 跨文化 boundary）
+
+## 章節 → Integrated Model 層對照
+
+| Layer | 章節 |
+|---|---|
+| Individual Outcomes | Ch2 [[concepts/job-performance]] / Ch3 [[concepts/organizational-commitment]] |
+| Individual Mechanisms | Ch4-8（Job Sat / Stress / Motivation / Trust-Justice-Ethics / Learning & Decision Making）|
+| Individual Characteristics | Ch9 Personality + Cultural Values / Ch10 Ability |
+| Group Mechanisms | Ch11-12 Teams / Ch13-14 Leadership |
 
 ## 與其他 wiki 主題的連結
 
-| Wiki 主題 | 相關章節（推測）|
+| 既有 wiki 概念 | 新 Ch3-14 連結 |
 |---|---|
-| [[concepts/OKR]]、[[concepts/performance-management]] | 多半在 Motivation / Goal-setting 章 |
-| [[concepts/agile-organization]] | 與 Org Structure 章對話 |
-| [[concepts/cross-cultural-management]] | Personality & Cultural Values 章 |
-| [[concepts/cultural-intelligence-CQ]] | Personality & Cultural Values + International OB |
+| [[concepts/OKR]] / [[concepts/MBO]] | [[concepts/goal-setting-theory]] / [[concepts/expectancy-theory]] |
+| [[concepts/agile-organization]] | [[concepts/transformational-leadership]] |
+| [[concepts/cross-cultural-management]] | [[concepts/big-five-personality]] + Ch9 GLOBE |
+| [[concepts/cultural-intelligence-CQ]] | [[concepts/emotional-intelligence]]（跨文化 EI 變體） |
+| [[concepts/forced-ranking]] | [[concepts/organizational-justice]] procedural justice |
+| [[concepts/citizenship-fatigue]] | [[concepts/EVLN-framework]] Voice |
 
 ## Ingest TODO
 
 - ✅ Ch1（done 2026-05-05、commit `0bcb17f` audit）
 - ✅ Ch2 Job Performance（done 2026-05-20；**第一輪** commit `4d31e72` 雙 subagent + **第二輪深耕**同日 8 subagent × 21 頁細分 → 7 個概念頁覆蓋三維度全展開）
-- **Ch3 Organizational Commitment**（131 頁，下一個 priority）
-- **Ch4+ 待 ingest**：依 Integrated Model 順序（Individual Mechanisms → Group → Organizational）
+- ✅ **Ch3-14 全 12 章**（done 2026-05-20，12 parallel subagent / 1,344 頁 / 20 新 concept page）
+- **全書 14 章 ingest 完成**。下一步可進入 wiki-challenge 階段（draft → challenged）
 
 ## Open Questions
 
@@ -125,21 +220,44 @@ Ch1 內案例（Hyundai/Kia 品質逆轉、Nvidia 文化、Wegmans、Google PiLa
 |---|---|---|---|---|
 | `Colquitt-OB-Ch1` | Ch1.pdf.pdf | 125 | `e28842b2…` | commit `0bcb17f` |
 | `Colquitt-OB-Ch2` | Ch2.pdf.pdf | 166 | `9f2f0601…` | commit `4d31e72` |
+| `Colquitt-OB-Ch3` | Ch3.pdf.pdf | 131 | `ed0ebaa5…` | this session |
+| `Colquitt-OB-Ch4` | Ch4.pdf.pdf | 115 | `a2741f0d…` | this session |
+| `Colquitt-OB-Ch5` | Ch5.pdf.pdf | 113 | `5be8828c…` | this session |
+| `Colquitt-OB-Ch6` | Ch6.pdf.pdf | 120 | `10918fd0…` | this session |
+| `Colquitt-OB-Ch7` | Ch7.pdf.pdf | 122 | `d6ba8590…` | this session |
+| `Colquitt-OB-Ch8` | Ch8.pdf.pdf | 115 | `6f3ef757…` | this session |
+| `Colquitt-OB-Ch9` | Ch9.pdf.pdf | 118 | `fc602507…` | this session |
+| `Colquitt-OB-Ch10` | Ch10.pdf.pdf | 92 | `ea786168…` | this session |
+| `Colquitt-OB-Ch11` | Ch11.pdf.pdf | 109 | `f38e8f29…` | this session |
+| `Colquitt-OB-Ch12` | Ch12.pdf.pdf | 127 | `9ffd6913…` | this session |
+| `Colquitt-OB-Ch13` | Ch13.pdf.pdf | 98 | `d5ad7745…` | this session |
+| `Colquitt-OB-Ch14` | Ch14.pdf.pdf | 84 | `af277041…` | this session |
 
 ## Related
 
+### Ch1 核心
 - [[concepts/organizational-behavior]]
-- [[concepts/job-performance]]
-- [[concepts/task-performance]]
-- [[concepts/organizational-citizenship-behavior]]
-- [[concepts/counterproductive-workplace-behavior]]
-- [[concepts/job-analysis]]
-- [[concepts/MBO]]
-- [[concepts/forced-ranking]]
-- [[concepts/VRIO-framework]]
-- [[concepts/porters-five-forces]]
-- [[concepts/rule-of-one-eighth]]
-- [[concepts/scientific-method-OB]]
-- [[concepts/learning-from-failure]]
-- [[concepts/contingency-approach]]
+- [[concepts/VRIO-framework]] / [[concepts/porters-five-forces]] / [[concepts/rule-of-one-eighth]]
+- [[concepts/scientific-method-OB]] / [[concepts/learning-from-failure]] / [[concepts/contingency-approach]]
+
+### Ch2-3 Individual Outcomes
+- [[concepts/job-performance]] / [[concepts/task-performance]] / [[concepts/organizational-citizenship-behavior]] / [[concepts/counterproductive-workplace-behavior]] / [[concepts/job-analysis]] / [[concepts/MBO]] / [[concepts/forced-ranking]]
+- [[concepts/organizational-commitment]] / [[concepts/EVLN-framework]]
+
+### Ch4-8 Individual Mechanisms
+- [[concepts/job-satisfaction]] / [[concepts/job-characteristics-theory]]
+- [[concepts/stress]]
+- [[concepts/expectancy-theory]] / [[concepts/goal-setting-theory]] / [[concepts/equity-theory]]
+- [[concepts/trust]] / [[concepts/organizational-justice]]
+- [[concepts/bounded-rationality]] / [[concepts/decision-making-biases]] / [[concepts/escalation-of-commitment]]
+
+### Ch9-10 Individual Characteristics
+- [[concepts/big-five-personality]] / [[concepts/emotional-intelligence]]
+
+### Ch11-14 Group Mechanisms
+- [[concepts/team-interdependence]] / [[concepts/groupthink]] / [[concepts/transactive-memory]]
+- [[concepts/power-bases]] / [[concepts/influence-tactics]] / [[concepts/conflict-resolution-styles]]
+- [[concepts/transformational-leadership]] / [[concepts/leader-member-exchange]]
+
+### 課程關聯
 - [[entities/wen-jin-feng]]

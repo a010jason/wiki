@@ -1,6 +1,6 @@
 ---
 title: Hot Cache
-updated: 2026-05-20T12:55+08:00
+updated: 2026-05-20T15:00+08:00
 ---
 
 # Hot Cache
@@ -9,6 +9,7 @@ updated: 2026-05-20T12:55+08:00
 
 ## Recent Activity
 
+- [2026-05-20 15:00] INGEST — **Colquitt OB Ch3-14 完整 ingest（12 章 / 1,344 頁 / 12 parallel subagent）**：分 2 wave（Ch3-8 + Ch9-14）一次性 distill 全書下半段。20 新概念頁覆蓋 Individual Outcomes（organizational-commitment + EVLN-framework）→ Individual Mechanisms（job-satisfaction + JCT、stress、Vroom expectancy + Locke goal-setting + Adams equity、trust + organizational-justice、bounded-rationality + decision-making-biases + escalation-of-commitment）→ Individual Characteristics（big-five-personality + emotional-intelligence）→ Group Mechanisms（team-interdependence + groupthink + transactive-memory + 5 power/leadership 頁）。**全書 14 章 ingest 完成**。Ch5/7/9/10/12 subagent 自動降級 pdftotext L2-A
 - [2026-05-20 12:55] INGEST — Colquitt OB Ch2 **第二輪深耕**（同檔重 ingest）：8 個 subagent × 21 頁細分覆蓋 166 頁全部，補齊三維度展開。5 個新概念頁（task-performance / organizational-citizenship-behavior / job-analysis / MBO / forced-ranking）+ 2 更新（job-performance hub + reference 頁）。**Path B SOP 二次驗證**：8 個並行 subagent 全部完整讀完所屬頁數，五欄 distill 統一格式回傳；主 agent context 完整無慮
 - [2026-05-20 12:30] INGEST — Phase 2 大爆發：Grant 策略管理 Ch2-6 + Ch8-14（12 章 lecture slides，~145 頁），8 個新概念頁（balanced-scorecard / hypercompetition / resource-based-view / cooperation-vs-coordination / industry-life-cycle / dominant-design / transaction-cost-economics / CAGE-distance-framework）。**首次大規模驗證 path B subagent-first SOP**：9 個 subagent 並行，主 agent 從未渲染 PDF，全用 5 欄 distill template 統一回傳
 - [2026-05-20 12:30] INGEST — Colquitt OB Ch2 Job Performance 第一輪（166p / 10.8MB），雙 subagent 分批（pp.1-84 + pp.85-166）。新增 job-performance + counterproductive-workplace-behavior 兩個主概念頁。**前次 session 此章因主 agent context 爆掉作廢，本次採 v3 SOP 順利完成**
@@ -31,9 +32,9 @@ updated: 2026-05-20T12:55+08:00
 
 ## Active Threads
 
-- **Phase 2 ingest：** Grant 12 章 + Colquitt OB Ch2（兩輪：hub + 深耕）完成（2026-05-20）；剩餘大宗 = Colquitt OB Ch3-14（13 章 × 84-166 頁）+ Iansiti AoAI Ch2-10（需補源頭）。**path B subagent-first SOP 大規模驗證成功**
-- **path B SOP 經驗：** 9 個 subagent 並行 + 統一 5 欄 distill template = 主 agent context 完整無慮；單一 chapter slide 用 1 個 subagent、textbook chapter（>100p）用 2-6 個 subagent 分批；**深耕模式**可用 8 subagent × 21 頁細分提高 distillation 解析度
-- **下一輪 priority：** (a) Iansiti AoAI Ch2-10 源頭補檔（user input needed）；(b) Colquitt OB Ch3 Organizational Commitment（131p）；(c) Grant Ch7 Competitive Advantage 已在 source 但其概念已散在現有頁
+- **Phase 2 ingest：** Grant 12 章 + Colquitt OB Ch1-14（全 14 章）+ HBS GAFA / Iansiti / Moderna 完成；**Colquitt OB 全書 14 章 1,635 頁 ingest 完成**（2026-05-20）。剩餘大宗 = Iansiti AoAI Ch2-10（需補源頭）。**path B subagent-first SOP 在 12 parallel subagent 一次性 distill 1,344 頁的場景下完美驗證**
+- **path B SOP 經驗：** 12 個 subagent 並行 + 統一 5 欄 distill template = 主 agent context 完整無慮；分 2 wave（6+6）避免 throttling；遇 image-heavy slide 自動降級 pdftotext L2-A；textbook chapter（84-131p）每章 1 個 subagent 即可
+- **下一輪 priority：** (a) Iansiti AoAI Ch2-10 源頭補檔（user input needed）；(b) Colquitt OB 進入 wiki-challenge 階段（draft → challenged）— 對 transformational / EVLN / equity / cohesion 等 brittle claim 做質疑；(c) 考慮跑 wiki-synthesize 找跨章節主題
 - **Sources 路徑：** Google Drive `AI PM 資料/管理技能與策略/` ✅；hash 驗證全 match
 - **CLAUDE.md 結構決議：** B-pragmatic（content/ 為 vault root）✅
 - **Visibility filter（A）：** RemoveInternal plugin 已上 ✅
@@ -75,6 +76,14 @@ updated: 2026-05-20T12:55+08:00
 - **Forced Ranking 衰減曲線**：GE 20/70/10 制度，**前 1-2 年 +16% 生產力、第 3-4 年 +6%、第 10 年 ≈ 0%**；引發 zero-sum game、抑制合作、age-based 訴訟
 - **Improv as adaptive training**：American Express / Dupont / Google / Hilton / PepsiCo / MLB 採用；「Yes, and」+「Don't plan, just listen」反主流商管「先 plan 再執行」邏輯
 - **Pixar atrium 設計**：Steve Jobs 把廁所中央化迫使員工 casual interaction → "good things happen"；物理空間設計驅動 creative behavior 的工程化案例
+- **Three Types of Commitment (Allen-Meyer)**（Ch3）：Affective "want" / Continuance "need" / Normative "ought"；continuance commitment 與 OCB / performance **無統計關係** — 是 passive loyalty，不是動能
+- **Work Itself 是 satisfaction 最強 facet**（Ch4）：r=.70 vs Pay 只 .22 — 跟 commonsense「加薪能讓人滿意」反向
+- **Type A 不預測心臟病**（Ch5）：anger + hostility 才是真風險；workaholic / 急躁不必然傷心臟
+- **Goal-setting 倒 U 型**（Ch6）：specific + difficult > do-your-best；SMART 缺 Difficult；rational decision-maker 反而**更易** escalation of commitment
+- **EI 的 dark side**（Ch10）：高 EI 與 counterproductive work behaviors **正相關** — 高 EI ≠ 道德高
+- **Cohesion 倒 U 型**（Ch12）：180+ 旅行社團隊研究，過高 cohesion → groupthink → 績效下降；Bezos "Have Backbone; Disagree and Commit"
+- **Personal vs Organizational Power**（Ch13）：personal forms（expert + referent）增加 affective commitment；organizational forms（legitimate + reward + coercive）反而**降低**它
+- **Charisma 60% genetic**（Ch14）：transformational leadership 可訓練性有上限；Crisis 是 transformational emergence 的 boundary condition
 
 ## Flagged Contradictions
 

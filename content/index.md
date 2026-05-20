@@ -43,6 +43,29 @@ title: Jason 的知識庫
 - [[concepts/job-analysis]] — 識別 task performance 的三步驟方法論 + O*NET
 - [[concepts/MBO]] — Drucker / Intel 目標管理（OKR 前身）
 - [[concepts/forced-ranking]] — GE 20/70/10 + 衰減曲線 16% → 0%
+- [[concepts/organizational-commitment]] — Allen-Meyer Affective/Continuance/Normative 三類（Ch3）
+- [[concepts/EVLN-framework]] — Exit/Voice/Loyalty/Neglect + Stars/Citizens/Lone Wolves/Apathetics（Ch3）
+- [[concepts/job-satisfaction]] — Value-Percept + 5 facets，Work Itself r=.70 最強（Ch4）
+- [[concepts/job-characteristics-theory]] — Hackman-Oldham VISAF + SPS + GNS moderator（Ch4）
+- [[concepts/stress]] — Transactional Theory + Hindrance/Challenge × Work/Nonwork（Ch5）
+- [[concepts/expectancy-theory]] — Vroom VIE：E→P × P→O × V（Ch6）
+- [[concepts/goal-setting-theory]] — Locke-Latham 倒 U 型 + SMART 缺 Difficult 批判（Ch6）
+- [[concepts/equity-theory]] — Adams mental ledger + under/over-reward + cognitive distortion（Ch6）
+- [[concepts/trust]] — Disposition/Cognition/Affect 三類 + Trustworthiness ABI（Ch7）
+- [[concepts/organizational-justice]] — Distributive/Procedural/Interpersonal/Informational 四維（Ch7）
+- [[concepts/bounded-rationality]] — Simon satisficing + rational vs bounded（Ch8）
+- [[concepts/decision-making-biases]] — 6 heuristics + Kelley Attribution + debiasing 4 招（Ch8）
+- [[concepts/escalation-of-commitment]] — Concorde / United Denver 案 + rational decisionmaker 反易陷（Ch8）
+- [[concepts/big-five-personality]] — OCEAN + 35-49% 遺傳 + Conscientiousness 為 King + Integrity tests（Ch9）
+- [[concepts/emotional-intelligence]] — Goleman 4D + Air Force 3× hit rate + EI dark side（Ch10）
+- [[concepts/team-interdependence]] — Pooled/Sequential/Reciprocal/Comprehensive + mission statement（Ch11）
+- [[concepts/groupthink]] — 180+ 旅行社團隊倒 U 型 cohesion + Bezos Have Backbone（Ch12）
+- [[concepts/transactive-memory]] — 誰知道什麼分散記憶 + 社網 mapping 工具（Ch12）
+- [[concepts/power-bases]] — Legitimate/Reward/Coercive × Expert/Referent + 4 contingency（Ch13）
+- [[concepts/influence-tactics]] — 9 tactics × 3 levels + Internalization/Compliance/Resistance（Ch13）
+- [[concepts/conflict-resolution-styles]] — Thomas-Kilmann 5 styles + BATNA + integrative vs distributive（Ch13）
+- [[concepts/transformational-leadership]] — 4 I model + Full Range + charisma 60% genetic（Ch14）
+- [[concepts/leader-member-exchange]] — Dyadic ingroup/outgroup + 跨文化 boundary（Ch14）
 
 ### 管理 / 策略管理
 - [[concepts/strategy]] — 策略定義 + 4 ingredients of success + 兩個維度（positioning / direction）
@@ -79,7 +102,7 @@ title: Jason 的知識庫
 
 - [[references/measure-what-matters-doerr-2018]] — Doerr 把 OKR 從 Intel 推廣到 Google 的經典書
 - [[references/denning-2018-age-of-agile]] — Denning 整理敏捷三大法則 + 推動原則的學理骨幹
-- [[references/colquitt-OB-textbook]] — McGraw-Hill OB 教科書，已 ingest Ch1-2（Ch3-14 待續）
+- [[references/colquitt-OB-textbook]] — McGraw-Hill OB 教科書，**全書 14 章 ingest 完成**（Ch1-14 / 1,635 頁）
 - [[references/grant-contemporary-strategy-analysis]] — Wiley 策略管理教科書 11th ed，已 ingest Ch1-6 + Ch8-14（Ch7 部分概念已散見其他頁）
 
 ## Synthesis

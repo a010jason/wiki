@@ -384,12 +384,144 @@
       "note": "Colquitt OB Ch2 Job Performance — path B dual subagent (pp.1-84 + pp.85-166)",
       "pages_created": ["concepts/job-performance.md", "concepts/counterproductive-workplace-behavior.md"],
       "pages_updated": ["references/colquitt-OB-textbook.md"]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/Ch3.pdf.pdf": {
+      "ingested_at": "2026-05-20T15:00:00+08:00",
+      "size_bytes": 7000000,
+      "content_hash": "sha256:ed0ebaa5553041dda1c2eb38f23fd085bdc95a73952d556ff22d0a3799e23eb0",
+      "source_type": "document",
+      "ingest_method": "read-subagent",
+      "pages": 131,
+      "note": "Colquitt OB Ch3 Organizational Commitment — path B subagent",
+      "pages_created": ["concepts/organizational-commitment.md", "concepts/EVLN-framework.md"],
+      "pages_updated": ["references/colquitt-OB-textbook.md"]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/Ch4.pdf.pdf": {
+      "ingested_at": "2026-05-20T15:00:00+08:00",
+      "size_bytes": 11000000,
+      "content_hash": "sha256:a2741f0d09f81c52e243be02afe17fa4532a85ab9eacebac101391de3cf937ba",
+      "source_type": "document",
+      "ingest_method": "read-subagent",
+      "pages": 115,
+      "note": "Colquitt OB Ch4 Job Satisfaction — path B subagent",
+      "pages_created": ["concepts/job-satisfaction.md", "concepts/job-characteristics-theory.md"],
+      "pages_updated": ["references/colquitt-OB-textbook.md"]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/Ch5.pdf.pdf": {
+      "ingested_at": "2026-05-20T15:00:00+08:00",
+      "size_bytes": 9000000,
+      "content_hash": "sha256:5be8828c04ab8d59006f7f9f15aeb68a1572885b77c6bdeb2b5dbc113930c4ba",
+      "source_type": "document",
+      "ingest_method": "pdftotext",
+      "pages": 113,
+      "note": "Colquitt OB Ch5 Stress — path B subagent with L2-A pdftotext fallback",
+      "pages_created": ["concepts/stress.md"],
+      "pages_updated": ["references/colquitt-OB-textbook.md"]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/Ch6.pdf.pdf": {
+      "ingested_at": "2026-05-20T15:00:00+08:00",
+      "size_bytes": 5000000,
+      "content_hash": "sha256:10918fd06f24862cfee9655b8337be862170fe9e129112fd9dc8cf9021d8f9aa",
+      "source_type": "document",
+      "ingest_method": "read-subagent",
+      "pages": 120,
+      "note": "Colquitt OB Ch6 Motivation — path B subagent",
+      "pages_created": ["concepts/expectancy-theory.md", "concepts/goal-setting-theory.md", "concepts/equity-theory.md"],
+      "pages_updated": ["references/colquitt-OB-textbook.md"]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/Ch7.pdf.pdf": {
+      "ingested_at": "2026-05-20T15:00:00+08:00",
+      "size_bytes": 5000000,
+      "content_hash": "sha256:d6ba85907d1cc02a608d39370cdbdf81ef2dc99e35c3b891ccedb9768840cdbb",
+      "source_type": "document",
+      "ingest_method": "pdftotext",
+      "pages": 122,
+      "note": "Colquitt OB Ch7 Trust Justice Ethics — path B subagent with L2-A pdftotext fallback",
+      "pages_created": ["concepts/trust.md", "concepts/organizational-justice.md"],
+      "pages_updated": ["references/colquitt-OB-textbook.md"]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/Ch8.pdf.pdf": {
+      "ingested_at": "2026-05-20T15:00:00+08:00",
+      "size_bytes": 6298655,
+      "content_hash": "sha256:6f3ef757607a1a07fe6362cf20d615ce3e5ce631f4999bccff0ea139b35b3856",
+      "source_type": "document",
+      "ingest_method": "read-subagent",
+      "pages": 115,
+      "note": "Colquitt OB Ch8 Learning & Decision Making — path B subagent",
+      "pages_created": ["concepts/bounded-rationality.md", "concepts/decision-making-biases.md", "concepts/escalation-of-commitment.md"],
+      "pages_updated": ["references/colquitt-OB-textbook.md"]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/Ch9.pdf.pdf": {
+      "ingested_at": "2026-05-20T15:00:00+08:00",
+      "size_bytes": 8000000,
+      "content_hash": "sha256:fc60250742405bb340f1b5fd73261fc6f364a0f62b249e885c998659aa24974b",
+      "source_type": "document",
+      "ingest_method": "pdftotext",
+      "pages": 118,
+      "note": "Colquitt OB Ch9 Personality & Cultural Values — path B subagent with L2-A pdftotext fallback",
+      "pages_created": ["concepts/big-five-personality.md"],
+      "pages_updated": ["references/colquitt-OB-textbook.md"]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/Ch10.pdf.pdf": {
+      "ingested_at": "2026-05-20T15:00:00+08:00",
+      "size_bytes": 8000000,
+      "content_hash": "sha256:ea786168a2fbf7d740bfa8f0e6d0d42b0f72f2bb494e1c683ca2d1b5c2b3c0f0",
+      "source_type": "document",
+      "ingest_method": "pdftotext",
+      "pages": 92,
+      "note": "Colquitt OB Ch10 Ability — path B subagent with L2-A pdftotext fallback",
+      "pages_created": ["concepts/emotional-intelligence.md"],
+      "pages_updated": ["references/colquitt-OB-textbook.md"]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/Ch11.pdf.pdf": {
+      "ingested_at": "2026-05-20T15:00:00+08:00",
+      "size_bytes": 8000000,
+      "content_hash": "sha256:f38e8f295a384968ee6127308dd51d3d2c18ad8d0f23227a0d5cebda13ff0e47",
+      "source_type": "document",
+      "ingest_method": "read-subagent",
+      "pages": 109,
+      "note": "Colquitt OB Ch11 Teams: Characteristics & Diversity — path B subagent",
+      "pages_created": ["concepts/team-interdependence.md"],
+      "pages_updated": ["references/colquitt-OB-textbook.md"]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/Ch12.pdf.pdf": {
+      "ingested_at": "2026-05-20T15:00:00+08:00",
+      "size_bytes": 7000000,
+      "content_hash": "sha256:9ffd69134a0c64aac8a112596a9339bead5c14be1723215bcb33f015b87cf954",
+      "source_type": "document",
+      "ingest_method": "pdftotext",
+      "pages": 127,
+      "note": "Colquitt OB Ch12 Teams: Processes & Communication — path B subagent with L2-A pdftotext fallback",
+      "pages_created": ["concepts/groupthink.md", "concepts/transactive-memory.md"],
+      "pages_updated": ["references/colquitt-OB-textbook.md"]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/Ch13.pdf.pdf": {
+      "ingested_at": "2026-05-20T15:00:00+08:00",
+      "size_bytes": 6923577,
+      "content_hash": "sha256:d5ad7745cc90ab0198749d4a30a8df8eeaaefcaa15874d3bdd76864b637aa2fb",
+      "source_type": "document",
+      "ingest_method": "read-subagent",
+      "pages": 98,
+      "note": "Colquitt OB Ch13 Leadership: Power & Negotiation — path B subagent",
+      "pages_created": ["concepts/power-bases.md", "concepts/influence-tactics.md", "concepts/conflict-resolution-styles.md"],
+      "pages_updated": ["references/colquitt-OB-textbook.md"]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/Ch14.pdf.pdf": {
+      "ingested_at": "2026-05-20T15:00:00+08:00",
+      "size_bytes": 5000000,
+      "content_hash": "sha256:af277041df3fa9bd5b339b4bb46428a6bd4ee83eb8532f282225c633b0aaf7fa",
+      "source_type": "document",
+      "ingest_method": "read-subagent",
+      "pages": 84,
+      "note": "Colquitt OB Ch14 Leadership: Styles & Behaviors — path B subagent",
+      "pages_created": ["concepts/transformational-leadership.md", "concepts/leader-member-exchange.md"],
+      "pages_updated": ["references/colquitt-OB-textbook.md"]
     }
   },
   "projects": {},
   "stats": {
-    "total_sources_ingested": 22,
-    "total_pages": 82,
+    "total_sources_ingested": 34,
+    "total_pages": 1426,
     "total_projects": 0,
     "last_full_rebuild": null
   }
