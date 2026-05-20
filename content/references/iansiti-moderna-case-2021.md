@@ -130,7 +130,7 @@ CNN/CNBC 採訪間隙，Bancel 與 Afeyan 短暫休息：mRNA-1273 剛宣布進�
 
 ## Sources
 
-- HBS Case 9-621-032, Iansiti / Lakhani / Mayer / Herman, July 13 2021
+- HBS Case 9-621-032, Iansiti / Lakhani / Mayer / Herman, July 13 2021 — [HBSP 頁面](https://hbsp.harvard.edu/product/621032-PDF-ENG)
 - 中譯版 NCTU 621-032，唐瓔璋編譯，2021
 - Jason 課堂手寫邊注（「數位化!!」「共享資源」「資源整合，沒辦法 Silo」「層級不同、使命不同、風景不同」）
 - Ingest 日期：2026-05-06；hash `dd7e5315...`；21 頁全文讀取無截斷

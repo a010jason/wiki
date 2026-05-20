@@ -6,6 +6,7 @@ tags: [strategy, textbook, reference, mgmt]
 aliases: [Grant strategy textbook, Contemporary Strategy Analysis]
 sources:
   - textbook:Grant-Contemporary-Strategy-Analysis-11ed-Wiley-2022
+source_url: TBD
 created: 2026-05-05
 updated: 2026-05-20
 summary: >-

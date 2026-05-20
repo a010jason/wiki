@@ -6,6 +6,7 @@ tags: [agile, book, reference, mgmt]
 aliases: [Denning 2018, Age of Agile]
 sources:
   - lecture:2023-08-20-溫金豐-敏捷組織與敏捷方法
+source_url: TBD
 created: 2026-05-05
 updated: 2026-05-05
 summary: >-

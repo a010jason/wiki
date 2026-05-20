@@ -4,6 +4,7 @@ type: reference
 domain: marketing
 tags: [textbook, marketing, kotler, manifest, mgmt]
 aliases: [Kotler 16e, Marketing Management 16e, MM 16e]
+source_url: TBD
 created: 2026-05-20
 updated: 2026-05-20
 summary: >-

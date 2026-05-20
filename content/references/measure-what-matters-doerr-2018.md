@@ -6,6 +6,7 @@ tags: [OKR, book, reference, mgmt]
 aliases: [Doerr 2018, Measure What Matters]
 sources:
   - lecture:2023-08-20-溫金豐-OKR-管理技能發展專題
+source_url: TBD
 created: 2026-05-05
 updated: 2026-05-05
 summary: >-
