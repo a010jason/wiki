@@ -6,6 +6,7 @@ tags: [strategy, AI, digital-transformation, hbr, reference, mgmt]
 aliases: [Competing in the Age of AI, Iansiti Lakhani 2020, Iansiti book]
 sources:
   - book:Iansiti-Lakhani-Competing-Age-of-AI-HBR-2020-Ch1
+source_url: TBD
 created: 2026-05-06
 updated: 2026-05-06
 summary: >-
@@ -127,6 +128,6 @@ ingest_method: pdf-read-chunked
 
 ## Sources
 
-- Iansiti & Lakhani (2020) Ch1, Harvard Business Review Press — `source_url: TBD`（待補 Drive 連結）
+- Iansiti & Lakhani (2020) Ch1, Harvard Business Review Press
 - 中譯版資訊：尚未確認此書是否有繁中譯本（待查）^[ambiguous]
 - Ingest 日期：2026-05-06；hash `20c766b1...`；24 頁全文讀取無截斷

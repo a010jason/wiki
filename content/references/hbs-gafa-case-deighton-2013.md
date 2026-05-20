@@ -7,6 +7,7 @@ aliases: [GAFA case, GAFA HBS case, Deighton GAFA, 516-C05, 9-513-060]
 sources:
   - textbook:HBS-Case-9-513-060-GAFA-Deighton-Kornfeld-2013
   - translation:NCTU-516-C05-Tang-2015
+source_url: TBD
 created: 2026-05-06
 updated: 2026-05-06
 summary: >-
@@ -113,6 +114,6 @@ ingest_method: pdf-read-chunked
 
 ## Sources
 
-- HBS Case 9-513-060, John Deighton & Leora Kornfeld, December 12, 2013 — [HBSP 頁面](https://hbsp.harvard.edu/product/513060-PDF-ENG)
+- HBS Case 9-513-060, John Deighton & Leora Kornfeld, December 12, 2013
 - NCTU 516-C05 中譯版，唐瓔璋編譯，2015
 - Ingest 日期：2026-05-06；hash `c2b3f607...`；19 頁全文讀取無截斷

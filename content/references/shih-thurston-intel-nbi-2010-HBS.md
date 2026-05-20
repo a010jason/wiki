@@ -6,6 +6,7 @@ tags: [case-study, hbs, corporate-venturing, innovation, intel, mgmt]
 aliases: [Intel NBI case, HBS 9-609-043, Shih Thurston 2010]
 sources:
   - case:Shih-Thurston-2010-Intel-NBI-A-HBS-9-609-043
+source_url: TBD
 created: 2026-05-20
 updated: 2026-05-20
 summary: >-
@@ -167,6 +168,6 @@ HBS 9-611-072（2011）為 (B) 版本續集^[inferred]，本 ingest 暫未涵蓋
 
 ## Sources
 
-- Shih, W. C., & Thurston, T. (2010). *Intel NBI: Intel Corporation's New Business Initiatives (A)* (Case 9-609-043, Rev. December 6, 2010). Harvard Business School. — [HBSP 頁面](https://hbsp.harvard.edu/product/609043-PDF-ENG)
+- Shih, W. C., & Thurston, T. (2010). *Intel NBI: Intel Corporation's New Business Initiatives (A)* (Case 9-609-043, Rev. December 6, 2010). Harvard Business School.
 - 講義整理：陽明交大 EMBA 策略管理課程（2024/4/9 版講義）
 - Ingest 日期：2026-05-20；hash `f07fa9d0...`；9 頁全文讀取無截斷
