@@ -73,3 +73,6 @@ public/
 # Evernote .enex exports, raw note dumps, etc. Ingest via wiki-ingest, don't commit.
 evernote/
 *.enex
+
+# --- Session handoff docs (per-session, internal use, not vault content) ---
+HANDOFF-*.md
