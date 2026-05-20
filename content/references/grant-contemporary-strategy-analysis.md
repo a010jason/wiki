@@ -6,7 +6,6 @@ tags: [strategy, textbook, reference, mgmt]
 aliases: [Grant strategy textbook, Contemporary Strategy Analysis]
 sources:
   - textbook:Grant-Contemporary-Strategy-Analysis-11ed-Wiley-2022
-source_url: TBD
 created: 2026-05-05
 updated: 2026-05-20
 summary: >-
@@ -136,6 +135,25 @@ Audit 動機：第一輪 ingest 把多個獨立概念塞在 competitive-advantag
 - 比 Porter 更整合（涵蓋 RBV + I/O + dynamic capabilities）
 - 比 Mintzberg 更結構化（適合教科書）
 - 比 Christensen 更實務應用
+
+## Sources
+
+| 章節 | 檔案 | Drive |
+|---|---|---|
+| Ch01 | ch01_Concept of strategy.pdf.pdf | [Google Drive](https://drive.google.com/file/d/1QFhpS2bQqHpJ0pNuHcULkVqnLiKHQWRt/view) |
+| Ch02 | ch02_Goals, Values, and performance.pdf.pdf | [Google Drive](https://drive.google.com/file/d/1Ac-6G6AHhXsA8ujnilSOxddEZjudRtzg/view) |
+| Ch03 | ch03_Industry Analysis.pdf.pdf | [Google Drive](https://drive.google.com/file/d/1qis7f8FOjAhVd5VOv-7Q7HnrGklY67XX/view) |
+| Ch04 | ch04_Competitive Analysis.pdf.pdf | [Google Drive](https://drive.google.com/file/d/1ksOU9gleCTUn_wYOUt6xgNNBC1aMEDvr/view) |
+| Ch05 | ch05_Resources Capability.pdf.pdf | [Google Drive](https://drive.google.com/file/d/16lXOoWuXp6GxxEEzVXIusWyIncLk73Q1/view) |
+| Ch06 | ch06_Organization Structure.pdf.pdf | [Google Drive](https://drive.google.com/file/d/1POC4f6I68424iHGy09etpXc7zIDtXgEh/view) |
+| Ch07 | ch07_Competitive Advantage.pdf.pdf | [Google Drive](https://drive.google.com/file/d/1R_rtnOhkAD4bRqvPUlLIyWVR7hTxmdZK/view) |
+| Ch08 | ch08-Evolution strategic changes.pdf.pdf | [Google Drive](https://drive.google.com/file/d/1UFcNTYo3UK2tOHc4xoJ-wHm8alRTmw5Z/view) |
+| Ch09 | ch09_Innovations.pdf.pdf | [Google Drive](https://drive.google.com/file/d/157vW2PLNNGoastjrbpwdrZVEwYT2RiQC/view) |
+| Ch10 | ch10_Vertical Integration_S.pdf.pdf | [Google Drive](https://drive.google.com/file/d/1Yh1f3bJ7SLJ_-VQrIxg8GQKv8KSRm2YH/view) |
+| Ch11 | ch11_Global Strategy.pdf.pdf | [Google Drive](https://drive.google.com/file/d/12qbZyx51aLcJFMFVh2Q854MDT_8AR_JY/view) |
+| Ch12 | ch12_Diversification.pdf.pdf | [Google Drive](https://drive.google.com/file/d/1Gq-4Xc8ABFAcu6F2DVVh0X-jYnG4emlx/view) |
+| Ch13 | ch13_Multibusiness.pdf.pdf | [Google Drive](https://drive.google.com/file/d/1r8ESl6a8bwqxa3E31NgxHSdEcL9vkQnn/view) |
+| Ch14 | ch14_current trends_S.pdf.pdf | [Google Drive](https://drive.google.com/file/d/1vJGHcrPb2eRed-9fu518oY6H0rwJZDDM/view) |
 
 ## Open Questions
 

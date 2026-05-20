@@ -7,7 +7,7 @@ aliases: [Moderna case, HBS 9-621-032, Moderna A, 莫德納案例]
 sources:
   - textbook:HBS-Case-9-621-032-Moderna-Iansiti-Lakhani-Mayer-Herman-2021
   - translation:NCTU-621-032-Tang-2021
-source_url: TBD
+source_url: https://drive.google.com/file/d/1awZYCYt0u8LWuxA15Bk7Wpu9cwJcR81i/view
 created: 2026-05-06
 updated: 2026-05-06
 summary: >-
@@ -135,3 +135,7 @@ CNN/CNBC 採訪間隙，Bancel 與 Afeyan 短暫休息：mRNA-1273 剛宣布進�
 - 中譯版 NCTU 621-032，唐瓔璋編譯，2021
 - Jason 課堂手寫邊注（「數位化!!」「共享資源」「資源整合，沒辦法 Silo」「層級不同、使命不同、風景不同」）
 - Ingest 日期：2026-05-06；hash `dd7e5315...`；21 頁全文讀取無截斷
+
+| 檔案 | Drive |
+|---|---|
+| 6Moderna_S.pdf.pdf | [Google Drive](https://drive.google.com/file/d/1awZYCYt0u8LWuxA15Bk7Wpu9cwJcR81i/view) |

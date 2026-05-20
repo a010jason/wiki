@@ -6,7 +6,7 @@ tags: [OKR, book, reference, mgmt]
 aliases: [Doerr 2018, Measure What Matters]
 sources:
   - lecture:2023-08-20-溫金豐-OKR-管理技能發展專題
-source_url: TBD
+source_url: https://drive.google.com/file/d/1L9RJklJQ14frwSRNRLayUoFr9hLCUA50/view
 created: 2026-05-05
 updated: 2026-05-05
 summary: >-
@@ -43,6 +43,12 @@ OKR 的源頭可追溯到 Intel 的 Andy Grove，但**讓 OKR 廣為人知的關
 
 - **本 wiki 尚未直接 ingest 此書**，目前所有引用都是透過 [[entities/wen-jin-feng]] 2023/8/20 課程的二次引述。^[extracted]
 - 需要時再補充直接 ingest 的內容。
+
+## Sources
+
+| 檔案 | Drive |
+|---|---|
+| 0820-OKR-講義.pdf（溫金豐課程講義） | [Google Drive](https://drive.google.com/file/d/1L9RJklJQ14frwSRNRLayUoFr9hLCUA50/view) |
 
 ## Related
 

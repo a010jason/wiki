@@ -4,7 +4,6 @@ type: reference
 domain: marketing
 tags: [textbook, marketing, kotler, manifest, mgmt]
 aliases: [Kotler 16e, Marketing Management 16e, MM 16e]
-source_url: TBD
 created: 2026-05-20
 updated: 2026-05-20
 summary: >-
@@ -25,16 +24,16 @@ Philip Kotler、Kevin Lane Keller、Alexander Chernev 合著的《Marketing Mana
 
 Phase 2 Wave 1（2026-05-20）已 ingest 8 章：
 
-| 章 | 主題 | 頁數 | ingest_method | hash (short) |
-|---|---|---|---|---|
-| Ch01 | Defining Marketing for the New Realities | 43 | read-subagent | 5893e89c |
-| Ch02 | Marketing Planning and Management | 41 | read-main | 7e746de4 |
-| Ch03 | Analyzing Consumer Markets | 35 | read-main + pdftotext | 419b26ad |
-| Ch04 | Analyzing Business Markets | 33 | read-main | f515ed4f |
-| Ch05 | Conducting Marketing Research | 41 | pdftotext (L2-A) | 81f4c175 |
-| Ch06 | Identifying Market Segments and Target Customers | 34 | read-subagent | d27d9600 |
-| Ch07 | Crafting a Customer Value Proposition and Positioning | 26 | read-main | c0190204 |
-| Ch08 | Designing and Managing Products (PSB series 1/3 = Product) | 23 | read-main | 69363973 |
+| 章 | 主題 | 頁數 | ingest_method | hash (short) | Drive |
+|---|---|---|---|---|---|
+| Ch01 | Defining Marketing for the New Realities | 43 | read-subagent | 5893e89c | [↗](https://drive.google.com/file/d/1FMeRj0BQS7COIPiVl_6QWIWFSPa1DTeV/view) |
+| Ch02 | Marketing Planning and Management | 41 | read-main | 7e746de4 | [↗](https://drive.google.com/file/d/1ZQWV-PG9yjTaBJQ-jFIp5pbEc5oKLtTl/view) |
+| Ch03 | Analyzing Consumer Markets | 35 | read-main + pdftotext | 419b26ad | [↗](https://drive.google.com/file/d/139ff6YnC6MVVOyvlnsh2Aa6NdgSiiyvV/view) |
+| Ch04 | Analyzing Business Markets | 33 | read-main | f515ed4f | [↗](https://drive.google.com/file/d/1-ynQW-t8gwJ8N1VdCQwT25ClyHFQKTl-/view) |
+| Ch05 | Conducting Marketing Research | 41 | pdftotext (L2-A) | 81f4c175 | [↗](https://drive.google.com/file/d/1APjVpWCazp7Q2HOlf6gNK5ZP3ZxKs0yl/view) |
+| Ch06 | Identifying Market Segments and Target Customers | 34 | read-subagent | d27d9600 | [↗](https://drive.google.com/file/d/1huMadgs7jt6yHUToPuUXzyC1gPtbB3dV/view) |
+| Ch07 | Crafting a Customer Value Proposition and Positioning | 26 | read-main | c0190204 | [↗](https://drive.google.com/file/d/16cHXlMbgp01E6A4acmre3e7syEbTKs3s/view) |
+| Ch08 | Designing and Managing Products (PSB series 1/3 = Product) | 23 | read-main | 69363973 | [↗](https://drive.google.com/file/d/17qzq4wHU-4bB3UBU4_s19b8s_d1FTska/view) |
 
 **未 ingest 章節（源頭已有，待 Wave 2/3）：** Ch09 / Ch10 / Ch11 / Ch17 / Ch18（已知有 PDF）
 

@@ -6,7 +6,7 @@ tags: [agile, book, reference, mgmt]
 aliases: [Denning 2018, Age of Agile]
 sources:
   - lecture:2023-08-20-溫金豐-敏捷組織與敏捷方法
-source_url: TBD
+source_url: https://drive.google.com/file/d/1aWr3mJjEXtwE6dSA2CavSQevH6kIJXou/view
 created: 2026-05-05
 updated: 2026-05-05
 summary: >-
@@ -46,6 +46,12 @@ lifecycle_changed: 2026-05-05
 - 比 Niven on OKR（[[references/measure-what-matters-doerr-2018]]）更**敏捷導向**而非目標管理導向
 
 → ingest 順序建議：先 Agile Manifesto → Denning 2018 → Rigby 等 HBR 文章。^[inferred]
+
+## Sources
+
+| 檔案 | Drive |
+|---|---|
+| 0820-Agile Org-講義.pdf（溫金豐課程講義） | [Google Drive](https://drive.google.com/file/d/1aWr3mJjEXtwE6dSA2CavSQevH6kIJXou/view) |
 
 ## When to Read
 
