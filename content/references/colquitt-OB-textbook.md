@@ -69,6 +69,12 @@ Ch1 內案例（Hyundai/Kia 品質逆轉、Nvidia 文化、Wegmans、Google PiLa
 | [[concepts/cross-cultural-management]] | Personality & Cultural Values 章 |
 | [[concepts/cultural-intelligence-CQ]] | Personality & Cultural Values + International OB |
 
+## Ingest TODO
+
+- ⚠️ **Ch1 audit 缺漏未回補**：commit `0bcb17f` 的 audit 顯示 125 頁只讀了 70 頁，剩下 ~55 頁未 ingest。下次跑 Ch1 補完時走路徑 B（subagent）。
+- **Ch2 待 ingest**：前次 session 嘗試過、產出 14 頁 wiki 後因主 agent context 爆掉作廢；新 SOP v3 強制路徑 B（125 頁 > 100 門檻）。
+- **Ch3+ 待 ingest**：依 Integrated Model 順序（Individual Outcomes → Mechanisms → Group → Organizational）。
+
 ## Open Questions
 
 - 確切版次與作者 ^[ambiguous]
