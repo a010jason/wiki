@@ -14,6 +14,20 @@
 
 ---
 
+## Source 路徑常數
+
+`PDF_ROOT` 是課程 / 教科書 PDF 的本機根目錄（Google Drive 本機掛載）。所有 reference manifest 的 `sources[].rel_path` 都是相對於這個根：
+
+```
+PDF_ROOT = /Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略
+```
+
+**完整路徑 = `PDF_ROOT` + `/` + `rel_path`**。Subagent 用這個拼出絕對路徑後直接 `Read`。
+
+換電腦或 Google Drive 改掛載點時，只改這裡一個地方，全 wiki manifest 不必動。
+
+---
+
 ## Namespace 規範（9 個 + 2 個 underscore）
 
 | Namespace | 放什麼 | 例子 |

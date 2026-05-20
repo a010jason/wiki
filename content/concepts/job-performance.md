@@ -48,6 +48,8 @@ Job Performance =
 
 ### Task Performance 三亞型
 
+**展開頁：[[concepts/task-performance]]** — Routine / Adaptive / Creative 完整分解 + Improv 訓練法 + Pixar/Disney 四原則。
+
 | 亞型 | 條件 | 例 |
 |---|---|---|
 | **Routine** | 穩定環境、well-known response | 飛安示範、烤鴨 SOP、GM Lordstown 車門佈線 |
@@ -70,13 +72,15 @@ Pixar Steve Jobs 設計總部 atrium 把 mailbox / 會議室 / 廁所集中中�
 
 ### Counterproductive Behavior（CWB）
 
-[[concepts/counterproductive-workplace-behavior]]：有意阻礙組織目標的行為，Robinson-Bennett (1995) 二維分類（嚴重程度 × 對象）形成四象限。
+**展開頁：[[concepts/counterproductive-workplace-behavior]]** — Robinson-Bennett (1995) 二維分類（嚴重程度 × 對象）形成四象限。
 
 **重要 boundary**：CWB 與 task performance **僅弱負相關** —— 高績效員工也可能是 bad apple。^[extracted]
 
 ## Job Analysis（識別 task performance 的方法論）
 
-三步驟：^[extracted]
+**展開頁：[[concepts/job-analysis]]** — 三步驟方法論 + O*NET 工具 + 教學簡化版四步驟。
+
+三步驟簡述：^[extracted]
 1. 列出活動清單（observation / survey / interview）
 2. SMEs 依 importance + frequency 打分
 3. 高分活動保留 → 用於 training learning objectives 與 performance evaluation
@@ -91,15 +95,17 @@ Choi et al. 法學院實驗：GPT-4 對 bottom-class 學生提升大；對 **top
 
 ## Performance Management 工具（5 種）
 
-| 工具 | 強項 | 弱項 |
-|---|---|---|
-| **MBO**（Drucker / Intel） | 客觀、cascading 順暢 | 只看結果不看行為 |
-| **BARS** | 行為錨點化，直接評行為 | 設計成本高 |
-| **360-degree feedback** | 多源、適合 development | 不適合 reward |
-| **Social networking systems**（Accenture Performance Multiplier、Rypple） | real-time | 文化變革難 |
-| **Forced Ranking**（GE / Jack Welch） | 短期 16% productivity 提升 | 3-4 年降到 6%、10 年趨近 0；引發 lawsuit |
+| 工具 | 強項 | 弱項 | 展開頁 |
+|---|---|---|---|
+| **[[concepts/MBO\|MBO]]**（Drucker / Intel） | 客觀、cascading 順暢 | 只看結果不看行為 | [[concepts/MBO]] |
+| **BARS** | 行為錨點化，直接評行為 | 設計成本高 | — |
+| **360-degree feedback** | 多源、適合 development | 不適合 reward | — |
+| **Social networking systems**（Accenture Performance Multiplier、Rypple） | real-time | 文化變革難 | — |
+| **[[concepts/forced-ranking\|Forced Ranking]]**（GE / Jack Welch） | 短期 16% productivity 提升 | 3-4 年降到 6%、10 年趨近 0；引發 lawsuit | [[concepts/forced-ranking]] |
 
 Tesco 用 360-degree 配合 'Leaders at Tesco' training；Accenture 從 annual review 轉到「performance achievement」real-time feedback。^[extracted]
+
+更上層的 evaluation vs development 兩條路線分類見 [[concepts/performance-management]]。
 
 ## 跨文化差異
 
@@ -116,9 +122,12 @@ Korean 員工 majority 質疑自身 performance evaluation 的效度 —— form
 
 ## Related
 
-- [[concepts/organizational-citizenship-behavior]] — OCB 五子向度
+- [[concepts/task-performance]] — Routine / Adaptive / Creative 三亞型展開
+- [[concepts/organizational-citizenship-behavior]] — OCB 六子向度
 - [[concepts/counterproductive-workplace-behavior]] — CWB 四象限
-- [[concepts/citizenship-fatigue]] — OCB 的 boundary
-- [[concepts/performance-management]] — 母概念
+- [[concepts/job-analysis]] — 識別 task performance 行為的方法
+- [[concepts/MBO]] — Drucker / Intel 目標管理（OKR 前身）
+- [[concepts/forced-ranking]] — GE 20/70/10 與其長期失效
+- [[concepts/performance-management]] — evaluation vs development 兩條路線
 - [[concepts/OKR]] / [[concepts/KPI]] / [[concepts/balanced-scorecard]] — 績效工具家族
 - [[references/colquitt-OB-textbook]] — Ch2 源頭

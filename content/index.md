@@ -37,7 +37,12 @@ title: Jason 的知識庫
 - [[concepts/contingency-approach]] — There Are Few Absolutes in OB；x → y under z
 - [[concepts/learning-from-failure]] — 5 條從失敗學習原則（高壓 / 失敗未必壞 / root cause / 獎勵承認 / 獎勵實驗）
 - [[concepts/job-performance]] — Task / Citizenship / Counterproductive 三維（Colquitt Ch2 hub）
+- [[concepts/task-performance]] — Routine / Adaptive / Creative 三亞型 + Improv 訓練 + Pixar/Disney 四原則
+- [[concepts/organizational-citizenship-behavior]] — OCB 六子向度 + Citizenship Fatigue + Waldorf Principle
 - [[concepts/counterproductive-workplace-behavior]] — Robinson-Bennett 四象限 + 預防 SOP
+- [[concepts/job-analysis]] — 識別 task performance 的三步驟方法論 + O*NET
+- [[concepts/MBO]] — Drucker / Intel 目標管理（OKR 前身）
+- [[concepts/forced-ranking]] — GE 20/70/10 + 衰減曲線 16% → 0%
 
 ### 管理 / 策略管理
 - [[concepts/strategy]] — 策略定義 + 4 ingredients of success + 兩個維度（positioning / direction）

@@ -1,6 +1,6 @@
 ---
 title: Hot Cache
-updated: 2026-05-20T12:30+08:00
+updated: 2026-05-20T12:55+08:00
 ---
 
 # Hot Cache
@@ -9,8 +9,9 @@ updated: 2026-05-20T12:30+08:00
 
 ## Recent Activity
 
+- [2026-05-20 12:55] INGEST — Colquitt OB Ch2 **第二輪深耕**（同檔重 ingest）：8 個 subagent × 21 頁細分覆蓋 166 頁全部，補齊三維度展開。5 個新概念頁（task-performance / organizational-citizenship-behavior / job-analysis / MBO / forced-ranking）+ 2 更新（job-performance hub + reference 頁）。**Path B SOP 二次驗證**：8 個並行 subagent 全部完整讀完所屬頁數，五欄 distill 統一格式回傳；主 agent context 完整無慮
 - [2026-05-20 12:30] INGEST — Phase 2 大爆發：Grant 策略管理 Ch2-6 + Ch8-14（12 章 lecture slides，~145 頁），8 個新概念頁（balanced-scorecard / hypercompetition / resource-based-view / cooperation-vs-coordination / industry-life-cycle / dominant-design / transaction-cost-economics / CAGE-distance-framework）。**首次大規模驗證 path B subagent-first SOP**：9 個 subagent 並行，主 agent 從未渲染 PDF，全用 5 欄 distill template 統一回傳
-- [2026-05-20 12:30] INGEST — Colquitt OB Ch2 Job Performance（166p / 10.8MB），雙 subagent 分批（pp.1-84 + pp.85-166）。新增 job-performance + counterproductive-workplace-behavior 兩個主概念頁。**前次 session 此章因主 agent context 爆掉作廢，本次採 v3 SOP 順利完成**
+- [2026-05-20 12:30] INGEST — Colquitt OB Ch2 Job Performance 第一輪（166p / 10.8MB），雙 subagent 分批（pp.1-84 + pp.85-166）。新增 job-performance + counterproductive-workplace-behavior 兩個主概念頁。**前次 session 此章因主 agent context 爆掉作廢，本次採 v3 SOP 順利完成**
 - [2026-05-20 12:30] BLOCKED — Iansiti AoAI Ch2+：Google Drive 僅有 24 頁 Ch1 PDF，Ch2-10 完整檔案不在已知位置；待使用者補檔
 - [2026-05-06 15:30] FEEDBACK — 存進 memory：wiki 範圍是全方位知識（mgmt + 醫療 AI + 學習筆記），distillation 默認 include 而非 exclude，跨領域知識可移轉
 - [2026-05-06 15:00] INGEST — Phase 1 pilot 9/20：HBS Moderna(A) case（Iansiti et al. 2021，21p / 9.8MB / 9 exhibits），8 新頁（reference / 3 entity / 4 concept）+ 2 更新。是 Iansiti book 的活案例：Bancel「technology company that happens to do biology」、AI Factory 金字塔、mRNA-as-platform、42 天送疫苗
@@ -30,8 +31,8 @@ updated: 2026-05-20T12:30+08:00
 
 ## Active Threads
 
-- **Phase 2 ingest：** Grant 12 章 + Colquitt OB Ch2 完成（2026-05-20）；剩餘大宗 = Colquitt OB Ch3-14（13 章 × 84-166 頁）+ Iansiti AoAI Ch2-10（需補源頭）。**path B subagent-first SOP 大規模驗證成功**
-- **path B SOP 經驗：** 9 個 subagent 並行 + 統一 5 欄 distill template = 主 agent context 完整無慮；單一 chapter slide 用 1 個 subagent、textbook chapter（>100p）用 2-6 個 subagent 分批
+- **Phase 2 ingest：** Grant 12 章 + Colquitt OB Ch2（兩輪：hub + 深耕）完成（2026-05-20）；剩餘大宗 = Colquitt OB Ch3-14（13 章 × 84-166 頁）+ Iansiti AoAI Ch2-10（需補源頭）。**path B subagent-first SOP 大規模驗證成功**
+- **path B SOP 經驗：** 9 個 subagent 並行 + 統一 5 欄 distill template = 主 agent context 完整無慮；單一 chapter slide 用 1 個 subagent、textbook chapter（>100p）用 2-6 個 subagent 分批；**深耕模式**可用 8 subagent × 21 頁細分提高 distillation 解析度
 - **下一輪 priority：** (a) Iansiti AoAI Ch2-10 源頭補檔（user input needed）；(b) Colquitt OB Ch3 Organizational Commitment（131p）；(c) Grant Ch7 Competitive Advantage 已在 source 但其概念已散在現有頁
 - **Sources 路徑：** Google Drive `AI PM 資料/管理技能與策略/` ✅；hash 驗證全 match
 - **CLAUDE.md 結構決議：** B-pragmatic（content/ 為 vault root）✅
@@ -65,6 +66,15 @@ updated: 2026-05-20T12:30+08:00
 - **mRNA = iPhone, drugs = apps（Moore）**：Platform vs Pipeline 製藥業二分；Moderna 用同一 mRNA 平台同時跑 23 個藥物。可移轉到 Sectra/Epic/GE Edison 醫療 AI platform 思考
 - **Flagship Pioneering 4 階段（Afeyan）**：Explorations（What if?）→ ProtoCo（PoC）→ NewCo（董事會）→ GrowthCo（CEO 招募 + spin out）；hypothesis-driven 而非 trend-driven 的 venture creation 模式，可移轉到 PM、內部創新、個人 side project
 - **Moderna 42 天疫苗 vs 傳統 20 個月**：不是「努力」，是 DOM + AI Factory + 自有製造 + Day 1 數位化的累積結果。COVID 是 strategic collision 機會視窗，但 process 可移植、context 不可移植
+- **Job Performance = behaviors, not outcomes**（Colquitt Ch2）：教科書刻意鎖在行為層，三維分解 task / citizenship / counterproductive；JPMorgan「do core + support business + refrain from violations」三項全是 behavior
+- **Pay-for-Performance 在大公司失靈**：1991-2002 study —— 小公司 CEO pay 與 skill 正相關，大公司負相關；Eisner 案：高出業界 $38M 但 Disney 表現下滑
+- **AI is the great equalizer**：law students × GPT-4 — 底層大幅提升、**頂層反而下降**。AI 對 performance 是 conditional on baseline skill，不是 uniform booster
+- **Citizenship Behavior 不是 optional**（OCB）：跨 8 種職類研究顯示 OCB 與主管績效評分強相關，**對薪資與升遷的影響獨立於 task performance**（incremental validity）
+- **Citizenship Fatigue**：OCB 不是無上限免費資源；當 extra effort 未被支持、或在被拉滿時仍被壓力要求 → 未來 OCB 行為減少
+- **CWB 四命題**：行為叢集化 / 跨職位通用 / 具傳染性 / **與 task performance 僅弱負相關** —— 不能用「績效好」推論「不會做 CWB」
+- **Forced Ranking 衰減曲線**：GE 20/70/10 制度，**前 1-2 年 +16% 生產力、第 3-4 年 +6%、第 10 年 ≈ 0%**；引發 zero-sum game、抑制合作、age-based 訴訟
+- **Improv as adaptive training**：American Express / Dupont / Google / Hilton / PepsiCo / MLB 採用；「Yes, and」+「Don't plan, just listen」反主流商管「先 plan 再執行」邏輯
+- **Pixar atrium 設計**：Steve Jobs 把廁所中央化迫使員工 casual interaction → "good things happen"；物理空間設計驅動 creative behavior 的工程化案例
 
 ## Flagged Contradictions
 
