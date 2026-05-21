@@ -18,8 +18,8 @@ provenance:
   inferred: 0.15
   ambiguous: 0
 base_confidence: 0.4
-lifecycle: draft
-lifecycle_changed: 2026-05-21
+lifecycle: challenged
+lifecycle_changed: 2026-05-22
 ---
 
 # PLS-SEM vs CB-SEM
@@ -134,6 +134,16 @@ PLS-SEM 用 **blindfolding** 算 Q²：
 - CB-SEM 對 multivariate normality 違反的 robustness 有限（Bootstrapping 補救）
 - 兩派系陣營有意識形態之爭（Marketing PLS 派 vs Psychology CB-SEM 派）
 - **HTMT、Cragg-Donald F、SRMR threshold 都是 simulation-based heuristic**，非絕對門檻
+
+## Critique 摘要
+
+> **2026-05-22 跑了一次 wiki-challenge**
+>
+> 5 條核心 claim：0 survives / 2 narrow / 3 brittle / 0 unsupported。整頁主要弱點是**呈現兩派系時偏 Hair-Henseler PLS 立場，方法論 critique literature 缺席**：(1) PLS 小樣本 + formative 優勢被 Rönkkö-Evermann 2013 *ORM* "Critical Examination of Common Beliefs" + Goodhue-Lewis-Thompson 2012 *MISQ* 系列 critique 系統性反駁 10 年未引；(2) CB-SEM Hu-Bentler 1998 thresholds 被 Marsh-Hau-Wen 2004 *SEM* "In Search of Golden Rules" + Heene 2011 警告不適用於不同 N / model complexity；(3) confirmation vs exploration 二分過時，Shmueli 2010 *Stat Sci* "To Explain or to Predict?" + PLSpredict 2016 已模糊邊界；(4) PLS fit indices 是 Henseler 派 vs Rönkkö 派 ongoing 爭議，page 偏 Henseler 立場；(5)「雙用 best practice」page 自承為 reviewer 接受目的（sociology of science 邏輯），非方法論 best practice，Antonakis et al. 2010 *LQ* 反對為審稿妥協嚴謹度未引。
+>
+> `base_confidence`：0.40 → 0.40（已在 brittle cap 0.55 內，原值偏低反映 page 自我警示）；`lifecycle`：draft → challenged。
+>
+> 完整逐條質疑、行動項目：私人 meta 頁（不公開），路徑 `_meta/critique/PLS-SEM-vs-CB-SEM.md`。
 
 ## Related
 
