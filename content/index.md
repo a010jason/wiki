@@ -187,7 +187,7 @@ title: Jason 的知識庫
 - [[concepts/customer-persona]] — Tactical Targeting 工具（Ch06）
 - [[concepts/marketing-research-process]] — 6 步驟流程 + 5 構面 plan（Ch05）
 - [[concepts/marketing-dashboard]] — 4 pathway 框架（Customer/Unit/Cash-flow/Brand）（Ch05）
-- [[concepts/product-differentiation-9-dimensions]] — Kotler 9 維度，#1-2 vs #3-9 階層（Ch08）
+- [[concepts/product-differentiation-9-dimensions]] — Kotler 9 維度，`#1-2` vs `#3-9` 階層（Ch08）
 - [[concepts/product-line-strategies]] — Line stretching/filling/modernization/featuring/pruning（Ch08）
 - [[concepts/business-market-characteristics]] — B2B 市場 10 大特徵（fewer larger buyers / professional purchasing / multiple decision makers...）（Ch04）
 - [[concepts/buying-situations]] — Straight Rebuy / Modified Rebuy / New Task 三型情境（Ch04）

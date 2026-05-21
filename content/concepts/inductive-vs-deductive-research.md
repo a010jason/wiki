@@ -17,8 +17,8 @@ provenance:
   inferred: 0.15
   ambiguous: 0
 base_confidence: 0.45
-lifecycle: draft
-lifecycle_changed: 2026-05-21
+lifecycle: challenged
+lifecycle_changed: 2026-05-22
 ---
 
 # Inductive vs Deductive Research
@@ -103,6 +103,16 @@ Popper 結論：**Induction cannot yield certainty.** 再多 confirming instance
 - Inductive 易受研究者偏誤、spurious correlation、cherry-picking 影響
 - 純 deductive 易陷入「favored theory bias」— 找符合既有理論的證據而忽略 anomaly
 - 兩者交替時的 **abductive reasoning**（推測最佳解釋）在 Bhattacherjee 書中討論薄弱
+
+## Critique 摘要
+
+> **2026-05-22 跑了一次 wiki-challenge**
+>
+> 5 條核心 claim：0 survives / 3 narrow / 2 brittle / 0 unsupported。主要弱點：single-source 100% Bhattacherjee（Wallace 1971 wheel of science / Hume 1748 / Peirce 1903 abduction / Critical realism Bhaskar / Bryman 2007 mixed-methods critique 全未引）；Popper 框架被當普世真理，忽略 Bayesian / PAC learning / Solomonoff 70 年發展（現代 induction 不追求 certainty）；「Deductive 強於 inductive」漏掉 *conditional on premises being true* 關鍵 caveat；二元 paradigm-reasoning 映射過簡（critical realism retroduction missing）；mixed-mode "produces unique insights" 是 textbook aspiration，Bryman 2007 顯示半數論文未實際整合。
+>
+> `base_confidence`：0.45 → 0.45（已在 brittle cap 0.55 內）；`lifecycle`：draft → challenged。
+>
+> 完整逐條質疑、行動項目：私人 meta 頁（不公開），路徑 `_meta/critique/inductive-vs-deductive-research.md`。
 
 ## Related
 
