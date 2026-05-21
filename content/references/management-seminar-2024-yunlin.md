@@ -8,26 +8,31 @@ sources:
   - id: Grading-AMBA-syllabus
     type: course-syllabus
     rel_path: 管理專題研討/Grading_AMBA.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1hasE1GYjGGC6nc7V1fOpoTu1WvzwwP8z/view
     pages: 6
     sha256: 3cf887b8ccd22ccf829fcc1f5c8be17f4d0ca6f8122c85ef871ddf86f29c4418
   - id: Q-and-A-20240502
     type: class-notes
     rel_path: 管理專題研討/提問問題彙整_20240502.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1xgSyKlCvmFbB1vrSc6lYnlfj9z2CpvPU/view
     pages: 7
     sha256: ba9eaa47879b574ac44c9db8537db6093ac7aebc5b6cb34f3a1a3992c1c4ccd4
   - id: Jason-notes-20240224
     type: personal-notes
     rel_path: 管理專題研討/20240224.pdf
+    drive_url: https://drive.google.com/file/d/129c72ee50fNt4oPcJw4wckCXmaxH9w20/view
     pages: 2
     sha256: 1b1fc0c620b2683aeff17e337326f7a3f74b6606f52dd7f02e14d45a9108496c
   - id: Jason-notes-20240504
     type: personal-notes
     rel_path: 管理專題研討/20240504.pdf
+    drive_url: https://drive.google.com/file/d/1gC58F9HaxjWoJtIII3PhCsMkjjGpEXeZ/view
     pages: 2
     sha256: ab36ceb4d8a35ebf8201a9cb35f0ad6e0ce94c710daabed8cafebccb5700a04f
   - id: Jason-notes-20240518
     type: personal-notes
     rel_path: 管理專題研討/20240518.pdf
+    drive_url: https://drive.google.com/file/d/1oskGvovwf-MMOWXKYwCw5z9WuaWKD-14/view
     pages: 2
     sha256: e61552c81a7d8c28dbe1a7a485e0e375ad87adf9bc9bdcef270d46a2dc7d3928
 visibility: public
