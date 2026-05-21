@@ -6,6 +6,8 @@ tags: [synthesis, cross-domain-benchmark, classical-chinese, leadership, mnc-man
 aliases: [Wei Zheng Ten Thoughts subsidiary management, 魏徵十思疏跨領域對標, classical Chinese leadership analogy]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  [[entities/Levendary-Cafe]] case 教師講義引魏徵《諫太宗十思疏》全文 + 「十思」列表，把唐太宗治國模式類比 HQ 對發展中子公司的管理。對應映射：「夫在殷憂必竭誠以待下，既得志則縱情以傲物」→ Founding CEO 階段對 [[concepts/subsidiary-leader-lifecycle]] Go-Getter 高度信任，規模化後 HQ 變傲慢忽略 subsidiary 在地洞察（Marriott / Apple / GE 常見）。「載舟覆舟」→ Subsidiary leader 是 platform 也是 threat。「鳴琴垂拱」→ Professional Manager 階段 HQ 應 step back，給 platform 不給 control。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:

@@ -6,6 +6,8 @@ tags: [synthesis, cross-domain-benchmark, classical-chinese, strategy-framework,
 aliases: [Yoffie Cusumano Sun Tzu mapping, 西方策略法則對應孫子兵法]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  教師（[[entities/Tang-Edwin-Yingzhang]]）原創跨文化對接：把美國 tech 商學院提煉的 [[concepts/strategy-rules-yoffie-cusumano]] 5 法則對應到中國 2,500 年前的 [[concepts/sun-tzu-five-fundamentals]]。對應表：Look Forward, Reason Back（道）/ Make Big Bets Without Betting the Company（天地）/ Build Platforms and Ecosystems（法）/ Exploit Leverage and Power Judo and Sumo（勢）/ Shape Organization around Personal Anchor（法）。Bill Gates、Andy Grove、Steve Jobs、Elon Musk 為同框比較對象 —— 五個維度的東西方共通性提示管理 / 領導本質的核心張力 ≈ 5 個。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:
