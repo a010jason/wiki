@@ -104,7 +104,7 @@ related:
 ### vs [[concepts/adopter-categorization|Rogers Adopter Categorization]]
 - Innovators（2.5%）= 主動 first penguin（不怕風險）
 - Early Adopters（13.5%）= 看到證明後跟進
-- Penguin problem 描述 Innovators 與 Early Adopters 之間的 chasm（[[concepts/PLC-vs-stage-gate-vs-adopter-curve|Moore's Chasm]]）
+- Penguin problem 描述 Innovators 與 Early Adopters 之間的 chasm（[[synthesis/PLC-vs-stage-gate-vs-adopter-curve|Moore's Chasm]]）
 
 ## 為什麼這個概念重要
 
@@ -144,6 +144,6 @@ related:
 
 ## Related
 
-- **概念**：[[concepts/penguin-effect]]（教師原創 reactive pivot driver — 互補但不同） / [[concepts/network-externalities]] / [[concepts/dominant-design]] / [[concepts/adopter-categorization]] / [[concepts/PLC-vs-stage-gate-vs-adopter-curve]] / [[concepts/desktop-vs-platform-mindset]] / structural hole in strategy / [[concepts/winner-take-all-determinants]] / [[concepts/disruptive-innovation]]
+- **概念**：[[concepts/penguin-effect]]（教師原創 reactive pivot driver — 互補但不同） / [[concepts/network-externalities]] / [[concepts/dominant-design]] / [[concepts/adopter-categorization]] / [[synthesis/PLC-vs-stage-gate-vs-adopter-curve]] / [[concepts/desktop-vs-platform-mindset]] / structural hole in strategy / [[concepts/winner-take-all-determinants]] / [[concepts/disruptive-innovation]]
 - **Entity**：[[entities/Mobileye]] / [[entities/HTC]] / Intel / Randy-Pausch（First Penguin Award 出處） / [[entities/Tang-Edwin-Yingzhang]]
 - **參考**：[[references/strategy-management-course-2024-nycu]]（2024/06/04 課堂） / Randy Pausch《The Last Lecture》（待建 reference）

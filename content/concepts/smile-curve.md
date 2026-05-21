@@ -55,7 +55,7 @@ related:
 **進入壁壘低**：
 - 設備、SOP、人力相對標準化
 - 規模經濟 + 模組化 → CM 快速崛起
-- 競爭多、議價弱 → margin 壓縮（[[concepts/kotler-keller-chernev-marketing-management-16e|Kotler]] Wave 2 takeaway：「**代工 = price taker**」）
+- 競爭多、議價弱 → margin 壓縮（[[references/kotler-keller-chernev-marketing-management-16e|Kotler]] Wave 2 takeaway：「**代工 = price taker**」）
 
 **飛輪反向**：
 - 越多 OEM 外包製造 → CM 工廠越多 → 越捲 → margin 越薄

@@ -141,7 +141,7 @@ lifecycle_changed: 2026-05-21
 
 ## 留待 wiki-challenge 的議題
 
-本文 base_confidence = 0.55，需要進入 [[references/critical-llm-wiki-three-step]] 的質疑步驟。具體要 challenge 的點：
+本文 base_confidence = 0.55，需要進入 [[synthesis/critical-llm-wiki-three-step]] 的質疑步驟。具體要 challenge 的點：
 
 1. 「亞洲奢侈品反例」清單的判準是什麼？哪些算 luxury、哪些不算？
 2. 「歐美 luxury 偏見」的論點本身是否也是 anti-Western 偏見？

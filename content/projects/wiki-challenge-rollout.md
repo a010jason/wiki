@@ -125,6 +125,6 @@ owner: Jason
 
 ## Related
 
-- [[concepts/critical-llm-wiki-three-step]]（如有）— 批判式 wiki 三步法
+- [[synthesis/critical-llm-wiki-three-step]] — 批判式 wiki 三步法
 - [[entities/Karl-Popper]] — falsifiability 出處
 - [[concepts/agency-theory]] — Tier 3 first done

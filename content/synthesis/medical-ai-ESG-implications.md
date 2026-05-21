@@ -81,7 +81,7 @@ lifecycle_changed: 2026-05-21
 - 其供應鏈（含醫療 AI 供應商）會被要求 Scope 3 排放數據
 - **早做的廠商可成為標案加分項**
 
-## 與 [[concepts/medical-ai-platform-vs-pipeline]] 的連動
+## 與 [[synthesis/medical-ai-platform-vs-pipeline]] 的連動
 
 - **Platform model** 規模化後 Scope 3 衝擊大
 - **Pipeline model** 個案靈活但難系統化揭露
