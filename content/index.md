@@ -118,6 +118,19 @@ title: Jason 的知識庫
 - [[concepts/smile-curve]] — 施振榮 1992 微笑曲線；R&amp;D + Brand 兩端高、Manufacturing 谷底（Flextronics ODM 嘗試案例）
 - [[concepts/desktop-vs-platform-mindset]] — 教師原創 incumbent 世代病診斷：MS AdCenter 7 條 break-into 全敗；Product 思維買不出 Platform
 
+#### Wave B 案例 — 8 個 lecture-only 策略案例（2026-05-21）
+
+- [[concepts/strategy-rules-yoffie-cusumano]] — Yoffie/Cusumano 5 法則（Look-Forward/Big-Bets/Platforms/Judo-Sumo/Personal-Anchor）（Musk case 主框架）
+- [[concepts/sun-tzu-five-fundamentals]] — 孫子兵法五事「道天地將法」+ 教師原創跨文化對接（Musk case）
+- [[concepts/specialized-generalist-vs-generalized-specialist]] — 教師原創 framing：Google ↓ Alphabet 重組從一專多能變多專多能（Alphabet case）
+- [[concepts/substitute-complement-substitute-cycle]] — 教師原創三段論：替代 → 互補 → 替代效果；fintech / platform 演化模式（Ant Financial case）
+- [[concepts/institutional-voids]] — 新興市場制度結構缺口提供 fintech 切入口（Khanna-Palepu）（Ant Financial case）
+- [[concepts/winner-take-all-determinants]] — 教師整理 4 要素：network effects / multi-homing / differentiation / barrier to entry（HTC-VR case）
+- [[concepts/icarus-paradox]] — Miller 1990，過去成功的同一套要素反而成為未來失敗的根源；teacher 明用詞（HTC case）
+- [[concepts/penguin-effect]] — 教師原創：公司不是主動戰略 pivot，是被網絡外部性逼著跳新產業（HTC case）
+- [[concepts/象-數-理-epistemology]] — 教師原創跨領域：陰陽五行「象數理」+ Popper 三世界 + 財報詮釋三層對接（Zara case，wiki 內最跨領域 framework）
+- [[concepts/corporate-turnaround-strategy]] — re-position → re-configuration → mobility barrier → value chain reinvention 四步 + Managing for Cash/Value/Growth 三階段（Lego case）
+
 ### 管理 / 行銷管理（Kotler 16e）
 - [[concepts/marketing-definition]] — Kotler/AMA 雙定義 + get/keep/grow + 10 類可被行銷的對象（Ch01 hub）
 - [[concepts/STP-framework]] — Segmentation → Targeting → Positioning（跨章 hub）
@@ -255,6 +268,15 @@ title: Jason 的知識庫
 - [[entities/Samsung-Electronics]] — 1997 turnaround + Yun sashimi theory + 反主流 vertical integration + Eric Kim GMO
 - [[entities/Microsoft-AdCenter]] — Porter generic strategy 在 digital 失靈案例；7 條 break-into 全敗 + Desktop vs Platform mindset 診斷
 
+### 策略管理 — 8 個 lecture-only 案例（Wave B，2026-05-21）
+- [[entities/Steve-Jobs]] — HBS 9-715-454；leader-strategist 雙能力；1976-2011 完整生涯弧；張忠謀/TSMC/NVIDIA legacy 對標
+- [[entities/Elon-Musk]] — HBS 9-722-439；7 公司 Empire「沒有 synergy」；Yoffie 5 rules ↔ 孫子兵法五事框架對接
+- [[entities/Lego-Group]] — HBS 9-713-478；2004 Knudstorp 36 歲 turnaround；雙元理論等死找死同時來；re-position 四步框架
+- [[entities/HTC]] — HBS 9-718-421；手機 ODM/OBM 衰退 pivot VR；伊卡洛斯悖論 + 企鵝效應 pivot driver
+- [[entities/Alphabet]] — HBS 9-116-029；Specialized generalist ↓ Generalized specialist；Simons 7Q 框架分析
+- [[entities/Ant-Group]] — HBS 9-617-060；中國 fintech 巨擘；2020 IPO halt $300B 史上最大；替代→互補→替代三段論
+- [[entities/Zara]] — HBS 9-703-497 (Ghemawat &amp; Nueno)；垂直整合 + Quick Response 15 天 cycle；象數理 epistemology 跨領域框架
+
 ### 研究方法論 — 管理專題研討（AMBA 2024 — Bhattacherjee SSR）
 - [[concepts/scientific-method-four-criteria]] — Replicability / Precision / Falsifiability / Parsimony 四準則（Bhattacherjee Ch1）
 - [[concepts/four-goals-of-science]] — Description / Prediction / Explanation / Control（遞進）
@@ -343,6 +365,14 @@ title: Jason 的知識庫
 - [[references/HBS-flextronics-international-case]] — EMS 廠商 ODM 轉型；CM/CDM/ODM 三層模型 + smile curve + patent thicket
 - [[references/HBS-samsung-electronics-case]] — HBS 9-504-051 (Quelch &amp; Harrington 2003)，行銷視角的 turnaround，Eric Kim GMO 整合 200 國
 - [[references/HBS-microsoft-adcenter-case]] — HBS 9-908-049 (Coles &amp; Edelman 2008)，AdCenter 失敗案例；**case 原文 35MB 純掃描已 deferred**，lecture-only ingest
+- [[references/HBS-9-715-454-Steve-Jobs-case]] — HBS 9-715-454 (Montgomery &amp; Yoffie 2013, Rev 2015)，Steve Jobs leader-strategist；Apple 1976-2011 完整生涯弧
+- [[references/HBS-9-722-439-Musk-doubling-down-case]] — HBS 9-722-439 (Yoffie &amp; Fisher 2022)，Elon Musk's Big Bets in 2022；Yoffie 5 rules 配套
+- [[references/HBS-9-713-478-Lego-crisis-case]] — HBS 9-713-478，LEGO (A) The Crisis；2004 Knudstorp turnaround
+- [[references/HBS-9-718-421-HTC-VR-case]] — HBS 9-718-421 (Yoffie/Wu/Ciechanover 2018)，HTC and Virtual Reality；winner-take-all 4 要素 + 伊卡洛斯悖論
+- [[references/HBS-9-116-029-Google-Alphabet-case]] — HBS 9-116-029 (Simons &amp; Lobb 2015, Rev 2017)，From Google to Alphabet；Simons 7Q + 10 things
+- [[references/HBS-9-617-060-Ant-Financial-case]] — HBS 9-617-060 (Zhu/Zhang/Palepu 2019)，Ant Financial + Alibaba Growth Frenzy + IPO Halt 三 case 合輯
+- [[references/HBS-9-703-497-Zara-case]] — HBS 9-703-497 (Ghemawat &amp; Nueno 2003, Rev 2006)，ZARA Fast Fashion；象數理 epistemology 教師框架
+- [[references/christensen-overdorf-2000-HBR-disruptive-change]] — Christensen + Overdorf HBR 2000，RPV framework 原始出處
 - [[references/bhattacherjee-social-science-research]] — Bhattacherjee SSR 開放教科書（USF 2012, CC BY-NC-ND）+ 教師 Ch1-8 lecture slides 1,380 頁；管理專題研討 AMBA 課程主教材
 - [[references/chandra-2022-human-like-AI-competencies]] — JMIS 2022 chatbot human-like competency；mixed methods + CMB + IV/2SLS + PLS-SEM 範本
 - [[references/huang-2022-firm-climate-risk-bank-loan]] — SMJ 2022；firm-level climate risk → bank loan terms；CDP + SHELDUS + DealScan 多資料庫合併範本
@@ -372,6 +402,9 @@ title: Jason 的知識庫
 - [[synthesis/wei-zheng-leadership-and-subsidiary-management]] — 諫太宗十思疏 ↔ 跨國子公司治理跨領域對標；Bartlett 三階段 + 唐太宗治國模式映射；類比的適用邊界
 - [[synthesis/agency-vs-merchant-platform-models]] — Agency vs Merchant 商模跨產業對比（OTA / e-commerce / ride-hailing / cloud / 房地產）；為何 agency 普遍贏 + Amazon 雙軌的內部衝突
 - [[synthesis/sampling-choice-shapes-results]] — Short, Ketchen, Palmer (2002) JoM 經典：同 hypothesis（CEO duality）4 種 sample 得 4 種結果；建知識需 multi-sample replication
+- [[synthesis/yoffie-five-rules-vs-sun-tzu-five-fundamentals]] — Yoffie 5 rules ↔ 孫子兵法五事「道天地將法」跨文化策略框架對接；Musk/Jobs/Gates/Grove 四案應用（Wave B）
+- [[synthesis/financial-ratio-epistemology-yi-jing]] — 財報詮釋的 epistemology：陰陽五行「象、數、理」+ Popper 三世界三層對接（Zara case，wiki 內最跨領域 synthesis）
+- [[synthesis/back-to-core-turnaround-pattern]] — Apple 1997 / Lego 2004 / Samsung 1997 三個成功 turnaround 的 5 條共同 pattern；犧牲不可侵犯之物 + 外部視角 CEO + 2×2 矩陣級極端 focus
 
 ## Journal
 

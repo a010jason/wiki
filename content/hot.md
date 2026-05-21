@@ -1,6 +1,6 @@
 ---
 title: Hot Cache
-updated: 2026-05-21T17:00+08:00 (策略管理 Wave A 完成 — 12 PDFs / 226 頁 / 23 新頁)
+updated: 2026-05-21T19:00+08:00 (策略管理 Wave B 完成 — 8 PDFs / 120 頁 / 28 新頁，Wave A+B 合計 51 新頁)
 ---
 
 # Hot Cache
@@ -8,6 +8,24 @@ updated: 2026-05-21T17:00+08:00 (策略管理 Wave A 完成 — 12 PDFs / 226 �
 *A ~500-word semantic snapshot of recent activity. Updated after every major write operation.*
 
 ## Recent Activity
+
+- [2026-05-21 19:00] INGEST — **策略管理 Wave B 完成（8 PDFs / 120 頁 / 28 新頁）**：8 個 single-file lecture 並行 subagent distill。**Teacher annotation 密度極高**，是 Wave B 最大價值：
+  - **7 entity hub**：[[entities/Steve-Jobs]] / [[entities/Elon-Musk]] / [[entities/Lego-Group]] / [[entities/HTC]] / [[entities/Alphabet]] / [[entities/Ant-Group]] / [[entities/Zara]]
+  - **8 reference manifest**：5 HBS case + Yoffie/Cusumano + Zara + Christensen HBR
+  - **10 concept**：
+    - **教師原創跨文化對接**：[[concepts/strategy-rules-yoffie-cusumano]] + [[concepts/sun-tzu-five-fundamentals]]（道天地將法 ↔ Yoffie 5 rules）/ [[concepts/象-數-理-epistemology]]（陰陽五行 + Popper 三世界 + 財報詮釋）
+    - **教師原創策略框架**：[[concepts/specialized-generalist-vs-generalized-specialist]] / [[concepts/substitute-complement-substitute-cycle]]（替代→互補→替代三段論）/ [[concepts/penguin-effect]] / [[concepts/winner-take-all-determinants]] 4 要素
+    - **學術概念**：[[concepts/institutional-voids]] / [[concepts/icarus-paradox]] / [[concepts/corporate-turnaround-strategy]]
+  - **3 synthesis**：[[synthesis/yoffie-five-rules-vs-sun-tzu-five-fundamentals]] / [[synthesis/financial-ratio-epistemology-yi-jing]]（象數理 wiki 內最跨領域 synthesis）/ [[synthesis/back-to-core-turnaround-pattern]]（Apple/Lego/Samsung 三案 turnaround 對比）
+  - **教師眉批高光**：
+    - **Musk Empire**「沒有 synergy」/ 得三電得天下（電池/電機/電控）/ Cybertruck「活取熊膽」
+    - **Zara**「天下武功唯快不破」/ 象數理 epistemology / 凡事有定 定中有象 象中有數 數中有理
+    - **Alphabet** Specialized generalist ↓ Generalized specialist / users ≠ customers / 政治家 vs 政客 / KPI 低估 OKR 管不了心都是錯 / Apple Car 撤案教訓 / 公司搞太大？太細？
+    - **Ant Financial** 三段論 + institutional voids + Bass diffusion + 為什麼中國沒 winner-take-all「盜亦無道」+ Fly under the radar 整段打 X
+    - **HTC** 安內攘外（清史稿）+ 伊卡洛斯悖論 + 企鵝效應 pivot driver + winner-take-all 4 要素
+    - **Steve Jobs** 沒有張忠謀的台積電是否可永續？/ leader-strategist 雙能力 / 為什麼台灣 CTO as CEO / IDM vs Fabless vs Foundry
+    - **Lego** 雙元理論等死找死同時來 / Connect 是用戶不是產品 / re-position→re-config→mobility barrier→value chain 四步框架
+  - 策略管理資料夾剩 12 個 misc PDF（Wave C 4 + paired case originals 含 AdCenter case-only deferred）
 
 - [2026-05-21 17:00] INGEST — **策略管理 Wave A 完成（12 PDFs / 226 頁 / 23 新頁）**：6 case studies + 2 lecture supplements，8 個 subagent 並行 distill（A1 AdCenter 走 lecture-only / case 35MB 純掃描 deferred；A1 第一次撞 user-level token quota，2:40pm reset 後 retry 成功）。寫入：
   - **6 entity hub**：[[entities/Levendary-Cafe]] / [[entities/Marriott-International]] / [[entities/Booking-com]] / [[entities/Flextronics-International]] / [[entities/Samsung-Electronics]] / [[entities/Microsoft-AdCenter]]

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-05-21T19:00:00+08:00 (管理專題研討 — Bhattacherjee SSR 全書 + Ch1-8 lecture slides + 4 supplementary papers + library guide + course-frame: 20 PDFs / 1862 頁 / +40 wiki pages)",
+  "last_updated": "2026-05-21T19:00:00+08:00 (策略管理 Wave B: 8 PDFs / 120p / 28 new pages)",
   "sources": {
     "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/0820-OKR-講義.pdf": {
       "ingested_at": "2026-05-05T15:00:00+08:00",
@@ -1952,12 +1952,124 @@
         "index.md",
         "log.md"
       ]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/0SteveJobs_N.pdf.pdf": {
+      "ingested_at": "2026-05-21T19:00:00+08:00",
+      "size_bytes": 1563722,
+      "content_hash": "sha256:d217f4d3e8cf8673ab61d0efe7dc5e046885987e585357a9ac44dc5c8b67809a",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/HBS-9-715-454-Steve-Jobs-case.md",
+        "entities/Steve-Jobs.md",
+        "concepts/strategy-rules-yoffie-cusumano.md",
+        "concepts/sun-tzu-five-fundamentals.md",
+        "synthesis/back-to-core-turnaround-pattern.md",
+        "synthesis/yoffie-five-rules-vs-sun-tzu-five-fundamentals.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/0Zara_2024_S.pdf.pdf": {
+      "ingested_at": "2026-05-21T19:00:00+08:00",
+      "size_bytes": 2261129,
+      "content_hash": "sha256:31bd96e4e9918a30bb79ea915e38dd63b3d7995eab642301de6f2beca47eada5",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/HBS-9-703-497-Zara-case.md",
+        "entities/Zara.md",
+        "concepts/象-數-理-epistemology.md",
+        "synthesis/financial-ratio-epistemology-yi-jing.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/10ElonMusk2022_S.pdf.pdf": {
+      "ingested_at": "2026-05-21T19:00:00+08:00",
+      "size_bytes": 2108307,
+      "content_hash": "sha256:837dbe8e142df9b69c0e25b581652d8592addd589f6a28466901abe6edeb757b",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/HBS-9-722-439-Musk-doubling-down-case.md",
+        "entities/Elon-Musk.md",
+        "concepts/strategy-rules-yoffie-cusumano.md",
+        "concepts/sun-tzu-five-fundamentals.md",
+        "synthesis/yoffie-five-rules-vs-sun-tzu-five-fundamentals.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/2Lego_Crisis_S.pdf.pdf": {
+      "ingested_at": "2026-05-21T19:00:00+08:00",
+      "size_bytes": 3535647,
+      "content_hash": "sha256:3e7d8bc5924976585c61c3574db459f55b712e81c892e32eeffda38274531e4c",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/HBS-9-713-478-Lego-crisis-case.md",
+        "entities/Lego-Group.md",
+        "concepts/corporate-turnaround-strategy.md",
+        "synthesis/back-to-core-turnaround-pattern.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/3HTC-VR_S.pdf.pdf": {
+      "ingested_at": "2026-05-21T19:00:00+08:00",
+      "size_bytes": 1565295,
+      "content_hash": "sha256:368d87c406c65a4e6dd6e4f69d8e573ef10a102e767639df6a3c0821e49bd828",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/HBS-9-718-421-HTC-VR-case.md",
+        "entities/HTC.md",
+        "concepts/icarus-paradox.md",
+        "concepts/penguin-effect.md",
+        "concepts/winner-take-all-determinants.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/4Alphabet-Google-10Things_S.pdf.pdf": {
+      "ingested_at": "2026-05-21T19:00:00+08:00",
+      "size_bytes": 3342743,
+      "content_hash": "sha256:43d672e3cecfecd40bdb25357a32ce54734cca69d02c1a20e8c1506918d7a277",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/HBS-9-116-029-Google-Alphabet-case.md",
+        "entities/Alphabet.md",
+        "concepts/specialized-generalist-vs-generalized-specialist.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/7AntFinancial_S.pdf.pdf": {
+      "ingested_at": "2026-05-21T19:00:00+08:00",
+      "size_bytes": 2634835,
+      "content_hash": "sha256:df9d78407c70f1497a3bceeb454f9eacbb4aa5faa6ce9bb66ff846bc74132db2",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/HBS-9-617-060-Ant-Financial-case.md",
+        "entities/Ant-Group.md",
+        "concepts/substitute-complement-substitute-cycle.md",
+        "concepts/institutional-voids.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/5Meeting the Challenge of Disruptive Change.pdf.pdf": {
+      "ingested_at": "2026-05-21T19:00:00+08:00",
+      "size_bytes": 1249302,
+      "content_hash": "sha256:5edde3a2d4c4da0fd7ed41d714e8a500231aec6f77ca750825e9f9d00d59d550",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/christensen-overdorf-2000-HBR-disruptive-change.md"
+      ],
+      "pages_updated": []
     }
   },
   "projects": {},
   "stats": {
-    "total_sources_ingested": 127,
-    "total_pages": 3977,
+    "total_sources_ingested": 135,
+    "total_pages": 4097,
     "total_projects": 0,
     "last_full_rebuild": null
   }
