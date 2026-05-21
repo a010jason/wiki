@@ -111,3 +111,4 @@ CFR 解決的是「OKR 設好之後怎麼管」的執行面問題。
 - [[concepts/performance-management]] —— OKR 與 KPI 的上層分類
 - [[skills/setting-OKR]] —— 怎麼設 O 與 KR 的 how-to
 - [[synthesis/OKR-vs-KPI-when-to-use]] —— Jason 自己的判斷：何時用哪個
+- [[synthesis/VRIO-framework-x-OKR]] — synthesis：用 VRIO lens 寫 OKR vs KPI-style OKR 的退化模式

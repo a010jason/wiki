@@ -155,4 +155,5 @@ EBM PACS / AI 的 positioning 挑戰：^[inferred — Jason 個人延伸]
 - [[concepts/narrative-branding]] / [[concepts/primal-branding]] — 溝通工具
 - [[concepts/porters-generic-strategies]] — 對照框架
 - [[synthesis/porter-vs-kotler-differentiation-debate]] — 跨層級辯論
+- [[synthesis/positioning-x-customer-value-proposition]] — synthesis：CVP 與 positioning 的順序、衝突與互相破壞的條件
 - [[references/kotler-keller-chernev-marketing-management-16e]]

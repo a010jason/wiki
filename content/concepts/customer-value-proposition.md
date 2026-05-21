@@ -120,4 +120,5 @@ EBM PACS / AI 產品的 CVP 三領域：^[inferred — Jason 個人延伸]
 - [[concepts/G-STIC-framework]] — CVP 在 G-STIC 的 Strategy 步驟
 - [[concepts/STP-framework]] — STP 完成後才能寫 CVP
 - [[concepts/points-of-difference-and-parity]] — POD/POP 是 CVP 的 attribute 層具體化
+- [[synthesis/positioning-x-customer-value-proposition]] — synthesis：CVP 與 positioning 的順序、衝突與互相破壞的條件
 - [[references/kotler-keller-chernev-marketing-management-16e]]

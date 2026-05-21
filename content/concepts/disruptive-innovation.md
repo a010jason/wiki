@@ -137,6 +137,8 @@ Disruptive innovation 之後 Christensen 提出兩個配套診斷工具，用來
 - [[synthesis/blue-ocean-x-disruptive-innovation]] — 跨類別 vs 低端兩條相反軌跡
 ## Sources
 
+- [[synthesis/disruptive-innovation-x-VRIO-framework]] — synthesis：VRIO「Inimitable」恰恰是 incumbent 的 disruption 弱點
+- [[synthesis/disruptive-innovation-x-value-chain]] — synthesis：每個 disruption 都是 value chain 重組（三模式：省略 / 倒轉 / 模組化）
 - [[references/grant-contemporary-strategy-analysis]] Ch7
 - 原典：Christensen, C. M. (1997). *The Innovator's Dilemma*. HBS Press
 - *The Innovator's Solution*（Christensen & Raynor 2003）—— 4-quadrant fit matrix

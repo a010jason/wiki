@@ -95,6 +95,7 @@ Jason 邊註：「差異化和成本的連接點在 Value Chain → 應該要擴
 - [[references/grant-contemporary-strategy-analysis]]
 
 - [[synthesis/VRIO-x-value-chain]] — Linkages 是 inimitable 的所在地
+- [[synthesis/disruptive-innovation-x-value-chain]] — synthesis：disruption 三種 value chain 重組模式（省略 / 倒轉 / 模組化）
 ## Sources
 
 - [[references/grant-contemporary-strategy-analysis]] Ch7
