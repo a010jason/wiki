@@ -8,7 +8,7 @@ sources:
   - id: huang-2022-firm-climate-risk
     type: journal-article
     rel_path: 管理專題研討/Copy of Firm climate risk  risk management  and bank loan financing_整合.pdf.pdf
-    drive_url: TODO
+    drive_url: https://drive.google.com/file/d/1K1T6YMKGTH2hAGM3xRI_1gzSgryqiY7-/view
     pages: 58
     sha256: b315a34ac71e3a23584d85d5682c2b387197b764e79a068167af21794bdcb82d
     note: 「整合 PDF」實為學生課堂簡報報告（720x405pt slides 58 頁，雙語對照），不是論文 PDF 本體。原論文 DOI 在下方。

@@ -8,7 +8,7 @@ sources:
   - id: chandra-2022-tobeornottobehuman
     type: journal-article
     rel_path: 管理專題研討/To Be or Not to Be  Human  Theorizing the Role of Human-Like Competencies in Conversational Artificial Intelligence Agents.pdf.pdf
-    drive_url: TODO
+    drive_url: https://drive.google.com/file/d/1qhgQ3IrTJlYlncstnGK39ge4fV7fC50m/view
     pages: 38
     sha256: 62cb127cc60f68891e81cd3eca622632c054b88db1483c9e116e2b9528ea3977
     doi: 10.1080/07421222.2022.2127441

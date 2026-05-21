@@ -8,63 +8,63 @@ sources:
   - id: Bhattacherjee-SSR-book
     type: textbook-full
     rel_path: 管理專題研討/open access textbook.pdf.pdf
-    drive_url: TODO
+    drive_url: https://drive.google.com/file/d/1k1nw3naSfQv2KH1Tc4Ydlp-fZehooUdR/view
     pages: 151
     sha256: 2ad58a2ae2229d7a5d09cd44560900a73efb6afa6eca73383cd3a3fe3be87065
     ingested_commit: pending
   - id: Bhattacherjee-Ch01-slides
     type: lecture-slides
     rel_path: 管理專題研討/Chapter 1_textbook.pdf.pdf
-    drive_url: TODO
+    drive_url: https://drive.google.com/file/d/1FZpxc43MDgsb5FrupJcCHGuw12eNvoOx/view
     pages: 128
     sha256: ae5bb8d69947143cd0bc5031a7390f5027b15e9ed4ba8ea0e069a7c2997ecab6
     ingested_commit: pending
   - id: Bhattacherjee-Ch02-slides
     type: lecture-slides
     rel_path: 管理專題研討/Chapter 2_textbook.pdf.pdf
-    drive_url: TODO
+    drive_url: https://drive.google.com/file/d/1sQExOvYaCnKmF2kwAD0wCkMvsRolxfPn/view
     pages: 133
     sha256: 8c4441277fef656cc479702592bc64399e5bd05cdeb93dad02aa32e53dd8f0de
     ingested_commit: pending
   - id: Bhattacherjee-Ch03-slides
     type: lecture-slides
     rel_path: 管理專題研討/Ch3.pdf.pdf
-    drive_url: TODO
+    drive_url: https://drive.google.com/file/d/1-g3L7BVz60EHKAHLl4GK-HYCPkKS63TU/view
     pages: 137
     sha256: d4f17cfa7664ab33672fa8bca312443b127bf154a1c77ab7897240f2d3ff20e2
     ingested_commit: pending
   - id: Bhattacherjee-Ch04-slides
     type: lecture-slides
     rel_path: 管理專題研討/Chapter 4.pdf.pdf
-    drive_url: TODO
+    drive_url: https://drive.google.com/file/d/1Jzwfrh3W4WK7gWxPdE3bebyuGs9589cG/view
     pages: 209
     sha256: d0db65dc880f278890690a0097683eff58601a228c4bc53e8fef118cbf436357
     ingested_commit: pending
   - id: Bhattacherjee-Ch05-slides
     type: lecture-slides
     rel_path: 管理專題研討/Chapter 5.pdf.pdf
-    drive_url: TODO
+    drive_url: https://drive.google.com/file/d/1qvawjEfsgPxbgKy63vkfE6bI__8jiEI4/view
     pages: 195
     sha256: 7b637cd176d942f8ccbe085da7ee43f422e4c8d73152d0934b831b78c234e762
     ingested_commit: pending
   - id: Bhattacherjee-Ch06-slides
     type: lecture-slides
     rel_path: 管理專題研討/Ch6.pdf.pdf
-    drive_url: TODO
+    drive_url: https://drive.google.com/file/d/1Nof0WNNilZXepvxFlylPcC-BcyxyYw_z/view
     pages: 182
     sha256: 4249795a19d7aa1b487a4a3a39e4f95a85719c97bc997b27ea6b2bfb14c6ebcc
     ingested_commit: pending
   - id: Bhattacherjee-Ch07-slides
     type: lecture-slides
     rel_path: 管理專題研討/Ch7.pdf.pdf
-    drive_url: TODO
+    drive_url: https://drive.google.com/file/d/1YGJdrAi-WyQLOq9pf_fGDvWEJBV-rg1v/view
     pages: 167
     sha256: cc04e1d6d50aee6d98ec1fc27f7d21474bfac5d0b5f50b4dabd2cd2279d9ef90
     ingested_commit: pending
   - id: Bhattacherjee-Ch08-slides
     type: lecture-slides
     rel_path: 管理專題研討/Ch8.pdf.pdf
-    drive_url: TODO
+    drive_url: https://drive.google.com/file/d/1U7SB7B-F1BvBNolhrBPV7KM_uH2aTkHA/view
     pages: 228
     sha256: c67e2154b5c601e9b4ed3d00b5ba807f10e3b738301cdd1291ffb7a5c5e6f2b3
     ingested_commit: pending
@@ -101,15 +101,15 @@ Bhattacherjee 的 *Social Science Research: Principles, Methods, and Practices*�
 
 | ID | Type | Path (rel to PDF_ROOT) | Pages | SHA-256 | Drive |
 |---|---|---|---|---|---|
-| Bhattacherjee-SSR-book | textbook-full | `管理專題研討/open access textbook.pdf.pdf` | 151 | `2ad58a2a...87065` | TODO |
-| Bhattacherjee-Ch01-slides | lecture-slides | `管理專題研討/Chapter 1_textbook.pdf.pdf` | 128 | `ae5bb8d6...cab6` | TODO |
-| Bhattacherjee-Ch02-slides | lecture-slides | `管理專題研討/Chapter 2_textbook.pdf.pdf` | 133 | `8c444127...f0de` | TODO |
-| Bhattacherjee-Ch03-slides | lecture-slides | `管理專題研討/Ch3.pdf.pdf` | 137 | `d4f17cfa...20e2` | TODO |
-| Bhattacherjee-Ch04-slides | lecture-slides | `管理專題研討/Chapter 4.pdf.pdf` | 209 | `d0db65dc...6357` | TODO |
-| Bhattacherjee-Ch05-slides | lecture-slides | `管理專題研討/Chapter 5.pdf.pdf` | 195 | `7b637cd1...4762` | TODO |
-| Bhattacherjee-Ch06-slides | lecture-slides | `管理專題研討/Ch6.pdf.pdf` | 182 | `4249795a...ebcc` | TODO |
-| Bhattacherjee-Ch07-slides | lecture-slides | `管理專題研討/Ch7.pdf.pdf` | 167 | `cc04e1d6...ef90` | TODO |
-| Bhattacherjee-Ch08-slides | lecture-slides | `管理專題研討/Ch8.pdf.pdf` | 228 | `c67e2154...f2b3` | TODO |
+| Bhattacherjee-SSR-book | textbook-full | `管理專題研討/open access textbook.pdf.pdf` | 151 | `2ad58a2a...87065` | [↗](https://drive.google.com/file/d/1k1nw3naSfQv2KH1Tc4Ydlp-fZehooUdR/view) |
+| Bhattacherjee-Ch01-slides | lecture-slides | `管理專題研討/Chapter 1_textbook.pdf.pdf` | 128 | `ae5bb8d6...cab6` | [↗](https://drive.google.com/file/d/1FZpxc43MDgsb5FrupJcCHGuw12eNvoOx/view) |
+| Bhattacherjee-Ch02-slides | lecture-slides | `管理專題研討/Chapter 2_textbook.pdf.pdf` | 133 | `8c444127...f0de` | [↗](https://drive.google.com/file/d/1sQExOvYaCnKmF2kwAD0wCkMvsRolxfPn/view) |
+| Bhattacherjee-Ch03-slides | lecture-slides | `管理專題研討/Ch3.pdf.pdf` | 137 | `d4f17cfa...20e2` | [↗](https://drive.google.com/file/d/1-g3L7BVz60EHKAHLl4GK-HYCPkKS63TU/view) |
+| Bhattacherjee-Ch04-slides | lecture-slides | `管理專題研討/Chapter 4.pdf.pdf` | 209 | `d0db65dc...6357` | [↗](https://drive.google.com/file/d/1Jzwfrh3W4WK7gWxPdE3bebyuGs9589cG/view) |
+| Bhattacherjee-Ch05-slides | lecture-slides | `管理專題研討/Chapter 5.pdf.pdf` | 195 | `7b637cd1...4762` | [↗](https://drive.google.com/file/d/1qvawjEfsgPxbgKy63vkfE6bI__8jiEI4/view) |
+| Bhattacherjee-Ch06-slides | lecture-slides | `管理專題研討/Ch6.pdf.pdf` | 182 | `4249795a...ebcc` | [↗](https://drive.google.com/file/d/1Nof0WNNilZXepvxFlylPcC-BcyxyYw_z/view) |
+| Bhattacherjee-Ch07-slides | lecture-slides | `管理專題研討/Ch7.pdf.pdf` | 167 | `cc04e1d6...ef90` | [↗](https://drive.google.com/file/d/1YGJdrAi-WyQLOq9pf_fGDvWEJBV-rg1v/view) |
+| Bhattacherjee-Ch08-slides | lecture-slides | `管理專題研討/Ch8.pdf.pdf` | 228 | `c67e2154...f2b3` | [↗](https://drive.google.com/file/d/1U7SB7B-F1BvBNolhrBPV7KM_uH2aTkHA/view) |
 
 ## Chapter ingest status
 

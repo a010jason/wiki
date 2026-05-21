@@ -9,7 +9,7 @@ sources:
     type: course-syllabus
     rel_path: 管理專題研討/Grading_AMBA.pdf.pdf
     pages: 6
-    sha256: TODO
+    sha256: 3cf887b8ccd22ccf829fcc1f5c8be17f4d0ca6f8122c85ef871ddf86f29c4418
   - id: Q-and-A-20240502
     type: class-notes
     rel_path: 管理專題研討/提問問題彙整_20240502.pdf.pdf
@@ -19,17 +19,17 @@ sources:
     type: personal-notes
     rel_path: 管理專題研討/20240224.pdf
     pages: 2
-    sha256: TODO
+    sha256: 1b1fc0c620b2683aeff17e337326f7a3f74b6606f52dd7f02e14d45a9108496c
   - id: Jason-notes-20240504
     type: personal-notes
     rel_path: 管理專題研討/20240504.pdf
     pages: 2
-    sha256: TODO
+    sha256: ab36ceb4d8a35ebf8201a9cb35f0ad6e0ce94c710daabed8cafebccb5700a04f
   - id: Jason-notes-20240518
     type: personal-notes
     rel_path: 管理專題研討/20240518.pdf
     pages: 2
-    sha256: TODO
+    sha256: e61552c81a7d8c28dbe1a7a485e0e375ad87adf9bc9bdcef270d46a2dc7d3928
 visibility: public
 confidence: high
 lifecycle: draft
