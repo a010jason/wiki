@@ -255,6 +255,49 @@ title: Jason 的知識庫
 - [[entities/Samsung-Electronics]] — 1997 turnaround + Yun sashimi theory + 反主流 vertical integration + Eric Kim GMO
 - [[entities/Microsoft-AdCenter]] — Porter generic strategy 在 digital 失靈案例；7 條 break-into 全敗 + Desktop vs Platform mindset 診斷
 
+### 研究方法論 — 管理專題研討（AMBA 2024 — Bhattacherjee SSR）
+- [[concepts/scientific-method-four-criteria]] — Replicability / Precision / Falsifiability / Parsimony 四準則（Bhattacherjee Ch1）
+- [[concepts/four-goals-of-science]] — Description / Prediction / Explanation / Control（遞進）
+- [[concepts/falsifiability-popper]] — Popper 1940s；Freud 反例 + black swan
+- [[concepts/inductive-vs-deductive-research]] — 研究循環兩半；Popper 對純歸納的反駁
+- [[concepts/concept-vs-construct-vs-variable]] — 五層辨識（concept → construct → operational def → variable → measurement）
+- [[concepts/theoretical-plane-empirical-plane]] — Bhattacherjee 雙平面經典圖
+- [[concepts/proposition-vs-hypothesis]] — 理論層 vs 經驗層；hypothesis 強弱三層光譜
+- [[concepts/nomological-network]] — 構念網絡（Cronbach-Meehl 1955）
+- [[concepts/scientific-paradigms]] — Positivism / Post-positivism / Burrell-Morgan 四象限
+- [[concepts/positivist-vs-interpretive-research]] — 兩 paradigm 對照（Lincoln-Guba 四準則）
+- [[concepts/research-process-seven-steps]] — RQ → Lit → Theory → Design → Method → Execution → Report
+- [[concepts/inverted-triangle-rq]] — Fernando-Hulse-Killacky 倒三角 RQ 視覺工具
+- [[concepts/theory-vs-not-theory]] — Sutton & Staw 1995 ASQ 五件不是 theory 的東西
+- [[concepts/common-research-pitfalls]] — pet problems / fads / favored methods / blind data mining 等
+- [[concepts/scientific-theory]] — Whetten 四 building blocks + Sutton-Staw 標準
+- [[concepts/theory-building-blocks-whetten]] — Constructs/Propositions/Logic/Boundary 四問
+- [[concepts/attributes-of-good-theory]] — 五準則：consistency / explanatory / falsifiability / parsimony / generalizability
+- [[concepts/agency-theory]] — Ross 1973 + Jensen-Meckling；moral hazard + adverse selection；outcome-based contract
+- [[concepts/theory-of-planned-behavior]] — Ajzen 1991 TPB / TRA；attitude + norm + PBC → intention → behavior
+- [[concepts/innovation-diffusion-theory]] — Rogers IDT；五類 adopter + 五 construct（CPA/CPL/ADV/OB/TRI）
+- [[concepts/elaboration-likelihood-model]] — Petty-Cacioppo ELM；central vs peripheral route
+- [[concepts/social-cognitive-theory]] — Bandura triadic + self-efficacy
+- [[concepts/research-design]] — design hub；positivist vs interpretive；四種 validity；五種 control 技巧
+- [[concepts/internal-validity]] — Causality 三條件 + threats（History/Maturation/Testing/Mortality...）
+- [[concepts/external-validity]] — Population validity + Ecological validity；trade-off 反駁
+- [[concepts/causality-three-conditions]] — Covariation + Temporal precedence + No plausible alternative
+- [[concepts/construct-validity]] — Translational（face+content）+ Criterion-related（convergent/discriminant/concurrent/predictive）
+- [[concepts/reflective-vs-formative-measurement]] — Coltman 2008；95% 量表預設 reflective 盲點
+- [[concepts/levels-of-measurement-NOIR]] — Stevens 1946；AHP 1-9 不是 ratio scale 打臉案
+- [[concepts/AVE-fornell-larcker]] — AVE ≥ 0.50 / √AVE > inter-construct r；台灣 MIS 0.36 勉強標準
+- [[concepts/sampling-frame]] — Frame ≠ Population；Fortune 500 / S&P / 戒菸門診偏誤
+- [[concepts/probability-sampling]] — Simple random / systematic / stratified / cluster / matched-pairs / multi-stage
+- [[concepts/non-probability-sampling]] — Convenience / Quota / Expert / Snowball / Purposive
+- [[concepts/human-like-AI-competencies]] — Chandra 2022 三維 chatbot competency（cognitive/relational/emotional）
+- [[concepts/media-naturalness-theory]] — Kock MNT；F2F 為 baseline 演化心理學
+- [[concepts/common-method-bias]] — Podsakoff 2003；Harman + Lindell-Whitney 雙偵測
+- [[concepts/instrumental-variable-2SLS]] — endogeneity 處理；Cragg-Donald > 10 + Sargan + Durbin-Wu-Hausman
+- [[concepts/PLS-SEM-vs-CB-SEM]] — 兩 SEM 派系對照；SmartPLS vs LISREL/Amos/Lavaan
+- [[concepts/LIBOR]] — 倫敦銀行同業拆借利率退場 + SOFR 等 RFR 替代
+- [[concepts/physical-climate-risk]] — 馬駿四類來源 + TCFD acute/chronic；巨災模型四模組
+- [[concepts/firm-climate-risk]] — Huang 2022 SMJ：企業作為氣候風險受害者；price + non-price loan terms
+
 ### ESG / 公司治理 / 倫理（陽明交大 2023-2025 系列）
 - [[entities/Hu-Jin-Li]] — 陽明交大經管所教授；行政院國家永續發展委員會委員；ESG 系列主導講者
 - [[entities/Liu-Zong-Sheng]] — 元大投信董事長 / 投信投顧公會理事長；永續金融 + ETF 2.0 講者
@@ -280,6 +323,7 @@ title: Jason 的知識庫
 - [[skills/setting-OKR]] — 設 OKR 的 how-to：困難度＋清晰度＋參與度＋透明度＋KR 寫法
 - [[skills/leading-agile-transformation]] — 推動敏捷轉型的 6 原則 + 10 步驟 + 案例對照
 - [[skills/differentiation-analysis]] — 差異化分析：demand-side STP + supply-side uniqueness + product integrity
+- [[skills/academic-literature-search]] — 學術文獻檢索（WOS / Google Scholar / EndNote / APA 7th / Turnitin）— NYCU 圖書館 2024 培訓
 
 ## References
 
@@ -299,6 +343,10 @@ title: Jason 的知識庫
 - [[references/HBS-flextronics-international-case]] — EMS 廠商 ODM 轉型；CM/CDM/ODM 三層模型 + smile curve + patent thicket
 - [[references/HBS-samsung-electronics-case]] — HBS 9-504-051 (Quelch &amp; Harrington 2003)，行銷視角的 turnaround，Eric Kim GMO 整合 200 國
 - [[references/HBS-microsoft-adcenter-case]] — HBS 9-908-049 (Coles &amp; Edelman 2008)，AdCenter 失敗案例；**case 原文 35MB 純掃描已 deferred**，lecture-only ingest
+- [[references/bhattacherjee-social-science-research]] — Bhattacherjee SSR 開放教科書（USF 2012, CC BY-NC-ND）+ 教師 Ch1-8 lecture slides 1,380 頁；管理專題研討 AMBA 課程主教材
+- [[references/chandra-2022-human-like-AI-competencies]] — JMIS 2022 chatbot human-like competency；mixed methods + CMB + IV/2SLS + PLS-SEM 範本
+- [[references/huang-2022-firm-climate-risk-bank-loan]] — SMJ 2022；firm-level climate risk → bank loan terms；CDP + SHELDUS + DealScan 多資料庫合併範本
+- [[references/management-seminar-2024-yunlin]] — 管理專題研討 AMBA 2024 課程框架（syllabus + Q&A + Jason 課堂筆記）
 
 ## Synthesis
 
@@ -323,6 +371,7 @@ title: Jason 的知識庫
 - [[synthesis/shipping-aviation-ESG-paths]] — IMO vs ICAO 減排框架對比 + 替代燃料路徑
 - [[synthesis/wei-zheng-leadership-and-subsidiary-management]] — 諫太宗十思疏 ↔ 跨國子公司治理跨領域對標；Bartlett 三階段 + 唐太宗治國模式映射；類比的適用邊界
 - [[synthesis/agency-vs-merchant-platform-models]] — Agency vs Merchant 商模跨產業對比（OTA / e-commerce / ride-hailing / cloud / 房地產）；為何 agency 普遍贏 + Amazon 雙軌的內部衝突
+- [[synthesis/sampling-choice-shapes-results]] — Short, Ketchen, Palmer (2002) JoM 經典：同 hypothesis（CEO duality）4 種 sample 得 4 種結果；建知識需 multi-sample replication
 
 ## Journal
 

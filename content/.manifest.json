@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-05-21T17:00:00+08:00 (策略管理 Wave A: 12 PDFs / 226p / 23 new pages)",
+  "last_updated": "2026-05-21T19:00:00+08:00 (管理專題研討 — Bhattacherjee SSR 全書 + Ch1-8 lecture slides + 4 supplementary papers + library guide + course-frame: 20 PDFs / 1862 頁 / +40 wiki pages)",
   "sources": {
     "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/0820-OKR-講義.pdf": {
       "ingested_at": "2026-05-05T15:00:00+08:00",
@@ -1596,12 +1596,368 @@
         "concepts/desktop-vs-platform-mindset.md"
       ],
       "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/管理專題研討/open access textbook.pdf.pdf": {
+      "ingested_at": "2026-05-21T19:00:00+08:00",
+      "size_bytes": 2564006,
+      "modified_at": "2026-04-24T02:01:50+08:00",
+      "content_hash": "sha256:2ad58a2ae2229d7a5d09cd44560900a73efb6afa6eca73383cd3a3fe3be87065",
+      "source_type": "document",
+      "project": null,
+      "pages": 151,
+      "pages_created": [
+        "references/bhattacherjee-social-science-research.md"
+      ],
+      "pages_updated": [
+        "concepts/scientific-theory.md",
+        "concepts/research-process-seven-steps.md",
+        "index.md",
+        "log.md"
+      ]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/管理專題研討/Chapter 1_textbook.pdf.pdf": {
+      "ingested_at": "2026-05-21T19:00:00+08:00",
+      "size_bytes": 1709892,
+      "modified_at": "2026-04-24T02:01:50+08:00",
+      "content_hash": "sha256:ae5bb8d69947143cd0bc5031a7390f5027b15e9ed4ba8ea0e069a7c2997ecab6",
+      "source_type": "document",
+      "project": null,
+      "pages": 128,
+      "pages_created": [
+        "concepts/scientific-method-four-criteria.md",
+        "concepts/four-goals-of-science.md",
+        "concepts/falsifiability-popper.md",
+        "concepts/inductive-vs-deductive-research.md",
+        "entities/Karl-Popper.md"
+      ],
+      "pages_updated": [
+        "index.md",
+        "log.md"
+      ]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/管理專題研討/Chapter 2_textbook.pdf.pdf": {
+      "ingested_at": "2026-05-21T19:00:00+08:00",
+      "size_bytes": 1844114,
+      "modified_at": "2026-04-24T02:01:50+08:00",
+      "content_hash": "sha256:8c4441277fef656cc479702592bc64399e5bd05cdeb93dad02aa32e53dd8f0de",
+      "source_type": "document",
+      "project": null,
+      "pages": 133,
+      "pages_created": [
+        "concepts/concept-vs-construct-vs-variable.md",
+        "concepts/theoretical-plane-empirical-plane.md",
+        "concepts/proposition-vs-hypothesis.md",
+        "concepts/nomological-network.md"
+      ],
+      "pages_updated": [
+        "index.md",
+        "log.md"
+      ]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/管理專題研討/Ch3.pdf.pdf": {
+      "ingested_at": "2026-05-21T19:00:00+08:00",
+      "size_bytes": 1788316,
+      "modified_at": "2026-04-24T02:01:50+08:00",
+      "content_hash": "sha256:d4f17cfa7664ab33672fa8bca312443b127bf154a1c77ab7897240f2d3ff20e2",
+      "source_type": "document",
+      "project": null,
+      "pages": 137,
+      "pages_created": [
+        "concepts/scientific-paradigms.md",
+        "concepts/research-process-seven-steps.md",
+        "concepts/inverted-triangle-rq.md",
+        "concepts/theory-vs-not-theory.md"
+      ],
+      "pages_updated": [
+        "index.md",
+        "log.md"
+      ]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/管理專題研討/Chapter 4.pdf.pdf": {
+      "ingested_at": "2026-05-21T19:00:00+08:00",
+      "size_bytes": 9319352,
+      "modified_at": "2026-04-24T02:01:50+08:00",
+      "content_hash": "sha256:d0db65dc880f278890690a0097683eff58601a228c4bc53e8fef118cbf436357",
+      "source_type": "document",
+      "project": null,
+      "pages": 209,
+      "pages_created": [
+        "concepts/scientific-theory.md",
+        "concepts/theory-building-blocks-whetten.md",
+        "concepts/attributes-of-good-theory.md",
+        "concepts/agency-theory.md",
+        "concepts/theory-of-planned-behavior.md",
+        "concepts/innovation-diffusion-theory.md",
+        "concepts/elaboration-likelihood-model.md",
+        "concepts/social-cognitive-theory.md"
+      ],
+      "pages_updated": [
+        "index.md",
+        "log.md"
+      ]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/管理專題研討/Chapter 5.pdf.pdf": {
+      "ingested_at": "2026-05-21T19:00:00+08:00",
+      "size_bytes": 3256854,
+      "modified_at": "2026-04-24T02:01:50+08:00",
+      "content_hash": "sha256:7b637cd176d942f8ccbe085da7ee43f422e4c8d73152d0934b831b78c234e762",
+      "source_type": "document",
+      "project": null,
+      "pages": 195,
+      "pages_created": [
+        "concepts/research-design.md",
+        "concepts/internal-validity.md",
+        "concepts/external-validity.md",
+        "concepts/causality-three-conditions.md",
+        "concepts/positivist-vs-interpretive-research.md"
+      ],
+      "pages_updated": [
+        "index.md",
+        "log.md"
+      ]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/管理專題研討/Ch6.pdf.pdf": {
+      "ingested_at": "2026-05-21T19:00:00+08:00",
+      "size_bytes": 3105835,
+      "modified_at": "2026-04-24T02:01:50+08:00",
+      "content_hash": "sha256:4249795a19d7aa1b487a4a3a39e4f95a85719c97bc997b27ea6b2bfb14c6ebcc",
+      "source_type": "document",
+      "project": null,
+      "pages": 182,
+      "pages_created": [
+        "concepts/reflective-vs-formative-measurement.md",
+        "concepts/levels-of-measurement-NOIR.md"
+      ],
+      "pages_updated": [
+        "index.md",
+        "log.md"
+      ]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/管理專題研討/Ch7.pdf.pdf": {
+      "ingested_at": "2026-05-21T19:00:00+08:00",
+      "size_bytes": 2589985,
+      "modified_at": "2026-04-24T02:01:50+08:00",
+      "content_hash": "sha256:cc04e1d6d50aee6d98ec1fc27f7d21474bfac5d0b5f50b4dabd2cd2279d9ef90",
+      "source_type": "document",
+      "project": null,
+      "pages": 167,
+      "pages_created": [
+        "concepts/construct-validity.md",
+        "concepts/AVE-fornell-larcker.md"
+      ],
+      "pages_updated": [
+        "index.md",
+        "log.md"
+      ]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/管理專題研討/Ch8.pdf.pdf": {
+      "ingested_at": "2026-05-21T19:00:00+08:00",
+      "size_bytes": 1913865,
+      "modified_at": "2026-04-24T02:01:50+08:00",
+      "content_hash": "sha256:c67e2154b5c601e9b4ed3d00b5ba807f10e3b738301cdd1291ffb7a5c5e6f2b3",
+      "source_type": "document",
+      "project": null,
+      "pages": 228,
+      "pages_created": [
+        "concepts/sampling-frame.md",
+        "concepts/probability-sampling.md",
+        "concepts/non-probability-sampling.md",
+        "synthesis/sampling-choice-shapes-results.md"
+      ],
+      "pages_updated": [
+        "index.md",
+        "log.md"
+      ]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/管理專題研討/To Be or Not to Be  Human  Theorizing the Role of Human-Like Competencies in Conversational Artificial Intelligence Agents.pdf.pdf": {
+      "ingested_at": "2026-05-21T19:00:00+08:00",
+      "size_bytes": 2534269,
+      "modified_at": "2026-04-24T02:01:50+08:00",
+      "content_hash": "sha256:62cb127cc60f68891e81cd3eca622632c054b88db1483c9e116e2b9528ea3977",
+      "source_type": "document",
+      "project": null,
+      "pages": 38,
+      "pages_created": [
+        "references/chandra-2022-human-like-AI-competencies.md",
+        "concepts/human-like-AI-competencies.md",
+        "concepts/media-naturalness-theory.md",
+        "concepts/common-method-bias.md",
+        "concepts/instrumental-variable-2SLS.md",
+        "concepts/PLS-SEM-vs-CB-SEM.md"
+      ],
+      "pages_updated": [
+        "index.md",
+        "log.md"
+      ]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/管理專題研討/Copy of Firm climate risk  risk management  and bank loan financing_整合.pdf.pdf": {
+      "ingested_at": "2026-05-21T19:00:00+08:00",
+      "size_bytes": 8181097,
+      "modified_at": "2026-04-24T02:01:50+08:00",
+      "content_hash": "sha256:b315a34ac71e3a23584d85d5682c2b387197b764e79a068167af21794bdcb82d",
+      "source_type": "document",
+      "project": null,
+      "pages": 58,
+      "pages_created": [
+        "references/huang-2022-firm-climate-risk-bank-loan.md",
+        "concepts/firm-climate-risk.md"
+      ],
+      "pages_updated": [
+        "index.md",
+        "log.md"
+      ]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/管理專題研討/LIBOR.pdf.pdf": {
+      "ingested_at": "2026-05-21T19:00:00+08:00",
+      "size_bytes": 1191548,
+      "modified_at": "2026-04-24T02:01:50+08:00",
+      "content_hash": "sha256:e6e2640be9fc2d1c1637ebcfca41384bc600f7beb18b955879579798d5098184",
+      "source_type": "document",
+      "project": null,
+      "pages": 8,
+      "pages_created": [
+        "concepts/LIBOR.md"
+      ],
+      "pages_updated": [
+        "index.md",
+        "log.md"
+      ]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/管理專題研討/物理氣候風險.pdf.pdf": {
+      "ingested_at": "2026-05-21T19:00:00+08:00",
+      "size_bytes": 323360,
+      "modified_at": "2026-04-24T02:01:50+08:00",
+      "content_hash": "sha256:26d3cd7eebd43f243ac1d84c8902fc37e2c7f265c457639354b5f07582d19f8e",
+      "source_type": "document",
+      "project": null,
+      "pages": 7,
+      "pages_created": [
+        "concepts/physical-climate-risk.md"
+      ],
+      "pages_updated": [
+        "index.md",
+        "log.md"
+      ]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/管理專題研討/文章附件＿統計相關資料.docx-dual-translated.pdf.pdf": {
+      "ingested_at": "2026-05-21T19:00:00+08:00",
+      "size_bytes": 23516580,
+      "modified_at": "2026-04-24T02:01:50+08:00",
+      "content_hash": "sha256:0be940d34e21e89d0a296c737b344e13e5aad5ad8df300a97cf677bd6c59f32d",
+      "source_type": "document",
+      "project": null,
+      "pages": 42,
+      "pages_created": [
+        "concepts/common-method-bias.md",
+        "concepts/instrumental-variable-2SLS.md",
+        "concepts/PLS-SEM-vs-CB-SEM.md"
+      ],
+      "pages_updated": [
+        "index.md",
+        "log.md"
+      ]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/管理專題研討/20240427圖書資源利用_經營管理研究所.pdf.pdf": {
+      "ingested_at": "2026-05-21T19:00:00+08:00",
+      "size_bytes": 3216774,
+      "modified_at": "2026-04-24T02:01:50+08:00",
+      "content_hash": "sha256:4fc22e76a7699df22b8e1be0bb4dad389f10156a4dda54c7b396846f6e055271",
+      "source_type": "document",
+      "project": null,
+      "pages": 60,
+      "pages_created": [
+        "skills/academic-literature-search.md"
+      ],
+      "pages_updated": [
+        "index.md",
+        "log.md"
+      ]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/管理專題研討/Grading_AMBA.pdf.pdf": {
+      "ingested_at": "2026-05-21T19:00:00+08:00",
+      "size_bytes": 189276,
+      "modified_at": "2026-04-24T02:01:50+08:00",
+      "content_hash": "sha256:3cf887b8ccd22ccf829fcc1f5c8be17f4d0ca6f8122c85ef871ddf86f29c4418",
+      "source_type": "document",
+      "project": null,
+      "pages": 6,
+      "pages_created": [
+        "references/management-seminar-2024-yunlin.md"
+      ],
+      "pages_updated": [
+        "index.md",
+        "log.md"
+      ]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/管理專題研討/提問問題彙整_20240502.pdf.pdf": {
+      "ingested_at": "2026-05-21T19:00:00+08:00",
+      "size_bytes": 352287,
+      "modified_at": "2026-04-24T02:01:50+08:00",
+      "content_hash": "sha256:ba9eaa47879b574ac44c9db8537db6093ac7aebc5b6cb34f3a1a3992c1c4ccd4",
+      "source_type": "document",
+      "project": null,
+      "pages": 7,
+      "pages_created": [
+        "references/management-seminar-2024-yunlin.md"
+      ],
+      "pages_updated": [
+        "index.md",
+        "log.md"
+      ]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/管理專題研討/20240224.pdf": {
+      "ingested_at": "2026-05-21T19:00:00+08:00",
+      "size_bytes": 23062,
+      "modified_at": "2026-04-24T02:01:50+08:00",
+      "content_hash": "sha256:1b1fc0c620b2683aeff17e337326f7a3f74b6606f52dd7f02e14d45a9108496c",
+      "source_type": "document",
+      "project": null,
+      "pages": 2,
+      "pages_created": [
+        "references/management-seminar-2024-yunlin.md"
+      ],
+      "pages_updated": [
+        "index.md",
+        "log.md"
+      ]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/管理專題研討/20240504.pdf": {
+      "ingested_at": "2026-05-21T19:00:00+08:00",
+      "size_bytes": 24942,
+      "modified_at": "2026-04-24T02:01:50+08:00",
+      "content_hash": "sha256:ab36ceb4d8a35ebf8201a9cb35f0ad6e0ce94c710daabed8cafebccb5700a04f",
+      "source_type": "document",
+      "project": null,
+      "pages": 2,
+      "pages_created": [
+        "references/management-seminar-2024-yunlin.md"
+      ],
+      "pages_updated": [
+        "index.md",
+        "log.md"
+      ]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/管理專題研討/20240518.pdf": {
+      "ingested_at": "2026-05-21T19:00:00+08:00",
+      "size_bytes": 10597,
+      "modified_at": "2026-04-24T02:01:50+08:00",
+      "content_hash": "sha256:e61552c81a7d8c28dbe1a7a485e0e375ad87adf9bc9bdcef270d46a2dc7d3928",
+      "source_type": "document",
+      "project": null,
+      "pages": 2,
+      "pages_created": [
+        "references/management-seminar-2024-yunlin.md"
+      ],
+      "pages_updated": [
+        "index.md",
+        "log.md"
+      ]
     }
   },
   "projects": {},
   "stats": {
-    "total_sources_ingested": 76,
-    "total_pages": 2431,
+    "total_sources_ingested": 127,
+    "total_pages": 3977,
     "total_projects": 0,
     "last_full_rebuild": null
   }
