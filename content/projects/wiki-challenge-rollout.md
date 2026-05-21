@@ -20,10 +20,10 @@ owner: Jason
 |---|---|---|---|
 | Tier 1 — Top hub pages | **5/5 ✅** (disruptive-innovation / STP-framework / OKR / falsifiability-popper / VRIO-framework) | 0 | 5 |
 | Tier 2 — Cross-domain hub theories | 2 (scientific-theory ✅ / causality-three-conditions ✅) | 3 | 5 |
-| Tier 3 — Research methods 核心 | 2 (agency-theory ✅ / construct-validity ✅) | 8 | 10 |
+| Tier 3 — Research methods 核心 | 3 (agency-theory ✅ / construct-validity ✅ / reflective-vs-formative ✅) | 7 | 10 |
 | Tier 4 — Wave 2 supplementary papers | 0 | 6 | 6 |
 | Tier 5 — Research methods supporting | 0 | 15 | 15 |
-| **總計** | **9** | **32** | **41** |
+| **總計** | **10** | **31** | **41** |
 
 剩餘 363 頁 draft 屬 lower-priority（先跑這 40 個 high-impact 的）。
 
@@ -60,7 +60,7 @@ owner: Jason
 
 - [x] **`concepts/agency-theory`** — 2026-05-22 done（5 claims: 0 survives / 2 narrow / 3 brittle / 0 unsupported；commit `707ec50`）
 - [x] **`concepts/construct-validity`** — 2026-05-22 done（5 claims: 0 survives / 2 narrow / 3 brittle / 0 unsupported；single-source Bhattacherjee、Messick unified view 未引、Fornell-Larcker 已被 HTMT 取代 10 年、Coltman "95% reflective" 是 MIS 子領域 snapshot 被過度推廣）
-- [ ] **`concepts/reflective-vs-formative-measurement`** — Coltman 2008；「95% 量表預設 reflective」是強 claim
+- [x] **`concepts/reflective-vs-formative-measurement`** — 2026-05-22 done（5 claims: 0 survives / 2 narrow / 3 brittle / 0 unsupported；Coltman 是綜述非首發，前置 Bollen-Lennox 1991 / Jarvis 2003 / Edwards-Bagozzi 2000 未引；反方 Bagozzi 2007 / Howell 2007 缺席；binary split 忽略 MIMIC + composite；PLS-SEM-only 過強）
 - [ ] **`concepts/inductive-vs-deductive-research`** — Popper 黑天鵝；deductive 強於 inductive claim
 - [ ] **`concepts/theory-vs-not-theory`** — Sutton-Staw 五件不是 theory；對 grounded theory 不公
 - [ ] **`concepts/theory-building-blocks-whetten`** — Whetten 1989 四 blocks
