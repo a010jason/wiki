@@ -67,6 +67,18 @@ title: Jason 的知識庫
 - [[concepts/transformational-leadership]] — 4 I model + Full Range + charisma 60% genetic（Ch14）
 - [[concepts/leader-member-exchange]] — Dyadic ingroup/outgroup + 跨文化 boundary（Ch14）
 
+### 管理 / 人力資源管理（溫金豐 2024 Ch1-12）
+- [[concepts/ulrich-hr-roles]] — Ulrich 4 角色 + HRM 5 階段演進（Personnel→HRM→SHRM→TM→DEI）（Ch1-2）
+- [[concepts/SHRM-three-perspectives]] — RBV / Best Practice / Contingency 三派觀點 + 內部一致性四面向（Ch3）
+- [[concepts/HR-planning-forecasting]] — HRP 流程 + 判斷性 vs 數學性預測 + 短缺/過剩對策（Ch4）
+- [[concepts/competency-model-three-tiers]] — Core/Professional/Managerial × K+S+AOM 冰山 + Job-based vs Competence-based HR（Ch5）
+- [[concepts/employee-selection-tools]] — 5 工具（履歷/背景/心測/面談/評鑑中心）+ 信效成三角 + 面談 4 偏誤（Ch6）
+- [[concepts/training-effectiveness-kirkpatrick-alliger]] — 四層級評估 + 70-20-10 + IDP vs Performance Review 分開（Ch7）
+- [[concepts/performance-appraisal-methods-six]] — 4 大方法族 + BARS/BOS + 360 度 + 四偏誤（Ch8）
+- [[concepts/glass-ceiling]] — 隱形障礙 + leaky pipeline 現代框架 + DEI 對接（Ch9）
+- [[concepts/compensation-system-structure]] — 薪資四基礎 + HAY Points + 獎金三型 + 福利四類 + 矽谷 vs 台灣（Ch10）
+- [[concepts/HR-future-trends-five-axes]] — 人口/競爭/Y-Z/ESG-DEI/生成式 AI 五軸 + Demand-Ability vs Need-Supply Fit（Ch11-12）
+
 ### 管理 / 策略管理
 - [[concepts/strategy]] — 策略定義 + 4 ingredients of success + 兩個維度（positioning / direction）
 - [[concepts/strategic-fit]] — Firm × Environment 連結，取代 SWOT
@@ -165,6 +177,51 @@ title: Jason 的知識庫
 - [[concepts/markops-marketing-operations-framework]] — Markops = 1E+5Cs+STP+7Ts → 動態調整 + CNC/MS + BCG invest/maintain/milk/divest
 - [[concepts/integrated-digital-marketing-six-pillars]] — 數位整合行銷六支柱概念圖（SEO / 社群 / 數據廣告 / O2O / 口碑 / PR）
 
+### ESG / 永續發展（陽明交大 2023 系列 + 業界）
+- [[concepts/ESG-framework]] — Environmental / Social / Governance 三支柱 + 演進軸線（SRI→CSR→ESG→Net Zero）
+- [[concepts/SDGs]] — 聯合國 17 項永續發展目標 + THE 大學影響力排名
+- [[concepts/USR-university-social-responsibility]] — 大學社會責任：研究 + 教學 + 校園永續
+- [[concepts/GRI-standards]] — 全球普及度最高的永續報告書通用語言（2021 新版 1/2/3 + 產業 + 主題準則）
+- [[concepts/SASB-standards]] — 產業別財務重大性導向（11 大類 / 77 子產業 / 26 ESG 主題）
+- [[concepts/TCFD-framework]] — 氣候相關財務揭露四支柱（治理 / 策略 / 風險 / 指標）
+- [[concepts/ISSB-IFRS-S1-S2]] — 國際統一永續揭露準則（吃掉 TCFD / SASB）
+- [[concepts/scope-1-2-3-emissions]] — 三範疇排放分類 + ISO 14064-1:2018 六 Category
+- [[concepts/ISO-14064-1]] — 組織型 GHG 盤查標準（台灣 2027 強制盤查、2029 強制查證）
+- [[concepts/ISO-14067]] — 產品碳足跡 LCA 標準
+- [[concepts/sustainability-accounting]] — 永續會計：環境負債盤查 + 負產品成本
+- [[concepts/carbon-pricing]] — 碳定價機制（ETS / 碳稅 / CBAM / 內部碳價）
+- [[concepts/CBAM]] — 歐盟碳邊境調整機制（2026 全面實施）
+- [[concepts/taiwan-carbon-fee]] — 台灣 2025 開徵碳費（首波 287 家排放大戶）
+- [[concepts/taiwan-net-zero-2050]] — 台灣淨零 12 大關鍵戰略
+- [[concepts/carbon-credit-market]] — 強制 vs 自願碳權市場（VCM / CCM）
+- [[concepts/carbon-neutrality-vs-net-zero]] — 碳中和 vs 淨零的差異（CO2 only vs 全 GHG + 移除）
+- [[concepts/RE100]] — 再生能源 100% 倡議（不接受純碳權抵換）
+- [[concepts/SBTi]] — 科學基礎減量目標（1.5°C 巴黎路徑）
+- [[concepts/equator-principles]] — 銀行專案融資環社風險管理（台灣僅 3 家簽署）
+- [[concepts/UN-PRI]] — 聯合國責任投資原則（3,100+ 家、110 兆 USD AUM）
+- [[concepts/ESG-rating-divergence]] — 不同 ESG 評級機構相關係數 < 0.6 問題
+- [[concepts/greenwashing]] — 漂綠：模糊宣稱 / 選擇性揭露 / 抵換濫用
+
+### 管理 / 公司治理（2025 春學期 + HP 醜聞）
+- [[concepts/director-fiduciary-duty]] — 帝王條款（公司法 23 條）忠實 + 注意 + 守法義務
+- [[concepts/competing-business-prohibition]] — 競業禁止（209 條）+ 歸入權
+- [[concepts/independent-director]] — 獨立董事制度（證交法 14-2）+ 取代監察人
+- [[concepts/audit-committee]] — 審計委員會：公司派最痛苦的點（可召集股東會）
+- [[concepts/three-committees]] — 三委會（審計 / 薪酬 / 提名）OECD 標準
+- [[concepts/special-shares-tw]] — 特別股 157 條 8 項設計要素
+- [[concepts/dual-class-shares]] — 複數表決權股（Google / Meta / 台灣家族企業）
+- [[concepts/ESOP-employee-stock]] — 員工認股權契約（167-2 條）
+- [[concepts/cumulative-voting]] — 累積投票制（192-1 強制 / 保護少數股東）
+- [[concepts/pyramidal-control-structure]] — 金字塔控制結構 + 隧道效應
+- [[concepts/pretexting]] — 社會工程詐騙（HP 2006 醜聞核心）
+
+### 管理 / 企業倫理 + 危機處理
+- [[concepts/crisis-management-PDCA]] — 危機處理三階段 + 倫理三角困境
+- [[concepts/ISO-39001]] — 道路交通安全管理系統
+- [[concepts/pointing-and-calling]] — 指差確認（日本鐵道源、減 85% 人為失誤）
+- [[concepts/employer-branding]] — 雇主品牌四要素金字塔 + 吸引人才五構面
+- [[concepts/exit-with-ESG]] — 退場 ESG：永續責任的終局形態（新竹客運案）
+
 ## Entities
 
 - [[entities/Ar9av-obsidian-wiki]] — Claude Code 原生 LLM Wiki 工具，25 個 skills
@@ -177,6 +234,26 @@ title: Jason 的知識庫
 - [[entities/Tiffany]] — 1837 紐約奢侈珠寶；2021 LVMH 收購；Audrey Hepburn × 中國市場 open question
 - [[entities/Taylor-Swift]] — Personal brand + Scooter Braun 母帶之爭 + 收入四元化 + Swifties 社群
 - [[entities/Marcello-Damiani]] — Moderna CDO，AI Factory 三原則（Cloud/Integration/Automation）articulator；「先優化、後數位化」立場（Iansiti HBS Moderna case）
+
+### ESG / 公司治理 / 倫理（陽明交大 2023-2025 系列）
+- [[entities/Hu-Jin-Li]] — 陽明交大經管所教授；行政院國家永續發展委員會委員；ESG 系列主導講者
+- [[entities/Liu-Zong-Sheng]] — 元大投信董事長 / 投信投顧公會理事長；永續金融 + ETF 2.0 講者
+- [[entities/Li-Jian-Wen]] — 首都客運集團總經理；雪隧火燒車危機處理範例（2012-05-07）
+- [[entities/Tsai-Feng-Ming]] — 陽明海運董事長（2024-08 接任）；前海洋大學航運管理系主任
+- [[entities/Huang-Bo-Xiang]] — 迪芬尼聲學科技 人資長；雇主品牌四要素 + 「專業極限玩家」理念
+- [[entities/Patricia-Dunn]] — 前 HP 董事長；2006 pretexting scandal 核心人物（卵巢癌過世 2011）
+
+### ESG / 公司 / 案例 entities
+- [[entities/TSMC]] — 全球首家加入 RE100 的半導體廠商；2040 RE100、2050 淨零
+- [[entities/Delta-Electronics]] — 台達電：DJSI 11 連金 + RE100 + SBTi 雙承諾 + 節能解決方案
+- [[entities/O-Right]] — 歐萊德：全球美妝業首家 RE100 + 全品項碳中和
+- [[entities/E-Sun-Financial]] — 玉山金控：台灣金融業 ESG 標竿、連 6 年治理評鑑前 5%
+- [[entities/Yang-Ming-Marine]] — 陽明海運：Premier Alliance + LNG 雙燃料 + Silk Alliance
+- [[entities/Capital-Bus-Group]] — 首都客運：ISO 39001 全國首張 + 雪隧火燒車危機處理
+- [[entities/Tymphany]] — 迪芬尼聲學：員工夢工廠四部曲 + 聲音測試室
+- [[entities/Kuo-Yuan-Ye]] — 舊振南食品：1890s 高雄家族企業品牌轉型
+- [[entities/Hewlett-Packard]] — HP：2006 pretexting scandal 治理失能案例
+- [[entities/BlackRock]] — 全球最大資產管理（USD 10 兆 AUM）；Larry Fink ESG 倡議引領者
 
 ## Skills
 
@@ -192,6 +269,10 @@ title: Jason 的知識庫
 - [[references/grant-contemporary-strategy-analysis]] — Wiley 策略管理教科書 11th ed，**Ch1-14 全章 ingest 完成**（Ch7 於 2026-05-20 audit 補完 5 頁）
 - [[references/shih-thurston-intel-nbi-2010-HBS]] — HBS 9-609-043 *Intel NBI (A)*，corporate venturing 失敗的經典案例
 - [[references/kotler-keller-chernev-marketing-management-16e]] — Pearson 2022，行銷管理 standard 教科書，**Wave 1+2+3 全部 21 PDFs ingest 完成**（Ch01-11 + Ch17-18 + 8 案例）
+- [[references/wen-2023-HRM-textbook]] — 溫金豐 et al. 華泰 5 版 2023，繁中 HRM 教科書 + 8 lecture PDFs，**OB 資料夾 25 PDFs 全閉環**
+- [[references/esg-lecture-corpus]] — 陽明交大 EMBA 2023 ESG 系列 14 PDFs / 887 頁（胡均立 + 劉宗聖 + 黃世忠 + 佳典管顧 + 致理 張民忠）
+- [[references/business-ethics-lecture-corpus]] — 陽明交大 2025 春《企業經營與倫理專題講座》6 PDFs / 119 頁（李建文 + 蔡豐明 + 黃柏翔 + 3 case briefing）
+- [[references/corporate-governance-lecture-corpus]] — 2025 春公司治理課程 9 lectures + 2 HP 醜聞報導 / 47 頁（公司法 + 證交法逐條教學）
 
 ## Synthesis
 
@@ -209,6 +290,11 @@ title: Jason 的知識庫
 - [[synthesis/services-paradox-4Is-vs-product-management]] — 服務 4Is 是 feature 不只 bug；TSMC yield 思維適用中低端、不適用高端個人化服務
 - [[synthesis/asia-luxury-brand-gap]] — 教師質疑「亞洲為何無法創建奢侈品牌」的反例蒐集（Mikimoto / Sulwhasoo / 鼎泰豐 / 誠品）+ 拆解歐美 luxury 定義偏見
 - [[synthesis/PLC-vs-stage-gate-vs-adopter-curve]] — 三套時序模型對齊；Moore's Chasm ≈ Gartner Hype Cycle Trough，PLC 上看不見
+- [[synthesis/OB-HRM-strategy-three-layers]] — OB（why）→ HRM（how）→ Strategy（what）三層整合 + 同一 RBV/VRIO 在三層的不同角色
+- [[synthesis/HP-pretexting-lessons]] — 2006 HP 醜聞對台灣公司治理的三層啟示（內部調查合法性 / 獨董質疑勇氣 / 隱私保護平衡）
+- [[synthesis/family-firm-control-vs-governance]] — 東亞家族企業控制權保留 vs 公司治理透明化的根本張力
+- [[synthesis/medical-ai-ESG-implications]] — 醫療 AI 公司面對 ESG 監管的具體策略（E 弱 / S 重 / G 為 IPO 前置）— **visibility: internal**
+- [[synthesis/shipping-aviation-ESG-paths]] — IMO vs ICAO 減排框架對比 + 替代燃料路徑
 
 ## Journal
 

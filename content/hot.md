@@ -1,6 +1,6 @@
 ---
 title: Hot Cache
-updated: 2026-05-21T10:30+08:00 (Kotler MM 16e Wave 2 完成 — Ch09/10/11/17/18 / 24 新 wiki 頁；Kotler 21 PDFs 全閉環)
+updated: 2026-05-21T15:00+08:00 (ESG 14 + 企業倫理 6 + 公司治理 11 = 31 PDFs / 1053 頁 / 62 新頁 — 三資料夾首次大規模 ingest)
 ---
 
 # Hot Cache
@@ -8,6 +8,10 @@ updated: 2026-05-21T10:30+08:00 (Kotler MM 16e Wave 2 完成 — Ch09/10/11/17/1
 *A ~500-word semantic snapshot of recent activity. Updated after every major write operation.*
 
 ## Recent Activity
+
+- [2026-05-21 15:00] INGEST — **ESG + 企業經營與倫理 + 公司治理三資料夾合併大爆發（31 PDFs / 1053 頁 / 62 新頁）**：(A) **ESG 14 PDFs (887p)** — 陽明交大 EMBA 2023 秋學期系列（[[entities/Hu-Jin-Li]] 主導）+ [[entities/Liu-Zong-Sheng]] 永續金融 / ETF 2.0、佳典管顧 GRI/SASB/TCFD + NetZero Pro、黃世忠 SGS 淨零策略、張民忠致理 碳會計、陳明宏百米良田 土力革命；(B) **企業經營與倫理 6 PDFs (119p)** — 2025 春學期業界主管系列：[[entities/Li-Jian-Wen]] 首都客運（雪隧火燒車 [[concepts/crisis-management-PDCA]]）/ [[entities/Tsai-Feng-Ming]] 陽明海運（紅海危機 + 川普 2.0 + IMO 減排）/ [[entities/Huang-Bo-Xiang]] 迪芬尼（雇主品牌四要素）+ 三商美邦 / 舊振南 / 迪芬尼 case briefing；(C) **公司治理 11 PDFs (47p)** — 2025 春學期公司法 + 證交法逐條教學 9 份 + HP pretexting scandal 2 篇報導。產出：3 reference manifest + 23 ESG concept（GRI/SASB/TCFD/ISSB/Scope1-3/ISO14064-1/ISO14067/CBAM/RE100/SBTi/SDGs/PRI/Equator/USR/碳費/淨零12策略/碳權市場/漂綠/評級分歧/永續會計...）+ 11 Governance concept（**帝王條款 23 條 / 獨董 / 審計委員會 / 三委會 / 特別股 / 複數表決權 / ESOP / 累積投票 / 競業禁止 / Pretexting / 金字塔結構**）+ 5 Ethics concept（PDCA 危機處理 / ISO 39001 / 指差確認 / 雇主品牌 / 退場 ESG）+ 16 entity（[[entities/Hewlett-Packard]] / [[entities/Patricia-Dunn]] / [[entities/TSMC]] / [[entities/Yang-Ming-Marine]] / [[entities/Capital-Bus-Group]] / [[entities/Delta-Electronics]] / [[entities/O-Right]] / [[entities/E-Sun-Financial]] / [[entities/Tymphany]] / [[entities/Kuo-Yuan-Ye]] / [[entities/BlackRock]] + 5 人物）+ 4 synthesis（**[[synthesis/HP-pretexting-lessons]]** / **[[synthesis/family-firm-control-vs-governance]]** / **[[synthesis/medical-ai-ESG-implications]]**（visibility: internal）/ **[[synthesis/shipping-aviation-ESG-paths]]**）。Wave 1 subagent 中 9 lectures governance 撞 sonnet rate limit，分成 2 個小 subagent 後續處理成功；土力革命 43MB + 李建文 34MB 走 pdftotext L2-A fallback
+
+- [2026-05-21 14:00] INGEST — **NYCU EMBA 組織與人力資源管理 8 lecture PDFs（115 頁 / 11 新頁 + 1 update）**：溫金豐 2024 後半段 6 週課（Ch1-12）+ Syllabus + 20240224 OB intro。8 parallel subagent 全程 path B。寫入：1 reference（[[references/wen-2023-HRM-textbook]] 溫金豐 et al. 5 版教科書 manifest）+ 9 concept（**ulrich-hr-roles** 4 角色 + HRM 5 階段、**SHRM-three-perspectives** RBV/Best-Practice/Contingency、**HR-planning-forecasting**、**competency-model-three-tiers** + KSA 冰山、**employee-selection-tools** 5 工具 + 信效成三角 + 面談 4 偏誤、**training-effectiveness-kirkpatrick-alliger** 四層級 + 70-20-10、**performance-appraisal-methods-six** + BARS/BOS + 360 + 四偏誤、**compensation-system-structure** 四基礎 + HAY + 獎金三型 + 福利四類、**glass-ceiling**、**HR-future-trends-five-axes** 人口/競爭/Y-Z/ESG/AI）+ 1 synthesis（**OB-HRM-strategy-three-layers** 把『OB 是 why / HRM 是 how / Strategy 是 what』展開成完整論述 + 證據鏈）+ 1 entity update（wen-jin-feng 補 2024 課程紀錄）。**OB 資料夾 25 PDFs 全部閉環**（Colquitt OB Ch1-14 + 溫金豐 OKR/Agile/Cross-cultural 3 堂 + 本批 8 個 HRM lecture）。manifest 同步修正 cached 漂移：64 sources / 2215 pages
 
 - [2026-05-21 10:30] INGEST — **Kotler MM 16e Wave 2 完成（5 章 Ch09/10/11/17/18 / 151 頁總和 / 24 個 wiki 頁批量寫入）**：行銷管理 21 份 PDF 的第二批，5 parallel subagent 並行 distill 全 151 頁，主 agent 從未渲染 PDF。寫入：21 concept 頁 + 3 synthesis：
   - **Ch09 Services（4Is + Triangle + SERVQUAL + Blueprint）**：4 concept — service-marketing-4Is（intangibility/inseparability/variability/perishability）、service-marketing-triangle（external/internal/interactive）、servqual-gap-model（5 gap + SQ = P − E）、service-blueprint（line of interaction/visibility/internal-interaction）
@@ -58,6 +62,32 @@ updated: 2026-05-21T10:30+08:00 (Kotler MM 16e Wave 2 完成 — Ch09/10/11/17/1
 - **Visibility filter（A）：** RemoveInternal plugin 已上 ✅
 
 ## Key Takeaways
+
+### NYCU 組織與人力資源管理（溫金豐 2024 後半段，Ch1-12）
+
+- **Ulrich 四角色（1997）= 2×2 矩陣**：(策略×流程) Strategic Partner / (策略×人員) Change Agent / (營運×流程) Administrative Expert / (營運×人員) Employee Champion；現代延伸為 HRBP + SSC + COE 三支柱
+- **HRM 五階段演進**：Personnel → HRM → SHRM → Talent Management → DEI；教師批註「2024：受影響但不會完全回到 1980 ～」暗示 2020s 中後期經濟壓力讓部分企業把 HR 預算縮回 Personnel 層
+- **SHRM 三派觀點不互斥**：RBV（HR 系統 = VRIN）+ Best Practice（Pfeffer 8 項 universal）+ Contingency（fit > best）— 現代主流用 contingency 包覆前兩者
+- **內部一致性四面向**：實務間 / 員工間 / 時間 / 言行 — 任一不一致 → 公平感知崩、動機崩
+- **HRP 預測二分法**：判斷性（管理估計 / Delphi / 情境分析）vs 數學性；短缺對策核心是**多能工培養**、過剩對策核心是**遇缺不補**
+- **職能模型三層 + KSA 冰山**：Core / Professional / Managerial × （K+S 可教 / Self-concept+Trait+Motive 難教）— K+S 投資訓練、AOM 在選才把關
+- **Job-based vs Competence-based HR 是兩個典範**：穩定產業用前者，變動產業用後者；台灣製造業仍是 Job-based 大宗
+- **甄選五工具 × 信效成三角**：申請表 / 背景調查 / 心理測驗 / 面談 / 評鑑中心法 — 評鑑中心法效度最高但成本爆表；面談 4 大系統性偏誤（先入為主 / 比對 / 公平 / 問題矛盾）→ 用結構化面談對沖
+- **甄選是雙向發訊**：雇主 ↔ 應徵者，Realistic Job Preview 降低錄取後離職率
+- **Kirkpatrick / Alliger 四層級**：L1 反應 / L2 學習 / L3 行為 / L4 結果 — 90% 企業只做到 L1
+- **70-20-10 法則**：70% on-the-job / 20% mentoring / 10% formal training；預算分配通常顛倒，是結構性錯配
+- **IDP 與 Performance Review 必須分開**（教師批註明確）：混在同一場對話 → 員工不敢誠實談弱項
+- **績效評估四大方法族**：相對比較（排序 / forced）/ 特質 / **行為（BARS/BOS）**/ 成果（MBO）；BARS 用具體行為錨定分數降低 rater 落差
+- **360 度回饋的兩刃**：多角度減偏誤 vs 匿名引發 freeride critique；台灣常見「形式化」失敗（全打 4 分）
+- **四大評估偏誤**：對比 / 似我 / 暈輪 / 短期；對沖工具 = BARS + 多 rater + critical incident log
+- **回饋面談關鍵原則**（教師批註）：「不是『他怎麼了』，而是『之後要做什麼』」
+- **薪酬四基礎**：工作內容 / 技能 / 年資 / 工作評價（HAY Method 三維 = Know-how + Problem Solving + Accountability）
+- **獎金三型**：佣金 / 分紅（ESOP）/ 工作獎金（spot bonus）— 矽谷 RSU 4-year vesting vs 台灣分紅文化的差異
+- **福利四類**：經濟性 / 社會性 / 健樂性 / **工作本身福利** — 第四類最強最被低估（對接 JCM + Herzberg motivator）
+- **Glass Ceiling = leaky pipeline**：不是單一天花板而是各 career stage 的水管漏點；修補要修各層，不是只修最後一段
+- **HR 未來五軸**：(1) 低生育高齡化 [不可逆]、(2) 勞動市場買賣方反轉、(3) Y/Z 世代意義論述、(4) ESG/DEI、(5) 生成式 AI 雙刃
+- **HRM 終極命題**：Demand-Ability Fit + Need-Supply Fit **兩個條件缺一不可**
+- **三層整合命題**（[[synthesis/OB-HRM-strategy-three-layers]]）：OB（why）→ HRM（how）→ Strategy（what），同一個 RBV/VRIO 框架在三層有不同對應
 
 ### Kotler MM 16e Wave 2 — Ch09/10/11/17/18
 

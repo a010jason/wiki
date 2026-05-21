@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-05-21T12:30:00+08:00 (Kotler MM 16e Wave 2 +5 章 Ch09/10/11/17/18 / +151 頁 / +24 wiki 頁；Wave 3 已於同日先行落地)",
+  "last_updated": "2026-05-21T15:00:00+08:00 (ESG 14 + Ethics 6 + Governance 11 = 31 PDFs / 1053 頁 / 62 new pages)",
   "sources": {
     "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/0820-OKR-講義.pdf": {
       "ingested_at": "2026-05-05T15:00:00+08:00",
@@ -996,12 +996,463 @@
         "concepts/integrated-digital-marketing-six-pillars.md"
       ],
       "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/Syllabus.pdf.pdf": {
+      "ingested_at": "2026-05-21T14:00:00+08:00",
+      "size_bytes": 310276,
+      "content_hash": "sha256:54e859e99da57a2e918d338bd8497719a40198f1d16ea86835cecc1ac8f3c3d3",
+      "source_type": "document",
+      "ingest_method": "read-subagent",
+      "pages": 2,
+      "note": "NYCU EMBA 組織與人力資源管理 Syllabus；6 週對應教科書 Ch1-12，溫金豐授課後半段",
+      "pages_created": [
+        "references/wen-2023-HRM-textbook.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/20240224.pdf": {
+      "ingested_at": "2026-05-21T14:00:00+08:00",
+      "size_bytes": 198194,
+      "content_hash": "sha256:dc6717c33d88feb9f565e10ea5b08a94a4863b38ac694e2d636c10c3cebc7f2f",
+      "source_type": "document",
+      "ingest_method": "read-subagent",
+      "pages": 3,
+      "note": "不同學期 OB intro 課（引 Colquitt OB textbook + 摩西 / IKEA / Acer Lanci / NETFLIX 案例）",
+      "pages_created": [
+        "synthesis/OB-HRM-strategy-three-layers.md"
+      ],
+      "pages_updated": [
+        "entities/wen-jin-feng.md"
+      ]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/0427-講義.pdf.pdf": {
+      "ingested_at": "2026-05-21T14:00:00+08:00",
+      "size_bytes": 3633974,
+      "content_hash": "sha256:365593f259d61bb6986c86a8dd80f66bea1dbf4cafecaf5480525cecf9fb5582",
+      "source_type": "document",
+      "ingest_method": "read-subagent",
+      "pages": 32,
+      "note": "HRM Ch1-2 — Ulrich 4 角色 + HRM 5 階段演進 + 內外在環境（PESTLE + Hofstede）",
+      "pages_created": [
+        "concepts/ulrich-hr-roles.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/0504-講義.pdf.pdf": {
+      "ingested_at": "2026-05-21T14:00:00+08:00",
+      "size_bytes": 2064984,
+      "content_hash": "sha256:30a0c58723050987eecfc3735c514d0bb94fbf28be4eee1b3472554af07a917f",
+      "source_type": "document",
+      "ingest_method": "read-subagent",
+      "pages": 15,
+      "note": "HRM Ch3-4 — SHRM 三派觀點（RBV/Best Practice/Contingency）+ HRP 供需預測 + 短缺/過剩對策",
+      "pages_created": [
+        "concepts/SHRM-three-perspectives.md",
+        "concepts/HR-planning-forecasting.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/0511-講義.pdf.pdf": {
+      "ingested_at": "2026-05-21T14:00:00+08:00",
+      "size_bytes": 1633190,
+      "content_hash": "sha256:f2d2de1718609994e784d340c4ea0f9a7b59760e50de947738d6e8b3885cd01e",
+      "source_type": "document",
+      "ingest_method": "read-subagent",
+      "pages": 14,
+      "note": "HRM Ch5-6 — 職能模型三層 + 五大甄選工具 + 信效成三角 + 面談四偏誤",
+      "pages_created": [
+        "concepts/competency-model-three-tiers.md",
+        "concepts/employee-selection-tools.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/0518-講義.pdf.pdf": {
+      "ingested_at": "2026-05-21T14:00:00+08:00",
+      "size_bytes": 1850409,
+      "content_hash": "sha256:a6b83b47cf15167866064d7883273d7ef0b59f202a42bcdfb63190b67ace4066",
+      "source_type": "document",
+      "ingest_method": "read-subagent",
+      "pages": 21,
+      "note": "HRM Ch7-8 — Kirkpatrick/Alliger 訓練成效四層級 + 70-20-10 + 績效評估 6 方法 + BARS/BOS + 360 + 四偏誤；含玻璃天花板 Ch9 開頭",
+      "pages_created": [
+        "concepts/training-effectiveness-kirkpatrick-alliger.md",
+        "concepts/performance-appraisal-methods-six.md",
+        "concepts/glass-ceiling.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/0525-講義.pdf.pdf": {
+      "ingested_at": "2026-05-21T14:00:00+08:00",
+      "size_bytes": 1576472,
+      "content_hash": "sha256:efdaad7ac235d041bfc78f03c0f646d7c3f3d8b0d168fda5983dc1d6c3dbb992",
+      "source_type": "document",
+      "ingest_method": "read-subagent",
+      "pages": 16,
+      "note": "HRM Ch9-10 — 薪酬四基礎 + HAY Points + 獎金三型 + 福利四類 + 矽谷薪資案例（FB/Google/Amazon/MS/Huawei）",
+      "pages_created": [
+        "concepts/compensation-system-structure.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/0601-人資管理的未來趨勢-講義.pdf.pdf": {
+      "ingested_at": "2026-05-21T14:00:00+08:00",
+      "size_bytes": 1088229,
+      "content_hash": "sha256:b003e63a9a4b2bb38b9a6c6f21794270a87998c850a950d1852d4ffd04c2dd51",
+      "source_type": "document",
+      "ingest_method": "read-subagent",
+      "pages": 12,
+      "note": "HRM Ch11-12 + 未來趨勢 — 五大軸（人口/競爭/Y-Z 世代/ESG-DEI/生成式 AI）+ Demand-Ability vs Need-Supply Fit",
+      "pages_created": [
+        "concepts/HR-future-trends-five-axes.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/ESG/20231027 細究ESG對總體經濟與財務評價之影響.pdf": {
+      "ingested_at": "2026-05-21T15:00:00+08:00",
+      "size_bytes": 16667705,
+      "content_hash": "sha256:232c19d2e4b1b23caa1864e55591de65b3937184a908861fd016681475013790",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/esg-lecture-corpus.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/ESG/20231215 永續＆氣候金融發展現況與展望.pdf.pdf": {
+      "ingested_at": "2026-05-21T15:00:00+08:00",
+      "size_bytes": 13984897,
+      "content_hash": "sha256:72a0153e0428875b393b48a0e637074ebd9f5a00d5fc91473858b19064f7d2c0",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/esg-lecture-corpus.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/ESG/20231222 全球ETF發展與智能投資趨勢.pdf.pdf": {
+      "ingested_at": "2026-05-21T15:00:00+08:00",
+      "size_bytes": 9986238,
+      "content_hash": "sha256:f93e9a782b4a026d12b253f9e0f048761bbe8a57ecaed0e2ca830366a5fd75d2",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/esg-lecture-corpus.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/ESG/交大_ESG報告書製作及報導實務分享 _佳典20231129_Melody.pdf.pdf": {
+      "ingested_at": "2026-05-21T15:00:00+08:00",
+      "size_bytes": 21869086,
+      "content_hash": "sha256:8a98b9ba405ca617c9ce4e2b5faf5d46f25234acf71f399dabc739f2a2abb40b",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/esg-lecture-corpus.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/ESG/企業永續報告書的準備與落實20230920.pdf": {
+      "ingested_at": "2026-05-21T15:00:00+08:00",
+      "size_bytes": 11218135,
+      "content_hash": "sha256:5cd6407f532c9711be40b002e624b772e3b535cb7ea4e1b874f7b7c7b0c3e508",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/esg-lecture-corpus.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/ESG/佳典管理顧問_交大課程碳揭露與低碳數位轉型案例分享_20231029.pdf": {
+      "ingested_at": "2026-05-21T15:00:00+08:00",
+      "size_bytes": 13666067,
+      "content_hash": "sha256:85a89924c9c51008cad9af648a09f57abcc123f9fe202b6038f00f6fec950798",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/esg-lecture-corpus.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/ESG/聯合國永續發展目標的在地實踐20230913.pdf": {
+      "ingested_at": "2026-05-21T15:00:00+08:00",
+      "size_bytes": 6893085,
+      "content_hash": "sha256:984ba05b42bc459433f0b4f79169f5c0b999ee0fe4c3a704318e035590226b63",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/esg-lecture-corpus.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/ESG/陽明交大EMBA講義  Ｎov 17  23.pdf": {
+      "ingested_at": "2026-05-21T15:00:00+08:00",
+      "size_bytes": 26926287,
+      "content_hash": "sha256:49d1d58887d4635a8e17549d5e30acf24f0e63746fd2a82ab3d281d3c3614a1f",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/esg-lecture-corpus.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/ESG/國立陽明交大上課講義.pdf": {
+      "ingested_at": "2026-05-21T15:00:00+08:00",
+      "size_bytes": 7938002,
+      "content_hash": "sha256:ea80def58e313a473b25e3f2a52e95e56f88362a6571119a3a64a0171eae081f",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/esg-lecture-corpus.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/ESG/土力革命-大學-1.pdf": {
+      "ingested_at": "2026-05-21T15:00:00+08:00",
+      "size_bytes": 44708662,
+      "content_hash": "sha256:ffa0d97fa2657b202bc453b2fec963b685a194952240134342812db22956aaeb",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/esg-lecture-corpus.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/ESG/Heading for 2,050 Net-Zero Emissions_HU_20230328.pdf": {
+      "ingested_at": "2026-05-21T15:00:00+08:00",
+      "size_bytes": 2205835,
+      "content_hash": "sha256:03cc5767e5f5f48f9c4fce669a2bec13bcfb6b0d30e435a3daa299c57671fd3d",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/esg-lecture-corpus.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/ESG/胡均立(2023).pdf": {
+      "ingested_at": "2026-05-21T15:00:00+08:00",
+      "size_bytes": 522896,
+      "content_hash": "sha256:2b78c04e89b3fb150213f33a60b0369b8bfc2e41ce21a77097d29127ed8ce969",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/esg-lecture-corpus.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/ESG/0915.pdf": {
+      "ingested_at": "2026-05-21T15:00:00+08:00",
+      "size_bytes": 166391,
+      "content_hash": "sha256:d0fcd1ca87edf21b77b97dd0c786b59c7cd88930dca50be36128e304d98432be",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/esg-lecture-corpus.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/ESG/2023-ESG-1-512719001-周子淵.pdf": {
+      "ingested_at": "2026-05-21T15:00:00+08:00",
+      "size_bytes": 168109,
+      "content_hash": "sha256:36678ef341da9fbf3748008d0042abbdb69c5ca0ed0f5e3ceaab359bf69ff0dc",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/esg-lecture-corpus.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/企業經營與倫理專題講座/1140226_企業經營與倫理_李建文_最終.pdf.pdf": {
+      "ingested_at": "2026-05-21T15:00:00+08:00",
+      "size_bytes": 35704245,
+      "content_hash": "sha256:f9fc66d281bd15841fa7e042521298cfb4dc1a6414bc6b32103ee90539d3eecf",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/business-ethics-lecture-corpus.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/企業經營與倫理專題講座/1140416 變動的年代-航運業的挑戰與機遇_國立陽明交通大學 final.pdf.pdf": {
+      "ingested_at": "2026-05-21T15:00:00+08:00",
+      "size_bytes": 15356837,
+      "content_hash": "sha256:05a5e8487eda0cc001d596c68eb3bc81c0b5161f8c3963d8eb52e29d785ba680",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/business-ethics-lecture-corpus.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/企業經營與倫理專題講座/20250319_求才難-做雇主品牌_Workbook.pdf.pdf": {
+      "ingested_at": "2026-05-21T15:00:00+08:00",
+      "size_bytes": 1518778,
+      "content_hash": "sha256:9cd1ca8646ed72162fffd264a3d11ddcab7698e88d4b30c9fb57c460e22c903b",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/business-ethics-lecture-corpus.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/企業經營與倫理專題講座/三商美邦人壽.pdf": {
+      "ingested_at": "2026-05-21T15:00:00+08:00",
+      "size_bytes": 30214,
+      "content_hash": "sha256:1100294c753002cd2ea783b089a2a2a3fecc60673e781baddccb530d39cf3b2b",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/business-ethics-lecture-corpus.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/企業經營與倫理專題講座/舊振南.pdf": {
+      "ingested_at": "2026-05-21T15:00:00+08:00",
+      "size_bytes": 56350,
+      "content_hash": "sha256:c328b35243eabe1dde6b3dfe08aa3bfd2c82bc255bc2c341f6deff423a1f80c5",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/business-ethics-lecture-corpus.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/企業經營與倫理專題講座/迪芬尼聲學科技.pdf": {
+      "ingested_at": "2026-05-21T15:00:00+08:00",
+      "size_bytes": 33914,
+      "content_hash": "sha256:5685815abff5796609e89720bcddf5c8353f10a146255b1fe87135198d9c1d73",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/business-ethics-lecture-corpus.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/公司治理/20250221.pdf": {
+      "ingested_at": "2026-05-21T15:00:00+08:00",
+      "size_bytes": 26245,
+      "content_hash": "sha256:8d467a70936c61b20555417a3db94258716fa6d372f021991838fab4c3c7ff36",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/corporate-governance-lecture-corpus.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/公司治理/20250228.pdf": {
+      "ingested_at": "2026-05-21T15:00:00+08:00",
+      "size_bytes": 1907776,
+      "content_hash": "sha256:714bf056e85314b33758c25a048a0e0a9073149cb887a06646f6890c41ecb207",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/corporate-governance-lecture-corpus.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/公司治理/20250307.pdf": {
+      "ingested_at": "2026-05-21T15:00:00+08:00",
+      "size_bytes": 1060853,
+      "content_hash": "sha256:bfb890a76c0d4ab9bf4cf2ab68fbeca5858898763daafbaddf9c91579a838ea0",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/corporate-governance-lecture-corpus.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/公司治理/20250314.pdf": {
+      "ingested_at": "2026-05-21T15:00:00+08:00",
+      "size_bytes": 3307667,
+      "content_hash": "sha256:3fcae43ab3d429b0ec34f984e2e3faf75af2781be3591394da024ce0ec44cd80",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/corporate-governance-lecture-corpus.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/公司治理/20250328.pdf": {
+      "ingested_at": "2026-05-21T15:00:00+08:00",
+      "size_bytes": 2403724,
+      "content_hash": "sha256:1389bd97f2c15e7c94e3d1e6f4363d7bab95135fe9095e35c694ecab4e91342d",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/corporate-governance-lecture-corpus.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/公司治理/20250411.pdf": {
+      "ingested_at": "2026-05-21T15:00:00+08:00",
+      "size_bytes": 4228794,
+      "content_hash": "sha256:9262d0078867021a437ea228673f9f9e404e0ca3a884012e5aba38d5c355c5f0",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/corporate-governance-lecture-corpus.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/公司治理/20250418.pdf": {
+      "ingested_at": "2026-05-21T15:00:00+08:00",
+      "size_bytes": 356017,
+      "content_hash": "sha256:40322e475f2e2d2d016fe0d060596608486c948aad552b8b7dcb6c0ca6301f27",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/corporate-governance-lecture-corpus.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/公司治理/20250502.pdf": {
+      "ingested_at": "2026-05-21T15:00:00+08:00",
+      "size_bytes": 1142433,
+      "content_hash": "sha256:1d62a50a8fb59adcf6ee6fd7888e8b50cebfc309a0e58b97b70085ae7f2556ca",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/corporate-governance-lecture-corpus.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/公司治理/20250530.pdf": {
+      "ingested_at": "2026-05-21T15:00:00+08:00",
+      "size_bytes": 2524554,
+      "content_hash": "sha256:1c73b5037d0885b761ea82dab844eb82360e1f572428d0e49ac2764a7edf08fe",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/corporate-governance-lecture-corpus.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/公司治理/FireShot Capture 031 - Plot Thickens At Hewlett-Packard - [www.forbes.com].png.pdf": {
+      "ingested_at": "2026-05-21T15:00:00+08:00",
+      "size_bytes": 1480658,
+      "content_hash": "sha256:3571e86604aca698f82f57eed4c2d6117920123e0e72e7308465e363b9718d25",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/corporate-governance-lecture-corpus.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/公司治理/FireShot Capture 032 - HP spying scandal_ a timeline - CIO - [www.cio.com].png.pdf": {
+      "ingested_at": "2026-05-21T15:00:00+08:00",
+      "size_bytes": 5211575,
+      "content_hash": "sha256:270f69576815f43a5c04e20efc558262dd8dc51ccc5f2c351c6398cbbe5d6e4b",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/corporate-governance-lecture-corpus.md"
+      ],
+      "pages_updated": []
     }
   },
   "projects": {},
   "stats": {
-    "total_sources_ingested": 56,
-    "total_pages": 1871,
+    "total_sources_ingested": 64,
+    "total_pages": 2215,
     "total_projects": 0,
     "last_full_rebuild": null
   }
