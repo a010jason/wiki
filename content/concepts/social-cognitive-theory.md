@@ -16,8 +16,8 @@ provenance:
   inferred: 0.1
   ambiguous: 0
 base_confidence: 0.5
-lifecycle: draft
-lifecycle_changed: 2026-05-21
+lifecycle: challenged
+lifecycle_changed: 2026-05-22
 ---
 
 # Social Cognitive Theory (SCT)
@@ -94,10 +94,21 @@ Self-efficacy 在 [[concepts/elaboration-likelihood-model|ELM]] 中常作為 **a
 - Self-efficacy 與 outcome 的關係可能 reverse causation
 - 跨文化適用性：「自我」概念在 collectivist 文化中與 individualist 文化定義不同
 
+## Critique 摘要
+
+> **2026-05-22 跑了一次 wiki-challenge**
+>
+> 5 條核心 claim：0 survives / 2 narrow / 3 brittle / 0 unsupported。三個結構性弱點：(1) **Triadic reciprocal causation 的 falsifiability 問題**（Phillips-Orton 1983 / Bunge 1979）是 40 年 critique — 任何 reciprocal 模型在 Popperian 意義下 unfalsifiable，但實證 SCT 研究以單向 SEM 操作化，理論宣稱與方法系統性矛盾；(2) 醫療 AI inferred 應用過度處方化 — 把 Bandura 1977 運動/anxiety 四來源直接搬到醫療 AI 設計無實證橋接，Watson Health@MD Anderson 高 self-efficacy build-up 仍失敗證明 efficacy ≠ adoption；(3) **Vancouver-Kendall 2006 within-person 負向 self-efficacy 效應** — 頁面自己引此 paper 但未整合，仍呈現 self-efficacy 為單純正向 driver。
+>
+> `base_confidence`：0.50 → 0.50（已低於 brittle cap 0.55）；`lifecycle`：draft → challenged。
+>
+> 完整逐條質疑、行動項目：私人 meta 頁（不公開），路徑 `_meta/critique/social-cognitive-theory.md`。
+
 ## Related
 
 - [[concepts/scientific-theory]]
 - [[concepts/elaboration-likelihood-model]]
+- [[concepts/falsifiability-popper]] — Triadic reciprocal causation 的 falsifiability 問題
 - [[concepts/theory-of-planned-behavior]]
 - [[concepts/expectancy-theory]] — 既有 page (from Colquitt Ch6)
 - [[concepts/goal-setting-theory]] — 既有 page
