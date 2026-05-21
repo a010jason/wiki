@@ -117,3 +117,5 @@ Reward
 - [[skills/setting-OKR]] — 落地操作（OKR 版）
 - [[references/colquitt-OB-textbook]] — Ch2 source
 - [[references/measure-what-matters-doerr-2018]] — Doerr 把 MBO 變 OKR 的歷史脈絡
+
+- [[synthesis/MBO-x-forced-ranking]] — Absolute vs Relative 績效評估的 tension

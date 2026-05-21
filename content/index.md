@@ -432,6 +432,11 @@ title: Jason 的知識庫
 - [[synthesis/VRIO-x-value-chain]] — VRIO 的 Inimitable 三來源全部住在 Value Chain 的 linkages 而非單一 activity；causal ambiguity 是核心保護機制
 - [[synthesis/booking-x-adcenter-platform-learning]] — 同年代雙邊平台 後進者，Booking（學習速度）vs AdCenter（Porter 框架）對偶；Porter generic strategy 在 digital 失靈 7 條
 - [[synthesis/blue-ocean-x-disruptive-innovation]] — 兩條相反軌跡到同一目的地（uncontested market）；Blue Ocean 橫向跨類別 vs Disruptive 垂直低端爬升
+- [[synthesis/3V-x-STP]] — Kotler Ch02 兩 hub 的 customer-only vs multi-stakeholder 框架差異；marketing myopia 對沖
+- [[synthesis/5C-x-7Ts]] — Analysis upstream 與 Tactics downstream 的 mapping；缺哪個 C 對應的 T 必然失靈
+- [[synthesis/MBO-x-forced-ranking]] — Absolute goal 達成 vs Relative 排名；底層邏輯相反、同時用會 self-undermine
+- [[synthesis/ab-testing-x-booking-strategic-limits]] — Booking A/B 文化 + 戰略邊界（Vermeer / Gulati 自承 A/B 不能 test strategy）
+- [[synthesis/STP-x-buying-center]] — STP 的 B2C 偏向 + B2B 用 buying center 7 角色擴展為 2D
 
 ## Journal
 

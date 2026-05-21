@@ -131,3 +131,5 @@ EBM PACS / AI 銷售場景下的七角色映射：^[inferred — Jason 個人延
 - [[concepts/customer-persona]] — 對 buying center 多角色都要做 persona
 - [[concepts/STP-framework]] — Targeting 涵蓋 buying center 多角色
 - [[references/kotler-keller-chernev-marketing-management-16e]]
+
+- [[synthesis/STP-x-buying-center]] — Buying center 擴展 STP 到 B2B

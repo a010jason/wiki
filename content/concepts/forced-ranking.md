@@ -86,3 +86,5 @@ Welch 離職後 GE 自己也淡化 forced ranking 制度（time-out 訊號）。
 - [[concepts/job-performance]] — 被評估的對象
 - [[concepts/KPI]] — 與 forced ranking 共用「相對比較」邏輯
 - [[references/colquitt-OB-textbook]] — Ch2 source
+
+- [[synthesis/MBO-x-forced-ranking]] — Relative vs Absolute 績效評估的 tension

@@ -136,3 +136,5 @@ EBM PACS / AI 產品的 5C 分析：^[inferred — Jason 個人延伸]
 - [[concepts/porters-five-forces]] — 對照框架
 - [[synthesis/5C-vs-PESTLE-vs-Porter-five-forces]] — Jason 跨框架對比
 - [[references/kotler-keller-chernev-marketing-management-16e]]
+
+- [[synthesis/5C-x-7Ts]] — Analysis upstream 與 Tactics downstream 的 mapping

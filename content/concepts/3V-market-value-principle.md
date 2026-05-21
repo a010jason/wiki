@@ -115,3 +115,5 @@ EBM PACS / AI 的 3V 分析：^[inferred — Jason 個人延伸]
 - [[concepts/G-STIC-framework]] — Strategy 步驟內部
 - [[concepts/positioning]] — OVP 完成後做 positioning
 - [[references/kotler-keller-chernev-marketing-management-16e]]
+
+- [[synthesis/3V-x-STP]] — 與 STP 的 customer-only vs multi-stakeholder 對接

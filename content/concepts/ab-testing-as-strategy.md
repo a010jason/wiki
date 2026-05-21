@@ -6,6 +6,8 @@ tags: [concept, experimentation, evidence-based-management, organizational-learn
 aliases: [A/B testing strategy, Experimentation as strategy, Lukas Vermeer Booking experimentation]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  A/B testing 是公司戰略而非工具或方法。[[entities/Booking-com]] 把 A/B testing 提升到組織 DNA 等級：1,800 名技術產品人員 75% 用實驗平台、270 teams 自組織、每天 1,000+ 嚴格測試、同時 ~1,000 並行對照實驗、年 26,000 次實驗 10% 命中率。Lukas Vermeer 核心立場：「strategy 不能 A/B test，但搞清楚 strategy 後一切都可測」 —— A/B testing 不替代領導層。三層意義：替代 HiPPO 權威來源、替代 product roadmap 設計、構成組織學習與 retention 基礎。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:
@@ -126,3 +128,5 @@ Booking-style A/B-as-strategy 需要的**前提條件**：
 - [[entities/Booking-com]] / Lukas-Vermeer / Stuart-Frisby / David-Vismans
 - [[references/HBS-booking-com-case]]
 - ab testing strategic limits
+
+- [[synthesis/ab-testing-x-booking-strategic-limits]] — Booking 案例 + 戰略邊界

@@ -140,3 +140,5 @@ S-D logic 把所有經濟交換都視為服務交換（商品只是服務的載�
 - [[concepts/customer-value-proposition]] — OVP 完成後用 7Ts 落地
 - [[concepts/product-differentiation-9-dimensions]] — Product 這個 T 的細節
 - [[references/kotler-keller-chernev-marketing-management-16e]]
+
+- [[synthesis/5C-x-7Ts]] — 與 5C 的 upstream analysis 對接

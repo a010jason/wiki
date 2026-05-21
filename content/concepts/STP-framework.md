@@ -119,3 +119,6 @@ G-STIC:  Goal → Strategy → Tactics → Implementation → Control
 - [[concepts/3V-market-value-principle]] — Positioning 的 value 邏輯
 - [[concepts/market-segmentation]]、[[concepts/targeting]]、[[concepts/positioning]] — 三步驟各自獨立頁
 - [[references/kotler-keller-chernev-marketing-management-16e]] — 教科書頁
+
+- [[synthesis/3V-x-STP]] — 與 3V 的 multi-stakeholder framing 對接
+- [[synthesis/STP-x-buying-center]] — STP 的 B2C 偏向 + B2B 擴展

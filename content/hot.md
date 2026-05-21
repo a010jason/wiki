@@ -1,6 +1,6 @@
 ---
 title: Hot Cache
-updated: 2026-05-22T01:00+08:00 (wiki-synthesize top 5 gap pair — VRIO×Porter, Disruption×DominantDesign, VRIO×ValueChain, Booking×AdCenter, BlueOcean×Disruption)
+updated: 2026-05-22T01:30+08:00 (wiki-synthesize next-tier 5 pair — 3V×STP, 5C×7Ts, MBO×ForcedRanking, AB×Booking, STP×BuyingCenter)
 ---
 
 # Hot Cache
@@ -8,6 +8,8 @@ updated: 2026-05-22T01:00+08:00 (wiki-synthesize top 5 gap pair — VRIO×Porter
 *A ~500-word semantic snapshot of recent activity. Updated after every major write operation.*
 
 ## Recent Activity
+
+- [2026-05-22 01:30] WIKI_SYNTHESIZE — **next-tier 5 個 synthesis（共現 8 次的 KEEP 候選）**：從 10 個 next-tier candidate 中挑出 5 個有真實 tension / cross-cutting insight 的（drop 5 個 sub-tool 關係 / 重疊既有 synthesis）。寫入：(1) [[synthesis/3V-x-STP]] — Kotler Ch02 兩 hub 的 customer-only vs multi-stakeholder framing；(2) [[synthesis/5C-x-7Ts]] — Analysis upstream 與 Tactics downstream 的非顯式 mapping；(3) [[synthesis/MBO-x-forced-ranking]] — Absolute goal vs Relative ranking 的底層 tension + lifecycle 階段分用建議；(4) [[synthesis/ab-testing-x-booking-strategic-limits]] — Vermeer/Gulati 自承 A/B 不能 test strategy + 三層 trade-off；(5) [[synthesis/STP-x-buying-center]] — STP 的 B2C 偏向 + B2B 用 buying center 7 角色擴展為 2D。10 backlinks 加完。**今日 synthesis 增量總計 10 個**（5 top + 5 next-tier），全部 lifecycle: draft，待 wiki-challenge
 
 - [2026-05-22 01:00] WIKI_SYNTHESIZE — **5 個跨概念 synthesis 一次寫入（gap top 5）**：掃 wiki 42,030 個 concept/entity pair co-occurrence，扣除 456 個既有 synthesis 覆蓋 → 41,574 gap pair。取共現 ≥9 次的 5 個寫 synthesis：(1) [[synthesis/VRIO-x-porter-five-forces]] — 兩框架是策略流程的 sequential gate（外部→內部），不是同層雙視角；industry effect / firm effect 反向消長；(2) [[synthesis/disruptive-innovation-x-dominant-design]] — dominant design 三鎖死機制（learning/switching/coordination）正是 Innovator's Dilemma 的結構前置條件；(3) [[synthesis/VRIO-x-value-chain]] — Inimitable 三來源全部住在 linkages 而非單一 activity；causal ambiguity 是核心保護；(4) [[synthesis/booking-x-adcenter-platform-learning]] — 同年代雙邊平台後進者對偶；學習速度 vs Porter 框架 + Porter generic strategy 在 digital 失靈 7 條；(5) [[synthesis/blue-ocean-x-disruptive-innovation]] — 兩條相反軌跡（橫向跨類別 vs 垂直低端爬升）到同一目的地。10 個 backlink 加到 source page；index.md 列入。
 
