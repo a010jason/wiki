@@ -7,12 +7,12 @@ aliases: [Moderna case, HBS 9-621-032, Moderna A, 莫德納案例]
 sources:
   - id: HBS-9-621-032-Moderna
     type: hbs-case
-    rel_path: 策略管理/6Moderna_S.pdf.pdf
-    drive_url: https://drive.google.com/file/d/1awZYCYt0u8LWuxA15Bk7Wpu9cwJcR81i/view
-    pages: 13
-    sha256: 9b9f0bbe70ff0fcf4c39dc116946cf92816784bd9013d6913bc9c0200a3e4685
+    rel_path: 策略管理/8. Moderna.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1lpNHszabHXcHi0-e0LvYwhSIvdI9Jn5A/view
+    pages: 21
+    sha256: dd7e53150cae9e0a73e308d406a8af1c8bd8594174354e98bcdf162d973e0ede
     ingested_commit: 7b5b016
-    note: "PDF at this path was replaced 2026-04-24 (now 13 pages, was 21 pages at original ingest hash dd7e5315). Wiki content distilled from original 21-page version including 唐瓔璋 NCTU 621-032 translation + Jason 課堂手寫邊注。"
+    note: "Bundles HBS case + 9 exhibits + 唐瓔璋 NCTU 621-032 translation in a single 21p PDF. Earlier manifest mistakenly pointed at 6Moderna_S.pdf.pdf (13p slides 精簡版); corrected 2026-05-21. Jason 課堂手寫邊注（「數位化!!」「共享資源」「資源整合，沒辦法 Silo」「層級不同、使命不同、風景不同」）already merged into derived concept pages."
 created: 2026-05-06
 updated: 2026-05-21
 summary: >-
@@ -140,9 +140,9 @@ CNN/CNBC 採訪間隙，Bancel 與 Afeyan 短暫休息：mRNA-1273 剛宣布進�
 
 | ID | Source | Type | Pages | SHA256 (prefix) | Ingested |
 |---|---|---|---|---|---|
-| `HBS-9-621-032-Moderna` | [6Moderna_S.pdf.pdf](https://drive.google.com/file/d/1awZYCYt0u8LWuxA15Bk7Wpu9cwJcR81i/view) | hbs-case | 13 ⚠️ | `9b9f0bbe…` | commit `7b5b016` |
+| `HBS-9-621-032-Moderna` | [8. Moderna.pdf.pdf](https://drive.google.com/file/d/1lpNHszabHXcHi0-e0LvYwhSIvdI9Jn5A/view) | hbs-case | 21 | `dd7e5315…` | commit `7b5b016` |
 
-⚠️ **檔案狀態 divergence**：PDF 於 2026-04-24 被改短（13 頁，hash `9b9f0bbe…`），但本頁內容是從原始 21 頁版本（含 NCTU 621-032 唐瓔璋中譯 + Jason 課堂手寫邊注）distill 而來，原 hash `dd7e5315…`。
+> 同一資料夾另存有 `6Moderna_S.pdf.pdf`（13p 精簡版 slides）— 與本 distill 無關，不要混淆。
 
 **Bibliographic：**
 - Iansiti, M., Lakhani, K. R., Mayer, H., & Herman, K. (2021). *Moderna (A)* (HBS Case 9-621-032, Rev: July 13, 2021). Harvard Business School Publishing.

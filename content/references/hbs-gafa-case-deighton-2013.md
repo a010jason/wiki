@@ -7,12 +7,12 @@ aliases: [GAFA case, GAFA HBS case, Deighton GAFA, 516-C05, 9-513-060]
 sources:
   - id: HBS-9-513-060-GAFA
     type: hbs-case
-    rel_path: 策略管理/1GAFA_S.pdf.pdf
-    drive_url: https://drive.google.com/file/d/1j9EE1Uux-AvAJsplf4jEBfofYh_EG7iB/view
-    pages: 4
-    sha256: 6f0efaa9c6f1d9124604c9f2c9321b7abee6834520b9119a7613956cc6e26620
+    rel_path: 策略管理/GAFA.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1DNtUeaFv9wM4NAx2dcuvrzkQc8d8oAFO/view
+    pages: 19
+    sha256: c2b3f6070e774e8cec4646abffa79e1dc4ee1fbeaa799c07ee816b16686430d1
     ingested_commit: 7b5b016
-    note: "PDF at this path was replaced 2026-04-24 (now 4 pages, was 19 pages at original ingest hash c2b3f607). Wiki content distilled from original 19-page version including 唐瓔璋 NCTU 516-C05 translation."
+    note: "Bundles HBS case + 唐瓔璋 NCTU 516-C05 translation in a single 19p PDF. Earlier manifest mistakenly pointed at 1GAFA_S.pdf.pdf (4p slides 精簡版); corrected 2026-05-21."
 created: 2026-05-06
 updated: 2026-05-21
 summary: >-
@@ -123,9 +123,9 @@ ingest_method: pdf-read-chunked
 
 | ID | Source | Type | Pages | SHA256 (prefix) | Ingested |
 |---|---|---|---|---|---|
-| `HBS-9-513-060-GAFA` | [1GAFA_S.pdf.pdf](https://drive.google.com/file/d/1j9EE1Uux-AvAJsplf4jEBfofYh_EG7iB/view) | hbs-case | 4 ⚠️ | `6f0efaa9…` | commit `7b5b016` |
+| `HBS-9-513-060-GAFA` | [GAFA.pdf.pdf](https://drive.google.com/file/d/1DNtUeaFv9wM4NAx2dcuvrzkQc8d8oAFO/view) | hbs-case | 19 | `c2b3f607…` | commit `7b5b016` |
 
-⚠️ **檔案狀態 divergence**：PDF 於 2026-04-24 被改短（4 頁，hash `6f0efaa9…`），但本頁內容是從原始 19 頁版本（含 NCTU 516-C05 唐瓔璋中譯）distill 而來，原 hash `c2b3f607…`。要回看完整原文需另外找來源。
+> 同一資料夾另存有 `1GAFA_S.pdf.pdf`（4p 精簡版 slides）— 與本 distill 無關，不要混淆。
 
 **Bibliographic：**
 - Deighton, J., & Kornfeld, L. (2013). *Amazon, Apple, Facebook, and Google* (HBS Case 9-513-060, Rev: December 12, 2013). Harvard Business School Publishing.
