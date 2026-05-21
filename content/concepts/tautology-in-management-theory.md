@@ -105,7 +105,7 @@ related:
 ### 4. 對 PM 工作的啟示（Jason 視角）^[inferred]
 - 當提案用「我們有 core competency」「我們做 differentiation」框架時 — **要警覺這可能只是事後語言裝飾**
 - 真正可驗證的 hypothesis：「如果我們做 X，我們會在 Y 時間達到 Z 指標」
-- 對應 [[concepts/ab-testing-as-strategy|A/B testing]] / [[concepts/hypothesis-driven-product]]
+- 對應 [[concepts/ab-testing-as-strategy|A/B testing]] / hypothesis driven product
 
 ## 反例 / Tautology 的辯護
 
@@ -149,6 +149,6 @@ related:
 ## Related
 
 - **概念**：[[concepts/falsifiability-popper]] / [[concepts/INUS-condition]] / [[concepts/porters-generic-strategies]] / [[concepts/VRIO-framework]] / [[concepts/competitive-advantage]] / [[concepts/disruptive-innovation]] / [[concepts/blue-ocean-strategy]] / [[concepts/core-competency]] / [[concepts/resource-based-view]] / [[concepts/scientific-method-four-criteria]] / [[concepts/scientific-theory]] / [[concepts/theory-vs-not-theory]]
-- **Entity**：[[entities/Tang-Edwin-Yingzhang]] / [[entities/Karl-Popper]] / [[entities/Michael-Porter]] / [[entities/Jay-Barney]] / [[entities/Clayton-Christensen]]
-- **參考**：[[references/fighting-with-porter-lecture]] / [[references/tang-liou-2010-bayesian-inference-SMJ]] / [[references/bhattacherjee-social-science-research]]
-- **Synthesis**：[[synthesis/strategy-theory-as-tautology-critique]]（待建）
+- **Entity**：[[entities/Tang-Edwin-Yingzhang]] / [[entities/Karl-Popper]] / Michael-Porter / Jay-Barney / Clayton-Christensen
+- **參考**：[[references/fighting-with-porter-lecture]] / tang liou 2010 bayesian inference SMJ / [[references/bhattacherjee-social-science-research]]
+- **Synthesis**：strategy theory as tautology critique（待建）

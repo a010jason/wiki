@@ -64,7 +64,7 @@ lifecycle_changed: 2026-05-21
 | **Internal validity** | 內部效度 | [[concepts/internal-validity]] |
 | **External validity** | 外部效度 | [[concepts/external-validity]] |
 | **Construct validity** | 構面效度 | [[concepts/construct-validity]] |
-| **Statistical conclusion validity** | （無中文眉批） | [[concepts/statistical-conclusion-validity]] 待寫 |
+| **Statistical conclusion validity** | （無中文眉批） | statistical conclusion validity 待寫 |
 
 **Statistical conclusion validity 對 interpretive design 不適用**（不用統計檢定）。
 
@@ -88,7 +88,7 @@ High External Validity
                                 ★ Lab experiment
 ```
 
-**重要反論**：「internal vs external trade-off」不是絕對 — 兩高反例存在。詳見 [[synthesis/internal-external-validity-tradeoff-debunked]] 待寫。
+**重要反論**：「internal vs external trade-off」不是絕對 — 兩高反例存在。詳見 internal external validity tradeoff debunked 待寫。
 
 ## 五種 Control 技巧 ^[extracted]
 
@@ -112,13 +112,13 @@ High External Validity
 
 | Design | 主要強項 | 弱項 |
 |---|---|---|
-| [[concepts/experimental-design]] | Internal validity | External（lab） |
-| [[concepts/field-survey]] | External, 多 IV | Internal, respondent bias |
-| [[concepts/secondary-data-analysis]] | 省成本 | Fit 不保證、temporal 不明 |
-| [[concepts/case-research]] | 多視角、發現未知因素 | 難 causality / generalize |
-| [[concepts/focus-group-research]] | 群體互動 surface ideas | 無 control、小樣本 |
-| [[concepts/action-research]] | 連 research 與 practice | bias、context-specific |
-| [[concepts/ethnography]] | rich context、最小 bias | 耗時極大、不可 generalize |
+| experimental design | Internal validity | External（lab） |
+| field survey | External, 多 IV | Internal, respondent bias |
+| secondary data analysis | 省成本 | Fit 不保證、temporal 不明 |
+| case research | 多視角、發現未知因素 | 難 causality / generalize |
+| focus group research | 群體互動 surface ideas | 無 control、小樣本 |
+| action research | 連 research 與 practice | bias、context-specific |
+| ethnography | rich context、最小 bias | 耗時極大、不可 generalize |
 
 待寫 stub：experimental / field-survey / secondary-data / case-research / focus-group / action-research / ethnography 七頁。
 

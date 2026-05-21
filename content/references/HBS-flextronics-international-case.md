@@ -56,18 +56,18 @@ Path B subagent；44 頁讀完。
 詳見 [[entities/Flextronics-International]] 主頁。新建頁面：
 
 - [[entities/Flextronics-International]] — 案例 hub
-- [[entities/Michael-Marks]] — CEO，ODM 戰略推手
-- [[entities/Nicholas-Brathwaite]] — CTO，Phone 1-4 主導
-- [[concepts/ems-industry]] — 產業母概念
-- [[concepts/contract-manufacturing-cm]] — Build-to-print
-- [[concepts/contract-design-and-manufacturing-cdm]] — OEM 規格 + EMS 設計
-- [[concepts/original-design-manufacturing-odm]] — EMS 自有 IP
-- [[concepts/modularity-in-manufacturing]] — Baldwin &amp; Clark Design Rules（雙刃劍）
+- Michael-Marks — CEO，ODM 戰略推手
+- Nicholas-Brathwaite — CTO，Phone 1-4 主導
+- ems industry — 產業母概念
+- contract manufacturing cm — Build-to-print
+- contract design and manufacturing cdm — OEM 規格 + EMS 設計
+- original design manufacturing odm — EMS 自有 IP
+- modularity in manufacturing — Baldwin &amp; Clark Design Rules（雙刃劍）
 - [[concepts/smile-curve]] — 施振榮，R&amp;D / Brand 兩端高、Manufacturing 谷底
-- [[concepts/patent-thicket]] — GSM 15 家 cross-license vs CDMA Qualcomm 單一持有
-- [[concepts/co-evolution-in-supply-chain]] — 教師眉批「要 co-evolution，要共生，要動態」
-- [[synthesis/ems-margin-compression-paradox]] — 規模急升 vs 全產業 2002 net loss
-- [[synthesis/vertical-disintegration-then-reintegration]] — OEM 切出去 + EMS 想爬回來
+- patent thicket — GSM 15 家 cross-license vs CDMA Qualcomm 單一持有
+- co evolution in supply chain — 教師眉批「要 co-evolution，要共生，要動態」
+- ems margin compression paradox — 規模急升 vs 全產業 2002 net loss
+- vertical disintegration then reintegration — OEM 切出去 + EMS 想爬回來
 
 ## 教師眉批採集（核心）
 

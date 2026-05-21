@@ -49,7 +49,7 @@ lifecycle_changed: 2026-05-21
 |---|---|
 | Descriptive survey | Description |
 | Predictive modeling / machine learning | Prediction |
-| Experimental design（[[concepts/experimental-design]]） | Explanation（causality） |
+| Experimental design（experimental design） | Explanation（causality） |
 | Policy intervention / A/B test in production | Control |
 
 ## 醫療 AI PM 應用 ^[inferred]
@@ -67,7 +67,7 @@ lifecycle_changed: 2026-05-21
 - [[concepts/scientific-method-four-criteria]]
 - [[concepts/scientific-theory]]
 - [[concepts/causality-three-conditions]]
-- [[concepts/three-types-of-scientific-research]]
+- three types of scientific research
 
 ## Sources
 

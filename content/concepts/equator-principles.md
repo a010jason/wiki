@@ -47,7 +47,7 @@ lifecycle_changed: 2026-05-21
 
 - [[concepts/UN-PRI]]：投資端（責任投資）
 - [[concepts/equator-principles]]：放款端（專案融資）
-- [[concepts/taiwan-green-finance-action-plan]]：台灣 2017 政府方案
+- taiwan green finance action plan：台灣 2017 政府方案
 
 ## 來源
 

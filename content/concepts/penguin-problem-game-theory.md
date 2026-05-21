@@ -114,7 +114,7 @@ related:
 ### 2. 解釋 [[entities/Mobileye|Mobileye]] / [[entities/HTC|HTC Vive]] 的 ecosystem build-out 慢
 - 都需要 OEM / ISV 先押注
 - 都遇到 penguin problem
-- Mobileye 用 [[concepts/REM-road-experience-management|REM]] data flywheel 試圖打破
+- Mobileye 用 REM data flywheel 試圖打破
 
 ### 3. 解釋 GenAI ecosystem 採用節奏
 - OpenAI ChatGPT 是 first penguin（2022/11 公開）
@@ -142,6 +142,6 @@ related:
 
 ## Related
 
-- **概念**：[[concepts/penguin-effect]]（教師原創 reactive pivot driver — 互補但不同） / [[concepts/network-externalities]] / [[concepts/dominant-design]] / [[concepts/adopter-categorization]] / [[concepts/PLC-vs-stage-gate-vs-adopter-curve]] / [[concepts/desktop-vs-platform-mindset]] / [[concepts/structural-hole-in-strategy]] / [[concepts/winner-take-all-determinants]] / [[concepts/disruptive-innovation]]
-- **Entity**：[[entities/Mobileye]] / [[entities/HTC]] / [[entities/Intel]] / [[entities/Randy-Pausch]]（First Penguin Award 出處） / [[entities/Tang-Edwin-Yingzhang]]
+- **概念**：[[concepts/penguin-effect]]（教師原創 reactive pivot driver — 互補但不同） / [[concepts/network-externalities]] / [[concepts/dominant-design]] / [[concepts/adopter-categorization]] / [[concepts/PLC-vs-stage-gate-vs-adopter-curve]] / [[concepts/desktop-vs-platform-mindset]] / structural hole in strategy / [[concepts/winner-take-all-determinants]] / [[concepts/disruptive-innovation]]
+- **Entity**：[[entities/Mobileye]] / [[entities/HTC]] / Intel / Randy-Pausch（First Penguin Award 出處） / [[entities/Tang-Edwin-Yingzhang]]
 - **參考**：[[references/strategy-management-course-2024-nycu]]（2024/06/04 課堂） / Randy Pausch《The Last Lecture》（待建 reference）

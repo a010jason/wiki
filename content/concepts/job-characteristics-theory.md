@@ -75,5 +75,5 @@ SPS = (V1+V2 + I1+I2 + S1+S2) / 6  ×  (A1+A2) / 2  ×  (F1+F2) / 2
 
 - [[concepts/job-satisfaction]] — JCT 的母概念
 - [[concepts/job-performance]] — VISAF 的 outcome 連結
-- [[concepts/psychological-empowerment]] — 與 Meaningfulness / Self-Determination 重疊
+- psychological empowerment — 與 Meaningfulness / Self-Determination 重疊
 - [[references/colquitt-OB-textbook]] — Ch4 源頭

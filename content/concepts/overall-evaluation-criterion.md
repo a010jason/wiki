@@ -17,14 +17,14 @@ sources:
   - id: kohavi-hbr-2017
     ref: '[[references/kohavi-2017-HBR-online-experiments]]'
   - id: kohavi-ms-exp-2009
-    ref: '[[references/kohavi-2009-microsoft-ExP]]'
+    ref: 'kohavi 2009 microsoft ExP'
 related:
   - '[[concepts/ab-testing-as-strategy]]'
-  - '[[concepts/sample-ratio-mismatch]]'
+  - 'sample ratio mismatch'
   - '[[concepts/HiPPO-decision-making]]'
-  - '[[concepts/twymans-law]]'
+  - 'twymans law'
   - '[[entities/Booking-com]]'
-  - '[[entities/Microsoft]]'
+  - 'Microsoft'
 ---
 
 # Overall Evaluation Criterion (OEC)
@@ -57,7 +57,7 @@ OEC = 一個 **單一可量化 metric**（或加權組合），用來判斷實�
 
 ### Proxy metric 陷阱
 
-**Office Online Page Redesign 案**（[[references/kohavi-2009-microsoft-ExP|MS-ExP 2009]]）：
+**Office Online Page Redesign 案**（MS-ExP 2009）：
 
 - 新版設計看起來更美
 - 但 **Buy button 點擊率 -64%**
@@ -155,6 +155,6 @@ Bing 累積 **&gt;6,000 metrics**，按 vertical 模板分組。OEC 在現實是
 
 ## Related
 
-- **概念**：[[concepts/ab-testing-as-strategy]] / [[concepts/experimentation-culture]] / [[concepts/sample-ratio-mismatch]] / [[concepts/HiPPO-decision-making]] / [[concepts/twymans-law]] / [[concepts/causal-inference-vs-correlation]] / [[concepts/evidence-based-management]] / [[concepts/hypothesis-driven-product]] / [[concepts/象-數-理-epistemology]]
-- **Entity**：[[entities/Ronny-Kohavi]] / [[entities/Booking-com]] / [[entities/Microsoft]] / [[entities/Bing]]
-- **參考**：[[references/kohavi-2017-HBR-online-experiments]] / [[references/kohavi-2009-microsoft-ExP]] / [[references/HBS-booking-com-case]]
+- **概念**：[[concepts/ab-testing-as-strategy]] / experimentation culture / sample ratio mismatch / [[concepts/HiPPO-decision-making]] / twymans law / causal inference vs correlation / evidence based management / hypothesis driven product / [[concepts/象-數-理-epistemology]]
+- **Entity**：Ronny-Kohavi / [[entities/Booking-com]] / Microsoft / Bing
+- **參考**：[[references/kohavi-2017-HBR-online-experiments]] / kohavi 2009 microsoft ExP / [[references/HBS-booking-com-case]]

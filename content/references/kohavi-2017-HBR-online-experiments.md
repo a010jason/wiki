@@ -69,17 +69,17 @@ summary: >-
 新建頁面：
 - [[concepts/overall-evaluation-criterion]]（OEC — Kohavi 核心）
 - [[concepts/HiPPO-decision-making]]（Kohavi 自創縮寫）
-- [[concepts/twymans-law]]（「Any figure that looks interesting or different is usually wrong」）
-- [[concepts/sample-ratio-mismatch]]（SRM — A/B 健康警訊）
-- [[concepts/application-implementation-continuum]]（hardware → SaaS 易實驗光譜）
-- [[concepts/aa-test]]（A/A 測試 — 平台校準）
+- twymans law（「Any figure that looks interesting or different is usually wrong」）
+- sample ratio mismatch（SRM — A/B 健康警訊）
+- application implementation continuum（hardware → SaaS 易實驗光譜）
+- aa test（A/A 測試 — 平台校準）
 
 可補強既有：
 - [[concepts/ab-testing-as-strategy]]（Booking 視角 + Microsoft 平台規模補完）
-- [[concepts/experimentation-culture]]（Kohavi cultural challenge 章節是 playbook）
-- [[concepts/causal-inference-vs-correlation]]（Yahoo 871-1198% vs 5.4% 案例）
-- [[concepts/evidence-based-management]]（Kohavi 引 Pfeffer-Sutton《Hard Facts》）
-- [[concepts/hypothesis-driven-product]]（操作化）
+- experimentation culture（Kohavi cultural challenge 章節是 playbook）
+- causal inference vs correlation（Yahoo 871-1198% vs 5.4% 案例）
+- evidence based management（Kohavi 引 Pfeffer-Sutton《Hard Facts》）
+- hypothesis driven product（操作化）
 
 ## HBR 2017 — 6 大 Surprising Findings
 
@@ -133,7 +133,7 @@ Hardware → Standalone Client → Software+Services → Online/SaaS
 
 iPhone/Xbox → Photoshop/Office → Xbox Live/Office Assistance → Google/Amazon/MSN
 
-詳見 [[concepts/application-implementation-continuum]]。
+詳見 application implementation continuum。
 
 ### 4 個 Necessary Ingredients
 1. **OEC 清楚** — Lewis Carroll quote「If you don't know where you are going, any road will take you there」
@@ -177,6 +177,6 @@ iPhone/Xbox → Photoshop/Office → Xbox Live/Office Assistance → Google/Amaz
 
 ## Related
 
-- **概念**：[[concepts/overall-evaluation-criterion]] / [[concepts/HiPPO-decision-making]] / [[concepts/twymans-law]] / [[concepts/sample-ratio-mismatch]] / [[concepts/application-implementation-continuum]] / [[concepts/aa-test]] / [[concepts/ab-testing-as-strategy]] / [[concepts/experimentation-culture]] / [[concepts/causal-inference-vs-correlation]] / [[concepts/evidence-based-management]] / [[concepts/hypothesis-driven-product]] / [[concepts/champion-vs-challenger]]
-- **Entity**：[[entities/Ronny-Kohavi]] / [[entities/Booking-com]] / [[entities/Microsoft]] / [[entities/Bing]] / [[entities/LinkedIn]] / [[entities/Amazon]]
+- **概念**：[[concepts/overall-evaluation-criterion]] / [[concepts/HiPPO-decision-making]] / twymans law / sample ratio mismatch / application implementation continuum / aa test / [[concepts/ab-testing-as-strategy]] / experimentation culture / causal inference vs correlation / evidence based management / hypothesis driven product / champion vs challenger
+- **Entity**：Ronny-Kohavi / [[entities/Booking-com]] / Microsoft / Bing / LinkedIn / [[entities/Amazon]]
 - **參考**：[[references/HBS-booking-com-case]]（platform 文化對照組） / [[references/bhattacherjee-social-science-research]]（科學方法論基礎）

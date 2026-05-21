@@ -19,9 +19,9 @@ sources:
 related:
   - '[[concepts/value-chain]]'
   - '[[concepts/vertical-integration]]'
-  - '[[concepts/ems-industry]]'
-  - '[[entities/Acer]]'
-  - '[[entities/Hon-Hai-Foxconn]]'
+  - 'ems industry'
+  - 'Acer'
+  - 'Hon-Hai-Foxconn'
   - '[[entities/Flextronics-International]]'
 ---
 
@@ -52,7 +52,7 @@ related:
 
 **進入壁壘低**：
 - 設備、SOP、人力相對標準化
-- 規模經濟 + 模組化 → [[concepts/contract-manufacturing-cm|CM]] 快速崛起
+- 規模經濟 + 模組化 → CM 快速崛起
 - 競爭多、議價弱 → margin 壓縮（[[concepts/kotler-keller-chernev-marketing-management-16e|Kotler]] Wave 2 takeaway：「**代工 = price taker**」）
 
 **飛輪反向**：
@@ -123,7 +123,7 @@ EBM 接近**左端 + 右端雙佈局**型 — Sectra、GE 等 platform 在左端
 
 ## Related
 
-- [[concepts/value-chain]] / [[concepts/vertical-integration]] / [[concepts/ems-industry]] / [[concepts/contract-manufacturing-cm]] / [[concepts/original-design-manufacturing-odm]] / [[concepts/transaction-cost-economics]]
-- [[entities/Acer]] / [[entities/Hon-Hai-Foxconn]] / [[entities/Flextronics-International]] / [[entities/TSMC]] / [[entities/HTC]] / [[entities/Apple]]
+- [[concepts/value-chain]] / [[concepts/vertical-integration]] / ems industry / contract manufacturing cm / original design manufacturing odm / [[concepts/transaction-cost-economics]]
+- Acer / Hon-Hai-Foxconn / [[entities/Flextronics-International]] / [[entities/TSMC]] / [[entities/HTC]] / [[entities/Apple]]
 - [[references/HBS-flextronics-international-case]]
 - [[references/grant-contemporary-strategy-analysis]] Ch10 vertical integration

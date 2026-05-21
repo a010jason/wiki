@@ -60,16 +60,16 @@ summary: >-
 詳見 [[entities/Microsoft-AdCenter]] 主頁。新建頁面：
 
 - [[entities/Microsoft-AdCenter]] — 案例 hub
-- [[concepts/porter-generic-strategy-fail-in-digital]] — Take-away 主題（教師 7 點留空）
-- [[concepts/two-sided-market]] — Keyword Auction Model
-- [[concepts/winner-takes-all]] — 「贏者全拿」take-away #1
-- [[concepts/keyword-auction-two-sided-market]] — Google AdWords 雙邊平台架構
-- [[concepts/paid-search-economics]] — CPA / CPC / CTR / eCPM / Impression
-- [[concepts/portal-evaporation-thesis]] — AOL / Yahoo / Lycos 為何蒸發
+- porter generic strategy fail in digital — Take-away 主題（教師 7 點留空）
+- two sided market — Keyword Auction Model
+- winner takes all — 「贏者全拿」take-away #1
+- keyword auction two sided market — Google AdWords 雙邊平台架構
+- paid search economics — CPA / CPC / CTR / eCPM / Impression
+- portal evaporation thesis — AOL / Yahoo / Lycos 為何蒸發
 - [[concepts/desktop-vs-platform-mindset]] — 教師核心診斷
-- [[concepts/contextual-ad-vs-search-ad]] — AdSense vs AdWords 兩種雙向映射
-- [[concepts/organic-vs-paid-search-CTR-asymmetry]] — First Organic 40-45% vs Top Paid 2-3%
-- [[concepts/pagerank-as-ad-moat]] — 「CTR is warranted by PageRank」
+- contextual ad vs search ad — AdSense vs AdWords 兩種雙向映射
+- organic vs paid search CTR asymmetry — First Organic 40-45% vs Top Paid 2-3%
+- pagerank as ad moat — 「CTR is warranted by PageRank」
 
 ## 教師眉批採集（核心）
 
@@ -103,6 +103,6 @@ summary: >-
 ## Related
 
 - [[entities/Microsoft-AdCenter]]
-- [[entities/Google]] / [[entities/Microsoft]] / [[entities/Yahoo]] / [[entities/AOL]] / [[entities/Overture]]
+- [[entities/Google]] / Microsoft / Yahoo / AOL / Overture
 - [[references/hbs-gafa-case-deighton-2013]]（同 paradigm，2013 GAFA 完整版）
 - [[references/grant-contemporary-strategy-analysis]] Ch3 / Ch4 / Ch9

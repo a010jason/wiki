@@ -23,7 +23,7 @@ related:
   - '[[references/fighting-with-porter-lecture]]'
   - '[[concepts/tautology-in-management-theory]]'
   - '[[concepts/INUS-condition]]'
-  - '[[concepts/strategy-relativism-vs-absolutism]]'
+  - 'strategy relativism vs absolutism'
 ---
 
 # 唐瓔璋 / Edwin Tang
@@ -100,7 +100,7 @@ related:
 
 ### 對「策略」的定義
 
-- **Strategy is the Relativism vs Absolutism**（[[concepts/strategy-relativism-vs-absolutism]]）
+- **Strategy is the Relativism vs Absolutism**（strategy relativism vs absolutism）
 - 策略管理 **不是 absolute truth**，是 contextual / contingent
 - 對應 Mintzberg [[concepts/intended-vs-emergent-strategy|intended vs emergent]] + Grant Ch11 contingency
 
@@ -147,7 +147,7 @@ related:
 
 ## Related
 
-- **概念**：[[concepts/tautology-in-management-theory]] / [[concepts/INUS-condition]] / [[concepts/falsifiability-popper]] / [[concepts/strategy-relativism-vs-absolutism]] / [[concepts/sun-tzu-five-fundamentals]] / [[concepts/strategy-rules-yoffie-cusumano]] / [[concepts/象-數-理-epistemology]] / [[concepts/MAO-framework]] / [[concepts/strategy-nine-theories]] / [[concepts/smile-curve]] / [[concepts/dual-theory-of-death]]（等死/找死）
-- **Entity**：[[entities/wen-jin-feng]]（並列陽明交大授課者） / [[entities/Mao-Chih-Kuo]]（毛治國） / [[entities/Wu-Szu-hua]]（吳思華） / [[entities/Karl-Popper]]
-- **參考**：[[references/strategy-management-course-2024-nycu]] / [[references/fighting-with-porter-lecture]] / [[references/tang-liou-2010-bayesian-inference-SMJ]] / [[references/grant-contemporary-strategy-analysis]]
+- **概念**：[[concepts/tautology-in-management-theory]] / [[concepts/INUS-condition]] / [[concepts/falsifiability-popper]] / strategy relativism vs absolutism / [[concepts/sun-tzu-five-fundamentals]] / [[concepts/strategy-rules-yoffie-cusumano]] / [[concepts/象-數-理-epistemology]] / [[concepts/MAO-framework]] / [[concepts/strategy-nine-theories]] / [[concepts/smile-curve]] / dual theory of death（等死/找死）
+- **Entity**：[[entities/wen-jin-feng]]（並列陽明交大授課者） / Mao-Chih-Kuo（毛治國） / Wu-Szu-hua（吳思華） / [[entities/Karl-Popper]]
+- **參考**：[[references/strategy-management-course-2024-nycu]] / [[references/fighting-with-porter-lecture]] / tang liou 2010 bayesian inference SMJ / [[references/grant-contemporary-strategy-analysis]]
 - **Synthesis**：[[synthesis/yoffie-five-rules-vs-sun-tzu-five-fundamentals]] / [[synthesis/wei-zheng-leadership-and-subsidiary-management]] / [[synthesis/financial-ratio-epistemology-yi-jing]]

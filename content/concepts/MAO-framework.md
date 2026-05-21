@@ -17,7 +17,7 @@ sources:
   - id: course-syllabus-2024
     ref: '[[references/strategy-management-course-2024-nycu]]'
 related:
-  - '[[entities/Mao-Chih-Kuo]]'
+  - 'Mao-Chih-Kuo'
   - '[[entities/Tang-Edwin-Yingzhang]]'
   - '[[concepts/strategy-nine-theories]]'
   - '[[concepts/decision-making-biases]]'
@@ -127,7 +127,7 @@ A (Awareness 察覺) → M (Motivation 動機) → C (Capability 能力)
 - **教育界**：交通大學校長（2007-2010）
 - **代表著作**：《決斷》（2018）— V = MAO + AMC 框架的完整論述
 
-詳見 [[entities/Mao-Chih-Kuo]]。
+詳見 Mao-Chih-Kuo。
 
 ## Open Questions（待 wiki-challenge）
 
@@ -138,6 +138,6 @@ A (Awareness 察覺) → M (Motivation 動機) → C (Capability 能力)
 
 ## Related
 
-- **概念**：[[concepts/strategy-nine-theories]]（[[entities/Wu-Szu-hua|吳思華]]） / [[concepts/expectancy-theory]] / [[concepts/RPV-framework]] / [[concepts/decision-making-biases]] / [[concepts/bounded-rationality]] / [[concepts/dual-theory-of-death]] / [[concepts/strategy-relativism-vs-absolutism]] / [[concepts/ulrich-hr-roles]]
-- **Entity**：[[entities/Mao-Chih-Kuo]] / [[entities/Tang-Edwin-Yingzhang]] / [[entities/Wu-Szu-hua]]
+- **概念**：[[concepts/strategy-nine-theories]]（吳思華） / [[concepts/expectancy-theory]] / [[concepts/RPV-framework]] / [[concepts/decision-making-biases]] / [[concepts/bounded-rationality]] / dual theory of death / strategy relativism vs absolutism / [[concepts/ulrich-hr-roles]]
+- **Entity**：Mao-Chih-Kuo / [[entities/Tang-Edwin-Yingzhang]] / Wu-Szu-hua
 - **參考**：[[references/strategy-management-course-2024-nycu]] / 毛治國《決斷》2018（待建 reference）

@@ -17,11 +17,11 @@ sources:
   - id: kohavi-ms-exp-2009
     ref: '[[references/kohavi-2017-HBR-online-experiments]]'
 related:
-  - '[[concepts/evidence-based-management]]'
+  - 'evidence based management'
   - '[[concepts/ab-testing-as-strategy]]'
   - '[[concepts/overall-evaluation-criterion]]'
   - '[[concepts/decision-making-biases]]'
-  - '[[entities/Ronny-Kohavi]]'
+  - 'Ronny-Kohavi'
 ---
 
 # HiPPO Decision Making
@@ -133,7 +133,7 @@ HiPPO 是多種 cognitive bias 的組合：
 1. **每個 decision 都嘗試找 evidence**（pilot study / customer interview / log data）
 2. **明確區分**：strategic decision（無法測）vs operational decision（可 A/B）
 3. **PM 自己是 anti-HiPPO 守門員**：把 evidence 帶到桌上
-4. 對應 [[concepts/evidence-based-management|EBMgt]] 三階段
+4. 對應 EBMgt 三階段
 
 ## Open Questions（待 wiki-challenge）
 
@@ -144,6 +144,6 @@ HiPPO 是多種 cognitive bias 的組合：
 
 ## Related
 
-- **概念**：[[concepts/evidence-based-management]] / [[concepts/ab-testing-as-strategy]] / [[concepts/overall-evaluation-criterion]] / [[concepts/decision-making-biases]] / [[concepts/bounded-rationality]] / [[concepts/experimentation-culture]] / [[concepts/causal-inference-vs-correlation]] / [[concepts/hypothesis-driven-product]]
-- **Entity**：[[entities/Ronny-Kohavi]] / [[entities/Microsoft]] / [[entities/Booking-com]]
+- **概念**：evidence based management / [[concepts/ab-testing-as-strategy]] / [[concepts/overall-evaluation-criterion]] / [[concepts/decision-making-biases]] / [[concepts/bounded-rationality]] / experimentation culture / causal inference vs correlation / hypothesis driven product
+- **Entity**：Ronny-Kohavi / Microsoft / [[entities/Booking-com]]
 - **參考**：[[references/kohavi-2017-HBR-online-experiments]] / [[references/HBS-booking-com-case]] / Kahneman《Thinking, Fast and Slow》

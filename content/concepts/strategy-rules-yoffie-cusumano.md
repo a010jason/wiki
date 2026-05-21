@@ -18,13 +18,13 @@ sources:
     ref: '[[references/HBS-9-722-439-Musk-doubling-down-case]]'
 related:
   - '[[concepts/sun-tzu-five-fundamentals]]'
-  - '[[concepts/look-forward-reason-back]]'
-  - '[[concepts/big-bets-without-betting-company]]'
-  - '[[concepts/platforms-and-ecosystems-not-products]]'
-  - '[[concepts/judo-and-sumo-strategy]]'
-  - '[[concepts/personal-anchor-organization]]'
-  - '[[entities/Bill-Gates]]'
-  - '[[entities/Andy-Grove]]'
+  - 'look forward reason back'
+  - 'big bets without betting company'
+  - 'platforms and ecosystems not products'
+  - 'judo and sumo strategy'
+  - 'personal anchor organization'
+  - 'Bill-Gates'
+  - 'Andy-Grove'
   - '[[entities/Steve-Jobs]]'
   - '[[synthesis/yoffie-five-rules-vs-sun-tzu-five-fundamentals]]'
 ---
@@ -41,30 +41,30 @@ David Yoffie（HBS）+ Michael Cusumano（MIT Sloan）2015 出版《Strategy Rul
 - 對應孫子兵法：**道**
 - 註解：Games（佈局）/ Priority（投資優先順序）/ set boundaries
 - 思考方式：先決定未來目標狀態，再回推現在該做什麼
-- 詳見 [[concepts/look-forward-reason-back]]
+- 詳見 look forward reason back
 
 ### Rule 2：Make Big Bets, Without Betting the Company（勇敢下大注，但不讓公司身陷險境）
 - 對應孫子兵法：**天地**
 - 註解：Context / Scope / **Self-fulfilled prophesy（自我實現預言）**
 - 思考方式：押大注但保留 fallback；下注金額不超過公司可承受極限
-- 詳見 [[concepts/big-bets-without-betting-company]]
+- 詳見 big bets without betting company
 
 ### Rule 3：Build Platforms and Ecosystems—Not Just Products（創造產業平台與生態系，不只產品）
 - 對應孫子兵法：**法**
 - 註解：rules / BU vs platform / value chain / networks / corp-strategy
 - 思考方式：產品 → 平台 → 生態系，每階段 leverage 不同
-- 詳見 [[concepts/platforms-and-ecosystems-not-products]]
+- 詳見 platforms and ecosystems not products
 
 ### Rule 4：Exploit Leverage and Power—Play Judo and Sumo（善用巧力與蠻力）
 - 對應孫子兵法：**勢**
 - 註解：capability
 - 思考方式：判斷自己是 sumo（重武器）還是 judo（巧勁），不同戰術
-- 詳見 [[concepts/judo-and-sumo-strategy]]
+- 詳見 judo and sumo strategy
 
 ### Rule 5：Shape the Organization around Your Personal Anchor（根據自身獨特的強項打造組織）
 - 對應孫子兵法：**法**
 - 思考方式：組織該圍繞 CEO 的獨特能力設計，而非 best practice
-- 詳見 [[concepts/personal-anchor-organization]]
+- 詳見 personal anchor organization
 
 ## 對 3 位案例 CEO 的具體應用
 
@@ -114,7 +114,7 @@ David Yoffie（HBS）+ Michael Cusumano（MIT Sloan）2015 出版《Strategy Rul
 
 ## 跨案例應用
 
-- [[entities/Elon-Musk]] / [[entities/Tesla]] / [[entities/SpaceX]]：4 比較對象（教師主要用例）
+- [[entities/Elon-Musk]] / Tesla / SpaceX：4 比較對象（教師主要用例）
 - [[entities/Steve-Jobs]] / [[entities/Apple]]：Yoffie 書原型之一
 - [[entities/Microsoft-AdCenter]]：[[concepts/desktop-vs-platform-mindset|Desktop vs Platform mindset]] 對應 Rule 3 失敗
 - [[entities/Booking-com]]：[[concepts/ab-testing-as-strategy|A/B testing]] 是 Rule 5 personal-anchor 的延伸（Frisby「自我糾正組織」）
@@ -129,7 +129,7 @@ David Yoffie（HBS）+ Michael Cusumano（MIT Sloan）2015 出版《Strategy Rul
 
 ## Related
 
-- **概念**：[[concepts/sun-tzu-five-fundamentals]] / [[concepts/look-forward-reason-back]] / [[concepts/big-bets-without-betting-company]] / [[concepts/platforms-and-ecosystems-not-products]] / [[concepts/judo-and-sumo-strategy]] / [[concepts/personal-anchor-organization]] / [[concepts/dynamic-capabilities]] / [[concepts/strategic-inflection-point]] / [[concepts/digital-hub-strategy]] / [[concepts/desktop-vs-platform-mindset]]
-- **Entity**：[[entities/Bill-Gates]] / [[entities/Andy-Grove]] / [[entities/Steve-Jobs]] / [[entities/Elon-Musk]] / [[entities/Microsoft]] / [[entities/Intel]] / [[entities/Apple]]
-- **參考**：[[references/yoffie-cusumano-strategy-rules-2015]]（待建） / [[references/HBS-9-722-439-Musk-doubling-down-case]] / [[references/HBS-9-715-454-Steve-Jobs-case]]
+- **概念**：[[concepts/sun-tzu-five-fundamentals]] / look forward reason back / big bets without betting company / platforms and ecosystems not products / judo and sumo strategy / personal anchor organization / [[concepts/dynamic-capabilities]] / strategic inflection point / digital hub strategy / [[concepts/desktop-vs-platform-mindset]]
+- **Entity**：Bill-Gates / Andy-Grove / [[entities/Steve-Jobs]] / [[entities/Elon-Musk]] / Microsoft / Intel / [[entities/Apple]]
+- **參考**：yoffie cusumano strategy rules 2015（待建） / [[references/HBS-9-722-439-Musk-doubling-down-case]] / [[references/HBS-9-715-454-Steve-Jobs-case]]
 - **Synthesis**：[[synthesis/yoffie-five-rules-vs-sun-tzu-five-fundamentals]]

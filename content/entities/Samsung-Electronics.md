@@ -20,20 +20,20 @@ sources:
     pages: 35
 related:
   - '[[concepts/corporate-turnaround-strategy]]'
-  - '[[concepts/brand-reloaded-strategy]]'
+  - 'brand reloaded strategy'
   - '[[concepts/sashimi-theory]]'
   - '[[concepts/vertical-integration]]'
-  - '[[concepts/hardware-only-focus]]'
-  - '[[concepts/digital-convergence-strategy]]'
-  - '[[concepts/mnet-marketing-resource-allocation]]'
-  - '[[concepts/country-market-clusters]]'
+  - 'hardware only focus'
+  - 'digital convergence strategy'
+  - 'mnet marketing resource allocation'
+  - 'country market clusters'
 ---
 
 # Samsung Electronics
 
 韓國最大 chaebol，HBS 9-504-051（Quelch &amp; Harrington 2003, REV 2008）案例主角 — **行銷視角的 turnaround**。1997 亞洲金融風暴後從負債 \$15B / 淨利 -\$1.6B 的三流 OEM commodity brand，2002 翻身成 top 25 global brand（\$10.8B 品牌價值，唯一韓國品牌）。1997-2002 股價漲 10 倍。^[extracted]
 
-> 戰略 DNA：**[[concepts/vertical-integration|垂直整合]] 反主流**（Yun Jong Yong：「製造外包就輸了」）+ **[[concepts/hardware-only-focus|純硬體 + open-architecture]]**（避軟體保護專利風險）+ **[[concepts/sashimi-theory|生魚片理論]]**（科技產品像生魚片，第一天最值錢） + **[[concepts/digital-convergence-strategy|DigitAll]]** 多功能整合。^[extracted]
+> 戰略 DNA：**[[concepts/vertical-integration|垂直整合]] 反主流**（Yun Jong Yong：「製造外包就輸了」）+ **純硬體 + open-architecture**（避軟體保護專利風險）+ **[[concepts/sashimi-theory|生魚片理論]]**（科技產品像生魚片，第一天最值錢） + **DigitAll** 多功能整合。^[extracted]
 
 ## 公司沿革
 
@@ -109,7 +109,7 @@ related:
 ### 5. M-Net（Marketing Resource Allocation System）
 - **以潛在成長力而非現有銷售額分配行銷預算**的決策支援系統
 - 例：北美/俄羅斯 45% → 35%、歐洲/中國 31% → 42%、**\$150M 重配**
-- 詳見 [[concepts/mnet-marketing-resource-allocation]]
+- 詳見 mnet marketing resource allocation
 
 ### 6. MDC（Market-Driven Change）
 - 從 product-driven → market-driven
@@ -119,11 +119,11 @@ related:
 - **Accelerator**：俄羅斯、巴西
 - **Turning Point**：中國、印度（從供應商身分跨向品牌身分的關鍵期）
 - **Advanced**：美、歐、日
-- 詳見 [[concepts/country-market-clusters]]
+- 詳見 country market clusters
 
 ### 8. FCB Relationship Monitor（13 維度 × 7 styles）
 - 品牌關係診斷工具，6 國比較
-- 詳見 [[concepts/fcb-relationship-monitor]]
+- 詳見 fcb relationship monitor
 
 ## 關鍵角色
 
@@ -142,10 +142,10 @@ case 自承（為 wiki-challenge 留 hook）：
 
 ## 對標案例（行銷視角）
 
-- **vs [[entities/Sony]]**：「Sony 比 Samsung 更有時髦形象，且對年輕人市場更有吸引力」、「Sony 廣告花費是 Samsung 3 倍」、「Samsung 沒涉入電玩遊戲（PlayStation 是 Sony 最賺錢類別）」
+- **vs Sony**：「Sony 比 Samsung 更有時髦形象，且對年輕人市場更有吸引力」、「Sony 廣告花費是 Samsung 3 倍」、「Samsung 沒涉入電玩遊戲（PlayStation 是 Sony 最賺錢類別）」
 - **vs [[entities/Apple]]**：軟硬整合 vs Samsung open architecture（不同哲學）
-- **vs [[entities/Nokia]]**：專注手機 vs Samsung 多品類；Brand Profile 並列比較
-- **vs [[entities/Motorola]]**：手機品類直接競爭（Samsung 51% 成長 vs Motorola 4%）
+- **vs Nokia**：專注手機 vs Samsung 多品類；Brand Profile 並列比較
+- **vs Motorola**：手機品類直接競爭（Samsung 51% 成長 vs Motorola 4%）
 - **vs LG**：同為韓國 chaebol、家電與顯示器直接競爭
 
 ## Open Questions（待 wiki-challenge）
@@ -158,6 +158,6 @@ case 自承（為 wiki-challenge 留 hook）：
 
 ## Related
 
-- **概念**：[[concepts/corporate-turnaround-strategy]] / [[concepts/brand-reloaded-strategy]] / [[concepts/sashimi-theory]] / [[concepts/vertical-integration]] / [[concepts/hardware-only-focus]] / [[concepts/digital-convergence-strategy]] / [[concepts/mnet-marketing-resource-allocation]] / [[concepts/country-market-clusters]] / [[concepts/fcb-relationship-monitor]] / [[concepts/flagship-product-strategy]] / [[concepts/resource-based-view]] / [[concepts/VRIO-framework]] / [[concepts/dynamic-capabilities]] / [[concepts/strategic-innovation]]
-- **Entity**：[[entities/Lee-Kun-hee]] / [[entities/Yun-Jong-Yong]] / [[entities/Eric-Kim]] / [[entities/Sony]] / [[entities/Apple]] / [[entities/Nokia]] / [[entities/Motorola]] / [[entities/Intel]] / [[entities/Warner-Brothers]]
+- **概念**：[[concepts/corporate-turnaround-strategy]] / brand reloaded strategy / [[concepts/sashimi-theory]] / [[concepts/vertical-integration]] / hardware only focus / digital convergence strategy / mnet marketing resource allocation / country market clusters / fcb relationship monitor / flagship product strategy / [[concepts/resource-based-view]] / [[concepts/VRIO-framework]] / [[concepts/dynamic-capabilities]] / [[concepts/strategic-innovation]]
+- **Entity**：Lee-Kun-hee / Yun-Jong-Yong / Eric-Kim / Sony / [[entities/Apple]] / Nokia / Motorola / Intel / Warner-Brothers
 - **參考**：[[references/HBS-samsung-electronics-case]] / [[references/grant-contemporary-strategy-analysis]] Ch5 RBV / Ch10 VI / Ch12 / Ch13

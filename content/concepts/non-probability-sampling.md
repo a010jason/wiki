@@ -104,7 +104,7 @@ Population 切 mutually-exclusive subgroups（像 stratified），但**內部 no
 
 ## 5. Purposive Sampling
 
-理論驅動的選樣（與 quota 概念重疊）。常用於 case research（[[concepts/case-research]] 待寫）— 按 theoretical sampling 邏輯選 site。
+理論驅動的選樣（與 quota 概念重疊）。常用於 case research（case research 待寫）— 按 theoretical sampling 邏輯選 site。
 
 ## 為什麼 non-probability 仍合法 ^[extracted, inferred]
 
@@ -134,8 +134,8 @@ Population 切 mutually-exclusive subgroups（像 stratified），但**內部 no
 
 - [[concepts/sampling-frame]]
 - [[concepts/probability-sampling]]
-- [[concepts/sampling-bias]]
-- [[concepts/case-research]] — 待寫，purposive sampling 主場
+- sampling bias
+- case research — 待寫，purposive sampling 主場
 - [[concepts/external-validity]]
 
 ## Sources

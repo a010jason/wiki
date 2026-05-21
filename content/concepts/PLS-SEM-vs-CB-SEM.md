@@ -139,8 +139,8 @@ PLS-SEM 用 **blindfolding** 算 Q²：
 
 - [[concepts/construct-validity]]
 - [[concepts/AVE-fornell-larcker]]
-- [[concepts/confirmatory-factor-analysis]]
-- [[concepts/exploratory-factor-analysis]]
+- confirmatory factor analysis
+- exploratory factor analysis
 - [[concepts/reflective-vs-formative-measurement]] — PLS-SEM 更擅長處理 formative
 - [[references/chandra-2022-human-like-AI-competencies]] — PLS + CB 雙用範例
 

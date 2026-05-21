@@ -20,11 +20,11 @@ sources:
   - id: HBS-9-715-454-Steve-Jobs-case
     ref: '[[references/HBS-9-715-454-Steve-Jobs-case]]'
   - id: HBS-9-504-051-Samsung-case
-    ref: '[[references/HBS-9-504-051-Samsung-case]]'
+    ref: 'HBS-9-504-051-Samsung-case'
 related:
   - '[[concepts/corporate-turnaround-strategy]]'
-  - '[[concepts/back-to-core-strategy]]'
-  - '[[concepts/sku-proliferation-trap]]'
+  - 'back to core strategy'
+  - 'sku proliferation trap'
   - '[[entities/Lego-Group]]'
   - '[[entities/Apple]]'
   - '[[entities/Samsung-Electronics]]'
@@ -101,7 +101,7 @@ related:
 - **跳過 re-position 直接 cost-cut**（砍裁員不砍 strategy）
 - **保留 founder / family CEO**（Mobility barrier 無法移除）
 - **「Managing for Growth」太早**（cash burn 加速死亡）
-- **多角化 explore 期不收斂**（[[concepts/sku-proliferation-trap]]）
+- **多角化 explore 期不收斂**（sku proliferation trap）
 - **無外部視角**（內部 CEO 看不到 [[concepts/icarus-paradox|Icarus paradox]]）
 
 ### 2. 跨產業普適性
@@ -114,7 +114,7 @@ related:
 
 ### 3. 連結 [[concepts/organizational-ambidexterity|ambidexterity]]
 - Turnaround 期是**極度 exploit**（先活下來）
-- 不能同時 explore（[[concepts/sku-proliferation-trap]] 警示）
+- 不能同時 explore（sku proliferation trap 警示）
 - Apple / Lego / Samsung 都先收斂 1-2 年再擴張
 
 ### 4. 連結 [[concepts/icarus-paradox|Icarus paradox]]
@@ -148,7 +148,7 @@ EBM 等中等規模醫療 AI 公司若遇危機，可參考三案 pattern：
 
 ## Microsoft 2014-2024 Nadella — 變體 pattern
 
-[[entities/Microsoft]] Nadella 接 CEO 後 cloud-first turnaround **不完全符合**本 pattern：
+Microsoft Nadella 接 CEO 後 cloud-first turnaround **不完全符合**本 pattern：
 
 - ✅ Re-position：Windows 為中心 → Cloud + Platform
 - ⚠️ Re-configuration：**沒裁員**、**沒砍 product**，是 capability shift（不同維度的 turnaround）
@@ -159,15 +159,15 @@ EBM 等中等規模醫療 AI 公司若遇危機，可參考三案 pattern：
 
 ## Open Questions（待 wiki-challenge）
 
-- **是否所有「back to core」都成功？** 反例：[[entities/Yahoo]] 多次嘗試失敗 — 為什麼 Yahoo 不行？^[inferred]
+- **是否所有「back to core」都成功？** 反例：Yahoo 多次嘗試失敗 — 為什麼 Yahoo 不行？^[inferred]
 - **「Managing for Cash / Value / Growth」三階段時間長度**：Lego 6 年、Apple 4 年、Samsung 5 年 — 為什麼差異？產業 + 危機深度？^[inferred]
 - **CEO 替換是必要還是充分條件？** Disney Iger 1995-2005 第一任期是 internal succession 但成功 — 邊界 ^[ambiguous]
 - **Outsider CEO 失敗率高**：Jobs / Knudstorp 是 survivorship bias，多數外人 CEO 失敗（如 J.C. Penney Ron Johnson 2011-2013）— 條件邊界？^[inferred]
-- **GenAI 時代 turnaround 新模式**：[[entities/Microsoft]] Nadella 是 mindset-level sacrifice；其他案例會跟進嗎？^[inferred]
+- **GenAI 時代 turnaround 新模式**：Microsoft Nadella 是 mindset-level sacrifice；其他案例會跟進嗎？^[inferred]
 
 ## Related
 
-- **概念**：[[concepts/corporate-turnaround-strategy]] / [[concepts/back-to-core-strategy]] / [[concepts/sku-proliferation-trap]] / [[concepts/brand-reloaded-strategy]] / [[concepts/organizational-ambidexterity]] / [[concepts/icarus-paradox]] / [[concepts/sashimi-theory]] / [[concepts/digital-hub-strategy]] / [[concepts/value-chain-reconfiguration]] / [[concepts/desktop-vs-platform-mindset]] / [[concepts/vertical-integration]]
-- **Entity**：[[entities/Apple]] / [[entities/Steve-Jobs]] / [[entities/Lego-Group]] / [[entities/Jorgen-Vig-Knudstorp]] / [[entities/Samsung-Electronics]] / [[entities/Yun-Jong-Yong]] / [[entities/Lee-Kun-hee]] / [[entities/Microsoft]] / [[entities/Satya-Nadella]]（變體 pattern） / [[entities/Yahoo]]（反例） / [[entities/HP]]（反例）
-- **參考**：[[references/HBS-9-713-478-Lego-crisis-case]] / [[references/HBS-9-715-454-Steve-Jobs-case]] / [[references/HBS-9-504-051-Samsung-case]] / [[references/grant-contemporary-strategy-analysis]] Ch8 industry evolution / Ch12 diversification / Ch13 multibusiness
+- **概念**：[[concepts/corporate-turnaround-strategy]] / back to core strategy / sku proliferation trap / brand reloaded strategy / [[concepts/organizational-ambidexterity]] / [[concepts/icarus-paradox]] / [[concepts/sashimi-theory]] / digital hub strategy / value chain reconfiguration / [[concepts/desktop-vs-platform-mindset]] / [[concepts/vertical-integration]]
+- **Entity**：[[entities/Apple]] / [[entities/Steve-Jobs]] / [[entities/Lego-Group]] / Jorgen-Vig-Knudstorp / [[entities/Samsung-Electronics]] / Yun-Jong-Yong / Lee-Kun-hee / Microsoft / Satya-Nadella（變體 pattern） / Yahoo（反例） / HP（反例）
+- **參考**：[[references/HBS-9-713-478-Lego-crisis-case]] / [[references/HBS-9-715-454-Steve-Jobs-case]] / HBS-9-504-051-Samsung-case / [[references/grant-contemporary-strategy-analysis]] Ch8 industry evolution / Ch12 diversification / Ch13 multibusiness
 - **同主題 synthesis**：[[synthesis/HTC-marketing-research-gap]]（HTC 反例 — 為什麼失敗的 pivot）

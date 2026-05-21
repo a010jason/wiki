@@ -97,11 +97,11 @@ Choi et al. 法學院實驗：GPT-4 對 bottom-class 學生提升大；對 **top
 
 | 工具 | 強項 | 弱項 | 展開頁 |
 |---|---|---|---|
-| **[[concepts/MBO\|MBO]]**（Drucker / Intel） | 客觀、cascading 順暢 | 只看結果不看行為 | [[concepts/MBO]] |
+| **MBO**（Drucker / Intel） | 客觀、cascading 順暢 | 只看結果不看行為 | [[concepts/MBO]] |
 | **BARS** | 行為錨點化，直接評行為 | 設計成本高 | — |
 | **360-degree feedback** | 多源、適合 development | 不適合 reward | — |
 | **Social networking systems**（Accenture Performance Multiplier、Rypple） | real-time | 文化變革難 | — |
-| **[[concepts/forced-ranking\|Forced Ranking]]**（GE / Jack Welch） | 短期 16% productivity 提升 | 3-4 年降到 6%、10 年趨近 0；引發 lawsuit | [[concepts/forced-ranking]] |
+| **Forced Ranking**（GE / Jack Welch） | 短期 16% productivity 提升 | 3-4 年降到 6%、10 年趨近 0；引發 lawsuit | [[concepts/forced-ranking]] |
 
 Tesco 用 360-degree 配合 'Leaders at Tesco' training；Accenture 從 annual review 轉到「performance achievement」real-time feedback。^[extracted]
 

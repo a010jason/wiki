@@ -122,10 +122,10 @@ Coltman et al. (2008) 對 JIBS、JoM 2006 年論文統計：
 - [[concepts/construct-validity]]
 - [[concepts/AVE-fornell-larcker]]
 - [[concepts/PLS-SEM-vs-CB-SEM]]
-- [[concepts/exploratory-factor-analysis]]
-- [[concepts/confirmatory-factor-analysis]]
-- [[concepts/composite-index]] — Index 是 formative 的具體形式
-- [[synthesis/measurement-paradigm-blind-spot-95-percent-reflective]] — 待寫
+- exploratory factor analysis
+- confirmatory factor analysis
+- composite index — Index 是 formative 的具體形式
+- measurement paradigm blind spot 95 percent reflective — 待寫
 
 ## Sources
 

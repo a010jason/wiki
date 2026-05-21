@@ -140,4 +140,4 @@ hot.md 既有句：
 - [[references/wen-2023-HRM-textbook]] — HRM 教科書
 - [[references/colquitt-OB-textbook]] — OB 教科書
 - [[references/grant-contemporary-strategy-analysis]] — Strategy 教科書
-- [[journal/2026-05]] — 本 synthesis 的當時 context
+- 2026-05 — 本 synthesis 的當時 context

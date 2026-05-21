@@ -19,11 +19,11 @@ sources:
     ref: '[[references/HBS-levendary-cafe-case]]'
 related:
   - '[[concepts/subsidiary-leader-lifecycle]]'
-  - '[[concepts/hq-subsidiary-control-tension]]'
-  - '[[concepts/integration-responsiveness-framework]]'
+  - 'hq subsidiary control tension'
+  - 'integration responsiveness framework'
   - '[[entities/Levendary-Cafe]]'
-  - '[[entities/Mia-Foster]]'
-  - '[[entities/Louis-Chen]]'
+  - 'Mia-Foster'
+  - 'Louis-Chen'
 ---
 
 # 諫太宗十思疏 ↔ 子公司治理
@@ -56,8 +56,8 @@ related:
 ## 為什麼這個類比有效（synthesis 主張）
 
 ### 1. 治理結構同構
-- 唐太宗 ↔ HQ CEO（[[entities/Mia-Foster|Foster]]）
-- 地方諸侯 / 邊疆都督 ↔ subsidiary leader（[[entities/Louis-Chen|Chen]]）
+- 唐太宗 ↔ HQ CEO（Foster）
+- 地方諸侯 / 邊疆都督 ↔ subsidiary leader（Chen）
 - 御史台 / audit ↔ Chief Franchise Officer / 內審
 - 「天下」 ↔ global brand portfolio
 
@@ -110,7 +110,7 @@ related:
 ## 跨領域 benchmark 的啟示
 
 這個 case 顯示**東西方管理思想可以對話**：
-- 西方：[[concepts/integration-responsiveness-framework|Bartlett-Ghoshal I-R framework]]、[[concepts/subsidiary-leader-lifecycle|Bartlett 三階段]]
+- 西方：Bartlett-Ghoshal I-R framework、[[concepts/subsidiary-leader-lifecycle|Bartlett 三階段]]
 - 東方：諫太宗十思疏、貞觀政要、孔子論語的「為政以德」
 - **不是替代，是同一個治理難題的兩種語言** — synthesis 的價值在於用熟悉的中文文化框架幫助理解陌生的跨國組織概念
 
@@ -122,7 +122,7 @@ related:
 
 ## Related
 
-- **概念**：[[concepts/subsidiary-leader-lifecycle]] / [[concepts/hq-subsidiary-control-tension]] / [[concepts/integration-responsiveness-framework]] / [[concepts/transnational-strategy]] / [[concepts/standardization-vs-localization]]
-- **Entity**：[[entities/Levendary-Cafe]] / [[entities/Mia-Foster]] / [[entities/Louis-Chen]] / [[entities/Christopher-Bartlett]]
+- **概念**：[[concepts/subsidiary-leader-lifecycle]] / hq subsidiary control tension / integration responsiveness framework / transnational strategy / standardization vs localization
+- **Entity**：[[entities/Levendary-Cafe]] / Mia-Foster / Louis-Chen / Christopher-Bartlett
 - **參考**：[[references/HBS-levendary-cafe-case]] / [[references/grant-contemporary-strategy-analysis]] Ch11 Global Strategy
 - **古典文獻**（未來建 reference 頁）：諫太宗十思疏（魏徵）、貞觀政要（吳兢）、論語、道德經

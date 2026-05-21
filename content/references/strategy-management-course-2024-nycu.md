@@ -146,7 +146,7 @@ summary: >-
 
 ### 案例方法論
 - **毛治國 ABC 三段個案學習法**：A 個案學習策略 / B 如何準備個案 / C 課前分組討論守則
-- **Strategy is the Relativism vs Absolutism**（[[concepts/strategy-relativism-vs-absolutism]]）
+- **Strategy is the Relativism vs Absolutism**（strategy relativism vs absolutism）
 - 引 Kahneman《快思慢想》系統 1 vs 系統 2 → 課堂質疑訓練
 
 ### 期末 take-away
@@ -158,7 +158,7 @@ summary: >-
 
 6 個討論 Q：
 
-1. **Huang's Law**（[[concepts/huangs-law|黃仁勳定律]] — NVIDIA 算力相關，與 Moore's Law 對比）
+1. **Huang's Law**（黃仁勳定律 — NVIDIA 算力相關，與 Moore's Law 對比）
 2. **Mobileye + Intel 不是母合優勢** — 配 [[concepts/parenting-matrix-goold-campbell|Goold-Campbell Parenting Matrix]]，紅箭頭點在 ALIEN TERRITORY + VALUE TRAP
 3. **The real "Destroyer" is not Tesla**（自駕 / EV 真正的破壞者不是 Tesla）
 4. **Is MaaS a winner-takes-all platform? No**
@@ -177,7 +177,7 @@ summary: >-
 | 善用巧力與蠻力，玩柔道與相撲 | 追求競合、不要零和（引《軍師聯盟》司馬懿「臣一路走來，沒有敵人」） |
 | 根據自身獨特的強項，來打造組織 | 做自己該做的，而不是能做的事 |
 
-對未來建 [[references/yoffie-cusumano-strategy-rules-2015|Yoffie 主 reference 頁]] 時，這份**中文社群詮釋**有附錄價值。
+對未來建 Yoffie 主 reference 頁 時，這份**中文社群詮釋**有附錄價值。
 
 ## Sources
 
@@ -195,7 +195,7 @@ summary: >-
 
 ## Related
 
-- **Entity**：[[entities/Tang-Edwin-Yingzhang]]（授課教師） / [[entities/wen-jin-feng]]（並列陽明交大授課者） / [[entities/Mao-Chih-Kuo]]（毛治國，引用大量） / [[entities/Wu-Szu-hua]]（吳思華，策略九說作者）
-- **教材**：[[references/grant-contemporary-strategy-analysis]] / [[references/yoffie-cusumano-strategy-rules-2015]]（待建）
+- **Entity**：[[entities/Tang-Edwin-Yingzhang]]（授課教師） / [[entities/wen-jin-feng]]（並列陽明交大授課者） / Mao-Chih-Kuo（毛治國，引用大量） / Wu-Szu-hua（吳思華，策略九說作者）
+- **教材**：[[references/grant-contemporary-strategy-analysis]] / yoffie cusumano strategy rules 2015（待建）
 - **HBS cases**：（全部 Wave A/B/C 案例 reference 頁）
-- **概念**：[[concepts/MAO-framework]] / [[concepts/strategy-nine-theories]] / [[concepts/strategy-relativism-vs-absolutism]] / [[concepts/parenting-matrix-goold-campbell]] / [[concepts/penguin-problem-game-theory]] / [[concepts/huangs-law]] / [[concepts/tautology-in-management-theory]] / [[concepts/INUS-condition]]
+- **概念**：[[concepts/MAO-framework]] / [[concepts/strategy-nine-theories]] / strategy relativism vs absolutism / [[concepts/parenting-matrix-goold-campbell]] / [[concepts/penguin-problem-game-theory]] / huangs law / [[concepts/tautology-in-management-theory]] / [[concepts/INUS-condition]]

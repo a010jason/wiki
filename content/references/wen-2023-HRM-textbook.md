@@ -83,7 +83,7 @@ lifecycle_changed: 2026-05-21
 
 | 日期 | 週次 | 章節 | 主題 | wiki 對應頁 |
 |---|---|---|---|---|
-| 2024-04-27 | W1 | Ch1-2 | 人資管理之功能 + 內外在環境 | [[concepts/ulrich-hr-roles]] + [[concepts/HRM-evolution-five-stages]] |
+| 2024-04-27 | W1 | Ch1-2 | 人資管理之功能 + 內外在環境 | [[concepts/ulrich-hr-roles]] + HRM-evolution-five-stages |
 | 2024-05-04 | W2 | Ch3-4 | 事業策略與 HRM + 人力資源規劃 | [[concepts/SHRM-three-perspectives]] + [[concepts/HR-planning-forecasting]] |
 | 2024-05-11 | W3 | Ch5-6 | 工作分析 + 招募甄選 | [[concepts/competency-model-three-tiers]] + [[concepts/employee-selection-tools]] |
 | 2024-05-18 | W4 | Ch7-8 | 訓練發展 + 績效管理 | [[concepts/training-effectiveness-kirkpatrick-alliger]] + [[concepts/performance-appraisal-methods-six]] |

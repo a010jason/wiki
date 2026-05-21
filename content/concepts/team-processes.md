@@ -112,7 +112,7 @@ Brainstorming 也是反例：^[extracted from Ch12 slide 256-258]
 - [[concepts/groupthink]] — Interdependence + cohesion 過頭副作用
 - [[concepts/transactive-memory]] — TMS 是 action processes 的隱性骨架
 - [[concepts/conflict-resolution-styles]] — Conflict management 的具體做法
-- [[concepts/communication]] — Supports all processes above
+- communication — Supports all processes above
 - [[references/colquitt-OB-textbook]] — Source
 
 ## Open Questions

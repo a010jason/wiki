@@ -17,13 +17,13 @@ sources:
   - id: HBS-9-703-497-Zara-case
     ref: '[[references/HBS-9-703-497-Zara-case]]'
 related:
-  - '[[concepts/fast-fashion]]'
-  - '[[concepts/quick-response-capability]]'
+  - 'fast fashion'
+  - 'quick response capability'
   - '[[concepts/vertical-integration]]'
-  - '[[concepts/buyer-driven-vs-producer-driven-chains]]'
+  - 'buyer driven vs producer driven chains'
   - '[[concepts/象-數-理-epistemology]]'
   - '[[concepts/sashimi-theory]]'
-  - '[[concepts/freshness-and-scarcity-merchandising]]'
+  - 'freshness and scarcity merchandising'
 ---
 
 # Zara / Inditex
@@ -132,7 +132,7 @@ Zara 第 6 條路 = **垂直整合 + Quick Response + 在地製造**。
 - **vs Toyota (JIT)** + **Dell (pull)** — 教師明示 benchmark
 - **vs H&amp;M / Uniqlo / Gap / Benetton**：fast-fashion 對手
 - **vs SHEIN**：後續顛覆者，半價以下 + 線上 + 抄抄抄
-- **vs [[entities/Liz-Claiborne]] / [[entities/Esprit]]**：反例（空手道 / 國際套利路線）
+- **vs Liz-Claiborne / Esprit**：反例（空手道 / 國際套利路線）
 - **vs Burberry / Versace**（高端 — 「同樣式較便宜，交給高級品牌廣告寄生」眉批）
 
 ## 關鍵角色
@@ -153,7 +153,7 @@ Zara 第 6 條路 = **垂直整合 + Quick Response + 在地製造**。
 
 ## Related
 
-- **概念**：[[concepts/fast-fashion]] / [[concepts/quick-response-capability]] / [[concepts/vertical-integration]] / [[concepts/buyer-driven-vs-producer-driven-chains]] / [[concepts/象-數-理-epistemology]] / [[concepts/sashimi-theory]] / [[concepts/freshness-and-scarcity-merchandising]] / [[concepts/in-house-vs-outsourcing-tradeoff]] / [[concepts/dynamic-capabilities]] / [[concepts/transaction-cost-economics]] / [[concepts/CAGE-distance-framework]]
-- **Entity**：[[entities/Amancio-Ortega]] / [[entities/Inditex]] / [[entities/Samsung-Electronics]]（sashimi 對標） / [[entities/Toyota]] / [[entities/Dell]] / [[entities/H&amp;M]] / [[entities/Uniqlo]] / [[entities/SHEIN]] / [[entities/Gap]] / [[entities/Benetton]]
+- **概念**：fast fashion / quick response capability / [[concepts/vertical-integration]] / buyer driven vs producer driven chains / [[concepts/象-數-理-epistemology]] / [[concepts/sashimi-theory]] / freshness and scarcity merchandising / in house vs outsourcing tradeoff / [[concepts/dynamic-capabilities]] / [[concepts/transaction-cost-economics]] / [[concepts/CAGE-distance-framework]]
+- **Entity**：Amancio-Ortega / Inditex / [[entities/Samsung-Electronics]]（sashimi 對標） / Toyota / Dell / H&amp;M / Uniqlo / SHEIN / Gap / Benetton
 - **參考**：[[references/HBS-9-703-497-Zara-case]] / [[references/grant-contemporary-strategy-analysis]] Ch5 RBV / Ch10 vertical integration / Ch11 global strategy
 - **Synthesis**：[[synthesis/financial-ratio-epistemology-yi-jing]]（象數理跨領域對接）

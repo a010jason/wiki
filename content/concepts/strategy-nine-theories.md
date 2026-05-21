@@ -17,7 +17,7 @@ sources:
   - id: course-syllabus-2024
     ref: '[[references/strategy-management-course-2024-nycu]]'
 related:
-  - '[[entities/Wu-Szu-hua]]'
+  - 'Wu-Szu-hua'
   - '[[entities/Tang-Edwin-Yingzhang]]'
   - '[[concepts/MAO-framework]]'
   - '[[concepts/strategy]]'
@@ -83,7 +83,7 @@ Mintzberg 1998《Strategy Safari》整理西方策略 10 個學派：Design / Pl
 ### 1. 跨文化策略思考整合
 - 西方策略理論偏向**單一框架** strong claim（Porter / Barney 各自主張）
 - 吳思華主張**九種視角並用** — 策略選擇取決於問題類型 + 公司情境
-- 對應教師主張 [[concepts/strategy-relativism-vs-absolutism|Strategy is Relativism]]
+- 對應教師主張 Strategy is Relativism
 
 ### 2. 補充 [[concepts/MAO-framework|毛治國 MAO]]
 - MAO 是決策框架（leader 視角）
@@ -111,7 +111,7 @@ Mintzberg 1998《Strategy Safari》整理西方策略 10 個學派：Design / Pl
   - 《自由社會的人才養成》（2018）
 - **特色**：把西方策略管理思想中文化 + 整合 + 落地到華人企業案例
 
-詳見 [[entities/Wu-Szu-hua]]。
+詳見 Wu-Szu-hua。
 
 ## 跨案例適用（推測）^[inferred]
 
@@ -120,7 +120,7 @@ Mintzberg 1998《Strategy Safari》整理西方策略 10 個學派：Design / Pl
 | [[entities/Zara]] | 價值說 + 效率說 + 互賴說（垂直整合生態） |
 | [[entities/Samsung-Electronics]] | 資源說 + 結構說 + 競局說（vertical integration + chaebol） |
 | [[entities/Apple]] | 價值說 + 生態說（design DNA + iOS ecosystem） |
-| [[entities/Mobileye]] / [[entities/Intel]] | 統治說 + 互賴說（acquired + isolated 治理結構） |
+| [[entities/Mobileye]] / Intel | 統治說 + 互賴說（acquired + isolated 治理結構） |
 | [[entities/Lego-Group]] turnaround | 風險說 + 資源說（生存期回歸 core capability） |
 
 ## Open Questions（待 wiki-challenge）
@@ -132,7 +132,7 @@ Mintzberg 1998《Strategy Safari》整理西方策略 10 個學派：Design / Pl
 
 ## Related
 
-- **概念**：[[concepts/MAO-framework]] / [[concepts/strategy]] / [[concepts/strategy-relativism-vs-absolutism]] / [[concepts/VRIO-framework]] / [[concepts/resource-based-view]] / [[concepts/transaction-cost-economics]] / [[concepts/dynamic-capabilities]] / [[concepts/dual-theory-of-death]] / [[concepts/porters-five-forces]] / [[concepts/value-chain]]
-- **Entity**：[[entities/Wu-Szu-hua]] / [[entities/Tang-Edwin-Yingzhang]] / [[entities/Mao-Chih-Kuo]]
+- **概念**：[[concepts/MAO-framework]] / [[concepts/strategy]] / strategy relativism vs absolutism / [[concepts/VRIO-framework]] / [[concepts/resource-based-view]] / [[concepts/transaction-cost-economics]] / [[concepts/dynamic-capabilities]] / dual theory of death / [[concepts/porters-five-forces]] / [[concepts/value-chain]]
+- **Entity**：Wu-Szu-hua / [[entities/Tang-Edwin-Yingzhang]] / Mao-Chih-Kuo
 - **參考**：[[references/strategy-management-course-2024-nycu]] / 吳思華《策略九說》2000（待建 reference）
-- **Synthesis**：[[synthesis/east-west-strategy-frameworks]]（待建 — 整合策略九說 + 孫子兵法 + 諫太宗十思疏 + 象數理）
+- **Synthesis**：east west strategy frameworks（待建 — 整合策略九說 + 孫子兵法 + 諫太宗十思疏 + 象數理）

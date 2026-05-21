@@ -17,9 +17,9 @@ sources:
   - id: HBS-9-718-421-HTC-VR-case
     ref: '[[references/HBS-9-718-421-HTC-VR-case]]'
 related:
-  - '[[concepts/competency-trap]]'
+  - 'competency trap'
   - '[[concepts/organizational-inertia]]'
-  - '[[concepts/capabilities-vs-disabilities]]'
+  - 'capabilities vs disabilities'
   - '[[concepts/desktop-vs-platform-mindset]]'
   - '[[concepts/penguin-effect]]'
   - '[[entities/HTC]]'
@@ -78,23 +78,23 @@ related:
 - 過去成功：Windows + Office 桌面 license model
 - 同一套要素 disable：[[concepts/desktop-vs-platform-mindset|Desktop 思維買不出 Platform]]（教師核心診斷）
 
-### [[entities/Polaroid]]
+### Polaroid
 - 過去成功：Instant film chemistry + IP
 - 失敗：堅守 film chemistry，錯過 digital camera disruption
 
-### [[entities/Kodak]]
+### Kodak
 - 過去成功：化學耗材 + 沖洗店 channel
 - 失敗：發明 digital camera 後**不敢自我蠶食**，被 Facebook / Instagram 順便輾過
 
-### [[entities/Nokia]]
+### Nokia
 - 過去成功：硬體 feature race + carrier channel
 - 失敗：iPhone iOS app store 雙邊平台時無法切換
 
-### [[entities/Blockbuster]]
+### Blockbuster
 - 過去成功：實體 store + late fee
 - 失敗：Netflix subscription + Hollywood content platform
 
-### [[entities/Sears]]
+### Sears
 - 過去成功：Catalog + 全美零售網
 - 失敗：Amazon two-sided marketplace
 
@@ -110,15 +110,15 @@ related:
 
 1. **解釋 incumbent failure 的普遍模式**：不是「他們笨」或「他們沒看到 disruption」，是**結構性 trap**
 2. **連結 [[concepts/RPV-framework|RPV framework]]**：Christensen RPV 三層中**Values 最難改**正是 Icarus paradox 機制 — value 反映 cost structure + business model，環境變了 value 改不動
-3. **連結 [[concepts/competency-trap|competency trap]]**：學習心理層級的同一現象 — 一直做擅長的事，導致無法學新東西
+3. **連結 competency trap**：學習心理層級的同一現象 — 一直做擅長的事，導致無法學新東西
 4. **Pivot 戰略警示**：HTC 案例顯示 — 知道有 Icarus paradox 不代表能避免，**capability 變 disability 是慢動作 / 不可逆**
 5. **教師對接「企鵝效應」**：[[concepts/penguin-effect]] — 知道要 pivot 不夠，要等網絡外部性「逼」公司才動，這時往往已晚
 
 ## 反例 / 邊界條件
 
-- **有人成功跳出 paradox**：[[entities/Microsoft]] 2014 Satya Nadella 後從 Desktop → Cloud + Platform 是反例（但花 6 年）；[[entities/Apple]] 1997 Jobs 回歸後砍掉 Apple Computer 的 SOP 是反例
+- **有人成功跳出 paradox**：Microsoft 2014 Satya Nadella 後從 Desktop → Cloud + Platform 是反例（但花 6 年）；[[entities/Apple]] 1997 Jobs 回歸後砍掉 Apple Computer 的 SOP 是反例
 - **不是所有 incumbent 都 Icarus**：[[entities/Booking-com]] 1996-2024 持續 dominance，因為它**A/B testing 文化**確保 SOP 不僵化（[[concepts/ab-testing-as-strategy]] 補位 paradox）
-- **新公司 immune 嗎？** 不一定 — startup 也可能因 founder 早期成功要素 lock-in（[[entities/WeWork]] / [[entities/Theranos]] 是 founder mode 過度的 Icarus 變體）^[inferred]
+- **新公司 immune 嗎？** 不一定 — startup 也可能因 founder 早期成功要素 lock-in（WeWork / Theranos 是 founder mode 過度的 Icarus 變體）^[inferred]
 - **與 [[concepts/disruptive-innovation|disruptive innovation]] 區別**：disruption 看市場層級切入；Icarus paradox 看 capability 自我反噬 — 一個從外、一個從內 ^[inferred]
 
 ## Open Questions（待 wiki-challenge）
@@ -130,7 +130,7 @@ related:
 
 ## Related
 
-- **概念**：[[concepts/competency-trap]] / [[concepts/organizational-inertia]] / [[concepts/capabilities-vs-disabilities]] / [[concepts/desktop-vs-platform-mindset]] / [[concepts/penguin-effect]] / [[concepts/RPV-framework]] / [[concepts/disruptive-innovation]] / [[concepts/organizational-ambidexterity]] / [[concepts/dynamic-capabilities]] / [[concepts/dominant-design]]
-- **Entity**：[[entities/HTC]] / [[entities/Microsoft-AdCenter]] / [[entities/Polaroid]] / [[entities/Kodak]] / [[entities/Nokia]] / [[entities/Blockbuster]] / [[entities/Sears]] / [[entities/Microsoft]]（Nadella 反例）/ [[entities/Apple]] / [[entities/Steve-Jobs]]（反例）
+- **概念**：competency trap / [[concepts/organizational-inertia]] / capabilities vs disabilities / [[concepts/desktop-vs-platform-mindset]] / [[concepts/penguin-effect]] / [[concepts/RPV-framework]] / [[concepts/disruptive-innovation]] / [[concepts/organizational-ambidexterity]] / [[concepts/dynamic-capabilities]] / [[concepts/dominant-design]]
+- **Entity**：[[entities/HTC]] / [[entities/Microsoft-AdCenter]] / Polaroid / Kodak / Nokia / Blockbuster / Sears / Microsoft（Nadella 反例）/ [[entities/Apple]] / [[entities/Steve-Jobs]]（反例）
 - **參考**：Danny Miller (1990) *The Icarus Paradox*（待建 reference） / [[references/HBS-9-718-421-HTC-VR-case]] / [[references/christensen-overdorf-2000-HBR-disruptive-change]]
-- **Synthesis**：[[synthesis/HTC-marketing-research-gap]] / [[synthesis/penguin-effect-as-pivot-driver]]
+- **Synthesis**：[[synthesis/HTC-marketing-research-gap]] / penguin effect as pivot driver

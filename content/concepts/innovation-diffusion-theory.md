@@ -124,7 +124,7 @@ Everett Rogers《Diffusion of Innovations》（1962, 1995, 2003）經典。教�
 
 - [[concepts/adopter-categorization]] — Kotler MM 對應頁
 - [[concepts/forces-fighting-new-ideas]] — Kotler MM 對應頁
-- [[concepts/UTAUT]] — 整合 IDT + TAM + 其他
+- UTAUT — 整合 IDT + TAM + 其他
 - [[concepts/theory-of-planned-behavior]]
 - [[concepts/elaboration-likelihood-model]]
 

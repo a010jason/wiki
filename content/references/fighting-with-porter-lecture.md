@@ -148,7 +148,7 @@ SMJ 2007-12-18 至 2010 出版的完整審稿往返。教師用此教學生**實
 
 ## Related
 
-- [[entities/Tang-Edwin-Yingzhang]] / [[entities/Karl-Popper]] / [[entities/Michael-Porter]] / [[entities/Jay-Barney]] / [[entities/Clayton-Christensen]]
+- [[entities/Tang-Edwin-Yingzhang]] / [[entities/Karl-Popper]] / Michael-Porter / Jay-Barney / Clayton-Christensen
 - [[references/strategy-management-course-2024-nycu]]
 - [[references/grant-contemporary-strategy-analysis]]
 - [[references/bhattacherjee-social-science-research]]（科學方法論基礎）

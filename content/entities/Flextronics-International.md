@@ -23,13 +23,13 @@ sources:
     ref: '[[references/HBS-flextronics-international-case]]'
     pages: 23
 related:
-  - '[[concepts/ems-industry]]'
-  - '[[concepts/contract-manufacturing-cm]]'
-  - '[[concepts/contract-design-and-manufacturing-cdm]]'
-  - '[[concepts/original-design-manufacturing-odm]]'
-  - '[[concepts/modularity-in-manufacturing]]'
+  - 'ems industry'
+  - 'contract manufacturing cm'
+  - 'contract design and manufacturing cdm'
+  - 'original design manufacturing odm'
+  - 'modularity in manufacturing'
   - '[[concepts/smile-curve]]'
-  - '[[concepts/patent-thicket]]'
+  - 'patent thicket'
   - '[[concepts/vertical-integration]]'
   - '[[concepts/transaction-cost-economics]]'
 ---
@@ -38,7 +38,7 @@ related:
 
 新加坡基地 EMS（Electronics Manufacturing Services）龍頭。2002 營收 \$13.1B、29 國 78,000 員工、世界第二大 EMS、最大手機 CM。Michael Marks 1994/1 任 CEO 後從 board stuffer → CM → CDM → **試圖突破到 ODM**。Phone 1 (GSM) 證明能力後 Phone 4 (CDMA) 卻**沒人買** — 案例核心張力。^[extracted]
 
-> 公司戰略 DNA：**[[concepts/vertical-integration|vertical integration]] 反潮流**（OEM 把製造外包，Flex 反向把設計拉進來）+ **EMS 想擺脫 [[concepts/smile-curve|微笑曲線]] 谷底** + **與客戶利益正面衝突**的 ODM 困境。教師眉批：「**要 [[concepts/co-evolution-in-supply-chain|co-evolution]]，要共生，要動態**」「**CM → CDM**」。^[teacher-annotation]
+> 公司戰略 DNA：**[[concepts/vertical-integration|vertical integration]] 反潮流**（OEM 把製造外包，Flex 反向把設計拉進來）+ **EMS 想擺脫 [[concepts/smile-curve|微笑曲線]] 谷底** + **與客戶利益正面衝突**的 ODM 困境。教師眉批：「**要 co-evolution，要共生，要動態**」「**CM → CDM**」。^[teacher-annotation]
 
 ## 公司沿革
 
@@ -57,7 +57,7 @@ related:
 
 ## EMS 產業結構
 
-[[concepts/ems-industry|三層 EMS 模型]]：
+三層 EMS 模型：
 
 | 模式 | 定義 | IP 歸屬 | 典型廠商 |
 |---|---|---|---|
@@ -91,7 +91,7 @@ related:
 
 **EMS 全產業同期虧損**（Exhibit 2，2002 net income）：
 - Solectron $-3.1B、Sanmina-SCI $-2.7B、Celestica $-445M、**Flex $-153.7M**、Jabil +\$34.7M（唯一正獲利）
-- **規模急升的同時陷入虧損** — [[synthesis/ems-margin-compression-paradox|EMS Paradox]]
+- **規模急升的同時陷入虧損** — EMS Paradox
 
 **主要 ODM 財務對比**（Exhibit 4，全在亞洲）：
 - 鴻海 Hon Hai 2002 銷售 \$7.46B、Net Income \$488M（**margin ~6.5%**，遠高過 EMS）
@@ -103,7 +103,7 @@ related:
 - 全球出貨：2000 408M → 2001 390.4M（衰退）
 - Nokia 市占 35.8%、Motorola 14.2%、Sony-Ericsson 9.6% — **Nokia+Moto 超過 50%**
 - ASP 從 1987 ~\$800 → 2005 ~\$50（Exhibit 8，大幅下滑）
-- 兩大空中介面：[[concepts/patent-thicket|GSM patent thicket]]（西歐主導，~15 家 cross-license）vs CDMA（北美+亞洲，Qualcomm 單一持有）
+- 兩大空中介面：GSM patent thicket（西歐主導，~15 家 cross-license）vs CDMA（北美+亞洲，Qualcomm 單一持有）
 
 ## Phone 1 → Phone 4 旅程
 
@@ -131,7 +131,7 @@ related:
 3. **排他性兩難** — Flex 跟所有 OEM 都有 CM 業務，獨家給一家會得罪其他客戶（Marks 自承「進行這樣的交易顯然會給我們帶來風險」）
 4. **ODM 風險本質改變**（Sacherman）：CM 只面對製程風險，ODM 同時面對技術可行性+市場接受度風險 — 「如果我們推動的專案產品並非市場所需，我們將負擔所有的成本」
 5. **新能力缺口**：要做 ODM 必須建構**市場分析 + 產品結構**兩個原本由客戶負責的能力（Brathwaite：「客戶會做好市場分析與產品結構建立的工作。我們總習慣從客戶那邊得到答案」）
-6. **獨特產品特點被快速複製**：「在 1990 年代，獨特的產品特點，馬上就會被競爭的產品結合採用」— [[concepts/modularity-in-manufacturing|模組化的雙刃劍]]
+6. **獨特產品特點被快速複製**：「在 1990 年代，獨特的產品特點，馬上就會被競爭的產品結合採用」— 模組化的雙刃劍
 7. **ODM 自己也不一定有製造成本優勢**：「許多 ODM 廠商仍然不能符合製造的成本效益，Flextronics 就是其中一個例子。於是許多 ODM 廠商便將製造工作再轉包給擁有低生產成本優勢的 CM 廠商」 — **ODM ≠ CM 替代，可能形成新分工層**
 
 ## 教師核心眉批
@@ -169,7 +169,7 @@ related:
 
 ## Related
 
-- **概念**：[[concepts/ems-industry]] / [[concepts/contract-manufacturing-cm]] / [[concepts/contract-design-and-manufacturing-cdm]] / [[concepts/original-design-manufacturing-odm]] / [[concepts/modularity-in-manufacturing]] / [[concepts/smile-curve]] / [[concepts/patent-thicket]] / [[concepts/vertical-integration]] / [[concepts/transaction-cost-economics]] / [[concepts/co-evolution-in-supply-chain]] / [[concepts/organizational-ambidexterity]] / [[concepts/disruptive-innovation]] / [[concepts/value-chain]]
-- **Entity**：[[entities/Michael-Marks]] / [[entities/Nicholas-Brathwaite]] / [[entities/Hon-Hai-Foxconn]] / [[entities/Quanta]] / [[entities/Compal]] / [[entities/Inventec]] / [[entities/Solectron]] / [[entities/Qualcomm]] / [[entities/Nokia]] / [[entities/Motorola]] / [[entities/Philips]] / [[entities/Palm]]
+- **概念**：ems industry / contract manufacturing cm / contract design and manufacturing cdm / original design manufacturing odm / modularity in manufacturing / [[concepts/smile-curve]] / patent thicket / [[concepts/vertical-integration]] / [[concepts/transaction-cost-economics]] / co evolution in supply chain / [[concepts/organizational-ambidexterity]] / [[concepts/disruptive-innovation]] / [[concepts/value-chain]]
+- **Entity**：Michael-Marks / Nicholas-Brathwaite / Hon-Hai-Foxconn / Quanta / Compal / Inventec / Solectron / Qualcomm / Nokia / Motorola / Philips / Palm
 - **參考**：[[references/HBS-flextronics-international-case]] / [[references/grant-contemporary-strategy-analysis]] Ch10 VI / Ch6 organization
-- **Synthesis**：[[synthesis/ems-margin-compression-paradox]] / [[synthesis/vertical-disintegration-then-reintegration]]
+- **Synthesis**：ems margin compression paradox / vertical disintegration then reintegration

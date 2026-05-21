@@ -19,8 +19,8 @@ sources:
     ref: '[[references/HBS-9-703-497-Zara-case]]'
 related:
   - '[[concepts/象-數-理-epistemology]]'
-  - '[[concepts/popper-three-worlds]]'
-  - '[[concepts/causal-inference-vs-correlation]]'
+  - 'popper three worlds'
+  - 'causal inference vs correlation'
   - '[[entities/Zara]]'
   - '[[entities/Karl-Popper]]'
 ---
@@ -184,7 +184,7 @@ Karl Popper（1972）三世界框架：
 
 ## Related
 
-- **概念**：[[concepts/象-數-理-epistemology]] / [[concepts/popper-three-worlds]] / [[concepts/causal-inference-vs-correlation]] / [[concepts/ab-testing-as-strategy]] / [[concepts/evidence-based-management]] / [[concepts/dynamic-capabilities]] / [[concepts/capabilities-vs-disabilities]]
-- **Entity**：[[entities/Zara]] / [[entities/Karl-Popper]] / [[entities/Amancio-Ortega]]
+- **概念**：[[concepts/象-數-理-epistemology]] / popper three worlds / causal inference vs correlation / [[concepts/ab-testing-as-strategy]] / evidence based management / [[concepts/dynamic-capabilities]] / capabilities vs disabilities
+- **Entity**：[[entities/Zara]] / [[entities/Karl-Popper]] / Amancio-Ortega
 - **參考**：[[references/HBS-9-703-497-Zara-case]] / 古典文獻《易經·繫辭》《道德經》（待建 reference）
 - **同系列 synthesis**：[[synthesis/wei-zheng-leadership-and-subsidiary-management]]（諫太宗十思疏） / [[synthesis/yoffie-five-rules-vs-sun-tzu-five-fundamentals]]（孫子兵法五事）

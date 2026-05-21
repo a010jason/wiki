@@ -43,7 +43,7 @@ ISSB 與 GRI 為「互補」而非取代：
 - **ISSB**：投資人視角，財務重大性
 - **GRI**：多利害關係人視角，全面性
 
-企業實務上會同時揭露兩套（[[concepts/double-materiality]] 雙重重大性）。
+企業實務上會同時揭露兩套（double materiality 雙重重大性）。
 
 ## 來源
 

@@ -17,9 +17,9 @@ sources:
   - id: HBS-4357-Levendary-Cafe-case
     ref: '[[references/HBS-levendary-cafe-case]]'
 related:
-  - '[[concepts/hq-subsidiary-control-tension]]'
-  - '[[concepts/integration-responsiveness-framework]]'
-  - '[[concepts/transnational-strategy]]'
+  - 'hq subsidiary control tension'
+  - 'integration responsiveness framework'
+  - 'transnational strategy'
   - '[[entities/Levendary-Cafe]]'
   - '[[synthesis/wei-zheng-leadership-and-subsidiary-management]]'
 ---
@@ -28,7 +28,7 @@ related:
 
 Christopher Bartlett 在 [[references/HBS-levendary-cafe-case|Levendary Café case]] 中明引的子公司領導人三階段演化框架。每階段任務、HQ 支援方式、典型危機都不同；**演化是雙向的**（可前進也可退化）。^[extracted]
 
-> Levendary case mentor 在第三次會議前教 Foster：「Chen 現在是 [[entities/Louis-Chen|Local Baron]]，問題是他能不能演化成 Professional Manager — 或必須換人」。^[extracted]
+> Levendary case mentor 在第三次會議前教 Foster：「Chen 現在是 Local Baron，問題是他能不能演化成 Professional Manager — 或必須換人」。^[extracted]
 
 ## 三階段
 
@@ -64,7 +64,7 @@ Christopher Bartlett 在 [[references/HBS-levendary-cafe-case|Levendary Café ca
 **特徵**：
 - **平衡 local autonomy 與 global consistency**
 - 主動把 local insights 反饋給 HQ（讓 HQ 變學習中心而非控制中心）
-- 接受 [[concepts/transnational-strategy|transnational]] 整合網路角色：本地是 contributor + integrator
+- 接受 transnational 整合網路角色：本地是 contributor + integrator
 - 不再純粹是 boss，而是 connector
 - HQ 給的不是 control 也不是 resources，而是 platform + global mandate
 
@@ -88,9 +88,9 @@ slide p.7 上：「**自走砲 → 野蠻成長 → 藩鎮割據 → 功高震�
 
 ## 與 Mintzberg / Bartlett-Ghoshal 框架的關係
 
-- 配 [[concepts/integration-responsiveness-framework]]：subsidiary 隨 lifecycle 在 I-R 矩陣中移位（Local Baron 偏 Responsiveness 端、Professional Manager 中庸）
+- 配 integration responsiveness framework：subsidiary 隨 lifecycle 在 I-R 矩陣中移位（Local Baron 偏 Responsiveness 端、Professional Manager 中庸）
 - 配 Mintzberg [[concepts/intended-vs-emergent-strategy]]：Local Baron 階段 emergent strategy 主導，Professional Manager 階段 intended + emergent 整合
-- 配 [[concepts/global-entry-sequence]]（教師眉批暗示，連 Uppsala model）
+- 配 global entry sequence（教師眉批暗示，連 Uppsala model）
 
 ## 反例 / 邊界條件
 
@@ -107,10 +107,10 @@ slide p.7 上：「**自走砲 → 野蠻成長 → 藩鎮割據 → 功高震�
 
 ## Related
 
-- [[entities/Levendary-Cafe]] / [[entities/Louis-Chen]] / [[entities/Mia-Foster]] / [[entities/Christopher-Bartlett]]
-- [[concepts/hq-subsidiary-control-tension]]
-- [[concepts/integration-responsiveness-framework]]
-- [[concepts/transnational-strategy]]
+- [[entities/Levendary-Cafe]] / Louis-Chen / Mia-Foster / Christopher-Bartlett
+- hq subsidiary control tension
+- integration responsiveness framework
+- transnational strategy
 - [[synthesis/wei-zheng-leadership-and-subsidiary-management]]
 - [[references/HBS-levendary-cafe-case]]
 - [[references/grant-contemporary-strategy-analysis]] Ch11 Global Strategy

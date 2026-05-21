@@ -49,13 +49,13 @@ HBS case 9-713-478「LEGO (A): The Crisis」。聚焦 Jørgen Vig Knudstorp 36 �
 
 - [[entities/Lego-Group]]
 - [[concepts/corporate-turnaround-strategy]]（re-position → re-configuration → mobility barrier → value chain reinvention）
-- [[concepts/value-chain-reconfiguration]]
-- [[concepts/back-to-core-strategy]]
-- [[concepts/sku-proliferation-trap]]
-- [[concepts/connect-strategy]]（Connect 是在用戶不是在產品）
-- [[concepts/brand-framework-lego]]（七層）
-- [[concepts/typical-vs-actual-customer]]（家長 / 小孩 / 零售通路三組顧客）
-- [[concepts/wheel-of-retailing]]（教師明點）
+- value chain reconfiguration
+- back to core strategy
+- sku proliferation trap
+- connect strategy（Connect 是在用戶不是在產品）
+- brand framework lego（七層）
+- typical vs actual customer（家長 / 小孩 / 零售通路三組顧客）
+- wheel of retailing（教師明點）
 
 ## 教師眉批採集（核心）
 
@@ -88,6 +88,6 @@ HBS case 9-713-478「LEGO (A): The Crisis」。聚焦 Jørgen Vig Knudstorp 36 �
 
 ## Related
 
-- [[entities/Lego-Group]] / [[entities/Jorgen-Vig-Knudstorp]]
+- [[entities/Lego-Group]] / Jorgen-Vig-Knudstorp
 - [[entities/Samsung-Electronics]]（turnaround 對標） / [[entities/Apple]]（1997 Jobs 回歸 back-to-core 對標） / [[entities/Marriott-International]]（多角化對標）
 - [[references/grant-contemporary-strategy-analysis]] Ch8 industry evolution / Ch12 diversification / Ch13 multibusiness

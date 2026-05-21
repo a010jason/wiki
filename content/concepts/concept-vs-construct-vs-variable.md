@@ -51,7 +51,7 @@ Operational Definition  ──────→   Variable
 - **Unidimensional**：簡單，單一底層概念 — 例：weight
 - **Multi-dimensional**：多重底層 concept 組成 — 例：
   - Communication skill = vocabulary + syntax + spelling
-  - **Paternalistic Leadership** = Authoritarianism + Morality + Benevolence（[[concepts/paternalistic-leadership]] 待寫）
+  - **Paternalistic Leadership** = Authoritarianism + Morality + Benevolence（paternalistic leadership 待寫）
   - **Cultural Intelligence (CQ)** = Metacognitive + Cognitive + Motivational + Behavioral（[[concepts/cultural-intelligence-CQ]]）
   - **User Trust in AI** = Ability + Integrity + Benevolence（[[concepts/human-like-AI-competencies]] 待寫）
 
@@ -75,7 +75,7 @@ Operational Definition  ──────→   Variable
 - ❌ 「income」 — 太籠統
 - ✅ 「household monthly income before tax, USD」 — 可重複測量
 
-社會科學 construct 的 operationalization 經常需要量表（Likert、semantic differential）— 詳見 [[concepts/scale-types]]（待寫）。
+社會科學 construct 的 operationalization 經常需要量表（Likert、semantic differential）— 詳見 scale types（待寫）。
 
 ## Google Scholar 證據（教師 slide p.113）^[extracted]
 

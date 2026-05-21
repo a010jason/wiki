@@ -19,11 +19,11 @@ sources:
 related:
   - '[[entities/Google]]'
   - '[[concepts/specialized-generalist-vs-generalized-specialist]]'
-  - '[[concepts/google-ten-things-we-know-to-be-true]]'
-  - '[[concepts/stress-test-your-strategy-7-questions]]'
-  - '[[concepts/other-bets-portfolio]]'
-  - '[[concepts/okr-superpowers-doerr]]'
-  - '[[concepts/agency-problem]]'
+  - 'google ten things we know to be true'
+  - 'stress test your strategy 7 questions'
+  - 'other bets portfolio'
+  - 'okr superpowers doerr'
+  - 'agency problem'
 ---
 
 # Alphabet Inc.
@@ -60,7 +60,7 @@ X Moonshots:
 
 ## Google 「10 things we know to be true」
 
-Google 2000 寫成、2015 重貼的核心信念（HBS case 主軸）。詳見 [[concepts/google-ten-things-we-know-to-be-true]]。
+Google 2000 寫成、2015 重貼的核心信念（HBS case 主軸）。詳見 google ten things we know to be true。
 
 | # | 信條 | 教師中文眉批 |
 |---|---|---|
@@ -85,7 +85,7 @@ Google 2000 寫成、2015 重貼的核心信念（HBS case 主軸）。詳見 [[
 
 ## Simons Stress-Test 7 Questions 框架
 
-教師整套用 Robert Simons (HBR Nov 2010) 框架分析 Alphabet。詳見 [[concepts/stress-test-your-strategy-7-questions]]。
+教師整套用 Robert Simons (HBR Nov 2010) 框架分析 Alphabet。詳見 stress test your strategy 7 questions。
 
 | Q | 主題 | Alphabet 對應 |
 |---|---|---|
@@ -101,7 +101,7 @@ Google 2000 寫成、2015 重貼的核心信念（HBS case 主軸）。詳見 [[
 
 ## Outside-In Strategy Cascade
 
-教師反覆強調的核心框架（[[skills/outside-in-strategy]]）：
+教師反覆強調的核心框架（outside in strategy）：
 
 ```
 價值主張 (Value Proposition)
@@ -161,7 +161,7 @@ CEO
 
 教師：「if you hire the best, the rest will follow — 是否成立？hiring B players 必導致 mediocrity？」 ^[teacher-annotation]
 
-## OKR Superpowers（[[entities/John-Doerr|Doerr]]）
+## OKR Superpowers（Doerr）
 
 教師明點對 Alphabet 為何 went wrong 的質疑：「**Why all these superpower 為什麼 went wrong in Alphabet?**」 ^[teacher-annotation]
 
@@ -191,7 +191,7 @@ Larry Page 引言：「OKRs have helped lead us to 10x growth, many times over.�
 
 ## 對標 entity（教師明示）
 
-- **vs [[entities/Microsoft-AdCenter]] / [[entities/Microsoft]]**：Google 廣告對手；Google 在 paid search 戰場全面勝出
+- **vs [[entities/Microsoft-AdCenter]] / Microsoft**：Google 廣告對手；Google 在 paid search 戰場全面勝出
 - **vs [[entities/Apple]] / [[entities/Steve-Jobs]]**：Jobs Digital Hub vs Musk Mars vs Alphabet Other Bets — 三種多角化哲學對比
 - **vs [[entities/Booking-com|Booking]]**：「**Booking 吸 Google 的血**」（教師眉批，Booking 33% revenue 給 Google performance ad）
 
@@ -206,7 +206,7 @@ Larry Page 引言：「OKRs have helped lead us to 10x growth, many times over.�
 
 ## Related
 
-- **概念**：[[concepts/google-ten-things-we-know-to-be-true]] / [[concepts/stress-test-your-strategy-7-questions]] / [[concepts/specialized-generalist-vs-generalized-specialist]] / [[concepts/outside-in-strategy-cascade]] / [[concepts/primary-customer-identification]] / [[concepts/users-vs-customers-distinction]] / [[concepts/agency-problem]] / [[concepts/franchise-risk]] / [[concepts/creative-tension-spurring-innovation]] / [[concepts/okr-superpowers-doerr]] / [[concepts/other-bets-portfolio]] / [[concepts/strategic-boundaries-vs-performance-goals]] / [[concepts/desktop-vs-platform-mindset]] / [[concepts/two-sided-market]] / [[concepts/network-externalities]] / [[concepts/winner-takes-all]]
-- **Entity**：[[entities/Google]] / [[entities/Larry-Page]] / [[entities/Sergey-Brin]] / [[entities/Sundar-Pichai]] / [[entities/John-Doerr]] / [[entities/Robert-Simons]] / [[entities/Astro-Teller]] / [[entities/Microsoft-AdCenter]] / [[entities/Apple]] / [[entities/Steve-Jobs]] / [[entities/Elon-Musk]] / [[entities/Booking-com]]
-- **參考**：[[references/HBS-9-116-029-Google-Alphabet-case]] / [[references/HBR-2010-Stress-Test-Strategy]] / [[references/measure-what-matters-doerr-2018]] / [[references/grant-contemporary-strategy-analysis]] Ch12 / Ch13
-- **Synthesis**：[[synthesis/specialized-generalist-vs-generalized-specialist]] / [[synthesis/okr-vs-kpi-tradeoff]] / [[synthesis/why-google-mission-statement-needs-rewrite]]
+- **概念**：google ten things we know to be true / stress test your strategy 7 questions / [[concepts/specialized-generalist-vs-generalized-specialist]] / outside in strategy cascade / primary customer identification / users vs customers distinction / agency problem / franchise risk / creative tension spurring innovation / okr superpowers doerr / other bets portfolio / strategic boundaries vs performance goals / [[concepts/desktop-vs-platform-mindset]] / two sided market / [[concepts/network-externalities]] / winner takes all
+- **Entity**：[[entities/Google]] / Larry-Page / Sergey-Brin / Sundar-Pichai / John-Doerr / Robert-Simons / Astro-Teller / [[entities/Microsoft-AdCenter]] / [[entities/Apple]] / [[entities/Steve-Jobs]] / [[entities/Elon-Musk]] / [[entities/Booking-com]]
+- **參考**：[[references/HBS-9-116-029-Google-Alphabet-case]] / HBR-2010-Stress-Test-Strategy / [[references/measure-what-matters-doerr-2018]] / [[references/grant-contemporary-strategy-analysis]] Ch12 / Ch13
+- **Synthesis**：[[synthesis/specialized-generalist-vs-generalized-specialist]] / okr vs kpi tradeoff / why google mission statement needs rewrite

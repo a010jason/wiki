@@ -220,6 +220,35 @@ log 格式（append-only，新的加在最後）：
 
 ---
 
+## Manifest vs Reference Page 分工（2026-05-22 釐清）
+
+`content/.manifest.json` 與 `content/references/*.md` 兩邊都記錄 source 元資料，**容易 drift**。明確分工：
+
+| 欄位 | manifest | reference page `sources[]` |
+|---|---|---|
+| `rel_path` | ✅ 必填 | ✅ 必填 |
+| `sha256` / `content_hash` | ✅ 必填（dedup + verify 用） | ✅ 必填 |
+| `pages` | ✅ 必填（aggregate stats 用） | ✅ 必填 |
+| `ingested_at` / `ingest_method` / `pages_created` / `pages_updated` | ✅ 必填（ingest 事件 log） | ❌ 不放 |
+| **`drive_url`** | ❌ **不放** | ✅ 必填（user-facing 連結） |
+| `note`（人類說明） | 可放（簡潔 1 行） | ✅ 詳細放在這 |
+| `ingested_commit` | ❌ 不放（manifest 本身會被 git 追） | ✅ 必填 |
+
+**mental model**：
+
+- **manifest = ingest 事件 audit log + 機器讀的識別表**（誰、何時、用什麼方法、產出哪些頁）
+- **reference page = user-facing 名片**（這是什麼書、哪個檔、怎麼點開）
+
+**為什麼 drive_url 不放 manifest**：截至 2026-05-22 manifest 142 個 sources 沒有任何一個有 drive_url 欄、也沒有任何 script / skill 讀它 — 是 dead duplication。Quartz 渲染讀的是 reference page，user 點 Drive 連結也走 reference page。
+
+**Skill 寫入時的對應行為**：
+
+- `wiki-ingest` 寫 manifest entry 時**不要嘗試填 drive_url**；想加 Drive 連結就改寫 reference page
+- 任何 reconcile script **不要從 reference 反推 drive_url 到 manifest**（這是反向錯誤）
+- 發現某 source manifest 缺 drive_url **不視為 drift**（正常狀態）
+
+---
+
 ## Skill 行為規範
 
 ### wiki-ingest

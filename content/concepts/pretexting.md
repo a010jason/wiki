@@ -29,7 +29,7 @@ Pretexting 指**假冒他人身分（社會工程手法）以取得敏感資訊*
 |---|---|
 | **2005 中期** | 董事會議內容開始被 WSJ 等媒體洩露 |
 | **2005 末-2006 初** | 董事會（[[entities/Patricia-Dunn]] 授權）僱用調查公司進行 pretexting |
-| **目標** | 9 位董事（含 [[entities/Tom-Perkins]]、[[entities/Carly-Fiorina]]）+ Mark Hurd + 多名記者 |
+| **目標** | 9 位董事（含 Tom-Perkins、Carly-Fiorina）+ Mark Hurd + 多名記者 |
 | **2006-05** | 知情者向加州檢察官舉報 |
 | **2006-09-12** | [[entities/Patricia-Dunn]] 辭任董事長；Mark Hurd 接任 |
 | **2006-10** | HP 認罪、支付民事罰款 USD 14.5M |

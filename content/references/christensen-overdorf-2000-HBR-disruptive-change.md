@@ -122,11 +122,11 @@ Path B subagent；21 頁全讀（5+5+5+5+1）。最後一頁是 HBR website foot
 
 新建頁面：
 
-- [[concepts/capabilities-vs-disabilities]]（核心 paradox：使組織擅長 X 的 capability，恰好定義它 disable on Y）
-- [[concepts/migration-of-capabilities]]（resources → processes &amp; values → culture 時序遷移）
-- [[concepts/heavyweight-team]]（Wheelwright &amp; Clark 1992 概念，本文引用）
-- [[concepts/fitting-the-tool-to-the-task]]（4-quadrant matrix）
-- [[concepts/spinout-vs-acquisition-vs-internal-team]]
+- capabilities vs disabilities（核心 paradox：使組織擅長 X 的 capability，恰好定義它 disable on Y）
+- migration of capabilities（resources → processes &amp; values → culture 時序遷移）
+- heavyweight team（Wheelwright &amp; Clark 1992 概念，本文引用）
+- fitting the tool to the task（4-quadrant matrix）
+- spinout vs acquisition vs internal team
 
 可補強既有：
 - [[concepts/RPV-framework]]（補本文為 primary source）

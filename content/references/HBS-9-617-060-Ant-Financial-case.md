@@ -55,14 +55,14 @@ summary: >-
 - [[entities/Ant-Group]]
 - [[concepts/institutional-voids]]（教師核心 framing）
 - [[concepts/substitute-complement-substitute-cycle]]（替代→互補→替代效果三段論）
-- [[concepts/techfin-vs-fintech]]
-- [[concepts/bass-diffusion-model]]（淘寶=p / Alipay 加速 q）
-- [[concepts/KYC-to-CRM]]（教師原創 — KYC 數據資產化）
-- [[concepts/VIE-structure]]
-- [[concepts/escrow-and-third-party-payment]]
-- [[concepts/ecosystem-competition]]
-- [[concepts/complementary-assets]]
-- [[concepts/tipping-point-platform-strategy]]
+- techfin vs fintech
+- bass diffusion model（淘寶=p / Alipay 加速 q）
+- KYC-to-CRM（教師原創 — KYC 數據資產化）
+- VIE-structure
+- escrow and third party payment
+- ecosystem competition
+- complementary assets
+- tipping point platform strategy
 
 ## 教師眉批採集（核心）
 
@@ -115,6 +115,6 @@ summary: >-
 
 ## Related
 
-- [[entities/Ant-Group]] / [[entities/Alibaba]] / [[entities/Jack-Ma]] / [[entities/Tencent]] / [[entities/Pinduoduo]] / [[entities/JD-com]]
+- [[entities/Ant-Group]] / Alibaba / Jack-Ma / Tencent / Pinduoduo / JD-com
 - [[entities/Booking-com]] / [[entities/Shopee]] / [[entities/Microsoft-AdCenter]]（平台戰跨案例）
 - [[references/grant-contemporary-strategy-analysis]] Ch3 industry / Ch9 innovation / Ch11 global strategy

@@ -144,7 +144,7 @@ ESG 系列講座彙整：以 **陽明交大 EMBA / 交大管院 2023 秋學期**
 - **投融資**：[[concepts/equator-principles]], [[concepts/UN-PRI]], [[concepts/ESG-rating-divergence]]
 - **批判**：[[concepts/greenwashing]]
 - **教育/國際**：[[concepts/SDGs]], [[concepts/USR-university-social-responsibility]]
-- **企業案例**：[[entities/TSMC]], [[entities/Delta-Electronics]], [[entities/O-Right]], [[entities/E-Sun-Financial]], [[entities/Tai-Power]], [[entities/Yang-Ming-Marine]]
+- **企業案例**：[[entities/TSMC]], [[entities/Delta-Electronics]], [[entities/O-Right]], [[entities/E-Sun-Financial]], Tai-Power, [[entities/Yang-Ming-Marine]]
 
 ## Cross-cutting Synthesis
 

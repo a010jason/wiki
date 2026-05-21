@@ -19,10 +19,10 @@ sources:
 related:
   - '[[concepts/dedicated-vs-flexible-capacity]]'
   - '[[concepts/asset-light-strategy]]'
-  - '[[concepts/yield-management]]'
-  - '[[concepts/dynamic-pricing]]'
+  - 'yield management'
+  - 'dynamic pricing'
   - '[[entities/Marriott-International]]'
-  - '[[entities/Airbnb]]'
+  - 'Airbnb'
 ---
 
 # Compression Night Economics
@@ -70,7 +70,7 @@ related:
 
 ## 對 Yield Management 的延伸
 
-Compression night 是 [[concepts/yield-management|yield management]] 的最高難度場景：
+Compression night 是 yield management 的最高難度場景：
 
 | 維度 | 平常日 | Compression night |
 |---|---|---|
@@ -102,11 +102,11 @@ Booking.com / Expedia 等 OTA 在 compression night 的 commission 對 Marriott 
 
 - [[concepts/dedicated-vs-flexible-capacity]]
 - [[concepts/asset-light-strategy]]
-- [[concepts/yield-management]]
-- [[concepts/dynamic-pricing]]
+- yield management
+- dynamic pricing
 - [[concepts/price-elasticity-of-demand]]
 - [[concepts/price-discrimination]]（peak pricing 是 3rd-degree price discrimination 一例）
-- [[concepts/two-sided-market]]
-- [[entities/Marriott-International]] / [[entities/Airbnb]] / [[entities/Booking-com]] / [[entities/Expedia]]
+- two sided market
+- [[entities/Marriott-International]] / Airbnb / [[entities/Booking-com]] / Expedia
 - [[references/HBS-marriott-90yr-case]]
 - [[references/kotler-keller-chernev-marketing-management-16e]] Ch11 pricing（Uber surge / airline peak 對應）

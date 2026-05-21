@@ -54,7 +54,7 @@ lifecycle_changed: 2026-05-21
 - **[[concepts/taiwan-carbon-fee]]**：2025 開徵，首波 287 家排放大戶
 - **永續報告書強制揭露**：2023 起 20 億元以上上市櫃公司
 - **[[concepts/ISSB-IFRS-S1-S2]] 銜接**：2026 起 100 億元公司強制
-- **碳交易所**：2023-08-17 成立 [[entities/Taiwan-Carbon-Exchange]]
+- **碳交易所**：2023-08-17 成立 Taiwan-Carbon-Exchange
 - **金融業淨零**：玉山、富邦、國泰等加入 GFANZ / SBTi
 
 ## 批判 / 邊界條件

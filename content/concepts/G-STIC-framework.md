@@ -112,7 +112,7 @@ G-STIC 落地為 marketing plan 的格式：^[extracted Ch02 p.33-36 Figure 2.8]
 - **G-STIC section**（核心，五步驟展開）
 - Exhibits（細節 / 證據）
 
-Marketing plan 不是靜態文件 — Kotler 強調 needs periodic update + [[skills/marketing-audit]] 檢視。^[extracted Ch02 p.37-39]
+Marketing plan 不是靜態文件 — Kotler 強調 needs periodic update + marketing audit 檢視。^[extracted Ch02 p.37-39]
 
 ## Why It Matters (Jason 角度)
 

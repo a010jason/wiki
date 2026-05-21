@@ -54,18 +54,18 @@ Path B subagent；35 頁全讀完。**本份 PDF 未見任何手寫眉批 / 紅�
 詳見 [[entities/Samsung-Electronics]] 主頁。新建頁面：
 
 - [[entities/Samsung-Electronics]] — 案例 hub
-- [[entities/Lee-Kun-hee]] — 1993 Frankfurt 宣言
-- [[entities/Yun-Jong-Yong]] — Sashimi theory 創建者
-- [[entities/Eric-Kim]] — 2000-2008 GMO 主管，case 主角
+- Lee-Kun-hee — 1993 Frankfurt 宣言
+- Yun-Jong-Yong — Sashimi theory 創建者
+- Eric-Kim — 2000-2008 GMO 主管，case 主角
 - [[concepts/corporate-turnaround-strategy]] — 1997-2002 翻身路徑
-- [[concepts/brand-reloaded-strategy]] — Third-tier OEM → top 25 global brand
+- brand reloaded strategy — Third-tier OEM → top 25 global brand
 - [[concepts/sashimi-theory]] — 科技產品像生魚片，第一天最值錢
-- [[concepts/hardware-only-focus]] — 反 Sony / Apple 軟硬整合
-- [[concepts/digital-convergence-strategy]] — DigitAll / SiP
-- [[concepts/mnet-marketing-resource-allocation]] — 潛在成長力 vs 現有銷售額
-- [[concepts/country-market-clusters]] — Accelerator / Turning Point / Advanced 三段式
-- [[concepts/fcb-relationship-monitor]] — 13 維度 × 7 styles
-- [[concepts/flagship-product-strategy]] — 每年 4-5 旗艦 + 20 候選
+- hardware only focus — 反 Sony / Apple 軟硬整合
+- digital convergence strategy — DigitAll / SiP
+- mnet marketing resource allocation — 潛在成長力 vs 現有銷售額
+- country market clusters — Accelerator / Turning Point / Advanced 三段式
+- fcb relationship monitor — 13 維度 × 7 styles
+- flagship product strategy — 每年 4-5 旗艦 + 20 候選
 
 ## Exhibits
 

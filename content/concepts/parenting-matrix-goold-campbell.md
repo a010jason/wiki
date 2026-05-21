@@ -18,10 +18,10 @@ sources:
     ref: '[[references/strategy-management-course-2024-nycu]]'
 related:
   - '[[concepts/corporate-vs-business-strategy]]'
-  - '[[concepts/synergy]]'
-  - '[[concepts/diversification-strategy]]'
+  - 'synergy'
+  - 'diversification strategy'
   - '[[entities/Mobileye]]'
-  - '[[entities/Intel]]'
+  - 'Intel'
 ---
 
 # Parenting Matrix（Goold-Campbell 母公司增值矩陣）
@@ -103,7 +103,7 @@ Michael Goold &amp; Andrew Campbell 1995-2000 提出的 **multibusiness corporat
 2. **M&amp;A 決策**：併購前先評估 parenting fit，避免事後 spin off 的失敗
 3. **Spin-off / divestiture 決策**：何時該賣子公司 — ALIEN TERRITORY + BALLAST 都該賣
 4. **連結 [[concepts/corporate-vs-business-strategy|corporate vs BU strategy]]**：corporate level 的本質是「**母公司能否增值**」這個問題
-5. **連結 [[concepts/diversification-strategy|diversification strategy]]**：給「該不該多角化」一個診斷工具
+5. **連結 diversification strategy**：給「該不該多角化」一個診斷工具
 
 ## 與其他 corporate strategy 框架的關係
 
@@ -126,7 +126,7 @@ Goold-Campbell 的獨特貢獻：**強調母公司 capability vs 子公司 needs
 
 ## Related
 
-- **概念**：[[concepts/corporate-vs-business-strategy]] / [[concepts/synergy]] / [[concepts/diversification-strategy]] / [[concepts/specialized-generalist-vs-generalized-specialist]] / [[concepts/corporate-turnaround-strategy]] / [[concepts/sku-proliferation-trap]]
-- **Entity**：[[entities/Mobileye]] / [[entities/Intel]] / [[entities/intel-NBI]] / [[entities/Marriott-International]] / [[entities/Lego-Group]] / [[entities/Alphabet]] / [[entities/Elon-Musk]] / [[entities/Samsung-Electronics]] / [[entities/Berkshire-Hathaway]] / [[entities/Michael-Goold]] / [[entities/Andrew-Campbell]]
+- **概念**：[[concepts/corporate-vs-business-strategy]] / synergy / diversification strategy / [[concepts/specialized-generalist-vs-generalized-specialist]] / [[concepts/corporate-turnaround-strategy]] / sku proliferation trap
+- **Entity**：[[entities/Mobileye]] / Intel / [[entities/intel-NBI]] / [[entities/Marriott-International]] / [[entities/Lego-Group]] / [[entities/Alphabet]] / [[entities/Elon-Musk]] / [[entities/Samsung-Electronics]] / Berkshire-Hathaway / Michael-Goold / Andrew-Campbell
 - **參考**：[[references/strategy-management-course-2024-nycu]] / [[references/grant-contemporary-strategy-analysis]] Ch12 / Ch13 / Goold-Campbell-Alexander 1994《Corporate-Level Strategy》（待建 reference）
 - **Synthesis**：[[synthesis/corporate-venturing-isolation-paradox]]（Intel NBI failure vs Intel Mobileye success 的 parenting matrix 解釋）

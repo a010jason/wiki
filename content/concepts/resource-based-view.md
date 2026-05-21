@@ -47,7 +47,7 @@ ingest_method: read-subagent
 | 路徑 | 工具 | 起點 |
 |---|---|---|
 | **Inside-out（安內）** | [[concepts/value-chain]] | 拆 firm 內部 activity → 找出每段所需 capability |
-| **Outside-in（攘外）** | [[concepts/Key-Success-Factors-KSF]] | 從客戶選擇與產業競爭反推 → 需要什麼 capability |
+| **Outside-in（攘外）** | Key-Success-Factors-KSF | 從客戶選擇與產業競爭反推 → 需要什麼 capability |
 
 Grant Ch5 強調**兩條都要走**，但未提供兩條衝突時如何取捨的方法。^[ambiguous]
 

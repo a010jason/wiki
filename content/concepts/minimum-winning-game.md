@@ -134,7 +134,7 @@ EBM PACS / AI 的 MWG 推進路線：^[inferred — Jason 個人延伸]
 
 - [[concepts/strategic-innovation]] — Strategic innovation 的 incremental 路徑
 - [[concepts/blue-ocean-strategy]] — 對照框架（reframe vs scope）
-- [[concepts/crossing-the-chasm]] — Beachhead 對照
+- crossing the chasm — Beachhead 對照
 - [[concepts/disruptive-innovation]] — Christensen disruption 模型對照
 - [[concepts/competitive-advantage]] — MWG 是累積 advantage 的路徑
 - [[entities/intel-NBI]] — Intel 的失敗 NBI 案例，與 MWG 對照

@@ -56,7 +56,7 @@ Sample（實際被選中的）
 
 | Step | 任務 |
 |---|---|
-| 1. 定義 target population | unit of analysis 決定（[[concepts/unit-of-analysis]] 待寫） |
+| 1. 定義 target population | unit of analysis 決定（unit of analysis 待寫） |
 | 2. 選 sampling frame | accessible section + 評估 representativeness |
 | 3. 選 sampling technique | probability vs non-probability |
 
@@ -112,9 +112,9 @@ Sample（實際被選中的）
 
 - [[concepts/probability-sampling]]
 - [[concepts/non-probability-sampling]]
-- [[concepts/sampling-bias]]
+- sampling bias
 - [[concepts/external-validity]]
-- [[concepts/unit-of-analysis]] — 待寫
+- unit of analysis — 待寫
 
 ## Sources
 

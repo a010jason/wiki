@@ -19,10 +19,10 @@ sources:
 related:
   - '[[concepts/organizational-ambidexterity]]'
   - '[[concepts/corporate-turnaround-strategy]]'
-  - '[[concepts/value-chain-reconfiguration]]'
-  - '[[concepts/sku-proliferation-trap]]'
-  - '[[concepts/back-to-core-strategy]]'
-  - '[[concepts/brand-framework-lego]]'
+  - 'value chain reconfiguration'
+  - 'sku proliferation trap'
+  - 'back to core strategy'
+  - 'brand framework lego'
 ---
 
 # LEGO Group
@@ -60,7 +60,7 @@ related:
 - **LEGO Education**
 - **LEGO Games**（board games）
 
-### Element 爆炸（[[concepts/sku-proliferation-trap|SKU Proliferation Trap]]）
+### Element 爆炸（SKU Proliferation Trap）
 
 distinct LEGO components（shapes/colors/decorations）：
 - 1980：~1,500 種
@@ -101,12 +101,12 @@ re-inventing value chain
 - 砍 SKU、整合元件
 
 ### Step 3: NPD / Invention
-- 與 [[entities/Disney]] / Star Wars / Harry Potter / Spider-Man / Marvel licensing
+- 與 Disney / Star Wars / Harry Potter / Spider-Man / Marvel licensing
 - 2003 LEGO Basketball 首次用真實人類膚色（破除「黃色中性」原則）
 - LEGO Movie 成功
 
 ### Step 4: Connect 是在用戶不是在產品
-- **[[concepts/connect-strategy|AFOL]] (Adult Fans of LEGO)** 社群協作
+- **AFOL (Adult Fans of LEGO)** 社群協作
 - 70+ LUGs、70,000 註冊會員、150,000 unique blog visitors/月、170+ 公開活動、26M 人參與
 - 2005 LEGO Ambassador Programme
 - 13 名 AFOL 成為 LEGO Certified Professional
@@ -182,7 +182,7 @@ re-inventing value chain
 - **[[entities/Marriott-International|Marriott 多角化]]**（asset-light + 30 brands）— 對照 LEGOLAND theme park 分拆給 Merlin Entertainments 的「賣 non-core」決策
 - **[[entities/Apple]]**（1997 Jobs 回歸後砍產品線 2×2 矩陣）— 同為「back to core」turnaround 範例
 - **vs Mattel / Hasbro / Bandai-Namco / Fisher-Price / Barbie / Nerf**（玩具業競爭）
-- **vs [[entities/Disney]]**（licensing 夥伴）
+- **vs Disney**（licensing 夥伴）
 
 ## Open Questions（待 wiki-challenge）
 
@@ -193,7 +193,7 @@ re-inventing value chain
 
 ## Related
 
-- **概念**：[[concepts/organizational-ambidexterity]] / [[concepts/corporate-turnaround-strategy]] / [[concepts/value-chain-reconfiguration]] / [[concepts/sku-proliferation-trap]] / [[concepts/back-to-core-strategy]] / [[concepts/connect-strategy]] / [[concepts/wheel-of-retailing]] / [[concepts/brand-framework-lego]] / [[concepts/typical-vs-actual-customer]] / [[concepts/transaction-cost-economics]] / [[concepts/strategic-innovation]]
-- **Entity**：[[entities/Jorgen-Vig-Knudstorp]] / [[entities/Christiansen-family]] / [[entities/Flextronics-International]]（外包對象） / [[entities/Disney]] / [[entities/Merlin-Entertainments]] / [[entities/Mattel]] / [[entities/Hasbro]] / [[entities/Samsung-Electronics]] / [[entities/Marriott-International]] / [[entities/Apple]] / [[entities/Steve-Jobs]]
+- **概念**：[[concepts/organizational-ambidexterity]] / [[concepts/corporate-turnaround-strategy]] / value chain reconfiguration / sku proliferation trap / back to core strategy / connect strategy / wheel of retailing / brand framework lego / typical vs actual customer / [[concepts/transaction-cost-economics]] / [[concepts/strategic-innovation]]
+- **Entity**：Jorgen-Vig-Knudstorp / Christiansen-family / [[entities/Flextronics-International]]（外包對象） / Disney / Merlin-Entertainments / Mattel / Hasbro / [[entities/Samsung-Electronics]] / [[entities/Marriott-International]] / [[entities/Apple]] / [[entities/Steve-Jobs]]
 - **參考**：[[references/HBS-9-713-478-Lego-crisis-case]] / [[references/grant-contemporary-strategy-analysis]] Ch8 / Ch12 / Ch13
 - **Synthesis**：[[synthesis/back-to-core-turnaround-pattern]]（Apple 1997 / Lego 2004 / Samsung 1997 三個 back-to-core turnaround 案例對比）

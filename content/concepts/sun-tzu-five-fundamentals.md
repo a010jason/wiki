@@ -114,7 +114,7 @@ related:
 
 1. **歷史耐久性**：2,500 年前的框架仍能套用現代 CEO 戰略 — 反映**領導 / 策略本質的不變性**
 2. **跨文化共鳴**：與西方框架（Yoffie / Porter / RBV）並列討論時，給中文背景的學員**熟悉的 anchor**
-3. **教學節奏**：5 事比 Porter 5 forces 更接近 leader 視角（領導者該想什麼），對應 [[skills/CEO-decision-making|CEO decision making]]
+3. **教學節奏**：5 事比 Porter 5 forces 更接近 leader 視角（領導者該想什麼），對應 CEO decision making
 4. **批判功能**：用古典框架評現代 CEO（Musk 違反「道」「法」），有「歷史警示」的修辭力 ^[inferred]
 
 ## 反例 / 邊界條件
@@ -133,8 +133,8 @@ related:
 
 ## Related
 
-- **概念**：[[concepts/strategy-rules-yoffie-cusumano]] / [[concepts/look-forward-reason-back]] / [[concepts/big-bets-without-betting-company]] / [[concepts/platforms-and-ecosystems-not-products]] / [[concepts/judo-and-sumo-strategy]] / [[concepts/personal-anchor-organization]] / [[concepts/leader-strategist]] / [[concepts/visionary-vs-strategist]]
-- **Entity**：[[entities/Elon-Musk]] / [[entities/Steve-Jobs]] / [[entities/Andy-Grove]] / [[entities/Bill-Gates]] / [[entities/Samsung-Electronics]] / [[entities/Lego-Group]] / [[entities/Lee-Kun-hee]]
-- **參考**：[[references/yoffie-cusumano-strategy-rules-2015]] / [[references/HBS-9-722-439-Musk-doubling-down-case]]
+- **概念**：[[concepts/strategy-rules-yoffie-cusumano]] / look forward reason back / big bets without betting company / platforms and ecosystems not products / judo and sumo strategy / personal anchor organization / leader strategist / visionary vs strategist
+- **Entity**：[[entities/Elon-Musk]] / [[entities/Steve-Jobs]] / Andy-Grove / Bill-Gates / [[entities/Samsung-Electronics]] / [[entities/Lego-Group]] / Lee-Kun-hee
+- **參考**：yoffie cusumano strategy rules 2015 / [[references/HBS-9-722-439-Musk-doubling-down-case]]
 - **Synthesis**：[[synthesis/yoffie-five-rules-vs-sun-tzu-five-fundamentals]] / [[synthesis/wei-zheng-leadership-and-subsidiary-management]]（諫太宗十思疏，另一個古典中文 leadership 對接）
 - **古典文獻**：《孫子兵法·始計篇》/《孫子兵法·勢篇》

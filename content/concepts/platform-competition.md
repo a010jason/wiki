@@ -99,7 +99,7 @@ Value chain 思維會把活動分內外（make-or-buy）。Platform 思維會問
 
 - **醫療 AI 適用嗎？** 醫療有強法規邊界（FDA 510(k) / 衛福部許可），跨界滲透成本遠高於消費網路。但醫療 PACS / HIS / FHIR 軟體層**仍可能 platform 化**（Sectra 在做、GE Healthcare 在做）。需要進一步分析。→ 拉到 [[synthesis/medical-ai-platform-vs-pipeline]]^[ambiguous]
 - **是否所有 vertical 終將被 platform 化？** Or 有些 vertical 因為法規/物理特性永遠抗拒平台化（核電、特殊化學品製造）？此 case 沒回答。^[ambiguous]
-- **2013 → 2026 的 13 年驗證**：四巨頭實際上沒有「全部都贏」—— FB Phone 失敗、Google+ 失敗、Amazon Fire Phone 失敗。所以**跨界滲透有試誤成本**，不是必勝公式。需要補一頁 [[concepts/platform-encroachment-failure-modes]]（待寫）。^[inferred]
+- **2013 → 2026 的 13 年驗證**：四巨頭實際上沒有「全部都贏」—— FB Phone 失敗、Google+ 失敗、Amazon Fire Phone 失敗。所以**跨界滲透有試誤成本**，不是必勝公式。需要補一頁 platform encroachment failure modes（待寫）。^[inferred]
 
 ## Sources
 

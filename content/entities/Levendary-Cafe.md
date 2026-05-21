@@ -23,12 +23,12 @@ sources:
     ref: '[[references/HBS-levendary-cafe-case]]'
     pages: 10
 related:
-  - '[[concepts/standardization-vs-localization]]'
-  - '[[concepts/integration-responsiveness-framework]]'
-  - '[[concepts/transnational-strategy]]'
+  - 'standardization vs localization'
+  - 'integration responsiveness framework'
+  - 'transnational strategy'
   - '[[concepts/subsidiary-leader-lifecycle]]'
-  - '[[concepts/hq-subsidiary-control-tension]]'
-  - '[[concepts/fast-casual-positioning]]'
+  - 'hq subsidiary control tension'
+  - 'fast casual positioning'
   - '[[concepts/CAGE-distance-framework]]'
   - '[[synthesis/wei-zheng-leadership-and-subsidiary-management]]'
 ---
@@ -41,8 +41,8 @@ related:
 
 ## Bibliographic
 
-- HBS case 4357，作者 **Christopher A. Bartlett**（[[concepts/integration-responsiveness-framework]] 原作者）+ Arar Han
-- 教學定位：跨國組織進入新興市場 / [[concepts/transnational-strategy]] 困境 / HQ-subsidiary 治理 / [[concepts/subsidiary-leader-lifecycle]] 演化
+- HBS case 4357，作者 **Christopher A. Bartlett**（integration responsiveness framework 原作者）+ Arar Han
+- 教學定位：跨國組織進入新興市場 / transnational strategy 困境 / HQ-subsidiary 治理 / [[concepts/subsidiary-leader-lifecycle]] 演化
 - 中文翻譯版含交大唐瓔璋教授審訂痕跡（與 Samsung case 同源）
 
 ## 關鍵角色
@@ -57,7 +57,7 @@ related:
 ### Howard Leventhal — 前 CEO / 創辦人
 - 32 年把 Denver 一家 soup-salad-sandwich 小店養成 \$10B 帝國
 - 經營哲學：「忘記今天的利潤，對顧客的生活要有正面的影響，使他們想再回來」
-- 5 年前推「only organic grains + grass-fed beef sandwich」獲成功（提高 [[concepts/willingness-to-pay]]）
+- 5 年前推「only organic grains + grass-fed beef sandwich」獲成功（提高 willingness to pay）
 - 親自挑 Chen、2009/9 簽 2 年合約（每年續約權）；以 **handshake agreement** 信任授權，僅給抽象指令「do right by the concept」 ^[extracted]
 
 ### Louis Chen — VP, China（Shanghai）
@@ -120,7 +120,7 @@ related:
 2. Meeting 2（視訊）：寄 Steele audit 給 Chen + 邀 White 參加 → Chen 安撫但堅持「我們僅需要彈性」
 3. Meeting 3（5/25 上海實地）：Foster 下車前思考 **Chen 是否能演化成 [[concepts/subsidiary-leader-lifecycle|professional manager]]**，或必須換人
 
-教師建議學員自填三選項（slide p.3）：「收回成命 / 懲罰 / 感招」對應 [[skills/leadership-models|situational leadership]]。
+教師建議學員自填三選項（slide p.3）：「收回成命 / 懲罰 / 感招」對應 situational leadership。
 
 ## 對標案例（在地化光譜兩端）
 
@@ -139,8 +139,8 @@ related:
 
 ## Related
 
-- **概念**：[[concepts/standardization-vs-localization]] / [[concepts/integration-responsiveness-framework]] / [[concepts/transnational-strategy]] / [[concepts/subsidiary-leader-lifecycle]] / [[concepts/hq-subsidiary-control-tension]] / [[concepts/CAGE-distance-framework]] / [[concepts/fast-casual-positioning]] / [[concepts/copy-exact]]
-- **方法論**：[[skills/case-method-analysis]] / [[skills/situational-leadership]]
+- **概念**：standardization vs localization / integration responsiveness framework / transnational strategy / [[concepts/subsidiary-leader-lifecycle]] / hq subsidiary control tension / [[concepts/CAGE-distance-framework]] / fast casual positioning / copy exact
+- **方法論**：case method analysis / situational leadership
 - **參考**：[[references/HBS-levendary-cafe-case]] / [[references/grant-contemporary-strategy-analysis]] Ch11 Global Strategy
 - **synthesis**：[[synthesis/wei-zheng-leadership-and-subsidiary-management]]（諫太宗十思疏 ↔ 子公司治理 的跨領域對標）
-- **對標案例**：[[entities/McDonald's-China]] / [[entities/KFC-China]] / [[entities/Pizza-Hut-China]]
+- **對標案例**：McDonald's-China / KFC-China / Pizza-Hut-China

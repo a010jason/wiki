@@ -17,12 +17,12 @@ sources:
   - id: HBS-9-619-015-Booking-case
     ref: '[[references/HBS-booking-com-case]]'
 related:
-  - '[[concepts/experimentation-culture]]'
-  - '[[concepts/evidence-based-management]]'
-  - '[[concepts/growth-flywheel]]'
-  - '[[concepts/hypothesis-driven-product]]'
-  - '[[concepts/causal-inference-vs-correlation]]'
-  - '[[concepts/fitness-landscape]]'
+  - 'experimentation culture'
+  - 'evidence based management'
+  - 'growth flywheel'
+  - 'hypothesis driven product'
+  - 'causal inference vs correlation'
+  - 'fitness landscape'
   - '[[entities/Booking-com]]'
 ---
 
@@ -83,14 +83,14 @@ slide p.5：「**Survey → 果果造因 / Database → GIGO / Experiment → Ca
 | Database analytics | GIGO（garbage in garbage out） | 補充參考 |
 | **A/B experiment** | **Cause-effect**（真正因果驗證） | 主力 |
 
-詳見 [[concepts/causal-inference-vs-correlation]]。
+詳見 causal inference vs correlation。
 
 ## 與 EBM / Hypothesis-Driven Product / Growth Flywheel 的關係
 
-- **[[concepts/evidence-based-management]]**：EBM 三階段（select best available evidence → systematic decision-making → re-evaluating &amp; adapting）對應 A/B 流程的 hypothesis → experiment → re-test
-- **[[concepts/hypothesis-driven-product]]**：Booking 自有 Hypothesis Template（Exhibit 9）= Theory（prior + condition + behavior）+ Validation（effects + metrics）+ Objective（motivation for customer/partner/business）
-- **[[concepts/growth-flywheel]]**：A/B → conversion → marketing ROI → traffic → partners → selection → prices → CX → A/B（飛輪閉環）
-- **[[concepts/fitness-landscape]]**：A/B 在 NK fitness landscape 中找 local optima 的有效方法，但**容易卡在 local 而非 global**（教師眉批 NK 模型 / Stuart Kauffman / 可調的崎嶇）— 這是「漸進式測試 vs 跨越式創新」張力的數學基礎
+- **evidence based management**：EBM 三階段（select best available evidence → systematic decision-making → re-evaluating &amp; adapting）對應 A/B 流程的 hypothesis → experiment → re-test
+- **hypothesis driven product**：Booking 自有 Hypothesis Template（Exhibit 9）= Theory（prior + condition + behavior）+ Validation（effects + metrics）+ Objective（motivation for customer/partner/business）
+- **growth flywheel**：A/B → conversion → marketing ROI → traffic → partners → selection → prices → CX → A/B（飛輪閉環）
+- **fitness landscape**：A/B 在 NK fitness landscape 中找 local optima 的有效方法，但**容易卡在 local 而非 global**（教師眉批 NK 模型 / Stuart Kauffman / 可調的崎嶇）— 這是「漸進式測試 vs 跨越式創新」張力的數學基礎
 
 ## 為什麼不是所有公司都能複製？
 
@@ -115,14 +115,14 @@ Booking-style A/B-as-strategy 需要的**前提條件**：
 
 ## Related
 
-- [[concepts/experimentation-culture]]
-- [[concepts/evidence-based-management]]
-- [[concepts/hypothesis-driven-product]]
-- [[concepts/causal-inference-vs-correlation]]
-- [[concepts/growth-flywheel]]
-- [[concepts/fitness-landscape]]
-- [[concepts/champion-vs-challenger]]
+- experimentation culture
+- evidence based management
+- hypothesis driven product
+- causal inference vs correlation
+- growth flywheel
+- fitness landscape
+- champion vs challenger
 - [[concepts/minimum-winning-game]]
-- [[entities/Booking-com]] / [[entities/Lukas-Vermeer]] / [[entities/Stuart-Frisby]] / [[entities/David-Vismans]]
+- [[entities/Booking-com]] / Lukas-Vermeer / Stuart-Frisby / David-Vismans
 - [[references/HBS-booking-com-case]]
-- [[synthesis/ab-testing-strategic-limits]]
+- ab testing strategic limits

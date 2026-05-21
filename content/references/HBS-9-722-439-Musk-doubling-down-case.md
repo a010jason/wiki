@@ -48,17 +48,17 @@ summary: >-
 
 詳見 [[entities/Elon-Musk]] 主頁。新建頁面：
 
-- [[entities/Elon-Musk]] / [[entities/Tesla]] / [[entities/SpaceX]]
+- [[entities/Elon-Musk]] / Tesla / SpaceX
 - [[concepts/strategy-rules-yoffie-cusumano]]（Yoffie 5 rules）
 - [[concepts/sun-tzu-five-fundamentals]]（道天地將法）
-- [[concepts/look-forward-reason-back]]（rule 1）
-- [[concepts/big-bets-without-betting-company]]（rule 2）
-- [[concepts/platforms-and-ecosystems-not-products]]（rule 3）
-- [[concepts/judo-and-sumo-strategy]]（rule 4）
-- [[concepts/personal-anchor-organization]]（rule 5）
-- [[concepts/get-three-electrics-win-world]]（電池/電機/電控勝負手）
+- look forward reason back（rule 1）
+- big bets without betting company（rule 2）
+- platforms and ecosystems not products（rule 3）
+- judo and sumo strategy（rule 4）
+- personal anchor organization（rule 5）
+- get three electrics win world（電池/電機/電控勝負手）
 - [[synthesis/yoffie-five-rules-vs-sun-tzu-five-fundamentals]]（跨文化框架對接）
-- [[synthesis/musk-portfolio-synergy-critique]]（Musk Empire 沒有 synergy）
+- musk portfolio synergy critique（Musk Empire 沒有 synergy）
 
 ## 教師眉批採集（核心）
 
@@ -98,6 +98,6 @@ summary: >-
 
 ## Related
 
-- [[entities/Elon-Musk]] / [[entities/Tesla]] / [[entities/SpaceX]]
-- [[entities/Steve-Jobs]]（Yoffie 同書三人之一） / [[entities/Bill-Gates]] / [[entities/Andy-Grove]]
-- [[references/yoffie-cusumano-strategy-rules-2015]] / [[references/grant-contemporary-strategy-analysis]] Ch5 / Ch9 / Ch10 / Ch12
+- [[entities/Elon-Musk]] / Tesla / SpaceX
+- [[entities/Steve-Jobs]]（Yoffie 同書三人之一） / Bill-Gates / Andy-Grove
+- yoffie cusumano strategy rules 2015 / [[references/grant-contemporary-strategy-analysis]] Ch5 / Ch9 / Ch10 / Ch12

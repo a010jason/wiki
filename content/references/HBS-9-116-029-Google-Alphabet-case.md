@@ -54,21 +54,21 @@ summary: >-
 詳見 [[entities/Alphabet]] 主頁。新建頁面：
 
 - [[entities/Alphabet]]（distinct from [[entities/Google]]）
-- [[concepts/google-ten-things-we-know-to-be-true]]
-- [[concepts/stress-test-your-strategy-7-questions]]（Simons 框架）
+- google ten things we know to be true
+- stress test your strategy 7 questions（Simons 框架）
 - [[concepts/specialized-generalist-vs-generalized-specialist]]（教師核心 framing）
-- [[concepts/outside-in-strategy-cascade]]
-- [[concepts/primary-customer-identification]]
-- [[concepts/users-vs-customers-distinction]]
-- [[concepts/agency-problem]]（教師反覆引用）
-- [[concepts/franchise-risk]]（Simons 概念）
-- [[concepts/creative-tension-spurring-innovation]]
-- [[concepts/okr-superpowers-doerr]]（Focus / Align / Track / Stretch）
-- [[concepts/dont-be-evil-removed-2018]]
-- [[concepts/googleyness-hiring-criteria]]
-- [[concepts/project-oxygen-google-management]]
-- [[concepts/alphabet-restructuring-2015]]
-- [[concepts/other-bets-portfolio]]
+- outside in strategy cascade
+- primary customer identification
+- users vs customers distinction
+- agency problem（教師反覆引用）
+- franchise risk（Simons 概念）
+- creative tension spurring innovation
+- okr superpowers doerr（Focus / Align / Track / Stretch）
+- dont be evil removed 2018
+- googleyness hiring criteria
+- project oxygen google management
+- alphabet restructuring 2015
+- other bets portfolio
 
 ## 教師眉批採集（核心）
 
@@ -112,7 +112,7 @@ summary: >-
 
 ## Related
 
-- [[entities/Alphabet]] / [[entities/Google]] / [[entities/Larry-Page]] / [[entities/Sergey-Brin]] / [[entities/Sundar-Pichai]] / [[entities/John-Doerr]] / [[entities/Robert-Simons]]
+- [[entities/Alphabet]] / [[entities/Google]] / Larry-Page / Sergey-Brin / Sundar-Pichai / John-Doerr / Robert-Simons
 - [[entities/Apple]] / [[entities/Steve-Jobs]] / [[entities/Elon-Musk]] / [[entities/Booking-com]]（教師對標）
 - [[entities/Microsoft-AdCenter]]（Google 廣告對手）
 - [[references/measure-what-matters-doerr-2018]] / [[references/grant-contemporary-strategy-analysis]] Ch12 / Ch13

@@ -89,5 +89,5 @@ lifecycle_changed: 2026-05-21
 - [[concepts/brand-hierarchy]] — Cobranding 是跨公司的 portfolio 連結
 - [[concepts/brand-equity]] — Cobranding 改變雙方 equity 流向
 - [[concepts/platform-competition]] — Cobranding 在平台場景變形
-- [[entities/Intel]] — Intel Inside 經典案例（如有 entity 頁）
+- Intel — Intel Inside 經典案例（如有 entity 頁）
 - [[references/kotler-keller-chernev-marketing-management-16e]]

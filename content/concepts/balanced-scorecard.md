@@ -47,7 +47,7 @@ Grant Ch2 給 Regional Airline 範例：Financial（Market Value +25%/yr、Seat 
 
 [[entities/wen-jin-feng]] 上課強調的 Pfeffer [[concepts/rule-of-one-eighth]]：知道 ≠ 做到。BSC 把「組織該關心的事」結構化、視覺化，迫使高層在資源配置時不能只盯財務數字。^[inferred]
 
-Grant Ch2 的 Boeing 教訓（[[synthesis/pursuing-profit-vs-pursuing-profit-drivers]]）正是反例：1996-2004 過度追逐 shareholder value → 砍 R&D → 失去 Airbus 之爭 → 737-MAX 災難。BSC 的「Internal」「Learning」維度就是避免這種「短期財務勝利、長期競爭力流失」的緩衝。^[inferred]
+Grant Ch2 的 Boeing 教訓（pursuing profit vs pursuing profit drivers）正是反例：1996-2004 過度追逐 shareholder value → 砍 R&D → 失去 Airbus 之爭 → 737-MAX 災難。BSC 的「Internal」「Learning」維度就是避免這種「短期財務勝利、長期競爭力流失」的緩衝。^[inferred]
 
 ## Open Questions / 待 wiki-challenge
 

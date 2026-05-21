@@ -170,7 +170,7 @@ lifecycle_changed: 2026-05-21
 - **vs [[concepts/goal-setting-theory]]** (Locke)：目標品質（specific + difficult）直接影響成果評估法的有效性
 - **vs [[concepts/decision-making-biases]]** (Colquitt Ch11)：四大偏誤是 Colquitt decision biases 在績效情境的具體應用
 - **vs [[concepts/training-effectiveness-kirkpatrick-alliger]]**：訓練成效 L3 Behavior = 績效評估的 input
-- **vs [[concepts/360-degree-feedback]]**：本概念內含 360 度子段，等更深時可獨立成頁
+- **vs 360-degree-feedback**：本概念內含 360 度子段，等更深時可獨立成頁
 
 ## Open Questions
 

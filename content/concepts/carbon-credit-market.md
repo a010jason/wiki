@@ -35,7 +35,7 @@ lifecycle_changed: 2026-05-21
 | 平台 | 地點 | 上市時間 | 特色 |
 |---|---|---|---|
 | **Climate Impact X (CIX)** | 新加坡 | 2021 | 亞洲首個碳交易平台 |
-| **[[entities/Taiwan-Carbon-Exchange]]** | 台灣 | 2023-08-17 | 配套碳費 + CBAM |
+| **Taiwan-Carbon-Exchange** | 台灣 | 2023-08-17 | 配套碳費 + CBAM |
 | **CME / ICE** | 美國 | - | 期貨為主 |
 
 ## 碳權 ETF

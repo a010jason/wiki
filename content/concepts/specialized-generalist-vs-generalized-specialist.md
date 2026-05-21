@@ -19,7 +19,7 @@ sources:
 related:
   - '[[entities/Google]]'
   - '[[entities/Alphabet]]'
-  - '[[concepts/diversification-strategy]]'
+  - 'diversification strategy'
   - '[[concepts/organizational-ambidexterity]]'
   - '[[concepts/corporate-vs-business-strategy]]'
 ---
@@ -100,23 +100,23 @@ Alphabet Holdings
 - **[[entities/Google]] 2015 前**：search → Ads / Maps / Drive / YouTube
 - **[[entities/Apple]]**：industrial design → iPod / iPhone / iPad / Mac / Watch（共享 design language + iOS / macOS）
 - **[[entities/Samsung-Electronics]]**：垂直整合 → TV / 手機 / 半導體 / LCD（共享 supply chain + brand）
-- **[[entities/Marriott-International]]**：hospitality operation → 30 brands across Luxury/Premium/Select/Residences（共享 [[entities/Marriott-Bonvoy|Bonvoy]] loyalty）
+- **[[entities/Marriott-International]]**：hospitality operation → 30 brands across Luxury/Premium/Select/Residences（共享 Bonvoy loyalty）
 
 ### Generalized Specialist 案例
 - **[[entities/Alphabet]] 2015 後**：Google + 10+ Other Bets
-- **[[entities/Berkshire-Hathaway|Berkshire]]**：See's Candies + GEICO + BNSF + Apple stock，各自為政
-- **[[entities/Samsung]] chaebol**：Samsung Electronics + Samsung Heavy Industries + Samsung Life + Samsung Engineering... 各為獨立公司
-- **[[entities/LVMH]]**：Louis Vuitton + Dior + Tiffany + Bulgari，各品牌獨立 portfolio
+- **Berkshire**：See's Candies + GEICO + BNSF + Apple stock，各自為政
+- **Samsung chaebol**：Samsung Electronics + Samsung Heavy Industries + Samsung Life + Samsung Engineering... 各為獨立公司
+- **LVMH**：Louis Vuitton + Dior + Tiffany + Bulgari，各品牌獨立 portfolio
 
 ### 混合 / 過渡
 - **[[entities/Amazon]]**：Retail + AWS + Prime Video + Devices — 部分 specialized generalist (data-driven everything) 部分 generalized specialist (AWS 完全獨立 P&amp;L)
-- **[[entities/Microsoft]]**：Windows / Office / Azure / Xbox / GitHub / LinkedIn — Nadella 後期偏 specialized generalist (cloud-first)
+- **Microsoft**：Windows / Office / Azure / Xbox / GitHub / LinkedIn — Nadella 後期偏 specialized generalist (cloud-first)
 
 ## 為什麼這個框架重要
 
 1. **結構演化的內在邏輯**：companies 隨成長從 specialized generalist 自然走向 generalized specialist；不是策略選擇，是規模壓力
 2. **解釋 Alphabet 為何「不是 Matrix」**：教師指出真實結構是 Google + non-Google 二元，不是矩陣 — 這 frames Alphabet **無 cross-BU synergy** 的根本病灶
-3. **應對 [[concepts/agency-problem|agency problem]]**：Generalized specialist 每個子公司有獨立 CEO → agency cost 高；specialized generalist central CEO 控制力強但 bandwidth 不足
+3. **應對 agency problem**：Generalized specialist 每個子公司有獨立 CEO → agency cost 高；specialized generalist central CEO 控制力強但 bandwidth 不足
 4. **連結 [[concepts/organizational-ambidexterity|ambidexterity]]**：specialized generalist 偏 exploit 統一；generalized specialist 偏 explore 多元 — 兩種 ambidexterity 不同實現方式
 
 ## 反例 / 邊界條件
@@ -124,7 +124,7 @@ Alphabet Holdings
 - **不是 binary 二分**：實務上多為連續譜，公司在不同 BU 採不同模式
 - **時間維度**：同公司可在不同階段切換（Google 2011 → Alphabet 2015）
 - **產業差異**：tech 偏 specialized generalist（algorithm leverage 容易）；consumer goods 偏 generalized specialist（品牌獨立）
-- **「多專多能」可能名實不符**：Alphabet 雖宣稱 generalized specialist，但 95% revenue 仍來自 Google — 像 [[entities/Berkshire-Hathaway|Berkshire]] 那種真 generalized specialist 還有距離
+- **「多專多能」可能名實不符**：Alphabet 雖宣稱 generalized specialist，但 95% revenue 仍來自 Google — 像 Berkshire 那種真 generalized specialist 還有距離
 - **Pejorative usage 風險**：用「鑽進死胡同」批評 specialized generalist（教師對 Google 10 things #2「do one thing really well」的眉批）— 但這是過度 specialization 而非 specialized generalist 本身的問題 ^[inferred]
 
 ## Open Questions（待 wiki-challenge）
@@ -136,7 +136,7 @@ Alphabet Holdings
 
 ## Related
 
-- **概念**：[[concepts/diversification-strategy]] / [[concepts/organizational-ambidexterity]] / [[concepts/corporate-vs-business-strategy]] / [[concepts/agency-problem]] / [[concepts/multi-brand-hotel-portfolio]] / [[concepts/desktop-vs-platform-mindset]]
-- **Entity**：[[entities/Google]] / [[entities/Alphabet]] / [[entities/Apple]] / [[entities/Samsung-Electronics]] / [[entities/Marriott-International]] / [[entities/Berkshire-Hathaway]] / [[entities/LVMH]] / [[entities/Amazon]] / [[entities/Microsoft]]
+- **概念**：diversification strategy / [[concepts/organizational-ambidexterity]] / [[concepts/corporate-vs-business-strategy]] / agency problem / multi brand hotel portfolio / [[concepts/desktop-vs-platform-mindset]]
+- **Entity**：[[entities/Google]] / [[entities/Alphabet]] / [[entities/Apple]] / [[entities/Samsung-Electronics]] / [[entities/Marriott-International]] / Berkshire-Hathaway / LVMH / [[entities/Amazon]] / Microsoft
 - **參考**：[[references/HBS-9-116-029-Google-Alphabet-case]] / [[references/grant-contemporary-strategy-analysis]] Ch12 / Ch13
 - **Synthesis**：[[synthesis/specialized-generalist-vs-generalized-specialist]]

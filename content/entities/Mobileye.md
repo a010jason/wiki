@@ -17,12 +17,12 @@ sources:
   - id: mobileye-image-deck
     ref: '[[references/mobileye-image-deck]]'
 related:
-  - '[[entities/Intel]]'
+  - 'Intel'
   - '[[entities/intel-NBI]]'
   - '[[synthesis/corporate-venturing-isolation-paradox]]'
-  - '[[concepts/SAE-automation-levels]]'
-  - '[[concepts/robotaxi-corridor-hypothesis]]'
-  - '[[concepts/MaaS-RaaS-VaaS-stack]]'
+  - 'SAE-automation-levels'
+  - 'robotaxi corridor hypothesis'
+  - 'MaaS-RaaS-VaaS-stack'
   - '[[concepts/parenting-matrix-goold-campbell]]'
 ---
 
@@ -104,19 +104,19 @@ Today L2+ / L2++          → 加值 ADAS + REM + Vision Zero RSS
 
 ## 關鍵 MaaS 戰略元素
 
-### 1. [[concepts/robotaxi-corridor-hypothesis|Robotaxi Corridor Hypothesis]]
+### 1. Robotaxi Corridor Hypothesis
 Mobileye 主張 **Robotaxi 是 consumer-AV 的必經 corridor**：
 - SDS cost 太高 → 先 fleet 化攤平
 - Regulation 在 geo-fenced fleet 易管理
 - Geographic scale 透過 mapping 達成
 
-### 2. [[concepts/MaaS-RaaS-VaaS-stack]]
+### 2. MaaS-RaaS-VaaS-stack
 - **MaaS**（Mobility-as-a-Service）— end-to-end multi-modal
 - **RaaS**（Ride-as-a-Service）— Robotaxi 為主
 - **VaaS**（Vehicle-as-a-Service）— 提供完整車輛
 - **SDS**（Self-Driving System）— 賣 stack 給 operators
 
-### 3. [[concepts/REM-road-experience-management]]
+### 3. REM-road-experience-management
 ADAS 車隊 crowdsource → HD map → 反向 fuel AV + 智慧城市 — 典型 **data flywheel**。
 
 ## 競爭格局（image deck Exhibit 7）
@@ -155,7 +155,7 @@ Mobileye-Tesla 早期合作（EyeQ3 用於 Autopilot），2016/7 Tesla Autopilot
 
 ## Related
 
-- **概念**：[[concepts/SAE-automation-levels]] / [[concepts/robotaxi-corridor-hypothesis]] / [[concepts/MaaS-RaaS-VaaS-stack]] / [[concepts/REM-road-experience-management]] / [[concepts/parenting-matrix-goold-campbell]] / [[concepts/disruptive-innovation]] / [[concepts/RPV-framework]] / [[concepts/organizational-ambidexterity]] / [[concepts/strategic-innovation]] / [[concepts/penguin-problem-game-theory]]
-- **Entity**：[[entities/Intel]] / [[entities/intel-NBI]] / [[entities/Tesla]] / [[entities/Waymo]] / [[entities/Cruise]] / [[entities/Amnon-Shashua]] / [[entities/Pat-Gelsinger]] / [[entities/Moovit]]
+- **概念**：SAE-automation-levels / robotaxi corridor hypothesis / MaaS-RaaS-VaaS-stack / REM-road-experience-management / [[concepts/parenting-matrix-goold-campbell]] / [[concepts/disruptive-innovation]] / [[concepts/RPV-framework]] / [[concepts/organizational-ambidexterity]] / [[concepts/strategic-innovation]] / [[concepts/penguin-problem-game-theory]]
+- **Entity**：Intel / [[entities/intel-NBI]] / Tesla / Waymo / Cruise / Amnon-Shashua / Pat-Gelsinger / Moovit
 - **參考**：[[references/mobileye-image-deck]] / [[references/strategy-management-course-2024-nycu]]（2024/06/04 課堂） / [[references/christensen-overdorf-2000-HBR-disruptive-change]] / [[references/shih-thurston-intel-nbi-2010-HBS]]（NBI 對照）
 - **Synthesis**：[[synthesis/corporate-venturing-isolation-paradox]]（Mobileye = NBI failure 反面成功案例）

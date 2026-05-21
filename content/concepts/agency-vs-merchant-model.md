@@ -17,11 +17,11 @@ sources:
   - id: HBS-9-619-015-Booking-case
     ref: '[[references/HBS-booking-com-case]]'
 related:
-  - '[[concepts/ota-business-models]]'
-  - '[[concepts/two-sided-market]]'
+  - 'ota business models'
+  - 'two sided market'
   - '[[concepts/asset-light-strategy]]'
   - '[[entities/Booking-com]]'
-  - '[[entities/Expedia]]'
+  - 'Expedia'
   - '[[entities/Shopee]]'
   - '[[synthesis/agency-vs-merchant-platform-models]]'
 ---
@@ -42,9 +42,9 @@ related:
 | **平台風險** | 低 — 不擔庫存 | 高 — 擔庫存 + 取消 |
 | **客戶體驗** | 與酒店直接互動感較強 | 平台是 sole face |
 | **資料 ownership** | 賣方持有客戶 contact | 平台持有客戶 contact |
-| **典型玩家** | [[entities/Booking-com|Booking.com]]、[[entities/Agoda]] | [[entities/Expedia]]、Priceline.com、[[entities/Hotels-com]] |
+| **典型玩家** | [[entities/Booking-com|Booking.com]]、Agoda | Expedia、Priceline.com、Hotels-com |
 
-## 三種 OTA 商模（補完 — [[concepts/ota-business-models]] 詳）
+## 三種 OTA 商模（補完 — ota business models 詳）
 
 教師眉批（[[references/HBS-booking-com-case|Booking lecture]] slide p.2）：
 
@@ -56,13 +56,13 @@ related:
 
 ## Tans 為何選 Agency
 
-[[entities/Gillian-Tans|Tans]] CEO 立場：「我們的競爭對手更像旅行社，**agency 更合理**」 ^[extracted]
+Tans CEO 立場：「我們的競爭對手更像旅行社，**agency 更合理**」 ^[extracted]
 
 理由：
 1. **下行風險**：景氣衰退時 merchant 模式扛庫存風險（已批發 → 賣不掉就吃）
 2. **資料 lock-in 較弱**：客戶與酒店直接接觸 → Booking 必須靠 brand + UX 維持 stickiness（A/B testing 飛輪變得關鍵）
 3. **規模可快速擴張**：不用對每家酒店做 inventory 評估 + 鎖價
-4. **與酒店是 partner 而非對手**：[[entities/Marriott-International|Marriott]] 等大連鎖較願意上 Booking 而非 Expedia（[[concepts/ota-disintermediation|OTA disintermediation]] 戰爭中 Booking 是相對 friendly 端）
+4. **與酒店是 partner 而非對手**：[[entities/Marriott-International|Marriott]] 等大連鎖較願意上 Booking 而非 Expedia（OTA disintermediation 戰爭中 Booking 是相對 friendly 端）
 
 ## E-commerce 場景延伸（Shopee vs 阿里巴巴）
 
@@ -118,7 +118,7 @@ Marriott 的 Brand.com 是 **agency model 對 OTA 的反擊**：
 
 ## Related
 
-- [[concepts/ota-business-models]] / [[concepts/two-sided-market]] / [[concepts/asset-light-strategy]] / [[concepts/network-externalities]] / [[concepts/ota-disintermediation]] / [[concepts/dominant-design]]
-- [[entities/Booking-com]] / [[entities/Expedia]] / [[entities/Marriott-International]] / [[entities/Shopee]] / [[entities/Amazon]] / [[entities/TripAdvisor]] / [[entities/Trivago]]
+- ota business models / two sided market / [[concepts/asset-light-strategy]] / [[concepts/network-externalities]] / ota disintermediation / [[concepts/dominant-design]]
+- [[entities/Booking-com]] / Expedia / [[entities/Marriott-International]] / [[entities/Shopee]] / [[entities/Amazon]] / TripAdvisor / Trivago
 - [[references/HBS-booking-com-case]] / [[references/HBS-marriott-90yr-case]] / [[references/kotler-keller-chernev-marketing-management-16e]]
 - [[synthesis/agency-vs-merchant-platform-models]]

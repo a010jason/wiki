@@ -22,7 +22,7 @@ ingest_method: read-subagent
 
 產業在 Introduction → Growth → Maturity → Decline 四階段演化的框架，由兩股力共同驅動：**需求成長**與**知識的創造與擴散**。^[extracted]
 
-S-Curve 是視覺錨點：產品銷售畫 S 形（飽和點下落不一定發生），廠商數則畫倒 U 形（[[concepts/industry-shakeout]]）。
+S-Curve 是視覺錨點：產品銷售畫 S 形（飽和點下落不一定發生），廠商數則畫倒 U 形（industry shakeout）。
 
 ## 四階段結構演化（縮減版）
 

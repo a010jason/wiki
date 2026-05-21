@@ -82,7 +82,7 @@ Bhattacherjee 自己承認此準則嚴格化會排除部分有價值科學：
 
 - **產品 hypothesis 設計**：好的 product hypothesis 必須可被 falsified（「這個 feature 會讓 retention 升 X%」可驗證；「我們的 AI 改善診斷品質」太籠統難 falsify）
 - **PR-FAQ 寫作**：寫 PR-FAQ 時為產品畫出 falsifiable success metrics，是把 PM 直覺變成 testable claim 的訓練
-- **醫療 AI 申報 FDA**：FDA 510(k) 採 substantial equivalence（與既有產品等效），不是嚴格 falsification — 這是 Popper 學派會批評的「too soft」（見 [[synthesis/falsifiability-tension-in-social-science]] 待寫）
+- **醫療 AI 申報 FDA**：FDA 510(k) 採 substantial equivalence（與既有產品等效），不是嚴格 falsification — 這是 Popper 學派會批評的「too soft」（見 falsifiability tension in social science 待寫）
 
 ## Related
 

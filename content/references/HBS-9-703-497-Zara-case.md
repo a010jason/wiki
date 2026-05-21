@@ -36,7 +36,7 @@ summary: >-
 
 > Ghemawat, P., &amp; Nueno, J. L. (2003, Rev. December 21, 2006). *ZARA: Fast Fashion*. Harvard Business School Case 9-703-497.
 
-作者 [[entities/Pankaj-Ghemawat|Ghemawat]] 是 [[concepts/CAGE-distance-framework|CAGE framework]] 提出者本人 — Zara 國際擴張 39 國案例與 CAGE 同源。
+作者 Ghemawat 是 [[concepts/CAGE-distance-framework|CAGE framework]] 提出者本人 — Zara 國際擴張 39 國案例與 CAGE 同源。
 
 ## Ingest 範圍與方法
 
@@ -48,13 +48,13 @@ summary: >-
 
 詳見 [[entities/Zara]] 主頁。新建頁面：
 
-- [[entities/Zara]] / [[entities/Inditex]] / [[entities/Amancio-Ortega]]
-- [[concepts/fast-fashion]]
-- [[concepts/quick-response-capability]]
-- [[concepts/buyer-driven-vs-producer-driven-chains]]（Gereffi GVC 框架）
+- [[entities/Zara]] / Inditex / Amancio-Ortega
+- fast fashion
+- quick response capability
+- buyer driven vs producer driven chains（Gereffi GVC 框架）
 - [[concepts/象-數-理-epistemology]]（**教師原創跨領域 epistemology 框架**）
-- [[concepts/freshness-and-scarcity-merchandising]]
-- [[concepts/in-house-vs-outsourcing-tradeoff]]
+- freshness and scarcity merchandising
+- in house vs outsourcing tradeoff
 - [[synthesis/financial-ratio-epistemology-yi-jing]]（象數理 ↔ Popper World 3 跨領域對接）
 
 ## 教師眉批採集（核心）
@@ -102,6 +102,6 @@ summary: >-
 
 ## Related
 
-- [[entities/Zara]] / [[entities/Inditex]] / [[entities/Amancio-Ortega]] / [[entities/Pankaj-Ghemawat]] / [[entities/Toyota]] / [[entities/Dell]] / [[entities/SHEIN]] / [[entities/H&amp;M]] / [[entities/Gap]] / [[entities/Benetton]] / [[entities/Uniqlo]]
+- [[entities/Zara]] / Inditex / Amancio-Ortega / Pankaj-Ghemawat / Toyota / Dell / SHEIN / H&amp;M / Gap / Benetton / Uniqlo
 - [[entities/Samsung-Electronics]]（sashimi theory 同源）
 - [[references/grant-contemporary-strategy-analysis]] Ch5 / Ch10 / Ch11

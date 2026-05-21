@@ -99,7 +99,7 @@ PM 寫 PRD 時也應對 4 block：
 - [[concepts/theory-vs-not-theory]]
 - [[concepts/concept-vs-construct-vs-variable]]
 - [[concepts/proposition-vs-hypothesis]]
-- [[concepts/boundary-conditions-in-theory]] — 待寫
+- boundary conditions in theory — 待寫
 
 ## Sources
 

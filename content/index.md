@@ -106,43 +106,48 @@ title: Jason 的知識庫
 - [[concepts/CAGE-distance-framework]] — Ghemawat 跨國距離四維 + AAA Triangle（Grant Ch11）
 - [[concepts/organizational-ambidexterity]] — Exploit vs Explore 雙元能力；Structural（O'Reilly-Tushman）vs Contextual（Gibson-Birkinshaw）兩型；Hyundai sequencing 案例（Grant Ch08）
 
-#### Wave A 案例 — 6 個 HBS strategy cases（2026-05-21）
+#### 競爭優勢、商模、平台動態
 
-- [[concepts/subsidiary-leader-lifecycle]] — Bartlett 三階段（Go-Getter / Local Baron / Professional Manager）+ 教師中文比喻（自走砲/野蠻成長/藩鎮割據/功高震主/太平盛世）（Levendary case）
+- [[concepts/asset-light-strategy]] — 1977 Marriott 年報首倡「emphasis on management rather than ownership」；franchise + management contract 結構；輕資產=空手道
 - [[concepts/dedicated-vs-flexible-capacity]] — 教師原創框架：平穩需求 dedicated 贏 / 變動需求 flexible 補位；對應太平盛世 vs 大飢荒（Marriott case）
 - [[concepts/compression-night-economics]] — 飯店 95%+ booked 之夜 4.9% 房晚 × 8% 收入；Marriott dedicated capacity 瓶頸（Marriott case）
-- [[concepts/asset-light-strategy]] — 1977 Marriott 年報首倡「emphasis on management rather than ownership」；franchise + management contract 結構；輕資產=空手道
-- [[concepts/ab-testing-as-strategy]] — Booking.com Vermeer「strategy 不能 A/B test，但搞清楚 strategy 後一切都可測」；270 teams 自組織（Booking case）
-- [[concepts/agency-vs-merchant-model]] — Platform 商模兩種結構；Booking agency / Expedia merchant / Amazon hybrid 對照
-- [[concepts/sashimi-theory]] — Yun Jong Yong：科技產品像生魚片第一天最值錢，速度決定誰勝出；Samsung 5 月 vs 業界 14 月 concept-to-market
 - [[concepts/smile-curve]] — 施振榮 1992 微笑曲線；R&amp;D + Brand 兩端高、Manufacturing 谷底（Flextronics ODM 嘗試案例）
+- [[concepts/sashimi-theory]] — Yun Jong Yong：科技產品像生魚片第一天最值錢，速度決定誰勝出；Samsung 5 月 vs 業界 14 月 concept-to-market
+- [[concepts/agency-vs-merchant-model]] — Platform 商模兩種結構；Booking agency / Expedia merchant / Amazon hybrid 對照
 - [[concepts/desktop-vs-platform-mindset]] — 教師原創 incumbent 世代病診斷：MS AdCenter 7 條 break-into 全敗；Product 思維買不出 Platform
+- [[concepts/winner-take-all-determinants]] — 教師整理 4 要素：network effects / multi-homing / differentiation / barrier to entry（HTC-VR case）
+- [[concepts/penguin-effect]] — 教師原創：公司不是主動戰略 pivot，是被網絡外部性逼著跳新產業（HTC case）
+- [[concepts/penguin-problem-game-theory]] — 賽局論 first-mover hesitation（與 HTC penguin-effect 不同）；Mobileye OEM 觀望困境
+- [[concepts/substitute-complement-substitute-cycle]] — 教師原創三段論：替代 → 互補 → 替代效果；fintech / platform 演化模式（Ant Financial case）
+- [[concepts/institutional-voids]] — 新興市場制度結構缺口提供 fintech 切入口（Khanna-Palepu）（Ant Financial case）
 
-#### Wave B 案例 — 8 個 lecture-only 策略案例（2026-05-21）
+#### 組織轉型、多元化、跨國治理
+
+- [[concepts/corporate-turnaround-strategy]] — re-position → re-configuration → mobility barrier → value chain reinvention 四步 + Managing for Cash/Value/Growth 三階段（Lego case）
+- [[concepts/subsidiary-leader-lifecycle]] — Bartlett 三階段（Go-Getter / Local Baron / Professional Manager）+ 教師中文比喻（自走砲/野蠻成長/藩鎮割據/功高震主/太平盛世）（Levendary case）
+- [[concepts/specialized-generalist-vs-generalized-specialist]] — 教師原創 framing：Google ↓ Alphabet 重組從一專多能變多專多能（Alphabet case）
+- [[concepts/icarus-paradox]] — Miller 1990，過去成功的同一套要素反而成為未來失敗的根源；teacher 明用詞（HTC case）
+- [[concepts/parenting-matrix-goold-campbell]] — Goold-Campbell 2×2 母合矩陣（HEARTLAND/BALLAST/VALUE-TRAP/ALIEN-TERRITORY）；Mobileye-Intel 應用
+
+#### 跨文化策略思想
 
 - [[concepts/strategy-rules-yoffie-cusumano]] — Yoffie/Cusumano 5 法則（Look-Forward/Big-Bets/Platforms/Judo-Sumo/Personal-Anchor）（Musk case 主框架）
 - [[concepts/sun-tzu-five-fundamentals]] — 孫子兵法五事「道天地將法」+ 教師原創跨文化對接（Musk case）
-- [[concepts/specialized-generalist-vs-generalized-specialist]] — 教師原創 framing：Google ↓ Alphabet 重組從一專多能變多專多能（Alphabet case）
-- [[concepts/substitute-complement-substitute-cycle]] — 教師原創三段論：替代 → 互補 → 替代效果；fintech / platform 演化模式（Ant Financial case）
-- [[concepts/institutional-voids]] — 新興市場制度結構缺口提供 fintech 切入口（Khanna-Palepu）（Ant Financial case）
-- [[concepts/winner-take-all-determinants]] — 教師整理 4 要素：network effects / multi-homing / differentiation / barrier to entry（HTC-VR case）
-- [[concepts/icarus-paradox]] — Miller 1990，過去成功的同一套要素反而成為未來失敗的根源；teacher 明用詞（HTC case）
-- [[concepts/penguin-effect]] — 教師原創：公司不是主動戰略 pivot，是被網絡外部性逼著跳新產業（HTC case）
+- [[concepts/MAO-framework]] — 毛治國 V=MAO（動機×能力×機會）+ AMC（察覺→動機→能力）台灣本土決策框架
+- [[concepts/strategy-nine-theories]] — 吳思華 2000《策略九說》：價值/效率/資源/結構/競局/統治/互賴/風險/生態 9 視角整合
 - [[concepts/象-數-理-epistemology]] — 教師原創跨領域：陰陽五行「象數理」+ Popper 三世界 + 財報詮釋三層對接（Zara case，wiki 內最跨領域 framework）
-- [[concepts/corporate-turnaround-strategy]] — re-position → re-configuration → mobility barrier → value chain reinvention 四步 + Managing for Cash/Value/Growth 三階段（Lego case）
 
-#### Wave C 案例 — 4 misc + meta（2026-05-21，策略管理全閉環）
+#### 策略理論的科學性質疑與實驗方法
 
 - [[concepts/tautology-in-management-theory]] — 唐瓔璋 SMJ 2010 論戰核心：Porter 1985 三段論 + Barney VRIN + Blue Ocean + Disruptive Innovation 都是恆真句、不可證偽
 - [[concepts/INUS-condition]] — Mackie 1965 因果哲學：差異化只是必要但不充分條件；森林大火比喻
+- [[concepts/ab-testing-as-strategy]] — Booking.com Vermeer「strategy 不能 A/B test，但搞清楚 strategy 後一切都可測」；270 teams 自組織（Booking case）
 - [[concepts/overall-evaluation-criterion]] — OEC，Kohavi A/B testing 的測量靈魂；Bing query share 反例
 - [[concepts/HiPPO-decision-making]] — Highest Paid Person's Opinion 反指標；Kohavi viral 玩偶 + Experiment or Die 文化
-- [[concepts/parenting-matrix-goold-campbell]] — Goold-Campbell 2×2 母合矩陣（HEARTLAND/BALLAST/VALUE-TRAP/ALIEN-TERRITORY）；Mobileye-Intel 應用
-- [[concepts/MAO-framework]] — 毛治國 V=MAO（動機×能力×機會）+ AMC（察覺→動機→能力）台灣本土決策框架
-- [[concepts/strategy-nine-theories]] — 吳思華 2000《策略九說》：價值/效率/資源/結構/競局/統治/互賴/風險/生態 9 視角整合
-- [[concepts/penguin-problem-game-theory]] — 賽局論 first-mover hesitation（與 HTC penguin-effect 不同）；Mobileye OEM 觀望困境
 
 ### 管理 / 行銷管理（Kotler 16e）
+
+**Ch01-08 Foundations + Customers + Positioning：**
 - [[concepts/marketing-definition]] — Kotler/AMA 雙定義 + get/keep/grow + 10 類可被行銷的對象（Ch01 hub）
 - [[concepts/STP-framework]] — Segmentation → Targeting → Positioning（跨章 hub）
 - [[concepts/G-STIC-framework]] — Goal-Strategy-Tactics-Implementation-Control（見-識-謀-斷-行-控）（Ch02 spine）
@@ -172,8 +177,6 @@ title: Jason 的知識庫
 - [[concepts/marketing-dashboard]] — 4 pathway 框架（Customer/Unit/Cash-flow/Brand）（Ch05）
 - [[concepts/product-differentiation-9-dimensions]] — Kotler 9 維度，#1-2 vs #3-9 階層（Ch08）
 - [[concepts/product-line-strategies]] — Line stretching/filling/modernization/featuring/pruning（Ch08）
-
-### 管理 / 行銷管理（Kotler 16e Wave 2 — Ch09-18）
 
 **Ch09 Services：**
 - [[concepts/service-marketing-4Is]] — Intangibility / Inseparability / Variability / Perishability + 有形化策略 + 需求-供給平衡（Ch09 hub）
@@ -208,7 +211,7 @@ title: Jason 的知識庫
 - [[concepts/adopter-categorization]] — Rogers 5 類（2.5/13/34/34/16%）+ Moore Chasm（Early Adopters → Early Majority 死亡谷）（Ch18）
 - [[concepts/forces-fighting-new-ideas]] — 5 句藉口（Tried before / Not right time / Not the way / Done all right without / Discuss later）+ 4 反制工具（Ch18）
 
-### 管理 / 行銷管理（Kotler 16e Wave 3 — 案例補充）
+**案例衍生概念（DECATHLON 等補充）：**
 - [[concepts/modern-retail-environment-trends]] — 現代零售七大特徵 + barbell 中端衰退（DECATHLON.pdf 實際內容）
 - [[concepts/markops-marketing-operations-framework]] — Markops = 1E+5Cs+STP+7Ts → 動態調整 + CNC/MS + BCG invest/maintain/milk/divest
 - [[concepts/integrated-digital-marketing-six-pillars]] — 數位整合行銷六支柱概念圖（SEO / 社群 / 數據廣告 / O2O / 口碑 / PR）
@@ -258,41 +261,7 @@ title: Jason 的知識庫
 - [[concepts/employer-branding]] — 雇主品牌四要素金字塔 + 吸引人才五構面
 - [[concepts/exit-with-ESG]] — 退場 ESG：永續責任的終局形態（新竹客運案）
 
-## Entities
-
-- [[entities/Ar9av-obsidian-wiki]] — Claude Code 原生 LLM Wiki 工具，25 個 skills
-- [[entities/wen-jin-feng]] — 陽明交大經管所教授兼所長，EMBA「管理技能發展專題」授課
-- [[entities/intel-NBI]] — Intel 內部 corporate venturing 單位，HBS 9-609-043 主角組織
-- [[entities/Philip-Kotler]] — 「現代行銷學之父」，Northwestern Kellogg；《Marketing Management》16 版作者
-- [[entities/Patrick-Hanlon]] — Thinktopia CEO，《Primal Branding》七要素信念系統作者
-- [[entities/Shopee]] — 東南亞 e-commerce 平台；Merchant Model 與 Amazon Agency Model 對比 + UVMC × 3 預掠定價
-- [[entities/TikTok]] — ByteDance 短影音；collaborative filtering + Gen Z 注意力 + completion ratio vs click rate
-- [[entities/Tiffany]] — 1837 紐約奢侈珠寶；2021 LVMH 收購；Audrey Hepburn × 中國市場 open question
-- [[entities/Taylor-Swift]] — Personal brand + Scooter Braun 母帶之爭 + 收入四元化 + Swifties 社群
-- [[entities/Marcello-Damiani]] — Moderna CDO，AI Factory 三原則（Cloud/Integration/Automation）articulator；「先優化、後數位化」立場（Iansiti HBS Moderna case）
-
-### 策略管理 — 6 個 HBS strategy cases（Wave A，2026-05-21）
-- [[entities/Levendary-Cafe]] — HBS 4357 (Bartlett 2011)；Foster vs Chen 中國子公司治理；諫太宗十思疏 leadership 跨領域類比
-- [[entities/Marriott-International]] — 1977 asset-light 戰略 + Starwood 2016 $13.6B 併購 + Bonvoy 1 億會員 + Airbnb 競爭視角
-- [[entities/Booking-com]] — A/B testing 戰略化（同時 ~1,000 對照實驗）+ Agency model + Growth Flywheel + NK fitness landscape
-- [[entities/Flextronics-International]] — EMS 龍頭 ODM 轉型嘗試；Phone 1 成功 Phone 4 沒人買；smile curve 谷底困境
-- [[entities/Samsung-Electronics]] — 1997 turnaround + Yun sashimi theory + 反主流 vertical integration + Eric Kim GMO
-- [[entities/Microsoft-AdCenter]] — Porter generic strategy 在 digital 失靈案例；7 條 break-into 全敗 + Desktop vs Platform mindset 診斷
-
-### 策略管理 — 8 個 lecture-only 案例（Wave B，2026-05-21）
-- [[entities/Steve-Jobs]] — HBS 9-715-454；leader-strategist 雙能力；1976-2011 完整生涯弧；張忠謀/TSMC/NVIDIA legacy 對標
-- [[entities/Elon-Musk]] — HBS 9-722-439；7 公司 Empire「沒有 synergy」；Yoffie 5 rules ↔ 孫子兵法五事框架對接
-- [[entities/Lego-Group]] — HBS 9-713-478；2004 Knudstorp 36 歲 turnaround；雙元理論等死找找同時來；re-position 四步框架
-- [[entities/HTC]] — HBS 9-718-421；手機 ODM/OBM 衰退 pivot VR；伊卡洛斯悖論 + 企鵝效應 pivot driver
-- [[entities/Alphabet]] — HBS 9-116-029；Specialized generalist ↓ Generalized specialist；Simons 7Q 框架分析
-- [[entities/Ant-Group]] — HBS 9-617-060；中國 fintech 巨擘；2020 IPO halt $300B 史上最大；替代→互補→替代三段論
-- [[entities/Zara]] — HBS 9-703-497 (Ghemawat &amp; Nueno)；垂直整合 + Quick Response 15 天 cycle；象數理 epistemology 跨領域框架
-
-### 策略管理 — 教師 + Mobileye（Wave C，2026-05-21）
-- [[entities/Tang-Edwin-Yingzhang]] — 唐瓔璋（Edwin Tang）— 陽明交大策略管理 14 週課程授課者；SMJ 2010 Bayesian Inference 論文作者；Fighting with Porter 學術論戰實際投稿者
-- [[entities/Mobileye]] — 1999 以色列創辦 → 2014 IPO → 2017 Intel $15.3B 收購 → 2022 spin off；Intel NBI failure 的反面成功案例
-
-### 研究方法論 — 管理專題研討（AMBA 2024 — Bhattacherjee SSR）
+### 管理 / 研究方法論（AMBA 2024 — Bhattacherjee SSR）
 - [[concepts/scientific-method-four-criteria]] — Replicability / Precision / Falsifiability / Parsimony 四準則（Bhattacherjee Ch1）
 - [[concepts/four-goals-of-science]] — Description / Prediction / Explanation / Control（遞進）
 - [[concepts/falsifiability-popper]] — Popper 1940s；Freud 反例 + black swan
@@ -306,7 +275,7 @@ title: Jason 的知識庫
 - [[concepts/research-process-seven-steps]] — RQ → Lit → Theory → Design → Method → Execution → Report
 - [[concepts/inverted-triangle-rq]] — Fernando-Hulse-Killacky 倒三角 RQ 視覺工具
 - [[concepts/theory-vs-not-theory]] — Sutton & Staw 1995 ASQ 五件不是 theory 的東西
-- [[concepts/common-research-pitfalls]] — pet problems / fads / favored methods / blind data mining 等
+- common research pitfalls — pet problems / fads / favored methods / blind data mining 等
 - [[concepts/scientific-theory]] — Whetten 四 building blocks + Sutton-Staw 標準
 - [[concepts/theory-building-blocks-whetten]] — Constructs/Propositions/Logic/Boundary 四問
 - [[concepts/attributes-of-good-theory]] — 五準則：consistency / explanatory / falsifiability / parsimony / generalizability
@@ -334,6 +303,40 @@ title: Jason 的知識庫
 - [[concepts/LIBOR]] — 倫敦銀行同業拆借利率退場 + SOFR 等 RFR 替代
 - [[concepts/physical-climate-risk]] — 馬駿四類來源 + TCFD acute/chronic；巨災模型四模組
 - [[concepts/firm-climate-risk]] — Huang 2022 SMJ：企業作為氣候風險受害者；price + non-price loan terms
+
+## Entities
+
+- [[entities/Ar9av-obsidian-wiki]] — Claude Code 原生 LLM Wiki 工具，25 個 skills
+- [[entities/wen-jin-feng]] — 陽明交大經管所教授兼所長，EMBA「管理技能發展專題」授課
+- [[entities/intel-NBI]] — Intel 內部 corporate venturing 單位，HBS 9-609-043 主角組織
+- [[entities/Philip-Kotler]] — 「現代行銷學之父」，Northwestern Kellogg；《Marketing Management》16 版作者
+- [[entities/Patrick-Hanlon]] — Thinktopia CEO，《Primal Branding》七要素信念系統作者
+- [[entities/Shopee]] — 東南亞 e-commerce 平台；Merchant Model 與 Amazon Agency Model 對比 + UVMC × 3 預掠定價
+- [[entities/TikTok]] — ByteDance 短影音；collaborative filtering + Gen Z 注意力 + completion ratio vs click rate
+- [[entities/Tiffany]] — 1837 紐約奢侈珠寶；2021 LVMH 收購；Audrey Hepburn × 中國市場 open question
+- [[entities/Taylor-Swift]] — Personal brand + Scooter Braun 母帶之爭 + 收入四元化 + Swifties 社群
+- [[entities/Marcello-Damiani]] — Moderna CDO，AI Factory 三原則（Cloud/Integration/Automation）articulator；「先優化、後數位化」立場（Iansiti HBS Moderna case）
+
+### 策略管理 — 企業案例
+
+- [[entities/Levendary-Cafe]] — HBS 4357 (Bartlett 2011)；Foster vs Chen 中國子公司治理；諫太宗十思疏 leadership 跨領域類比
+- [[entities/Marriott-International]] — 1977 asset-light 戰略 + Starwood 2016 $13.6B 併購 + Bonvoy 1 億會員 + Airbnb 競爭視角
+- [[entities/Booking-com]] — A/B testing 戰略化（同時 ~1,000 對照實驗）+ Agency model + Growth Flywheel + NK fitness landscape
+- [[entities/Flextronics-International]] — EMS 龍頭 ODM 轉型嘗試；Phone 1 成功 Phone 4 沒人買；smile curve 谷底困境
+- [[entities/Samsung-Electronics]] — 1997 turnaround + Yun sashimi theory + 反主流 vertical integration + Eric Kim GMO
+- [[entities/Microsoft-AdCenter]] — Porter generic strategy 在 digital 失靈案例；7 條 break-into 全敗 + Desktop vs Platform mindset 診斷
+- [[entities/Lego-Group]] — HBS 9-713-478；2004 Knudstorp 36 歲 turnaround；雙元理論等死找找同時來；re-position 四步框架
+- [[entities/HTC]] — HBS 9-718-421；手機 ODM/OBM 衰退 pivot VR；伊卡洛斯悖論 + 企鵝效應 pivot driver
+- [[entities/Alphabet]] — HBS 9-116-029；Specialized generalist ↓ Generalized specialist；Simons 7Q 框架分析
+- [[entities/Ant-Group]] — HBS 9-617-060；中國 fintech 巨擘；2020 IPO halt $300B 史上最大；替代→互補→替代三段論
+- [[entities/Zara]] — HBS 9-703-497 (Ghemawat &amp; Nueno)；垂直整合 + Quick Response 15 天 cycle；象數理 epistemology 跨領域框架
+- [[entities/Mobileye]] — 1999 以色列創辦 → 2014 IPO → 2017 Intel $15.3B 收購 → 2022 spin off；Intel NBI failure 的反面成功案例
+
+### 策略管理 — 人物（leader-strategist + 教師）
+
+- [[entities/Steve-Jobs]] — HBS 9-715-454；leader-strategist 雙能力；1976-2011 完整生涯弧；張忠謀/TSMC/NVIDIA legacy 對標
+- [[entities/Elon-Musk]] — HBS 9-722-439；7 公司 Empire「沒有 synergy」；Yoffie 5 rules ↔ 孫子兵法五事框架對接
+- [[entities/Tang-Edwin-Yingzhang]] — 唐瓔璋（Edwin Tang）— 陽明交大策略管理 14 週課程授課者；SMJ 2010 Bayesian Inference 論文作者；Fighting with Porter 學術論戰實際投稿者
 
 ### ESG / 公司治理 / 倫理（陽明交大 2023-2025 系列）
 - [[entities/Hu-Jin-Li]] — 陽明交大經管所教授；行政院國家永續發展委員會委員；ESG 系列主導講者
@@ -369,7 +372,7 @@ title: Jason 的知識庫
 - [[references/colquitt-OB-textbook]] — McGraw-Hill OB 教科書，**全書 14 章 ingest 完成**（Ch1-14 / 1,635 頁）
 - [[references/grant-contemporary-strategy-analysis]] — Wiley 策略管理教科書 11th ed，**Ch1-14 全章 ingest 完成**（Ch7 於 2026-05-20 audit 補完 5 頁）
 - [[references/shih-thurston-intel-nbi-2010-HBS]] — HBS 9-609-043 *Intel NBI (A)*，corporate venturing 失敗的經典案例
-- [[references/kotler-keller-chernev-marketing-management-16e]] — Pearson 2022，行銷管理 standard 教科書，**Wave 1+2+3 全部 21 PDFs ingest 完成**（Ch01-11 + Ch17-18 + 8 案例）
+- [[references/kotler-keller-chernev-marketing-management-16e]] — Pearson 2022，行銷管理 standard 教科書，**全部 21 PDFs ingest 完成**（Ch01-11 + Ch17-18 + 8 案例）
 - [[references/wen-2023-HRM-textbook]] — 溫金豐 et al. 華泰 5 版 2023，繁中 HRM 教科書 + 8 lecture PDFs，**OB 資料夾 25 PDFs 全閉環**
 - [[references/esg-lecture-corpus]] — 陽明交大 EMBA 2023 ESG 系列 14 PDFs / 887 頁（胡均立 + 劉宗聖 + 黃世忠 + 佳典管顧 + 致理 張民忠）
 - [[references/business-ethics-lecture-corpus]] — 陽明交大 2025 春《企業經營與倫理專題講座》6 PDFs / 119 頁（李建文 + 蔡豐明 + 黃柏翔 + 3 case briefing）
@@ -421,7 +424,7 @@ title: Jason 的知識庫
 - [[synthesis/wei-zheng-leadership-and-subsidiary-management]] — 諫太宗十思疏 ↔ 跨國子公司治理跨領域對標；Bartlett 三階段 + 唐太宗治國模式映射；類比的適用邊界
 - [[synthesis/agency-vs-merchant-platform-models]] — Agency vs Merchant 商模跨產業對比（OTA / e-commerce / ride-hailing / cloud / 房地產）；為何 agency 普遍贏 + Amazon 雙軌的內部衝突
 - [[synthesis/sampling-choice-shapes-results]] — Short, Ketchen, Palmer (2002) JoM 經典：同 hypothesis（CEO duality）4 種 sample 得 4 種結果；建知識需 multi-sample replication
-- [[synthesis/yoffie-five-rules-vs-sun-tzu-five-fundamentals]] — Yoffie 5 rules ↔ 孫子兵法五事「道天地將法」跨文化策略框架對接；Musk/Jobs/Gates/Grove 四案應用（Wave B）
+- [[synthesis/yoffie-five-rules-vs-sun-tzu-five-fundamentals]] — Yoffie 5 rules ↔ 孫子兵法五事「道天地將法」跨文化策略框架對接；Musk/Jobs/Gates/Grove 四案應用
 - [[synthesis/financial-ratio-epistemology-yi-jing]] — 財報詮釋的 epistemology：陰陽五行「象、數、理」+ Popper 三世界三層對接（Zara case，wiki 內最跨領域 synthesis）
 - [[synthesis/back-to-core-turnaround-pattern]] — Apple 1997 / Lego 2004 / Samsung 1997 三個成功 turnaround 的 5 條共同 pattern；犧牲不可侵犯之物 + 外部視角 CEO + 2×2 矩陣級極端 focus
 

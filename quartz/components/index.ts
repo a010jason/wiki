@@ -25,6 +25,7 @@ import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import SiteNav from "./SiteNav"
 import WikiStats from "./WikiStats"
+import Sources from "./Sources"
 
 export {
   ArticleTitle,
@@ -54,4 +55,5 @@ export {
   ConditionalRender,
   SiteNav,
   WikiStats,
+  Sources,
 }

@@ -17,11 +17,11 @@ sources:
   - id: HBS-9-718-421-HTC-VR-case
     ref: '[[references/HBS-9-718-421-HTC-VR-case]]'
 related:
-  - '[[concepts/network-effects-direct-vs-indirect]]'
-  - '[[concepts/multi-homing-cost]]'
+  - 'network effects direct vs indirect'
+  - 'multi homing cost'
   - '[[concepts/dominant-design]]'
-  - '[[concepts/two-sided-market]]'
-  - '[[concepts/winner-takes-all]]'
+  - 'two sided market'
+  - 'winner takes all'
   - '[[entities/HTC]]'
 ---
 
@@ -41,7 +41,7 @@ related:
 - **Indirect (cross-side)**：兩邊用戶越多，對另一邊吸引力越大（Booking 訂房客 ↔ 酒店、Apple App Store user ↔ developer）
 - 聚合 power 決定 platform 規模門檻
 
-詳見 [[concepts/network-effects-direct-vs-indirect]]。
+詳見 network effects direct vs indirect。
 
 ### 2. Multi-Homing Costs 多宿主成本
 
@@ -50,7 +50,7 @@ related:
 - 低 multi-homing cost = 多平台並存（如打車 Uber + Lyft 同時開）
 - 影響因素：學習成本、資料遷移、social switching cost、subscription bundling
 
-詳見 [[concepts/multi-homing-cost]]。
+詳見 multi homing cost。
 
 ### 3. Platform Differentiation 平台差異化
 
@@ -87,7 +87,7 @@ related:
 | **[[entities/Microsoft-AdCenter]]** | 同 Google search 條件 | 但 **Standard 已被 Google 制定**（教師眉批） | — | — | **Loser-takes-all**（Google 全拿） |
 | **[[entities/Booking-com]]** | Indirect 高 | 中（用戶可同時用 Booking + Expedia 比價） | 中 | 中 | **Winner-takes-most**（2 大寡占） |
 | **[[entities/HTC]] Vive** | 弱 | 高 | 中 | 中 | **不會 winner-take-all** |
-| **[[entities/Uber]] ride-hailing** | Indirect 中 | 低（司機可 Uber+Lyft 同時開） | 低 | 中 | **Winner-takes-most 但 multi-homing** |
+| **Uber ride-hailing** | Indirect 中 | 低（司機可 Uber+Lyft 同時開） | 低 | 中 | **Winner-takes-most 但 multi-homing** |
 | **[[entities/Ant-Group]] Alipay** | Indirect 高（買家賣家雙邊） | 高（用戶被綁 ecosystem） | 中 | 高 | **Winner-takes-all + WeChat Pay 雙寡占** |
 
 ## 為什麼這個框架重要
@@ -123,6 +123,6 @@ related:
 
 ## Related
 
-- **概念**：[[concepts/network-effects-direct-vs-indirect]] / [[concepts/multi-homing-cost]] / [[concepts/dominant-design]] / [[concepts/two-sided-market]] / [[concepts/winner-takes-all]] / [[concepts/platform-differentiation]] / [[concepts/barrier-to-entry]] / [[concepts/standard-war]] / [[concepts/desktop-vs-platform-mindset]] / [[concepts/structural-hole-in-strategy]]
-- **Entity**：[[entities/HTC]] / [[entities/Google]] / [[entities/Microsoft-AdCenter]] / [[entities/Booking-com]] / [[entities/Ant-Group]] / [[entities/Facebook]] / [[entities/Uber]]
+- **概念**：network effects direct vs indirect / multi homing cost / [[concepts/dominant-design]] / two sided market / winner takes all / platform differentiation / barrier to entry / standard war / [[concepts/desktop-vs-platform-mindset]] / structural hole in strategy
+- **Entity**：[[entities/HTC]] / [[entities/Google]] / [[entities/Microsoft-AdCenter]] / [[entities/Booking-com]] / [[entities/Ant-Group]] / [[entities/Facebook]] / Uber
 - **參考**：[[references/HBS-9-718-421-HTC-VR-case]] / [[references/grant-contemporary-strategy-analysis]] Ch4 / Ch9

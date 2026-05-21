@@ -38,7 +38,7 @@ lifecycle_changed: 2026-05-21
 
 ## 配套機制
 
-- **碳交易所**：[[entities/Taiwan-Carbon-Exchange]] 2023-08-17 成立
+- **碳交易所**：Taiwan-Carbon-Exchange 2023-08-17 成立
 - **碳權市場**：[[concepts/carbon-credit-market]] 自願性碳市場（VCM）+ 國際碳權購買
 - **盤查時程**：上市櫃公司分階段 2027 年完成盤查、2029 完成查證
 

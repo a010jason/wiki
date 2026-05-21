@@ -19,9 +19,9 @@ sources:
 related:
   - '[[concepts/compression-night-economics]]'
   - '[[concepts/asset-light-strategy]]'
-  - '[[concepts/two-sided-market]]'
+  - 'two sided market'
   - '[[entities/Marriott-International]]'
-  - '[[entities/Airbnb]]'
+  - 'Airbnb'
 ---
 
 # Dedicated vs Flexible Capacity
@@ -103,9 +103,9 @@ slide p.5：「**Why Airbnb has high marginal- (but low investment-) cost? / The
 
 - [[concepts/compression-night-economics]]
 - [[concepts/asset-light-strategy]]
-- [[concepts/two-sided-market]]
+- two sided market
 - [[concepts/network-externalities]]
 - [[concepts/organizational-ambidexterity]]
-- [[entities/Marriott-International]] / [[entities/Airbnb]]
+- [[entities/Marriott-International]] / Airbnb
 - [[references/HBS-marriott-90yr-case]]
 - [[references/grant-contemporary-strategy-analysis]] Ch10 vertical scope

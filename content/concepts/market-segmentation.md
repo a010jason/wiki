@@ -73,7 +73,7 @@ PRIZM 用 zip code 切片，五維度：
 
 按心理特質、生活風格、價值觀切：^[extracted Ch06 p.31]
 
-**主要工具：[[entities/VALS-segmentation-system]]**
+**主要工具：VALS-segmentation-system**
 
 VALS（Values, Attitudes and Lifestyles）由 SRI International 開發，二維結構：
 - **Primary Motivation** — Ideals（理想）/ Achievement（成就）/ Self-expression（自我表達）

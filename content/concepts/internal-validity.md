@@ -108,7 +108,7 @@ lifecycle_changed: 2026-05-21
 - [[concepts/construct-validity]]
 - [[concepts/research-design]]
 - [[concepts/common-method-bias]] — 待寫
-- [[concepts/experimental-design]] — 待寫
+- experimental design — 待寫
 
 ## Sources
 

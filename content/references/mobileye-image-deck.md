@@ -50,10 +50,10 @@ Source 性質：**case study 的視覺輔助材料，single source 不足以撐�
 
 新建頁面：
 - [[entities/Mobileye]]
-- [[concepts/SAE-automation-levels]]（L0-L5 自駕分級，NHTSA 來源）
-- [[concepts/robotaxi-corridor-hypothesis]]（Mobileye 主張 Robotaxi 是 consumer-AV 必經 corridor）
-- [[concepts/MaaS-RaaS-VaaS-stack]]（三層 + SDS）
-- [[concepts/REM-road-experience-management]]（crowdsourced HD map）
+- SAE-automation-levels（L0-L5 自駕分級，NHTSA 來源）
+- robotaxi corridor hypothesis（Mobileye 主張 Robotaxi 是 consumer-AV 必經 corridor）
+- MaaS-RaaS-VaaS-stack（三層 + SDS）
+- REM-road-experience-management（crowdsourced HD map）
 
 可補強既有：
 - [[entities/intel-NBI]]（Mobileye 是 Intel NBI failure 的**反面成功案例**）
@@ -106,9 +106,9 @@ Source 性質：**case study 的視覺輔助材料，single source 不足以撐�
 
 ## Related
 
-- [[entities/Mobileye]] / [[entities/Intel]] / [[entities/intel-NBI]] / [[entities/Tesla]] / [[entities/Waymo]] / [[entities/Cruise]]
+- [[entities/Mobileye]] / Intel / [[entities/intel-NBI]] / Tesla / Waymo / Cruise
 - [[synthesis/corporate-venturing-isolation-paradox]]（Mobileye = Intel NBI failure 的反面成功案例）
 - [[references/christensen-overdorf-2000-HBR-disruptive-change]] Quadrant C-D acquisition + autonomy 路徑
 - [[references/shih-thurston-intel-nbi-2010-HBS]]（Intel NBI 失敗對照組）
 - [[references/strategy-management-course-2024-nycu]]（2024/06/04 課堂題目組）
-- **概念**：[[concepts/SAE-automation-levels]] / [[concepts/robotaxi-corridor-hypothesis]] / [[concepts/MaaS-RaaS-VaaS-stack]] / [[concepts/REM-road-experience-management]] / [[concepts/parenting-matrix-goold-campbell]] / [[concepts/disruptive-innovation]] / [[concepts/RPV-framework]]
+- **概念**：SAE-automation-levels / robotaxi corridor hypothesis / MaaS-RaaS-VaaS-stack / REM-road-experience-management / [[concepts/parenting-matrix-goold-campbell]] / [[concepts/disruptive-innovation]] / [[concepts/RPV-framework]]

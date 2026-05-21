@@ -69,7 +69,7 @@ H2 結果：多數機制負向 moderate（降低貸款嚴格度），但：
 |---|---|---|
 | **Merton (1974) 結構式信用模型** + Black-Scholes put option | 股東持有對銀行的隱含賣權 → 氣候災難 → put option in-the-money | — |
 | **Jensen & Meckling (1976) Agency Cost** | 銀行 only 承擔下檔損失 → asymmetric payoff | [[concepts/agency-theory]] |
-| **Coase + Grossman-Hart + KCA Incomplete Contract** | 氣候不確定大 → 合約不完整 → 銀行需 control rights | [[concepts/incomplete-contract-theory]] 待寫 |
+| **Coase + Grossman-Hart + KCA Incomplete Contract** | 氣候不確定大 → 合約不完整 → 銀行需 control rights | incomplete contract theory 待寫 |
 | **Aragon-Correa & Sharma 2003 NRBV + Teece 2007 Dynamic Capability** | 主動氣候管理 → organizational adaptation = natural hedge | — |
 
 **整合邏輯**：價格條款（spread）+ 非價格條款（collateral, covenants）= **complementary control rights** 解決合約不完整問題。
@@ -118,7 +118,7 @@ Table 4 用以驗證機制：
 - [[references/huang-2022-firm-climate-risk-bank-loan]]
 - [[concepts/physical-climate-risk]]
 - [[concepts/agency-theory]]
-- [[concepts/incomplete-contract-theory]] — 待寫
+- incomplete contract theory — 待寫
 - [[concepts/instrumental-variable-2SLS]] — 處理 endogeneity 工具（Huang 等未用，學生質疑點之一）
 
 ## Sources

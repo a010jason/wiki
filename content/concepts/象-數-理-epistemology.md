@@ -17,8 +17,8 @@ sources:
   - id: HBS-9-703-497-Zara-case
     ref: '[[references/HBS-9-703-497-Zara-case]]'
 related:
-  - '[[concepts/popper-three-worlds]]'
-  - '[[concepts/causal-inference-vs-correlation]]'
+  - 'popper three worlds'
+  - 'causal inference vs correlation'
   - '[[entities/Zara]]'
   - '[[synthesis/financial-ratio-epistemology-yi-jing]]'
 ---
@@ -81,7 +81,7 @@ Karl Popper（1972）三世界框架：
 
 教師：「**Note: Popper's three worlds**」 — 暗示「象數理」是中國古典版本的 Popper 三世界 epistemology。
 
-## 與 [[concepts/causal-inference-vs-correlation|教師另一框架]] 的關係
+## 與 教師另一框架 的關係
 
 教師在 [[references/HBS-booking-com-case|Booking case]] 提：「**Survey → 果果造因 / Database → GIGO / Experiment → Cause-effect**」
 
@@ -90,7 +90,7 @@ Karl Popper（1972）三世界框架：
 - **象** ≈ Survey（主觀詮釋，可能果果造因）
 - **理** ≈ Experiment / Reasoning（真正建立因果）
 
-但「象數理」更強調**從數字到智慧的累積過程**，而 [[concepts/causal-inference-vs-correlation]] 強調**因果效力的階梯**。
+但「象數理」更強調**從數字到智慧的累積過程**，而 causal inference vs correlation 強調**因果效力的階梯**。
 
 ## 為什麼這個框架重要
 
@@ -127,7 +127,7 @@ Karl Popper（1972）三世界框架：
 
 ## Related
 
-- **概念**：[[concepts/popper-three-worlds]] / [[concepts/causal-inference-vs-correlation]] / [[concepts/ab-testing-as-strategy]]（Booking 經驗主義對照） / [[concepts/evidence-based-management]] / [[concepts/dynamic-capabilities]]（capabilities bundle 無法簡單複製）
-- **Entity**：[[entities/Zara]] / [[entities/Karl-Popper]] / [[entities/Amancio-Ortega]]
+- **概念**：popper three worlds / causal inference vs correlation / [[concepts/ab-testing-as-strategy]]（Booking 經驗主義對照） / evidence based management / [[concepts/dynamic-capabilities]]（capabilities bundle 無法簡單複製）
+- **Entity**：[[entities/Zara]] / [[entities/Karl-Popper]] / Amancio-Ortega
 - **參考**：[[references/HBS-9-703-497-Zara-case]] / 古典文獻《易經》《道德經》（待建 reference）
 - **Synthesis**：[[synthesis/financial-ratio-epistemology-yi-jing]] / [[synthesis/wei-zheng-leadership-and-subsidiary-management]]（諫太宗十思疏，另一個古典中文管理框架對接）

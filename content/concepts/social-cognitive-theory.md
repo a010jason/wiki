@@ -45,7 +45,7 @@ Bandura (1977, 1986, 2001) 提出。教師中文眉批：「**社會認知理論
 
 ## Self-Efficacy（核心概念）^[extracted]
 
-「執行某 course of behavior 的成功信念」。詳見 [[concepts/self-efficacy-multilevel]] 待寫。
+「執行某 course of behavior 的成功信念」。詳見 self efficacy multilevel 待寫。
 
 不同層級的 efficacy：
 - **Self-efficacy** — 個人層

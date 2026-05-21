@@ -119,5 +119,5 @@ EBM 醫療 AI 的 customer-centricity 自評（六 axis）：^[inferred — Jaso
 - [[concepts/holistic-marketing]] — Internal marketing 支柱
 - [[concepts/blue-ocean-strategy]] — 「Making competitors irrelevant」的源頭
 - [[concepts/STP-framework]] — Customer-centric 落地工具
-- [[concepts/CMO-role]] — Customer perspective 在組織高層的代言人
+- CMO-role — Customer perspective 在組織高層的代言人
 - [[references/kotler-keller-chernev-marketing-management-16e]]

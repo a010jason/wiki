@@ -114,7 +114,7 @@ Model development 包含 inductive + deductive reasoning。
 
 ## Theorizing 四種 approach ^[extracted]
 
-Steinfeld & Fulk (1990) 提出，詳見 [[concepts/theorizing-approaches]] 待寫：
+Steinfeld & Fulk (1990) 提出，詳見 theorizing approaches 待寫：
 
 1. **Inductive grounded theory** — 從觀察 build theory
 2. **Bottom-up with predefined framework**（IPO 等）

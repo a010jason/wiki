@@ -22,8 +22,8 @@ related:
   - '[[concepts/sun-tzu-five-fundamentals]]'
   - '[[entities/Elon-Musk]]'
   - '[[entities/Steve-Jobs]]'
-  - '[[entities/Bill-Gates]]'
-  - '[[entities/Andy-Grove]]'
+  - 'Bill-Gates'
+  - 'Andy-Grove'
 ---
 
 # Yoffie/Cusumano 5 Strategy Rules ↔ 孫子兵法五事
@@ -99,7 +99,7 @@ related:
 
 → Jobs **5 條皆強** = 教師 framing 中的 ideal leader-strategist
 
-### [[entities/Bill-Gates]] / [[entities/Microsoft]]（Yoffie 書原型）
+### Bill-Gates / Microsoft（Yoffie 書原型）
 
 | Yoffie | Gates 對應 |
 |---|---|
@@ -109,7 +109,7 @@ related:
 | 4 / 勢 | Judo vs IBM；Sumo vs Netscape |
 | 5 / 法 | Engineer-led culture |
 
-### [[entities/Andy-Grove]] / [[entities/Intel]]（Yoffie 書原型）
+### Andy-Grove / Intel（Yoffie 書原型）
 
 | Yoffie | Grove 對應 |
 |---|---|
@@ -164,8 +164,8 @@ related:
 
 ## Related
 
-- **概念**：[[concepts/strategy-rules-yoffie-cusumano]] / [[concepts/sun-tzu-five-fundamentals]] / [[concepts/look-forward-reason-back]] / [[concepts/big-bets-without-betting-company]] / [[concepts/platforms-and-ecosystems-not-products]] / [[concepts/judo-and-sumo-strategy]] / [[concepts/personal-anchor-organization]] / [[concepts/leader-strategist]] / [[concepts/visionary-vs-strategist]]
-- **Entity**：[[entities/Elon-Musk]] / [[entities/Steve-Jobs]] / [[entities/Bill-Gates]] / [[entities/Andy-Grove]] / [[entities/Tesla]] / [[entities/SpaceX]] / [[entities/Apple]] / [[entities/Microsoft]] / [[entities/Intel]]
-- **參考**：[[references/yoffie-cusumano-strategy-rules-2015]] / [[references/HBS-9-722-439-Musk-doubling-down-case]] / [[references/HBS-9-715-454-Steve-Jobs-case]]
+- **概念**：[[concepts/strategy-rules-yoffie-cusumano]] / [[concepts/sun-tzu-five-fundamentals]] / look forward reason back / big bets without betting company / platforms and ecosystems not products / judo and sumo strategy / personal anchor organization / leader strategist / visionary vs strategist
+- **Entity**：[[entities/Elon-Musk]] / [[entities/Steve-Jobs]] / Bill-Gates / Andy-Grove / Tesla / SpaceX / [[entities/Apple]] / Microsoft / Intel
+- **參考**：yoffie cusumano strategy rules 2015 / [[references/HBS-9-722-439-Musk-doubling-down-case]] / [[references/HBS-9-715-454-Steve-Jobs-case]]
 - **古典文獻**：《孫子兵法·始計篇》/《孫子兵法·勢篇》
 - **同系列 synthesis**：[[synthesis/wei-zheng-leadership-and-subsidiary-management]] / [[synthesis/financial-ratio-epistemology-yi-jing]]

@@ -58,18 +58,18 @@ Path B subagent；38 頁讀完，未撞 32MB，無 fallback 升級。
 
 - [[entities/Booking-com]] — 案例 hub
 - [[concepts/ab-testing-as-strategy]] — Vermeer「strategy 不能 A/B test，但搞清楚 strategy 後一切都可測」
-- [[concepts/experimentation-culture]] — 270 teams 自組織、75% 員工用實驗平台
+- experimentation culture — 270 teams 自組織、75% 員工用實驗平台
 - [[concepts/agency-vs-merchant-model]] — Booking agency vs Expedia merchant（呼應 [[entities/Shopee]]）
-- [[concepts/ota-business-models]] — 三模式（advertising / merchant / agency）
-- [[concepts/growth-flywheel]] — Booking 變體（A/B → conversion → ROI → traffic → partners → selection → prices → CX → A/B）
-- [[concepts/evidence-based-management]] — EBM 三階段教科書定義
-- [[concepts/hypothesis-driven-product]] — Theory + Validation + Objective template
-- [[concepts/champion-vs-challenger]] — A/B 命名慣例
-- [[concepts/causal-inference-vs-correlation]] — Survey/DB/Experiment 階梯
-- [[concepts/fitness-landscape]] — NK 模型 / Kauffman / dynamic vs static
-- [[concepts/red-queen-effect]] — 對抗 Google / Amazon / Airbnb
+- ota business models — 三模式（advertising / merchant / agency）
+- growth flywheel — Booking 變體（A/B → conversion → ROI → traffic → partners → selection → prices → CX → A/B）
+- evidence based management — EBM 三階段教科書定義
+- hypothesis driven product — Theory + Validation + Objective template
+- champion vs challenger — A/B 命名慣例
+- causal inference vs correlation — Survey/DB/Experiment 階梯
+- fitness landscape — NK 模型 / Kauffman / dynamic vs static
+- red queen effect — 對抗 Google / Amazon / Airbnb
 - [[concepts/minimum-winning-game]] — 量變質變、積小勝為大勝
-- [[synthesis/ab-testing-strategic-limits]]
+- ab testing strategic limits
 - [[synthesis/agency-vs-merchant-platform-models]]
 
 ## 教師眉批採集（核心）

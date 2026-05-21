@@ -90,7 +90,7 @@ Stickiness-first 通常更難擴張，但一旦擴起來護城河更深（用戶
 
 ## 醫療 AI 場景
 
-對醫療 AI 產品（如 [[concepts/AI-輔助診斷]]，待寫）：
+對醫療 AI 產品（如 AI-輔助診斷，待寫）：
 
 - **Reach**：被多少醫師/醫院使用（裝機數、licensed sites）
 - **Stickiness**：每位醫師每月使用次數 / 每例診斷使用 AI 的比率

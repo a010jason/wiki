@@ -82,5 +82,5 @@ Cognizant、Tata Group 是 Arbitrage 範例；Toyota、Apple 是 Aggregation；�
 
 - [[concepts/scale-scope-learning]] — Iansiti 的數位營運 SSL 三角，與 CAGE 互補
 - [[concepts/strategic-collisions]] — digital firm 跨界場景
-- [[concepts/Bartlett-Ghoshal-MNC-typology]] — 對應的組織型態（待建）
+- Bartlett-Ghoshal-MNC-typology — 對應的組織型態（待建）
 - [[references/grant-contemporary-strategy-analysis]] — Ch11 源頭

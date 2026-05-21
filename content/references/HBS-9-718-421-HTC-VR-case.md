@@ -49,14 +49,14 @@ summary: >-
 - [[concepts/icarus-paradox]]（教師明用詞 — 過去成功要素變成失敗根源）
 - [[concepts/penguin-effect]]（教師原創 — HTC 被網絡外部性逼到 VR）
 - [[concepts/winner-take-all-determinants]]（4 要素）
-- [[concepts/network-effects-direct-vs-indirect]]
-- [[concepts/multi-homing-cost]]
-- [[concepts/structural-hole-in-strategy]]
-- [[concepts/red-queen-competition]]
-- [[concepts/nascent-industry]]
-- [[concepts/gartner-hype-cycle]]
-- [[concepts/seven-layers-of-metaverse]]（Jon Radoff 7 layers）
-- [[concepts/B2B2C-via-ISV]]
+- network effects direct vs indirect
+- multi homing cost
+- structural hole in strategy
+- red queen competition
+- nascent industry
+- gartner hype cycle
+- seven layers of metaverse（Jon Radoff 7 layers）
+- B2B2C-via-ISV
 
 可大幅補強既有：
 - [[synthesis/HTC-marketing-research-gap]]（已存在，本批可補強 pivot 動機、structural hole 思考、Q4 七選項）
@@ -105,6 +105,6 @@ summary: >-
 
 ## Related
 
-- [[entities/HTC]] / [[entities/Cher-Wang]] / [[entities/Peter-Chou]]
-- [[entities/Apple]] / [[entities/Sony]] / [[entities/Microsoft]] / [[entities/Meta]] / [[entities/Google]] / [[entities/Samsung-Electronics]] / [[entities/Valve]]
+- [[entities/HTC]] / Cher-Wang / Peter-Chou
+- [[entities/Apple]] / Sony / Microsoft / Meta / [[entities/Google]] / [[entities/Samsung-Electronics]] / Valve
 - [[references/grant-contemporary-strategy-analysis]] Ch4 hypercompetition / Ch7 industry analysis / Ch9 innovation

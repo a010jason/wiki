@@ -19,12 +19,12 @@ sources:
     ref: '[[references/HBS-booking-com-case]]'
 related:
   - '[[concepts/agency-vs-merchant-model]]'
-  - '[[concepts/ota-business-models]]'
-  - '[[concepts/two-sided-market]]'
+  - 'ota business models'
+  - 'two sided market'
   - '[[concepts/asset-light-strategy]]'
   - '[[entities/Booking-com]]'
   - '[[entities/Shopee]]'
-  - '[[entities/Expedia]]'
+  - 'Expedia'
   - '[[entities/Amazon]]'
 ---
 
@@ -36,7 +36,7 @@ related:
 
 | 產業 | Agency 玩家 | Merchant 玩家 | Hybrid 玩家 |
 |---|---|---|---|
-| **OTA / 飯店** | [[entities/Booking-com|Booking.com]]、Agoda、TripAdvisor（advertising） | [[entities/Expedia]]、Hotels.com、Priceline.com、Travelocity | Marriott Brand.com（自家 agency） |
+| **OTA / 飯店** | [[entities/Booking-com|Booking.com]]、Agoda、TripAdvisor（advertising） | Expedia、Hotels.com、Priceline.com、Travelocity | Marriott Brand.com（自家 agency） |
 | **e-commerce** | 阿里巴巴（Tmall 第三方）、eBay、Etsy | [[entities/Shopee]]（自有貨）、京東自營、Costco | Amazon（FBA marketplace + first-party retail 雙軌） |
 | **食物外送** | UberEats、DoorDash（餐廳是賣家） | 美團（自有 cloud kitchen 部分）、Foodpanda 自營區 | 大部分外送都偏 agency |
 | **Ride-hailing** | Uber、Lyft（driver 是 contractor，但平台對 UI / pricing 強控） | 黃車（自有車隊）、計程車行 | Uber 屬 hybrid（pricing / surge 是 platform 控制） |
@@ -81,7 +81,7 @@ related:
 
 ## Tans 為何選 Agency（[[entities/Booking-com|Booking]] case）
 
-[[entities/Gillian-Tans|Tans]] CEO 立場：「我們的競爭對手更像旅行社，**agency 更合理**」 ^[extracted]
+Tans CEO 立場：「我們的競爭對手更像旅行社，**agency 更合理**」 ^[extracted]
 
 具體理由（從 case 整理）：
 1. **景氣衰退時 merchant 模式扛庫存風險**
@@ -132,6 +132,6 @@ Amazon 是少數**同時做 agency + merchant** 的玩家：
 
 ## Related
 
-- [[concepts/agency-vs-merchant-model]] / [[concepts/ota-business-models]] / [[concepts/two-sided-market]] / [[concepts/asset-light-strategy]] / [[concepts/network-externalities]] / [[concepts/ota-disintermediation]] / [[concepts/long-tail-theory]] / [[concepts/dominant-design]]
-- [[entities/Booking-com]] / [[entities/Shopee]] / [[entities/Expedia]] / [[entities/Amazon]] / [[entities/Marriott-International]] / [[entities/Alibaba]] / [[entities/eBay]] / [[entities/Netflix]] / [[entities/Spotify]]
+- [[concepts/agency-vs-merchant-model]] / ota business models / two sided market / [[concepts/asset-light-strategy]] / [[concepts/network-externalities]] / ota disintermediation / [[concepts/long-tail-theory]] / [[concepts/dominant-design]]
+- [[entities/Booking-com]] / [[entities/Shopee]] / Expedia / [[entities/Amazon]] / [[entities/Marriott-International]] / Alibaba / eBay / Netflix / Spotify
 - [[references/HBS-booking-com-case]] / [[references/kotler-keller-chernev-marketing-management-16e]] Wave 3 / [[references/HBS-marriott-90yr-case]]

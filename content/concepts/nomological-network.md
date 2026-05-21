@@ -61,7 +61,7 @@ Benevolence ─────→ Emotional Exhaustion (-0.64***)
 Morality ──→ ...
 ```
 
-→ 三維度 paternalistic leadership construct（[[concepts/paternalistic-leadership]] 待寫）在 nomological network 中對 Team Performance 既有正路徑（via identification）也有負路徑（via exhaustion）— 構成 double-edged sword。
+→ 三維度 paternalistic leadership construct（paternalistic leadership 待寫）在 nomological network 中對 Team Performance 既有正路徑（via identification）也有負路徑（via exhaustion）— 構成 double-edged sword。
 
 ## 對 PM / 系統設計的應用 ^[inferred]
 

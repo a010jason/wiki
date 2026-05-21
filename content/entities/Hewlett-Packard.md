@@ -23,7 +23,7 @@ Hewlett-Packard（HP）為 1939 年 Bill Hewlett 與 David Packard 於矽谷車�
 ### 手段
 
 調查公司透過 [[concepts/pretexting]]（假冒身分詐騙），以董事與記者的個人資料取得電信通話紀錄、簡訊紀錄，目標包括：
-- 9 位董事（含 [[entities/Tom-Perkins]]、[[entities/Carly-Fiorina]]）
+- 9 位董事（含 Tom-Perkins、Carly-Fiorina）
 - 多名記者
 - CEO Mark Hurd（被調查）
 
@@ -43,8 +43,8 @@ Hewlett-Packard（HP）為 1939 年 Bill Hewlett 與 David Packard 於矽谷車�
 |---|---|---|
 | **[[entities/Patricia-Dunn]]** | 董事長 | 授權調查者，名譽掃地 |
 | **Mark Hurd** | CEO / 後任董事長 | 被調查對象、後升任董事長（2010 因報帳醜聞辭職） |
-| **[[entities/Tom-Perkins]]** | 董事 | 被 pretexting 目標、後成揭發者 |
-| **[[entities/Carly-Fiorina]]** | 前 CEO（2005 已離職） | 被 pretexting 目標 |
+| **Tom-Perkins** | 董事 | 被 pretexting 目標、後成揭發者 |
+| **Carly-Fiorina** | 前 CEO（2005 已離職） | 被 pretexting 目標 |
 
 ## 治理失能教訓
 

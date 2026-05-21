@@ -121,10 +121,10 @@ Henseler 等（2015）批評 Fornell-Larcker criterion：在 simulation 中 dete
 ## Related
 
 - [[concepts/construct-validity]]
-- [[concepts/convergent-validity]]
-- [[concepts/discriminant-validity]]
-- [[concepts/confirmatory-factor-analysis]]
-- [[concepts/exploratory-factor-analysis]]
+- convergent validity
+- discriminant validity
+- confirmatory factor analysis
+- exploratory factor analysis
 - [[concepts/PLS-SEM-vs-CB-SEM]]
 
 ## Sources

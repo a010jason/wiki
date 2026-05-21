@@ -29,7 +29,7 @@ lifecycle_changed: 2026-05-21
 |---|---|---|---|
 | 1 | **Covariation of cause and effect** | 共變 | cause 發生 → effect 也發生；cause 不發生 → effect 不發生 |
 | 2 | **Temporal precedence** | 時間先行 | cause 在時間上必須**先於** effect |
-| 3 | **No plausible alternative explanation** | 沒有其他貌似為真的解釋 | 排除 [[concepts/spurious-correlation\|spurious correlation]] 與 confounding variables |
+| 3 | **No plausible alternative explanation** | 沒有其他貌似為真的解釋 | 排除 spurious correlation 與 confounding variables |
 
 來源：Bhattacherjee Ch5 slide pp.38-39；亦見於 [[concepts/scientific-method-OB|Colquitt OB Ch1]] 的相同三條件論述。^[extracted]
 
@@ -105,7 +105,7 @@ lifecycle_changed: 2026-05-21
 - [[concepts/scientific-method-OB]] — Colquitt OB 版本
 - [[concepts/inductive-vs-deductive-research]]
 - [[concepts/research-design]]
-- [[concepts/experimental-design]]
+- experimental design
 
 ## Sources
 

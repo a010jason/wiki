@@ -126,15 +126,15 @@ PwC 文宣未提：
 ## 與 wiki 既有概念連結 ^[inferred]
 
 - [[concepts/agency-theory]] — banker 自利報價是 agency conflict
-- [[concepts/incomplete-contract-theory]] — 待寫，金融基礎建設變革對既有合約衝擊
+- incomplete contract theory — 待寫，金融基礎建設變革對既有合約衝擊
 - [[concepts/scientific-method-four-criteria|Replicability]] — LIBOR 操縱可長期未被偵測是 measurement integrity 失靈
 - `synthesis/governance-failure-libor-pattern` — 待寫，與其他治理失敗案例（Enron、2008 等）對比
 
 ## Related
 
 - [[concepts/agency-theory]]
-- [[concepts/incomplete-contract-theory]] — 待寫
-- [[references/pwc-libor-2019]] — 待寫
+- incomplete contract theory — 待寫
+- pwc libor 2019 — 待寫
 - [[references/bhattacherjee-social-science-research]] — 課程教材
 
 ## Sources

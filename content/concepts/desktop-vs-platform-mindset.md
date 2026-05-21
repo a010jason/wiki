@@ -18,10 +18,10 @@ sources:
     ref: '[[references/HBS-microsoft-adcenter-case]]'
 related:
   - '[[concepts/dominant-design]]'
-  - '[[concepts/winner-takes-all]]'
-  - '[[concepts/two-sided-market]]'
+  - 'winner takes all'
+  - 'two sided market'
   - '[[concepts/disruptive-innovation]]'
-  - '[[concepts/competency-trap]]'
+  - 'competency trap'
   - '[[concepts/organizational-inertia]]'
   - '[[entities/Microsoft-AdCenter]]'
 ---
@@ -68,7 +68,7 @@ slide 11 配 Windows Live / Nokia / Xbox / Bing / Office / Kinect 的 Global Rea
 2. **組織結構慣性**：BU-led（每個 product 有 GM），不是 platform-led
 3. **monetization habit**：習慣賣 SKU，不習慣 take-rate / commission / ads
 4. **M&amp;A 邏輯**：買的是技術 / 人才 / channel，不是 network position
-5. **competitive frame**：Porter generic strategy 思維（cost / differentiation / focus），對應 [[concepts/porter-generic-strategy-fail-in-digital]] 的 take-away
+5. **competitive frame**：Porter generic strategy 思維（cost / differentiation / focus），對應 porter generic strategy fail in digital 的 take-away
 
 ## 對其他 incumbent 失敗的延伸（推測）^[inferred]
 
@@ -90,7 +90,7 @@ slide 11 配 Windows Live / Nokia / Xbox / Bing / Office / Kinect 的 Global Rea
 3. **能力資產 mismatch**：銷售團隊不會做 community management；工程師習慣 release cycle
 4. **股東預期**：股東要 quarterly earnings，不接受 platform 5 年投資期
 5. **[[concepts/organizational-inertia|組織慣性]]**：Tushman 五大來源全套用
-6. **[[concepts/competency-trap|Competency trap]]**：過去的能力反成枷鎖
+6. **Competency trap**：過去的能力反成枷鎖
 
 ## 跳出的路徑（教師沒給，Jason 推測）^[inferred]
 
@@ -115,7 +115,7 @@ slide 11 配 Windows Live / Nokia / Xbox / Bing / Office / Kinect 的 Global Rea
 
 ## Related
 
-- [[concepts/dominant-design]] / [[concepts/winner-takes-all]] / [[concepts/two-sided-market]] / [[concepts/network-externalities]] / [[concepts/disruptive-innovation]] / [[concepts/competency-trap]] / [[concepts/organizational-inertia]] / [[concepts/porter-generic-strategy-fail-in-digital]] / [[concepts/strategic-innovation]] / [[concepts/portal-evaporation-thesis]] / [[concepts/keyword-auction-two-sided-market]]
-- [[entities/Microsoft]] / [[entities/Microsoft-AdCenter]] / [[entities/Google]] / [[entities/Yahoo]] / [[entities/AOL]] / [[entities/Satya-Nadella]] / [[entities/Steve-Ballmer]]
+- [[concepts/dominant-design]] / winner takes all / two sided market / [[concepts/network-externalities]] / [[concepts/disruptive-innovation]] / competency trap / [[concepts/organizational-inertia]] / porter generic strategy fail in digital / [[concepts/strategic-innovation]] / portal evaporation thesis / keyword auction two sided market
+- Microsoft / [[entities/Microsoft-AdCenter]] / [[entities/Google]] / Yahoo / AOL / Satya-Nadella / Steve-Ballmer
 - [[references/HBS-microsoft-adcenter-case]] / [[references/hbs-gafa-case-deighton-2013]] / [[references/iansiti-lakhani-competing-age-of-ai-2020]]
-- [[synthesis/desktop-vs-platform-mindset-incumbents]] / [[synthesis/corporate-venturing-isolation-paradox]]
+- desktop vs platform mindset incumbents / [[synthesis/corporate-venturing-isolation-paradox]]

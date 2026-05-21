@@ -103,7 +103,7 @@ lifecycle_changed: 2026-05-21
 
 ## 常見研究錯誤 ^[extracted]
 
-教師整理的六大錯誤（詳見 [[concepts/common-research-pitfalls]]）：
+教師整理的六大錯誤（詳見 common research pitfalls）：
 
 1. **Insufficiently motivated research questions**（pet problems）
 2. **Pursuing research fads**（追熱門題目）
@@ -132,7 +132,7 @@ PM 的 discovery → delivery 流程其實同構：
 
 - [[concepts/scientific-paradigms]] — functionalist 是這個流程的 paradigm
 - [[concepts/inverted-triangle-rq]] — RQ 的視覺工具
-- [[concepts/common-research-pitfalls]]
+- common research pitfalls
 - [[concepts/scientific-theory]]
 - [[concepts/research-design]]
 

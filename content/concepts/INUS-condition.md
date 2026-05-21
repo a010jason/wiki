@@ -19,7 +19,7 @@ sources:
 related:
   - '[[concepts/tautology-in-management-theory]]'
   - '[[concepts/falsifiability-popper]]'
-  - '[[concepts/causal-inference-vs-correlation]]'
+  - 'causal inference vs correlation'
   - '[[concepts/causality-three-conditions]]'
   - '[[entities/Tang-Edwin-Yingzhang]]'
 ---
@@ -125,6 +125,6 @@ INUS 在哲學、社科、流行病學、計算機科學都有應用：
 
 ## Related
 
-- **概念**：[[concepts/tautology-in-management-theory]] / [[concepts/falsifiability-popper]] / [[concepts/causal-inference-vs-correlation]] / [[concepts/causality-three-conditions]] / [[concepts/porters-generic-strategies]] / [[concepts/competitive-advantage]] / [[concepts/VRIO-framework]] / [[concepts/dynamic-capabilities]] / [[concepts/causal-ambiguity]]
-- **Entity**：[[entities/Tang-Edwin-Yingzhang]] / [[entities/John-Mackie]]（哲學家）
+- **概念**：[[concepts/tautology-in-management-theory]] / [[concepts/falsifiability-popper]] / causal inference vs correlation / [[concepts/causality-three-conditions]] / [[concepts/porters-generic-strategies]] / [[concepts/competitive-advantage]] / [[concepts/VRIO-framework]] / [[concepts/dynamic-capabilities]] / [[concepts/causal-ambiguity]]
+- **Entity**：[[entities/Tang-Edwin-Yingzhang]] / John-Mackie（哲學家）
 - **參考**：[[references/fighting-with-porter-lecture]] / Mackie 1965 / 1974（待建 reference）/ [[references/bhattacherjee-social-science-research]]

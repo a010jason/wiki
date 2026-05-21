@@ -134,6 +134,6 @@ EBM 做行銷研究的特殊難點：^[inferred — Jason 個人延伸]
 
 - [[concepts/G-STIC-framework]] — Marketing research 是 Goal / Strategy 步驟的 input
 - [[concepts/marketing-dashboard]] — Research output 落地的監控工具
-- [[concepts/market-demand-hierarchy]] — Research 處理的需求測量
-- [[concepts/demand-forecasting-methods]] — Research output 的具體應用
+- market demand hierarchy — Research 處理的需求測量
+- demand forecasting methods — Research output 的具體應用
 - [[references/kotler-keller-chernev-marketing-management-16e]]

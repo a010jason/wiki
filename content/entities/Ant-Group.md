@@ -17,14 +17,14 @@ sources:
   - id: HBS-9-617-060-Ant-Financial-case
     ref: '[[references/HBS-9-617-060-Ant-Financial-case]]'
 related:
-  - '[[entities/Alibaba]]'
-  - '[[entities/Jack-Ma]]'
+  - 'Alibaba'
+  - 'Jack-Ma'
   - '[[concepts/institutional-voids]]'
   - '[[concepts/substitute-complement-substitute-cycle]]'
-  - '[[concepts/techfin-vs-fintech]]'
-  - '[[concepts/bass-diffusion-model]]'
-  - '[[concepts/KYC-to-CRM]]'
-  - '[[concepts/VIE-structure]]'
+  - 'techfin vs fintech'
+  - 'bass diffusion model'
+  - 'KYC-to-CRM'
+  - 'VIE-structure'
 ---
 
 # Ant Group / 螞蟻金服
@@ -37,7 +37,7 @@ related:
 
 | 年 | 事件 |
 |---|---|
-| 1999 | Alibaba 由 [[entities/Jack-Ma|馬雲]] 等創辦於杭州 |
+| 1999 | Alibaba 由 馬雲 等創辦於杭州 |
 | 2004 | Alipay 成立 — 解淘寶網「賣家不可信」的 lemon problem，做 escrow account（託管帳戶） |
 | 2010 | **拿到第一張 PBOC 非銀支付牌照**（教師眉批：「太子黨」） |
 | 2011 | Alipay 從阿里正式分拆（VIE 結構爭議起點） |
@@ -45,7 +45,7 @@ related:
 | 2014 | 螞蟻金服正式營運 |
 | 2015 | Zhima Credit 芝麻信用 + MYbank 網商銀行成立 |
 | 2016 | 雙 11 處理 RMB 120.7B 支付 |
-| 2020/10 | [[entities/Jack-Ma|馬雲]] 外灘演講；批評監管 |
+| 2020/10 | 馬雲 外灘演講；批評監管 |
 | **2020/11** | **IPO 撤回**（原估值 ~\$300B，史上最大 IPO 緊急喊停） |
 | 2021+ | 強制重組為金融控股公司；螞蟻消金；監管沙盒 |
 
@@ -107,7 +107,7 @@ Step 3: 替代效果
 
 > 「**淘寶網就是 Diffusion model 的 p**」「**f(t)/1-F(t) = p + qS**」 ^[teacher-annotation]
 
-意思：淘寶網是 **p 創新係數**（innovator coefficient），Alipay **加速 q 模仿擴散**（imitator coefficient）。詳見 [[concepts/bass-diffusion-model]]。
+意思：淘寶網是 **p 創新係數**（innovator coefficient），Alipay **加速 q 模仿擴散**（imitator coefficient）。詳見 bass diffusion model。
 
 ## KYC → CRM（教師原創框架）
 
@@ -115,7 +115,7 @@ Step 3: 替代效果
 
 教師眉批：「**FinLive / Lead Users / Know your customers / KYC → CRM**」 ^[teacher-annotation]
 
-詳見 [[concepts/KYC-to-CRM]]。
+詳見 KYC-to-CRM。
 
 ## 4V Analytics（教師標出阿里 AI 基礎）
 
@@ -135,7 +135,7 @@ VIE（Variable Interest Entity）結構是中國科技公司繞中國禁外資�
 - 美國 PCAOB 查帳壓力升高
 - → 螞蟻被迫**香港二次上市集資**
 
-詳見 [[concepts/VIE-structure]]。
+詳見 VIE-structure。
 
 ## 教師對「Fly under the radar」整段打 X
 
@@ -203,7 +203,7 @@ slide p.11：
 
 ## 對標 entity
 
-- **vs [[entities/Tencent]] / WeChat Pay**：第三方支付雙頭壟斷
+- **vs Tencent / WeChat Pay**：第三方支付雙頭壟斷
 - **vs PayPal / MasterCard / Visa**：全球 fintech 對標
 - **vs [[entities/Booking-com|Booking]] / [[entities/Microsoft-AdCenter]]**：跨案例平台戰對比
 - **vs [[entities/Shopee]] / [[entities/Amazon]]**：e-commerce 母平台對比
@@ -218,7 +218,7 @@ slide p.11：
 
 ## Related
 
-- **概念**：[[concepts/institutional-voids]] / [[concepts/substitute-complement-substitute-cycle]] / [[concepts/techfin-vs-fintech]] / [[concepts/bass-diffusion-model]] / [[concepts/KYC-to-CRM]] / [[concepts/VIE-structure]] / [[concepts/escrow-and-third-party-payment]] / [[concepts/ecosystem-competition]] / [[concepts/complementary-assets]] / [[concepts/tipping-point-platform-strategy]] / [[concepts/two-sided-market]] / [[concepts/network-externalities]] / [[concepts/dominant-design]] / [[concepts/agency-vs-merchant-model]] / [[concepts/disruptive-innovation]]
-- **Entity**：[[entities/Alibaba]] / [[entities/Jack-Ma]] / [[entities/Tencent]] / [[entities/Pinduoduo]] / [[entities/JD-com]] / [[entities/Joe-Tsai]] / [[entities/Eric-Jing]] / [[entities/Booking-com]] / [[entities/Shopee]]（教師對標）
+- **概念**：[[concepts/institutional-voids]] / [[concepts/substitute-complement-substitute-cycle]] / techfin vs fintech / bass diffusion model / KYC-to-CRM / VIE-structure / escrow and third party payment / ecosystem competition / complementary assets / tipping point platform strategy / two sided market / [[concepts/network-externalities]] / [[concepts/dominant-design]] / [[concepts/agency-vs-merchant-model]] / [[concepts/disruptive-innovation]]
+- **Entity**：Alibaba / Jack-Ma / Tencent / Pinduoduo / JD-com / Joe-Tsai / Eric-Jing / [[entities/Booking-com]] / [[entities/Shopee]]（教師對標）
 - **參考**：[[references/HBS-9-617-060-Ant-Financial-case]] / [[references/grant-contemporary-strategy-analysis]] Ch3 industry / Ch9 innovation / Ch11 global strategy
-- **Synthesis**：[[synthesis/substitute-complement-substitute-cycle-pattern]] / [[synthesis/why-china-no-winner-take-all]]
+- **Synthesis**：substitute complement substitute cycle pattern / why china no winner take all

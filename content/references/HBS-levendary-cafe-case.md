@@ -43,8 +43,8 @@ summary: >-
 
 > Bartlett, C. A., &amp; Han, A. (2011). *Levendary Café: The China Challenge*. Harvard Business School Case 4357.
 
-- 作者 **Christopher A. Bartlett**（[[concepts/integration-responsiveness-framework]] 原作者 — Bartlett-Ghoshal I-R framework）+ Arar Han
-- 教學定位：跨國組織進入新興市場 / [[concepts/transnational-strategy]] 困境 / HQ-subsidiary 治理 / [[concepts/subsidiary-leader-lifecycle]] 演化
+- 作者 **Christopher A. Bartlett**（integration responsiveness framework 原作者 — Bartlett-Ghoshal I-R framework）+ Arar Han
+- 教學定位：跨國組織進入新興市場 / transnational strategy 困境 / HQ-subsidiary 治理 / [[concepts/subsidiary-leader-lifecycle]] 演化
 - 中文翻譯版含交大唐瓔璋教授審訂痕跡（與 Samsung case 同源）
 
 ## Ingest 範圍與方法
@@ -60,12 +60,12 @@ Path B subagent-first；單一 subagent 一次讀完 case + slide 共 28 頁；�
 詳見 [[entities/Levendary-Cafe]] 主頁。新建頁面：
 
 - [[entities/Levendary-Cafe]] — 案例 hub（含 Foster / Chen / Leventhal / Steele / Leclerc / White 全角色）
-- [[concepts/standardization-vs-localization]] — 核心張力
-- [[concepts/integration-responsiveness-framework]] — Bartlett-Ghoshal I-R 矩陣
-- [[concepts/transnational-strategy]] — TNC（integrated network）
+- standardization vs localization — 核心張力
+- integration responsiveness framework — Bartlett-Ghoshal I-R 矩陣
+- transnational strategy — TNC（integrated network）
 - [[concepts/subsidiary-leader-lifecycle]] — Go-Getter / Local Baron / Professional Manager（教師中文比喻：自走砲 / 藩鎮割據 / 太平盛世）
-- [[concepts/hq-subsidiary-control-tension]] — strategic control vs entrepreneurial flexibility
-- [[concepts/fast-casual-positioning]] — Quick Casual segment（介於 QSR \$4-10 與 Casual Dining \$8-20 之間 \$8-12）
+- hq subsidiary control tension — strategic control vs entrepreneurial flexibility
+- fast casual positioning — Quick Casual segment（介於 QSR \$4-10 與 Casual Dining \$8-20 之間 \$8-12）
 - [[synthesis/wei-zheng-leadership-and-subsidiary-management]] — **諫太宗十思疏 ↔ 子公司治理** 跨領域對標
 
 ## 教師眉批採集（核心 — 詳見 entities/Levendary-Cafe）

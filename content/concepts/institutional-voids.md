@@ -18,8 +18,8 @@ sources:
     ref: '[[references/HBS-9-617-060-Ant-Financial-case]]'
 related:
   - '[[concepts/substitute-complement-substitute-cycle]]'
-  - '[[concepts/complementary-assets]]'
-  - '[[concepts/lemon-problem]]'
+  - 'complementary assets'
+  - 'lemon problem'
   - '[[entities/Ant-Group]]'
 ---
 
@@ -104,6 +104,6 @@ related:
 
 ## Related
 
-- **概念**：[[concepts/substitute-complement-substitute-cycle]] / [[concepts/complementary-assets]] / [[concepts/lemon-problem]] / [[concepts/ecosystem-competition]] / [[concepts/tipping-point-platform-strategy]] / [[concepts/disruptive-innovation]] / [[concepts/CAGE-distance-framework]] / [[concepts/techfin-vs-fintech]] / [[concepts/escrow-and-third-party-payment]]
-- **Entity**：[[entities/Ant-Group]] / [[entities/Alibaba]] / [[entities/Tencent]] / [[entities/PayPal]] / [[entities/Paytm]] / [[entities/M-Pesa]] / [[entities/Nubank]] / [[entities/Tarun-Khanna]] / [[entities/Krishna-Palepu]]
+- **概念**：[[concepts/substitute-complement-substitute-cycle]] / complementary assets / lemon problem / ecosystem competition / tipping point platform strategy / [[concepts/disruptive-innovation]] / [[concepts/CAGE-distance-framework]] / techfin vs fintech / escrow and third party payment
+- **Entity**：[[entities/Ant-Group]] / Alibaba / Tencent / PayPal / Paytm / M-Pesa / Nubank / Tarun-Khanna / Krishna-Palepu
 - **參考**：[[references/HBS-9-617-060-Ant-Financial-case]] / Khanna &amp; Palepu *Winning in Emerging Markets*

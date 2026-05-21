@@ -24,14 +24,14 @@ sources:
     pages: 21
     note: '2026-05-22 補完。L3 pdftoppm -r 72 -jpeg + 7 parallel subagent 走 CLAUDE.md SOP；前次 deferred 結論被推翻——SOP L3 路徑沒走完就放棄'
 related:
-  - '[[concepts/porter-generic-strategy-fail-in-digital]]'
-  - '[[concepts/two-sided-market]]'
-  - '[[concepts/winner-takes-all]]'
+  - 'porter generic strategy fail in digital'
+  - 'two sided market'
+  - 'winner takes all'
   - '[[concepts/dominant-design]]'
   - '[[concepts/network-externalities]]'
-  - '[[concepts/keyword-auction-two-sided-market]]'
-  - '[[concepts/paid-search-economics]]'
-  - '[[concepts/portal-evaporation-thesis]]'
+  - 'keyword auction two sided market'
+  - 'paid search economics'
+  - 'portal evaporation thesis'
   - '[[concepts/desktop-vs-platform-mindset]]'
 ---
 
@@ -65,7 +65,7 @@ Microsoft 2006 推出的 paid-search 廣告平台，企圖在 Google AdWords 已
 教師對為何下這判斷的進一步分析（slide 10 底部）：
 - 「**為何廣告主不靠行？Circulation 太低**」（advertiser side 的 chicken-and-egg）
 - 「**Why low price can't work? 要的是價值**」（價格戰打不贏 — 廣告主在乎 ROAS / CTR）
-- 「**Why multi-home strategies do not work? 因為 Standard 已經被 Google 制定了**」（[[concepts/dominant-design|dominant design]] / [[concepts/standard-war|standard war]] 已落幕）
+- 「**Why multi-home strategies do not work? 因為 Standard 已經被 Google 制定了**」（[[concepts/dominant-design|dominant design]] / standard war 已落幕）
 
 ## Take-Away — Porter Generic Strategy 在 Digital 為何失靈
 
@@ -73,10 +73,10 @@ slide 11 Take-Away 標題直問：**「Why Focus Strategy (波特) can't work? �
 
 教師留 7 點空白給課堂討論，但已寫了第 1 點：
 
-1. **贏者全拿**（[[concepts/winner-takes-all|winner-takes-all]]）— Porter generic strategy 在 digital 失敗的核心原因
-2-7. 留空（推測對應 zero marginal cost / [[concepts/network-externalities|network effect]] / [[concepts/standard-war|standard war]] / [[concepts/two-sided-market|two-sided market]] / data flywheel / switching cost）
+1. **贏者全拿**（winner-takes-all）— Porter generic strategy 在 digital 失敗的核心原因
+2-7. 留空（推測對應 zero marginal cost / [[concepts/network-externalities|network effect]] / standard war / two-sided market / data flywheel / switching cost）
 
-詳見 [[concepts/porter-generic-strategy-fail-in-digital]]（candidate synthesis page）。
+詳見 porter generic strategy fail in digital（candidate synthesis page）。
 
 ## Case 原文敘事（HBS 9-908-049, Coles & Edelman 2008）— 2026-05-22 補完
 
@@ -86,7 +86,7 @@ slide 11 Take-Away 標題直問：**「Why Focus Strategy (波特) can't work? �
 
 ### 三大線上廣告分類（Case p.1-3）
 
-1. **Sponsored Search（贊助式搜尋廣告）**：~40% 線上廣告市場（2006）；SERP 文字廣告，CPC 模型，每頁 8-10 個廣告位。CPC 由 [[entities/Overture]]（Goto.com 改名）首創、Google AdWords 加上 Quality Score 強化 ^[extracted, case-pdf]
+1. **Sponsored Search（贊助式搜尋廣告）**：~40% 線上廣告市場（2006）；SERP 文字廣告，CPC 模型，每頁 8-10 個廣告位。CPC 由 Overture（Goto.com 改名）首創、Google AdWords 加上 Quality Score 強化 ^[extracted, case-pdf]
 2. **Contextual Ads（內容廣告）**：投放於 publisher 網站內容區，AdSense / Yahoo Publisher Network 為代表
 3. **Display Ads**：傳統 banner / 視覺廣告，branding 為主
 
@@ -243,7 +243,7 @@ Google 後續發展，把影音 + 廣告平台整合。
 
 ## Related
 
-- **概念**：[[concepts/porter-generic-strategy-fail-in-digital]] / [[concepts/two-sided-market]] / [[concepts/winner-takes-all]] / [[concepts/dominant-design]] / [[concepts/network-externalities]] / [[concepts/keyword-auction-two-sided-market]] / [[concepts/paid-search-economics]] / [[concepts/portal-evaporation-thesis]] / [[concepts/desktop-vs-platform-mindset]] / [[concepts/contextual-ad-vs-search-ad]] / [[concepts/organic-vs-paid-search-CTR-asymmetry]] / [[concepts/pagerank-as-ad-moat]] / [[concepts/standard-war]] / [[concepts/disruptive-innovation]]
-- **Entity**：[[entities/Google]] / [[entities/Microsoft]] / [[entities/Yahoo]] / [[entities/AOL]] / [[entities/Overture]] / [[entities/Facebook]] / [[entities/Doug-Stotland]]
+- **概念**：porter generic strategy fail in digital / two sided market / winner takes all / [[concepts/dominant-design]] / [[concepts/network-externalities]] / keyword auction two sided market / paid search economics / portal evaporation thesis / [[concepts/desktop-vs-platform-mindset]] / contextual ad vs search ad / organic vs paid search CTR asymmetry / pagerank as ad moat / standard war / [[concepts/disruptive-innovation]]
+- **Entity**：[[entities/Google]] / Microsoft / Yahoo / AOL / Overture / [[entities/Facebook]] / Doug-Stotland
 - **參考**：[[references/HBS-microsoft-adcenter-case]] / [[references/grant-contemporary-strategy-analysis]] Ch3 / Ch4 / Ch9 / [[references/hbs-gafa-case-deighton-2013]]
-- **Synthesis（候選）**：[[synthesis/porter-generic-strategy-fail-in-digital]] / [[synthesis/desktop-vs-platform-mindset-incumbents]]（MS / Nokia / Kodak / Blockbuster）
+- **Synthesis（候選）**：porter generic strategy fail in digital / desktop vs platform mindset incumbents（MS / Nokia / Kodak / Blockbuster）

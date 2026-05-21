@@ -152,7 +152,7 @@ Population 地理分散 → 切 clusters（通常地理邊界）→ 隨機抽幾
 
 - [[concepts/sampling-frame]]
 - [[concepts/non-probability-sampling]]
-- [[concepts/sampling-bias]]
+- sampling bias
 - [[concepts/external-validity]]
 - [[concepts/research-design]]
 

@@ -126,10 +126,10 @@ Stevens, S. S. (1946). On the theory of scales of measurement. *Science*. 經典
 ## Related
 
 - [[concepts/concept-vs-construct-vs-variable]]
-- [[concepts/likert-scale]]
-- [[concepts/semantic-differential-scale]]
-- [[concepts/guttman-scale]]
-- [[concepts/composite-index]]
+- likert scale
+- semantic differential scale
+- guttman scale
+- composite index
 - [[concepts/reflective-vs-formative-measurement]]
 
 ## Sources

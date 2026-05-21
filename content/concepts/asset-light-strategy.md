@@ -19,10 +19,10 @@ sources:
   - id: HBS-9-619-015-Booking-case
     ref: '[[references/HBS-booking-com-case]]'
 related:
-  - '[[concepts/management-vs-franchise-contract]]'
+  - 'management vs franchise contract'
   - '[[concepts/vertical-integration]]'
   - '[[concepts/transaction-cost-economics]]'
-  - '[[concepts/two-sided-market]]'
+  - 'two sided market'
   - '[[entities/Marriott-International]]'
   - '[[entities/Booking-com]]'
 ---
@@ -41,7 +41,7 @@ related:
 - 美國 80% Marriott 採 franchise；海外 28%
 - 收費結構：管理協議 base 3% + incentive 20-25% profit（20-30 年）；franchise royalty 4-6% + 行銷 2-3%
 - 2016 營業利潤率 ~45% — **平台級毛利**
-- 詳見 [[concepts/management-vs-franchise-contract]]
+- 詳見 management vs franchise contract
 
 ### 2. 數位平台型（Booking）
 - **CGS ≈ 0** — 完全沒有實體庫存
@@ -99,7 +99,7 @@ Asset-light 是 Williamson TCE 的 **hybrid governance**：
 | Quality 控制 | brand standards + audit | review system + Superhost |
 | Loyalty linkage | Bonvoy 母合 1 億會員 | Genius 較弱 — **沒辦法 linkage**（教師眉批） |
 
-詳見 [[synthesis/asset-light-vs-asset-heavy-hospitality]]。
+詳見 asset light vs asset heavy hospitality。
 
 ## Open Questions（待 wiki-challenge）
 
@@ -110,7 +110,7 @@ Asset-light 是 Williamson TCE 的 **hybrid governance**：
 
 ## Related
 
-- [[concepts/management-vs-franchise-contract]] / [[concepts/vertical-integration]] / [[concepts/transaction-cost-economics]] / [[concepts/two-sided-market]] / [[concepts/network-externalities]] / [[concepts/dedicated-vs-flexible-capacity]] / [[concepts/multi-brand-hotel-portfolio]] / [[concepts/smile-curve]] / [[concepts/value-chain]]
-- [[entities/Marriott-International]] / [[entities/Booking-com]] / [[entities/Airbnb]] / [[entities/Samsung-Electronics]]（反例）
+- management vs franchise contract / [[concepts/vertical-integration]] / [[concepts/transaction-cost-economics]] / two sided market / [[concepts/network-externalities]] / [[concepts/dedicated-vs-flexible-capacity]] / multi brand hotel portfolio / [[concepts/smile-curve]] / [[concepts/value-chain]]
+- [[entities/Marriott-International]] / [[entities/Booking-com]] / Airbnb / [[entities/Samsung-Electronics]]（反例）
 - [[references/HBS-marriott-90yr-case]] / [[references/HBS-booking-com-case]] / [[references/grant-contemporary-strategy-analysis]] Ch10 VI
-- [[synthesis/asset-light-vs-asset-heavy-hospitality]]
+- asset light vs asset heavy hospitality

@@ -78,4 +78,4 @@ lifecycle_changed: 2026-05-21
 - **危機處理**：[[concepts/crisis-management-PDCA]], [[concepts/ISO-39001]], [[concepts/pointing-and-calling]]
 - **永續退場**：[[concepts/exit-with-ESG]]
 - **人才/雇主品牌**：[[concepts/employer-branding]]
-- **航運業 ESG**：[[concepts/IMO-GHG-strategy]]（待創）, [[concepts/CBAM]], [[entities/Yang-Ming-Marine]]
+- **航運業 ESG**：IMO-GHG-strategy（待創）, [[concepts/CBAM]], [[entities/Yang-Ming-Marine]]

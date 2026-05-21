@@ -115,8 +115,8 @@ lifecycle_changed: 2026-05-21
 
 - **董事義務**：[[concepts/director-fiduciary-duty]] (公司法 23 條), [[concepts/competing-business-prohibition]] (209 條)
 - **獨立性機制**：[[concepts/independent-director]], [[concepts/audit-committee]], [[concepts/three-committees]]
-- **股份設計**：[[concepts/special-shares-tw]], [[concepts/dual-class-shares]], [[concepts/ESOP-employee-stock]], [[concepts/share-buyback-tw]]
-- **股東保護**：[[concepts/cumulative-voting]], [[concepts/appraisal-right]]
+- **股份設計**：[[concepts/special-shares-tw]], [[concepts/dual-class-shares]], [[concepts/ESOP-employee-stock]], share buyback tw
+- **股東保護**：[[concepts/cumulative-voting]], appraisal right
 - **控制結構**：[[concepts/pyramidal-control-structure]]
 - **醜聞案例**：[[entities/Hewlett-Packard]], [[entities/Patricia-Dunn]], [[concepts/pretexting]]
 - **跨頁 synthesis**：[[synthesis/family-firm-control-vs-governance]], [[synthesis/HP-pretexting-lessons]]

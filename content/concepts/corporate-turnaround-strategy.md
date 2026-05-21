@@ -17,10 +17,10 @@ sources:
   - id: HBS-9-713-478-Lego-crisis-case
     ref: '[[references/HBS-9-713-478-Lego-crisis-case]]'
 related:
-  - '[[concepts/back-to-core-strategy]]'
-  - '[[concepts/value-chain-reconfiguration]]'
-  - '[[concepts/sku-proliferation-trap]]'
-  - '[[concepts/brand-reloaded-strategy]]'
+  - 'back to core strategy'
+  - 'value chain reconfiguration'
+  - 'sku proliferation trap'
+  - 'brand reloaded strategy'
   - '[[entities/Lego-Group]]'
   - '[[entities/Samsung-Electronics]]'
   - '[[entities/Apple]]'
@@ -94,9 +94,9 @@ re-inventing value chain
 ## 為什麼這個框架重要
 
 1. **解釋為什麼多數 turnaround 失敗**：跳過任一步或順序錯誤都會失敗 — 沒 re-position 就 re-configuration = 砍錯地方；沒 mobility barrier removal 就 value chain reinvention = 舊勢力反撲
-2. **連結 [[concepts/back-to-core-strategy|back-to-core]]**：所有成功 turnaround 都從「back to core」開始，**不可繞過**
+2. **連結 back-to-core**：所有成功 turnaround 都從「back to core」開始，**不可繞過**
 3. **連結 [[concepts/organizational-ambidexterity|ambidexterity]]**：Turnaround 期是**極度 exploit**（先活下來），不能同時 explore；教師明點 Lego 1999-2004 失敗就是同時 explore（多角化）忽略 exploit（核心）
-4. **連結 [[concepts/sku-proliferation-trap|SKU proliferation trap]]**：危機公司常見問題是過度 SKU / brand / 子公司擴張，turnaround 必須收斂
+4. **連結 SKU proliferation trap**：危機公司常見問題是過度 SKU / brand / 子公司擴張，turnaround 必須收斂
 5. **領導者要件**：通常需要**外部 CEO**（Lego Knudstorp 外部顧問背景 / Apple Jobs 雖然回鍋但被董事會邊緣化 10 年 = de facto 外人）
 
 ## 教師核心眉批（精選）
@@ -118,14 +118,14 @@ re-inventing value chain
 1. **跳過 re-position 直接 cost-cut**：砍掉錯的東西（如裁員核心人才）
 2. **保留 founder / family CEO**：mobility barrier 無法移除
 3. **「Managing for Growth」太早**：cash burn 加速死亡
-4. **多角化 explore 期不收斂**：[[concepts/sku-proliferation-trap|SKU trap]]
+4. **多角化 explore 期不收斂**：SKU trap
 5. **無外部視角**：內部 CEO 看不到 Icarus paradox
 
 ## 反例 / 邊界條件
 
 - **GE Jack Welch 1981-2001 不算 turnaround**：是 transformation；GE 從未到 Lego / Apple / Samsung 那種「瀕臨破產」狀態
 - **HP turnaround Carly Fiorina / Mark Hurd 1999-2010**：多次嘗試但未完全成功；分拆 HP Inc. + HPE 2015 才達到部分 re-position
-- **不是所有「back to core」都成功**：[[entities/Yahoo|Yahoo]] 多次 turnaround 嘗試（Carol Bartz / Marissa Mayer / Tim Armstrong）都失敗 — re-position 後 mobility barrier 移除失敗
+- **不是所有「back to core」都成功**：Yahoo 多次 turnaround 嘗試（Carol Bartz / Marissa Mayer / Tim Armstrong）都失敗 — re-position 後 mobility barrier 移除失敗
 - **政治經濟邊界**：[[entities/Ant-Group|Ant Group]] 2020 IPO halt 後被監管強制重組 — 不是 voluntary turnaround，是 regulatory-forced restructuring，框架不完全適用 ^[inferred]
 - **「Managing for Cash / Value / Growth」三階段時間長度**：教師未給量化（Lego 用 6 年；Samsung 5 年；Apple 4 年）— 與產業 + 危機深度相關 ^[inferred]
 
@@ -134,11 +134,11 @@ re-inventing value chain
 - **教師四步框架是否引自學界？** 看起來教師原創或綜合（無明引 Hambrick / Schendel / Donaldson 等 turnaround 學者）^[ambiguous]
 - **CEO 替換是必要條件嗎？** Lego / Apple 是；Samsung Yun 1997 接任也是；但 Disney Iger 1995-2005 第一任期是 internal succession 而非 external — 邊界 ^[inferred]
 - **與 [[concepts/disruptive-innovation|disruptive innovation]] 的關係**：turnaround 是回應 disruption 的策略，但具體機制不同（disruption 是市場層級切入；turnaround 是組織重設）^[inferred]
-- **GenAI 時代的 turnaround 新模式**：[[entities/Microsoft]] 2014 Nadella 從 Desktop → Cloud 是教科書級 turnaround，但走的不是 Lego 四步模板（Nadella 沒裁員、沒砍 product，是 capability shift） ^[inferred]
+- **GenAI 時代的 turnaround 新模式**：Microsoft 2014 Nadella 從 Desktop → Cloud 是教科書級 turnaround，但走的不是 Lego 四步模板（Nadella 沒裁員、沒砍 product，是 capability shift） ^[inferred]
 
 ## Related
 
-- **概念**：[[concepts/back-to-core-strategy]] / [[concepts/value-chain-reconfiguration]] / [[concepts/sku-proliferation-trap]] / [[concepts/brand-reloaded-strategy]] / [[concepts/organizational-ambidexterity]] / [[concepts/icarus-paradox]] / [[concepts/desktop-vs-platform-mindset]] / [[concepts/disruptive-innovation]] / [[concepts/sashimi-theory]] / [[concepts/digital-hub-strategy]]
-- **Entity**：[[entities/Lego-Group]] / [[entities/Jorgen-Vig-Knudstorp]] / [[entities/Samsung-Electronics]] / [[entities/Yun-Jong-Yong]] / [[entities/Apple]] / [[entities/Steve-Jobs]] / [[entities/Microsoft]] / [[entities/Satya-Nadella]]
-- **參考**：[[references/HBS-9-713-478-Lego-crisis-case]] / [[references/HBS-9-715-454-Steve-Jobs-case]] / [[references/HBS-9-504-051-Samsung-case]] / [[references/grant-contemporary-strategy-analysis]] Ch8 / Ch12 / Ch13
+- **概念**：back to core strategy / value chain reconfiguration / sku proliferation trap / brand reloaded strategy / [[concepts/organizational-ambidexterity]] / [[concepts/icarus-paradox]] / [[concepts/desktop-vs-platform-mindset]] / [[concepts/disruptive-innovation]] / [[concepts/sashimi-theory]] / digital hub strategy
+- **Entity**：[[entities/Lego-Group]] / Jorgen-Vig-Knudstorp / [[entities/Samsung-Electronics]] / Yun-Jong-Yong / [[entities/Apple]] / [[entities/Steve-Jobs]] / Microsoft / Satya-Nadella
+- **參考**：[[references/HBS-9-713-478-Lego-crisis-case]] / [[references/HBS-9-715-454-Steve-Jobs-case]] / HBS-9-504-051-Samsung-case / [[references/grant-contemporary-strategy-analysis]] Ch8 / Ch12 / Ch13
 - **Synthesis**：[[synthesis/back-to-core-turnaround-pattern]]（跨 Lego / Apple / Samsung 三個成功 turnaround 對比）

@@ -27,7 +27,7 @@ lifecycle_changed: 2026-05-21
 
 > Scale 是否真的在測它宣稱要測的 theoretical construct。
 
-**重要區分**：這裡談的是「**measurement procedure 的 validity**」，**不是** hypothesis testing 的 validity（[[concepts/internal-validity|internal]] / [[concepts/external-validity|external]] / [[concepts/statistical-conclusion-validity|statistical conclusion]]）。
+**重要區分**：這裡談的是「**measurement procedure 的 validity**」，**不是** hypothesis testing 的 validity（[[concepts/internal-validity|internal]] / [[concepts/external-validity|external]] / statistical conclusion）。
 
 ## Validity 整體框架（Bhattacherjee Figure 7.2）^[extracted]
 
@@ -48,7 +48,7 @@ lifecycle_changed: 2026-05-21
 
 ## Translational Validity（兩 sub-type）^[extracted]
 
-### Face Validity（[[concepts/face-validity]]）
+### Face Validity（face validity）
 
 > Indicator 表面上是否看起來合理代表 construct？
 
@@ -62,7 +62,7 @@ lifecycle_changed: 2026-05-21
 
 → **Necessary but not sufficient** for construct validity（slide 強調）。
 
-### Content Validity（[[concepts/content-validity]]）
+### Content Validity（content validity）
 
 > Scale items **涵蓋 construct 內容領域**的程度。
 
@@ -184,16 +184,16 @@ lifecycle_changed: 2026-05-21
 
 ## Related
 
-- [[concepts/scale-reliability]]
-- [[concepts/face-validity]]
-- [[concepts/content-validity]]
-- [[concepts/convergent-validity]]
-- [[concepts/discriminant-validity]]
+- scale reliability
+- face validity
+- content validity
+- convergent validity
+- discriminant validity
 - [[concepts/AVE-fornell-larcker]]
-- [[concepts/exploratory-factor-analysis]]
-- [[concepts/confirmatory-factor-analysis]]
+- exploratory factor analysis
+- confirmatory factor analysis
 - [[concepts/nomological-network]]
-- [[concepts/classical-test-theory]]
+- classical test theory
 - [[concepts/reflective-vs-formative-measurement]]
 
 ## Sources

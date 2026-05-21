@@ -25,7 +25,7 @@ lifecycle_changed: 2026-05-20
 
 > Intel 為了**在 microprocessor core 之外建立新成長引擎**而成立的 internal corporate venturing 單位。設於 Hillsboro, Oregon 的 Hawthorn Farm facility，靠近 Intel 主要 microprocessor 製造廠。^[extracted]
 
-不同於 [[entities/intel-corp]] 的 Intel Capital（外部 VC 投資），NBI 是**內部孕育新業務**的單位，介於 R&D、Incubator 與 corporate venturing 之間。
+不同於 intel corp 的 Intel Capital（外部 VC 投資），NBI 是**內部孕育新業務**的單位，介於 R&D、Incubator 與 corporate venturing 之間。
 
 ## 組織歷史
 

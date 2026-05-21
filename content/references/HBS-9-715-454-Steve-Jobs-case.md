@@ -50,14 +50,14 @@ Path B subagent；12 頁全讀。
 詳見 [[entities/Steve-Jobs]] 主頁。新建頁面：
 
 - [[entities/Steve-Jobs]]
-- [[concepts/leader-strategist]]（教師核心 framing）
-- [[concepts/visionary-vs-strategist]]
-- [[concepts/digital-hub-strategy]]（Jobs 2001）
-- [[concepts/connecting-the-dots]]（Stanford 2005 第一故事）
-- [[concepts/punctuated-equilibrium]]（教師明用詞）
-- [[concepts/DIKU-model]]（Data → Information → Knowledge → Understanding 學習法）
-- [[concepts/enduring-company]]（Jobs 自述「最重要創作」）
-- [[concepts/pioneer-advantage]]
+- leader strategist（教師核心 framing）
+- visionary vs strategist
+- digital hub strategy（Jobs 2001）
+- connecting the dots（Stanford 2005 第一故事）
+- punctuated equilibrium（教師明用詞）
+- DIKU-model（Data → Information → Knowledge → Understanding 學習法）
+- enduring company（Jobs 自述「最重要創作」）
+- pioneer advantage
 - [[concepts/corporate-vs-business-strategy]]（Apple Computer → Apple Inc. 升級）
 
 ## 教師眉批採集（核心 — 詳見 entities/Steve-Jobs）
@@ -93,6 +93,6 @@ Path B subagent；12 頁全讀。
 
 ## Related
 
-- [[entities/Steve-Jobs]] / [[entities/Apple]] / [[entities/Tim-Cook]] / [[entities/Pixar]] / [[entities/NeXT]]
-- [[references/yoffie-cusumano-strategy-rules-2015]]（Yoffie 同框列三大 leader）
+- [[entities/Steve-Jobs]] / [[entities/Apple]] / Tim-Cook / Pixar / NeXT
+- yoffie cusumano strategy rules 2015（Yoffie 同框列三大 leader）
 - [[references/grant-contemporary-strategy-analysis]] Ch5 / Ch9 / Ch12 / Ch13

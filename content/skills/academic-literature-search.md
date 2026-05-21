@@ -99,7 +99,7 @@ NYCU 培訓主推 EndNote（slide 限制：Windows 11、僅與 EndNote X9 Librar
 
 ## APA 7th Edition (2020) ^[extracted]
 
-當前指定版本。詳見 [[concepts/APA-citation-style]] 待寫。
+當前指定版本。詳見 APA-citation-style 待寫。
 
 ## Turnitin 原創性比對 ^[extracted]
 
@@ -147,10 +147,10 @@ NYCU 登入方式：**E3**（同單一入口網帳密）。
 
 ## Related
 
-- [[concepts/APA-citation-style]] — 待寫
-- [[concepts/turnitin-similarity-check]] — 待寫
-- [[concepts/journal-evaluation-metrics]] — 待寫
-- [[concepts/citation-rationale]] — 待寫
+- APA-citation-style — 待寫
+- turnitin similarity check — 待寫
+- journal evaluation metrics — 待寫
+- citation rationale — 待寫
 - [[references/management-seminar-2024-yunlin]]
 - [[references/bhattacherjee-social-science-research]]
 

@@ -76,7 +76,7 @@ PBC 同時：
 ## 與 TAM / UTAUT 的關係 ^[inferred]
 
 - **TAM**（Davis 1989）：精簡版 TPB，只保 perceived usefulness + perceived ease of use 作為 IT 採用的 attitude 來源
-- **UTAUT**（Venkatesh et al. 2003）：整合 TPB + TAM + 其他六個 model（[[concepts/UTAUT]]）
+- **UTAUT**（Venkatesh et al. 2003）：整合 TPB + TAM + 其他六個 model（UTAUT）
 
 ## 限制 ^[inferred]
 
@@ -100,7 +100,7 @@ PBC 同時：
 ## Related
 
 - [[concepts/scientific-theory]]
-- [[concepts/UTAUT]] — 待寫
+- UTAUT — 待寫
 - [[concepts/social-cognitive-theory]] — 相關行為預測理論
 - [[concepts/innovation-diffusion-theory]] — 互補的 adoption 理論
 

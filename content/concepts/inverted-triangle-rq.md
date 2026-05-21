@@ -111,7 +111,7 @@ Logical progression 從研究發現到 managers / supervisors / 研究對象。�
 | What Is Not Known | Internal FAQ「what we don't know yet」 |
 | Implications | Press Release 結尾「customer benefit」 |
 
-→ 這對應 [[product-playbook]] 的 Working Backwards 思路。
+→ 這對應 product playbook 的 Working Backwards 思路。
 
 ## 限制 ^[inferred]
 
@@ -122,8 +122,8 @@ Logical progression 從研究發現到 managers / supervisors / 研究對象。�
 ## Related
 
 - [[concepts/research-process-seven-steps]]
-- [[concepts/common-research-pitfalls]]
-- [[concepts/literature-review-three-purposes]] — 待寫
+- common research pitfalls
+- literature review three purposes — 待寫
 - [[concepts/scientific-theory]]
 
 ## Sources

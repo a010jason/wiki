@@ -17,13 +17,13 @@ sources:
   - id: HBS-9-722-439-Musk-doubling-down-case
     ref: '[[references/HBS-9-722-439-Musk-doubling-down-case]]'
 related:
-  - '[[entities/Tesla]]'
-  - '[[entities/SpaceX]]'
+  - 'Tesla'
+  - 'SpaceX'
   - '[[concepts/strategy-rules-yoffie-cusumano]]'
   - '[[concepts/sun-tzu-five-fundamentals]]'
-  - '[[concepts/big-bets-without-betting-company]]'
-  - '[[concepts/get-three-electrics-win-world]]'
-  - '[[synthesis/musk-portfolio-synergy-critique]]'
+  - 'big bets without betting company'
+  - 'get three electrics win world'
+  - 'musk portfolio synergy critique'
   - '[[synthesis/yoffie-five-rules-vs-sun-tzu-five-fundamentals]]'
 ---
 
@@ -78,14 +78,14 @@ related:
 - Tesla 是「**最垂直整合的車廠**」— 從電池 → 電機 → 電控 → 整車
 - 進入 battery (Li-Ion) commodity 產業是否合理？
 - Q（教師）：「Why Gigafactory? Why enter into the battery (commodity) industry? What kind of risks?」
-- 對標 [[entities/CATL]]（連 5 年最大）/ BYD / LG / Panasonic / SK Innovation / Samsung SDI
+- 對標 CATL（連 5 年最大）/ BYD / LG / Panasonic / SK Innovation / Samsung SDI
 
 ### 「得三電得天下」（教師原創 EV 勝負手）
 教師核心判斷（紅字標 EV 三大 IP）：
 
 > 「**得三電得天下（電池、電機、電控系統）**」 — Tesla 在哪一塊 IP 最強？^[teacher-annotation]
 
-詳見 [[concepts/get-three-electrics-win-world]]。
+詳見 get three electrics win world。
 
 ### Tesla EV 市場 share 矛盾
 - 「**Tesla's share: 65.4% of the 5%**」（EV 在新車市占 5%，Tesla 占其中 65.4%）
@@ -138,10 +138,10 @@ related:
 ## 對標 entity / 反論
 
 - **vs [[entities/Steve-Jobs]] / [[entities/Apple]]**：Jobs 產品聚焦 vs Musk portfolio 散落
-- **vs [[entities/Bill-Gates]] / [[entities/Microsoft]]**：Gates 平台策略 vs Musk 各別產品
-- **vs [[entities/Andy-Grove]] / [[entities/Intel]]**：垂直整合 + paranoid 風格相近
-- **vs [[entities/Jeff-Bezos]] / [[entities/Amazon]]**：long-term big bets，**但 Bezos 有 synergy**
-- **vs [[entities/Lee-Kun-hee]] / [[entities/Samsung-Electronics]]**：垂直整合 + 多角化但更講究 synergy
+- **vs Bill-Gates / Microsoft**：Gates 平台策略 vs Musk 各別產品
+- **vs Andy-Grove / Intel**：垂直整合 + paranoid 風格相近
+- **vs Jeff-Bezos / [[entities/Amazon]]**：long-term big bets，**但 Bezos 有 synergy**
+- **vs Lee-Kun-hee / [[entities/Samsung-Electronics]]**：垂直整合 + 多角化但更講究 synergy
 
 ### Steve Blank HBR 2015 反論
 - **「Tesla's Not as Disruptive as You Might Think」**
@@ -154,10 +154,10 @@ related:
 
 Top 10：
 1. **Musk** (Tesla &amp; SpaceX)
-2. [[entities/Jeff-Bezos|Bezos]] (Amazon)
+2. Bezos (Amazon)
 3. Satya Nadella (Microsoft)
 4. Mark Zuckerberg (Facebook)
-5. [[entities/Jack-Ma|Jack Ma]] (Alibaba)
+5. Jack Ma (Alibaba)
 6. Sheryl Sandberg (Facebook COO)
 7. Reed Hastings (Netflix)
 8. Susan Wojcicki (YouTube)
@@ -168,13 +168,13 @@ Top 10：
 
 - **Musk Empire 沒有 synergy**：教師核心判斷 — 7 公司彼此無綜效，違反 corp-strategy 原則，**為何董事會還核可？** ^[teacher-annotation]
 - **負營運利潤、巨額負債、低股東權益、上升的淨負債**（Tesla 早期）— 為何投資人仍買單？^[ambiguous]
-- **Cybertruck 跳票 + Twitter 混亂** — 是 [[concepts/big-bets-without-betting-company|big bets]] 還是「betting the company」越線？^[inferred]
+- **Cybertruck 跳票 + Twitter 混亂** — 是 big bets 還是「betting the company」越線？^[inferred]
 - **2024-2026 視角**：Twitter (X) 後續、xAI 與 OpenAI 分裂、Cybertruck 實際交付、Trump 關係 — 教師 2022 case 留白後續 ^[2026 backfill]
 - **「火星殖民」是 vision 還是 escapism**？SpaceX 商業價值正在被市場驗證（Starlink），但火星本身仍是未驗證 ^[inferred]
 
 ## Related
 
-- **概念**：[[concepts/strategy-rules-yoffie-cusumano]] / [[concepts/sun-tzu-five-fundamentals]] / [[concepts/look-forward-reason-back]] / [[concepts/big-bets-without-betting-company]] / [[concepts/platforms-and-ecosystems-not-products]] / [[concepts/judo-and-sumo-strategy]] / [[concepts/personal-anchor-organization]] / [[concepts/get-three-electrics-win-world]] / [[concepts/vertical-integration]] / [[concepts/strategic-innovation]] / [[concepts/disruptive-innovation]] / [[concepts/dynamic-capabilities]]
-- **Entity**：[[entities/Tesla]] / [[entities/SpaceX]] / [[entities/Apple]] / [[entities/Steve-Jobs]] / [[entities/Bill-Gates]] / [[entities/Andy-Grove]] / [[entities/Jeff-Bezos]] / [[entities/Jack-Ma]] / [[entities/CATL]] / [[entities/Rivian]] / [[entities/SolarCity]] / [[entities/Twitter-X]] / [[entities/OpenAI]] / [[entities/Neuralink]]
-- **參考**：[[references/HBS-9-722-439-Musk-doubling-down-case]] / [[references/yoffie-cusumano-strategy-rules-2015]] / [[references/grant-contemporary-strategy-analysis]] Ch5 RBV / Ch9 innovation / Ch12 diversification / Ch10 vertical integration
-- **Synthesis**：[[synthesis/musk-portfolio-synergy-critique]] / [[synthesis/yoffie-five-rules-vs-sun-tzu-five-fundamentals]] / [[synthesis/vertical-integration-into-commodity-risk]]
+- **概念**：[[concepts/strategy-rules-yoffie-cusumano]] / [[concepts/sun-tzu-five-fundamentals]] / look forward reason back / big bets without betting company / platforms and ecosystems not products / judo and sumo strategy / personal anchor organization / get three electrics win world / [[concepts/vertical-integration]] / [[concepts/strategic-innovation]] / [[concepts/disruptive-innovation]] / [[concepts/dynamic-capabilities]]
+- **Entity**：Tesla / SpaceX / [[entities/Apple]] / [[entities/Steve-Jobs]] / Bill-Gates / Andy-Grove / Jeff-Bezos / Jack-Ma / CATL / Rivian / SolarCity / Twitter-X / OpenAI / Neuralink
+- **參考**：[[references/HBS-9-722-439-Musk-doubling-down-case]] / yoffie cusumano strategy rules 2015 / [[references/grant-contemporary-strategy-analysis]] Ch5 RBV / Ch9 innovation / Ch12 diversification / Ch10 vertical integration
+- **Synthesis**：musk portfolio synergy critique / [[synthesis/yoffie-five-rules-vs-sun-tzu-five-fundamentals]] / vertical integration into commodity risk

@@ -136,7 +136,7 @@ SMJ 2022 實證論文：把企業視為氣候風險**受害者**（非加害者�
 - [[concepts/firm-climate-risk]]
 - [[concepts/physical-climate-risk]] — Chinese bank report 對應
 - [[concepts/agency-theory]]
-- [[concepts/incomplete-contract-theory]] — 待寫
+- incomplete contract theory — 待寫
 - [[concepts/instrumental-variable-2SLS]] — Huang 等本論文未用 IV，但 chatbot study 用了
 - [[concepts/sampling-frame]] — CDP voluntary disclosure 是 selection bias 範例
 

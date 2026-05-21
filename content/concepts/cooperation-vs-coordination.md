@@ -67,8 +67,8 @@ Agile 是 organic-end 的具體配方（解動態環境下的 coordination by mu
 
 ## Related
 
-- [[concepts/organizational-capability]] — Resources → (Processes/Structure/Motivation) → Capabilities
-- [[concepts/mechanistic-vs-organic-organization]] — Burns & Stalker contingency
+- organizational capability — Resources → (Processes/Structure/Motivation) → Capabilities
+- mechanistic vs organic organization — Burns & Stalker contingency
 - [[concepts/agile-organization]] — organic 的執行配方
 - [[concepts/post-bureaucratic-mindset]] — 對 Weber 七原則的反論
 - [[references/grant-contemporary-strategy-analysis]] — Ch6 源頭

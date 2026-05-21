@@ -122,7 +122,7 @@ Kotler 把 Maslow 整合到三階梯：^[extracted Ch03 p.11]
 
 - [[concepts/SOR-model-consumer]] — Maslow 是 Organism 的 Motivation 部分
 - [[concepts/buying-decision-process-consumer]] — Need recognition 階段的觸發
-- [[concepts/needs-wants-demands]] — Kotler 三階梯
+- needs wants demands — Kotler 三階梯
 - [[concepts/expectancy-theory]] — Vroom 對 motivation 的另一個解釋
 - [[concepts/job-satisfaction]] — OB 對需求滿足的對應討論
 - [[references/kotler-keller-chernev-marketing-management-16e]]

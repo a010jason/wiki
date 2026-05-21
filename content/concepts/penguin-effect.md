@@ -19,9 +19,9 @@ sources:
 related:
   - '[[concepts/network-externalities]]'
   - '[[concepts/icarus-paradox]]'
-  - '[[concepts/multi-homing-cost]]'
+  - 'multi homing cost'
   - '[[entities/HTC]]'
-  - '[[synthesis/penguin-effect-as-pivot-driver]]'
+  - 'penguin effect as pivot driver'
 ---
 
 # Penguin Effect（企鵝效應）
@@ -83,24 +83,24 @@ Step 7: 通常無法在新產業 catch-up（先進者已有 [[concepts/winner-ta
 | 公司 | 原產業崩塌 | 企鵝跳到 | 結果 |
 |---|---|---|---|
 | **[[entities/HTC]]** | 智慧手機 | VR (Vive) | 仍 niche player |
-| **[[entities/Kodak]]** | 化學沖洗 | Digital camera | 太晚，被 Facebook / Instagram 替代 |
-| **[[entities/Nokia]]** | Feature phone | Smartphone (Lumia + WP) | 失敗，賣給 Microsoft |
-| **[[entities/Microsoft]] 2010-2014** | PC OS / Office license | Mobile (Lumia / WP) | 失敗，最終 2014 後 Nadella 改 cloud pivot 才成功 |
-| **[[entities/Blockbuster]]** | DVD rental store | Streaming (太晚 launch Blockbuster on Demand) | 破產 |
-| **[[entities/Yahoo]]** | Portal | Multiple pivots (search, content, mobile) | 失敗 |
+| **Kodak** | 化學沖洗 | Digital camera | 太晚，被 Facebook / Instagram 替代 |
+| **Nokia** | Feature phone | Smartphone (Lumia + WP) | 失敗，賣給 Microsoft |
+| **Microsoft 2010-2014** | PC OS / Office license | Mobile (Lumia / WP) | 失敗，最終 2014 後 Nadella 改 cloud pivot 才成功 |
+| **Blockbuster** | DVD rental store | Streaming (太晚 launch Blockbuster on Demand) | 破產 |
+| **Yahoo** | Portal | Multiple pivots (search, content, mobile) | 失敗 |
 
 對比 vision-driven pivot（非企鵝效應）：
 - [[entities/Apple]] 1997-2001：Jobs 主動 pivot Mac → Digital Hub → iPod → iPhone（每步都是 vision-led）
 - [[entities/Amazon]] 2002-：自家 retail 不夠 → 主動建 AWS（內部需求轉成 product）
-- [[entities/Netflix]] 2007：DVD-by-mail 還賺錢就主動轉 streaming
-- [[entities/Microsoft]] 2014- Nadella：Windows 還主導但主動轉 cloud-first
+- Netflix 2007：DVD-by-mail 還賺錢就主動轉 streaming
+- Microsoft 2014- Nadella：Windows 還主導但主動轉 cloud-first
 
 ## 為什麼這個概念重要
 
 1. **解釋為什麼 pivot 多失敗**：reactive pivot 結構性 disadvantage — 晚進場 + 缺 vision + 缺 capability
 2. **連結 [[concepts/icarus-paradox]]**：Icarus 解釋為什麼**不能主動 pivot**（capability 變 disability）；Penguin Effect 解釋**結果**（最終仍被迫跳，但晚）
 3. **連結 [[concepts/winner-take-all-determinants]]**：到企鵝跳時 winner-take-all 條件（network effects / multi-homing / differentiation / barrier）已被先進者鎖定
-4. **戰略警示**：要避免成為企鵝，必須**在原產業仍強盛時主動 pivot**（[[entities/Apple|Apple]] / [[entities/Amazon|Amazon]] / [[entities/Netflix|Netflix]] 模式）
+4. **戰略警示**：要避免成為企鵝，必須**在原產業仍強盛時主動 pivot**（[[entities/Apple|Apple]] / [[entities/Amazon|Amazon]] / Netflix 模式）
 5. **教師對 HTC VR 戰略可行性的悲觀判斷**：「HTC is a niche player」「Overall, what is HTC's sling to compete with Giant?」 — 既然是 reactive pivot，最佳結果是 niche player
 
 ## 反例 / 邊界條件
@@ -119,7 +119,7 @@ Step 7: 通常無法在新產業 catch-up（先進者已有 [[concepts/winner-ta
 
 ## Related
 
-- **概念**：[[concepts/network-externalities]] / [[concepts/icarus-paradox]] / [[concepts/multi-homing-cost]] / [[concepts/winner-take-all-determinants]] / [[concepts/desktop-vs-platform-mindset]] / [[concepts/disruptive-innovation]] / [[concepts/structural-hole-in-strategy]] / [[concepts/competency-trap]]
-- **Entity**：[[entities/HTC]] / [[entities/Kodak]] / [[entities/Nokia]] / [[entities/Microsoft]] / [[entities/Blockbuster]] / [[entities/Yahoo]] / [[entities/Apple]] / [[entities/Amazon]] / [[entities/Netflix]] / [[entities/Satya-Nadella]]
+- **概念**：[[concepts/network-externalities]] / [[concepts/icarus-paradox]] / multi homing cost / [[concepts/winner-take-all-determinants]] / [[concepts/desktop-vs-platform-mindset]] / [[concepts/disruptive-innovation]] / structural hole in strategy / competency trap
+- **Entity**：[[entities/HTC]] / Kodak / Nokia / Microsoft / Blockbuster / Yahoo / [[entities/Apple]] / [[entities/Amazon]] / Netflix / Satya-Nadella
 - **參考**：[[references/HBS-9-718-421-HTC-VR-case]] / [[references/christensen-overdorf-2000-HBR-disruptive-change]]
-- **Synthesis**：[[synthesis/penguin-effect-as-pivot-driver]] / [[synthesis/HTC-marketing-research-gap]]
+- **Synthesis**：penguin effect as pivot driver / [[synthesis/HTC-marketing-research-gap]]

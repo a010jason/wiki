@@ -24,14 +24,14 @@ sources:
     pages: 11
 related:
   - '[[concepts/ab-testing-as-strategy]]'
-  - '[[concepts/experimentation-culture]]'
+  - 'experimentation culture'
   - '[[concepts/agency-vs-merchant-model]]'
-  - '[[concepts/ota-business-models]]'
-  - '[[concepts/growth-flywheel]]'
-  - '[[concepts/evidence-based-management]]'
-  - '[[concepts/hypothesis-driven-product]]'
-  - '[[concepts/fitness-landscape]]'
-  - '[[concepts/red-queen-effect]]'
+  - 'ota business models'
+  - 'growth flywheel'
+  - 'evidence based management'
+  - 'hypothesis driven product'
+  - 'fitness landscape'
+  - 'red queen effect'
 ---
 
 # Booking.com
@@ -73,7 +73,7 @@ related:
 
 ### 核心 quotes（要訣）
 
-- **Vermeer**: 「我們所有產品決策都基於以客戶為中心的可靠證據」 — [[concepts/evidence-based-management|EBM]] 教科書定義落地版
+- **Vermeer**: 「我們所有產品決策都基於以客戶為中心的可靠證據」 — EBM 教科書定義落地版
 - **Vermeer**: 「strategy 不能 A/B test，但搞清楚 strategy 後一切都可測」 — **A/B 不替代領導層**的根本立場
 - **Frisby**（Design Director）: 「我們有 21 年歷史但大多數員工是過去六年加入」、「我寧願創造**自我糾正的社區、自我修復的組織**」
 - **Gulati**（高級產品負責人）: 「漸進式測試的 DNA 在創新跳變時變成威脅 — 業務模式創新只能來自領導層而非專注漸進式創新的產品團隊」 — A/B testing 的**戰略邊界**承認
@@ -100,7 +100,7 @@ A/B testing
 
 ## OTA 產業地位
 
-[[concepts/ota-business-models|三大模式]]：
+三大模式：
 
 1. **Advertising**（TripAdvisor，CPC）
 2. **Merchant**（Expedia 1996 創立、批發庫存、客戶付給 OTA）
@@ -111,8 +111,8 @@ Tans：「我們的競爭對手更像旅行社，**agency 更合理**」。
 OTA 三巨頭 Expedia、Priceline Group、攜程推動整合；2017 全球線上旅遊銷售 \$6,300 億（YoY +11.5%），2020 預估 \$8,180 億。
 
 **競爭與威脅**：
-- [[entities/Expedia]]（merchant 對手；含 Hotels.com / Orbitz / Travelocity）
-- [[entities/Airbnb]]（degree of substitution 有限 — Morgan Stanley 2015 調查 42% 受訪者若無 Airbnb 仍會選酒店）
+- Expedia（merchant 對手；含 Hotels.com / Orbitz / Travelocity）
+- Airbnb（degree of substitution 有限 — Morgan Stanley 2015 調查 42% 受訪者若無 Airbnb 仍會選酒店）
 - **Google Hotel Finder（2011 推出）**：教師眉批「**Booking 吸 Google 的血**」— Google 從 OTA 廣告抽 \$140 億 / 年；Booking 33% revenue 用於 performance advertising 主要付給 Google ^[teacher-annotation]
 - [[entities/Amazon]]：被預期進入
 
@@ -140,7 +140,7 @@ OTA 三巨頭 Expedia、Priceline Group、攜程推動整合；2017 全球線上
 
 > 「**ecosystem / 270 個 Teams → 自組織 / 組織學習能力 / Lego-like extension / 學習型組織的五項修練**」（slide p.7） ^[teacher-annotation]
 
-> 「**NK 模型 / Stuart Kauffman / 可調的崎嶇 健身景觀 / 可調崎嶇性捕捉了整體大小和局部丘陵山谷的數量**」（slide p.11，[[concepts/fitness-landscape|fitness landscape]]） ^[teacher-annotation]
+> 「**NK 模型 / Stuart Kauffman / 可調的崎嶇 健身景觀 / 可調崎嶇性捕捉了整體大小和局部丘陵山谷的數量**」（slide p.11，fitness landscape） ^[teacher-annotation]
 
 ## Blue Screen Landing Page（案例 cliffhanger）
 
@@ -160,12 +160,12 @@ Frisby 提案實驗（Exhibit 11）：全新藍色背景、Google 式單一搜�
 - **A/B testing 的戰略邊界**：Gulati 與 Vismans 都承認 A/B 無法替代領導層做業務模式創新 — 那它是 strategy substitute 還是 strategy enabler？^[inferred]
 - **Villas.com 失敗教訓**：Tans 自承「之前推 Villas.com 沒有資料支援自己直覺、幾年後關站」 — A/B culture 是否實際上**保守化**了 Booking，讓它對 Airbnb 的迴應慢？^[inferred]
 - **A/B 道德爭議**：「請立即預訂」「客房緊張」「只剩三間客房」訊息推播在內部 Workplace 群組曾辯論 — **稀缺性與緊迫感的人為製造**是否該被 A/B 優化掉？
-- **Loyalty Genius vs Marriott Bonvoy**：Booking 無 [[entities/Marriott-Bonvoy|Bonvoy]] 等級的母合 loyalty linkage — 為何 OTA 玩家做不出？是商模差異還是策略選擇？^[ambiguous]
+- **Loyalty Genius vs Marriott Bonvoy**：Booking 無 Bonvoy 等級的母合 loyalty linkage — 為何 OTA 玩家做不出？是商模差異還是策略選擇？^[ambiguous]
 - **Booking 吸 Google 的血 vs 共生**：33% revenue 給 Google performance ad 是否可持續？Google Hotel Finder 是否會把 Booking 變成 commodity？^[teacher-annotation]
 
 ## Related
 
-- **概念**：[[concepts/ab-testing-as-strategy]] / [[concepts/experimentation-culture]] / [[concepts/agency-vs-merchant-model]] / [[concepts/ota-business-models]] / [[concepts/growth-flywheel]] / [[concepts/evidence-based-management]] / [[concepts/hypothesis-driven-product]] / [[concepts/champion-vs-challenger]] / [[concepts/causal-inference-vs-correlation]] / [[concepts/fitness-landscape]] / [[concepts/minimum-winning-game]] / [[concepts/red-queen-effect]] / [[concepts/two-sided-market]] / [[concepts/network-externalities]] / [[concepts/dominant-design]] / [[concepts/asset-light-business-model]]
-- **Entity**：[[entities/Airbnb]] / [[entities/Expedia]] / [[entities/Marriott-International]] / [[entities/Google]] / [[entities/TripAdvisor]] / [[entities/Amazon]] / [[entities/Shopee]]（agency vs merchant 對照）
+- **概念**：[[concepts/ab-testing-as-strategy]] / experimentation culture / [[concepts/agency-vs-merchant-model]] / ota business models / growth flywheel / evidence based management / hypothesis driven product / champion vs challenger / causal inference vs correlation / fitness landscape / [[concepts/minimum-winning-game]] / red queen effect / two sided market / [[concepts/network-externalities]] / [[concepts/dominant-design]] / asset light business model
+- **Entity**：Airbnb / Expedia / [[entities/Marriott-International]] / [[entities/Google]] / TripAdvisor / [[entities/Amazon]] / [[entities/Shopee]]（agency vs merchant 對照）
 - **參考**：[[references/HBS-booking-com-case]] / [[references/grant-contemporary-strategy-analysis]] Ch3 / Ch4 / Ch9 / [[references/measure-what-matters-doerr-2018]]
-- **Synthesis**：[[synthesis/ab-testing-strategic-limits]] / [[synthesis/agency-vs-merchant-platform-models]]
+- **Synthesis**：ab testing strategic limits / [[synthesis/agency-vs-merchant-platform-models]]

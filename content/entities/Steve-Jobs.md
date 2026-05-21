@@ -18,25 +18,25 @@ sources:
     ref: '[[references/HBS-9-715-454-Steve-Jobs-case]]'
 related:
   - '[[entities/Apple]]'
-  - '[[entities/Pixar]]'
-  - '[[entities/NeXT]]'
-  - '[[entities/Tim-Cook]]'
-  - '[[concepts/leader-strategist]]'
-  - '[[concepts/visionary-vs-strategist]]'
-  - '[[concepts/digital-hub-strategy]]'
-  - '[[concepts/connecting-the-dots]]'
-  - '[[concepts/punctuated-equilibrium]]'
-  - '[[concepts/DIKU-model]]'
-  - '[[concepts/enduring-company]]'
+  - 'Pixar'
+  - 'NeXT'
+  - 'Tim-Cook'
+  - 'leader strategist'
+  - 'visionary vs strategist'
+  - 'digital hub strategy'
+  - 'connecting the dots'
+  - 'punctuated equilibrium'
+  - 'DIKU-model'
+  - 'enduring company'
 ---
 
 # Steve Jobs
 
 Apple 共同創辦人、CEO（1976-1985, 1997-2011）；HBS case 9-715-454（Montgomery &amp; Yoffie 2013, Rev 2015）主角；2009《Fortune》「10 年最佳 CEO」。經典生涯弧：1976 Apple II → 1985 被董事會剝奪營運權 → NeXT + Pixar（1985-1996）→ 1997 回歸 Apple → 2007 改名 Apple Inc.（從 BU 升為 corporate strategy）→ 2011 過世。^[extracted]
 
-> Jobs 自述最重要的創作不是任何 iPhone / iPad / Mac Tower，**是「讓公司經久不衰」**（Walter Isaacson 訪談）。這是 [[concepts/enduring-company|enduring company]] 命題的源頭。^[extracted]
+> Jobs 自述最重要的創作不是任何 iPhone / iPad / Mac Tower，**是「讓公司經久不衰」**（Walter Isaacson 訪談）。這是 enduring company 命題的源頭。^[extracted]
 
-> 教師核心 framing：「**Apple will thrive without Steve?**」對標 「**沒有張忠謀的台積電是否可以永續？**」 — 把 Jobs legacy 拉到 [[entities/Morris-Chang|Morris Chang]] / TSMC 與 [[entities/Jensen-Huang|Jensen Huang]] / NVIDIA 的東亞 leader legacy 問題。^[teacher-annotation]
+> 教師核心 framing：「**Apple will thrive without Steve?**」對標 「**沒有張忠謀的台積電是否可以永續？**」 — 把 Jobs legacy 拉到 Morris Chang / TSMC 與 Jensen Huang / NVIDIA 的東亞 leader legacy 問題。^[teacher-annotation]
 
 ## 生涯弧（HBS case framework）
 
@@ -55,7 +55,7 @@ Apple 共同創辦人、CEO（1976-1985, 1997-2011）；HBS case 9-715-454（Mon
 
 ## Leader Strategist（雙能力複合）
 
-教師核心 framing：[[concepts/leader-strategist|Jobs 是少數同時具備 Leader 與 Strategist 雙能力的人]]。
+教師核心 framing：Jobs 是少數同時具備 Leader 與 Strategist 雙能力的人。
 
 | 維度 | 純 Visionary（如 Larry Ellison?）| 純 Strategist | **Leader Strategist（Jobs）** |
 |---|---|---|---|
@@ -127,15 +127,15 @@ Apple 共同創辦人、CEO（1976-1985, 1997-2011）；HBS case 9-715-454（Mon
 
 教師反覆把 Jobs / Apple 對標：
 
-- **[[entities/Morris-Chang|Morris Chang]] / [[entities/TSMC]]** — 沒有張忠謀的台積電是否可以永續？
-- **[[entities/Jensen-Huang|Jensen Huang]] / NVIDIA** — 同樣的 enduring company 問題
-- **[[entities/Bill-Gates]]** — Yoffie/Cusumano《Strategy Rules》中三人之一
-- **[[entities/Andy-Grove]] / [[entities/Intel]]** — 同書三人之一；Grove 名言「sub-thrive」
+- **Morris Chang / [[entities/TSMC]]** — 沒有張忠謀的台積電是否可以永續？
+- **Jensen Huang / NVIDIA** — 同樣的 enduring company 問題
+- **Bill-Gates** — Yoffie/Cusumano《Strategy Rules》中三人之一
+- **Andy-Grove / Intel** — 同書三人之一；Grove 名言「sub-thrive」
 - **[[entities/Elon-Musk]]** — Musk 多角化 vs Jobs 產品聚焦
-- **[[entities/Jeff-Bezos]] / [[entities/Amazon]]** — long-term big bets，但 Bezos 有 synergy 而 Musk 沒有
-- **[[entities/Lee-Kun-hee]] / [[entities/Samsung-Electronics]]** — 1993 Frankfurt 宣言 + 垂直整合 + 多角化但更講究 synergy
-- **[[entities/IBM]]** — 被 Apple 與 Wintel 雙重取代
-- **[[entities/Microsoft]] / [[entities/Microsoft-AdCenter]]** — Wintel 對手
+- **Jeff-Bezos / [[entities/Amazon]]** — long-term big bets，但 Bezos 有 synergy 而 Musk 沒有
+- **Lee-Kun-hee / [[entities/Samsung-Electronics]]** — 1993 Frankfurt 宣言 + 垂直整合 + 多角化但更講究 synergy
+- **IBM** — 被 Apple 與 Wintel 雙重取代
+- **Microsoft / [[entities/Microsoft-AdCenter]]** — Wintel 對手
 
 ## Tim Cook 時代的 enduring company 問題
 
@@ -164,7 +164,7 @@ Apple 共同創辦人、CEO（1976-1985, 1997-2011）；HBS case 9-715-454（Mon
 
 ## Related
 
-- **概念**：[[concepts/leader-strategist]] / [[concepts/visionary-vs-strategist]] / [[concepts/digital-hub-strategy]] / [[concepts/connecting-the-dots]] / [[concepts/punctuated-equilibrium]] / [[concepts/DIKU-model]] / [[concepts/enduring-company]] / [[concepts/corporate-vs-business-strategy]] / [[concepts/pioneer-advantage]] / [[concepts/design-simplicity]] / [[concepts/strategic-innovation]] / [[concepts/disruptive-innovation]] / [[concepts/dominant-design]]
-- **Entity**：[[entities/Apple]] / [[entities/Pixar]] / [[entities/NeXT]] / [[entities/Tim-Cook]] / [[entities/John-Sculley]] / [[entities/Jonathan-Ive]] / [[entities/Steve-Wozniak]] / [[entities/Morris-Chang]] / [[entities/TSMC]] / [[entities/Jensen-Huang]] / [[entities/Bill-Gates]] / [[entities/Andy-Grove]] / [[entities/Elon-Musk]] / [[entities/Jeff-Bezos]] / [[entities/Lee-Kun-hee]] / [[entities/Samsung-Electronics]]
-- **參考**：[[references/HBS-9-715-454-Steve-Jobs-case]] / [[references/yoffie-cusumano-strategy-rules-2015]] / [[references/grant-contemporary-strategy-analysis]] Ch5 / Ch9 / Ch12 / Ch13
-- **Synthesis**：[[synthesis/enduring-company-east-asia-legacy]]（Jobs / Apple ↔ TSMC / NVIDIA / Samsung 跨東西的 leader legacy 問題）
+- **概念**：leader strategist / visionary vs strategist / digital hub strategy / connecting the dots / punctuated equilibrium / DIKU-model / enduring company / [[concepts/corporate-vs-business-strategy]] / pioneer advantage / design simplicity / [[concepts/strategic-innovation]] / [[concepts/disruptive-innovation]] / [[concepts/dominant-design]]
+- **Entity**：[[entities/Apple]] / Pixar / NeXT / Tim-Cook / John-Sculley / Jonathan-Ive / Steve-Wozniak / Morris-Chang / [[entities/TSMC]] / Jensen-Huang / Bill-Gates / Andy-Grove / [[entities/Elon-Musk]] / Jeff-Bezos / Lee-Kun-hee / [[entities/Samsung-Electronics]]
+- **參考**：[[references/HBS-9-715-454-Steve-Jobs-case]] / yoffie cusumano strategy rules 2015 / [[references/grant-contemporary-strategy-analysis]] Ch5 / Ch9 / Ch12 / Ch13
+- **Synthesis**：enduring company east asia legacy（Jobs / Apple ↔ TSMC / NVIDIA / Samsung 跨東西的 leader legacy 問題）

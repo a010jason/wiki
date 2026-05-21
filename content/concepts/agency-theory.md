@@ -77,7 +77,7 @@ Information Asymmetry
 >
 > 「保健因子 / 激勵因子」「雙因素理論...弗里德里克·赫茨伯格（Frederick Herzberg）1950 年代末提出」
 
-→ 教師把 agency theory 拉到激勵架構與雙因素理論做對比（[[concepts/herzberg-two-factor-theory]] 待寫）。
+→ 教師把 agency theory 拉到激勵架構與雙因素理論做對比（herzberg two factor theory 待寫）。
 
 ## 經典張力：與 Two-Factor Theory 衝突 ^[inferred]
 
@@ -112,8 +112,8 @@ Information Asymmetry
 - [[concepts/scientific-theory]]
 - [[concepts/innovation-diffusion-theory]]
 - [[concepts/elaboration-likelihood-model]]
-- [[concepts/herzberg-two-factor-theory]] — 待寫
-- [[concepts/incomplete-contract-theory]] — 待寫
+- herzberg two factor theory — 待寫
+- incomplete contract theory — 待寫
 
 ## Sources
 

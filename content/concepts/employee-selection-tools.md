@@ -135,7 +135,7 @@ lifecycle_changed: 2026-05-21
 - **vs [[concepts/competency-model-three-tiers]]**：職能模型 = 標準；本概念 = 量度方法
 - **vs [[concepts/job-analysis]]**：job analysis 產出 KSAs，本概念是 KSAs 的測量
 - **vs [[concepts/big-five-personality]]** / [[concepts/emotional-intelligence]]：心理測驗常用 Big Five + EI 作為人格 / 軟技能評估標準
-- **vs [[concepts/360-degree-feedback]]**：360 是**已雇用員工**的多源評估；本概念是**未雇用候選人**的多工具評估
+- **vs 360-degree-feedback**：360 是**已雇用員工**的多源評估；本概念是**未雇用候選人**的多工具評估
 
 ## Open Questions
 
@@ -147,5 +147,5 @@ lifecycle_changed: 2026-05-21
 
 - [[concepts/competency-model-three-tiers]] — 標準上游
 - [[concepts/big-five-personality]] / [[concepts/emotional-intelligence]] — 心理測驗的對接
-- [[concepts/360-degree-feedback]] — 在職員工的多源評估
+- 360-degree-feedback — 在職員工的多源評估
 - [[references/wen-2023-HRM-textbook]] — Ch5-6 source

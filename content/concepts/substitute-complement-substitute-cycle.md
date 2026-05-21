@@ -18,10 +18,10 @@ sources:
     ref: '[[references/HBS-9-617-060-Ant-Financial-case]]'
 related:
   - '[[concepts/institutional-voids]]'
-  - '[[concepts/complementary-assets]]'
-  - '[[concepts/ecosystem-competition]]'
-  - '[[concepts/tipping-point-platform-strategy]]'
-  - '[[concepts/bass-diffusion-model]]'
+  - 'complementary assets'
+  - 'ecosystem competition'
+  - 'tipping point platform strategy'
+  - 'bass diffusion model'
   - '[[entities/Ant-Group]]'
 ---
 
@@ -74,7 +74,7 @@ related:
 - **Institutional voids** 提供 Stage 1 切入口
 - **Complementary assets investment** 是 Stage 2 的具體動作（KYC → CRM、4V analytics、達摩學院、ecosystem 擴張）
 - **規模 + 數據 + lock-in** 累積到 Stage 3 質變
-- 與 [[concepts/bass-diffusion-model|Bass diffusion]] 結合：淘寶=p（innovator）/ Alipay 加速 q（imitator extension）
+- 與 Bass diffusion 結合：淘寶=p（innovator）/ Alipay 加速 q（imitator extension）
 
 ## 跨產業適用性
 
@@ -115,11 +115,11 @@ related:
 | 框架 | 關係 |
 |---|---|
 | [[concepts/disruptive-innovation]] | 互補但不同維度（disruption 看市場層級，本論看 incumbent 關係） |
-| [[concepts/bass-diffusion-model]] | Bass 是 individual adoption 動態；本論是 platform-incumbent 戰略動態 |
+| bass diffusion model | Bass 是 individual adoption 動態；本論是 platform-incumbent 戰略動態 |
 | [[concepts/institutional-voids]] | Stage 1 切入口理論 |
-| [[concepts/complementary-assets]] | Stage 2 的具體機制 |
-| [[concepts/ecosystem-competition]] | Stage 3 的競爭格局 |
-| [[concepts/tipping-point-platform-strategy]] | Stage 1 → Stage 2 過渡的關鍵點 |
+| complementary assets | Stage 2 的具體機制 |
+| ecosystem competition | Stage 3 的競爭格局 |
+| tipping point platform strategy | Stage 1 → Stage 2 過渡的關鍵點 |
 
 ## Open Questions（待 wiki-challenge）
 
@@ -130,6 +130,6 @@ related:
 
 ## Related
 
-- **概念**：[[concepts/institutional-voids]] / [[concepts/complementary-assets]] / [[concepts/ecosystem-competition]] / [[concepts/tipping-point-platform-strategy]] / [[concepts/bass-diffusion-model]] / [[concepts/disruptive-innovation]] / [[concepts/two-sided-market]] / [[concepts/network-externalities]] / [[concepts/agency-vs-merchant-model]] / [[concepts/techfin-vs-fintech]] / [[concepts/escrow-and-third-party-payment]] / [[concepts/KYC-to-CRM]]
-- **Entity**：[[entities/Ant-Group]] / [[entities/Alibaba]] / [[entities/Jack-Ma]] / [[entities/PayPal]] / [[entities/Amazon]] / [[entities/Shopee]] / [[entities/Booking-com]]
+- **概念**：[[concepts/institutional-voids]] / complementary assets / ecosystem competition / tipping point platform strategy / bass diffusion model / [[concepts/disruptive-innovation]] / two sided market / [[concepts/network-externalities]] / [[concepts/agency-vs-merchant-model]] / techfin vs fintech / escrow and third party payment / KYC-to-CRM
+- **Entity**：[[entities/Ant-Group]] / Alibaba / Jack-Ma / PayPal / [[entities/Amazon]] / [[entities/Shopee]] / [[entities/Booking-com]]
 - **參考**：[[references/HBS-9-617-060-Ant-Financial-case]] / [[references/iansiti-lakhani-competing-age-of-ai-2020]] / [[references/grant-contemporary-strategy-analysis]] Ch9 innovation

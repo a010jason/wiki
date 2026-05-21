@@ -132,7 +132,7 @@ PRD / strategy doc 常陷入「不是 theory」的五個陷阱：
 - [[concepts/theory-building-blocks-whetten]]
 - [[concepts/attributes-of-good-theory]]
 - [[concepts/proposition-vs-hypothesis]]
-- [[concepts/strong-theory-criteria]] — 待寫
+- strong theory criteria — 待寫
 
 ## Sources
 

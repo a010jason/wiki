@@ -77,7 +77,7 @@ G-STIC:  Goal → Strategy → Tactics → Implementation → Control
 
 **Multiple-segment targeting 兩條路：** Product specialization vs Market specialization。
 
-詳見 [[concepts/targeting]]、[[concepts/strategic-vs-tactical-targeting]]。
+詳見 [[concepts/targeting]]、strategic vs tactical targeting。
 
 ### 3. Positioning（Ch07）
 
@@ -110,7 +110,7 @@ G-STIC:  Goal → Strategy → Tactics → Implementation → Control
 - **Targeting**：strategic compatibility = 是否能整合既有 PACS 工作流；strategic attractiveness = 醫院規模與後續導入潛力
 - **Positioning**：通常 frame of reference 是「比較準的 AI 模型」（功能 framing），但可以重設為「比較會講話的影像科助理」（語言 framing） — 翻轉 frame of reference 是 EBM 等中小型醫療 AI 廠商可能的策略
 
-待 [[synthesis/STP-applied-to-medical-AI-PM]] 展開。
+待 STP-applied-to-medical-AI-PM 展開。
 
 ## Related
 

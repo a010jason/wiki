@@ -56,21 +56,21 @@ Path B subagent；43 頁讀完，採 read-main（5 頁/批）未撞 32MB。
 詳見 [[entities/Marriott-International]] 主頁。新建頁面：
 
 - [[entities/Marriott-International]] — 案例 hub
-- [[entities/Marriott-Bonvoy]] — loyalty 整合（Marriott Rewards + Ritz-Carlton + SPG → 2018 統一 1 億會員）
-- [[entities/Starwood]] — 2016/9/23 \$13.6B 併購對象
-- [[entities/Airbnb]] — 主要對標 disruptor
+- Marriott-Bonvoy — loyalty 整合（Marriott Rewards + Ritz-Carlton + SPG → 2018 統一 1 億會員）
+- Starwood — 2016/9/23 \$13.6B 併購對象
+- Airbnb — 主要對標 disruptor
 - [[concepts/asset-light-strategy]] — 1977 年報首倡（80% 管理協議 + franchise）
-- [[concepts/management-vs-franchise-contract]] — 兩種合約結構與費率
-- [[concepts/multi-brand-hotel-portfolio]] — 30 品牌四層金字塔
+- management vs franchise contract — 兩種合約結構與費率
+- multi brand hotel portfolio — 30 品牌四層金字塔
 - [[concepts/dedicated-vs-flexible-capacity]] — **教師原創框架**（太平盛世/大飢荒）
 - [[concepts/compression-night-economics]] — 4.9% 房晚產生 8% 收入
-- [[concepts/ota-business-models]] — agency / merchant / advertising 三模式
-- [[concepts/ota-disintermediation]] — Brand.com vs OTA channel war
-- [[concepts/miles-and-snow-typology]] — Prospector / Analyzer / Defender / Reactor（**教師指定 Prospector 答案**）
-- [[concepts/red-queen-effect]] — 90 年持續創新才能不被 disrupt
-- [[concepts/loyalty-program-network-effects]] — Bonvoy 母合 linkage（Airbnb 無）
-- [[synthesis/asset-light-vs-asset-heavy-hospitality]]
-- [[synthesis/pipeline-vs-platform-hospitality]]
+- ota business models — agency / merchant / advertising 三模式
+- ota disintermediation — Brand.com vs OTA channel war
+- miles and snow typology — Prospector / Analyzer / Defender / Reactor（**教師指定 Prospector 答案**）
+- red queen effect — 90 年持續創新才能不被 disrupt
+- loyalty program network effects — Bonvoy 母合 linkage（Airbnb 無）
+- asset light vs asset heavy hospitality
+- pipeline vs platform hospitality
 
 ## 教師眉批採集（核心）
 

@@ -84,7 +84,7 @@ PM 看到「研究 X 顯示 feature A 提升 retention」時應問：
 
 寫 wiki synthesis 時若只引一篇 paper / 一個 sample 的結論，本質上就是 Short 警告的反例。
 
-→ Synthesis 頁原則：**至少兩個獨立 sample / source 才能下判斷**（[[CLAUDE.md]] synthesis 規則）。
+→ Synthesis 頁原則：**至少兩個獨立 sample / source 才能下判斷**（CLAUDE.md synthesis 規則）。
 
 ## Counter-arguments ^[inferred]
 

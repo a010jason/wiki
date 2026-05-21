@@ -87,5 +87,5 @@ EBM 行銷的四支柱檢核：^[inferred — Jason 個人延伸]
 - [[concepts/marketing-definition]] — Ch01 上位概念
 - [[concepts/marketing-orientations]] — 行銷導向五階段（Holistic 不在這五階段內，是更高層次的整合觀）
 - [[concepts/customer-centricity]] — Internal marketing 的延伸
-- [[concepts/marketing-network]] — Relationship marketing 的核心資產
+- marketing network — Relationship marketing 的核心資產
 - [[references/kotler-keller-chernev-marketing-management-16e]]

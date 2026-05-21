@@ -24,23 +24,23 @@ sources:
     pages: 15
 related:
   - '[[concepts/asset-light-strategy]]'
-  - '[[concepts/management-vs-franchise-contract]]'
-  - '[[concepts/multi-brand-hotel-portfolio]]'
+  - 'management vs franchise contract'
+  - 'multi brand hotel portfolio'
   - '[[concepts/dedicated-vs-flexible-capacity]]'
   - '[[concepts/compression-night-economics]]'
-  - '[[concepts/ota-business-models]]'
-  - '[[concepts/miles-and-snow-typology]]'
-  - '[[concepts/red-queen-effect]]'
-  - '[[entities/Airbnb]]'
-  - '[[entities/Starwood]]'
-  - '[[entities/Marriott-Bonvoy]]'
+  - 'ota business models'
+  - 'miles and snow typology'
+  - 'red queen effect'
+  - 'Airbnb'
+  - 'Starwood'
+  - 'Marriott-Bonvoy'
 ---
 
 # Marriott International
 
 全球最大連鎖飯店集團（2017）：30 個品牌、6,000+ 飯店、110 萬間客房、110+ 國。2016 以 \$13.6B 完成 Starwood 併購後規模翻倍。市值 \$38B（vs Hilton \$21B、Hyatt \$7.4B、Choice \$4.1B）。Marriott 家族仍持有 ~20%。^[extracted]
 
-> 戰略 DNA：**1977 年首倡 [[concepts/asset-light-strategy|asset-light strategy]]**（年報明文「emphasis on management rather than ownership」），不擁有大部分飯店但靠 management 與 franchise contract 與 [[entities/Marriott-Bonvoy|Bonvoy loyalty]] 賺錢。教師眉批：「**輕資產戰略，空手道**」。^[teacher-annotation]
+> 戰略 DNA：**1977 年首倡 [[concepts/asset-light-strategy|asset-light strategy]]**（年報明文「emphasis on management rather than ownership」），不擁有大部分飯店但靠 management 與 franchise contract 與 Bonvoy loyalty 賺錢。教師眉批：「**輕資產戰略，空手道**」。^[teacher-annotation]
 
 ## 公司架構速覽（2017）
 
@@ -73,7 +73,7 @@ related:
 - 全球飯店業 177,000 家、1,670 萬客房、年營收 \$468B（40% 來自美國）
 - 連鎖品牌 53%、前 20 大運營商佔 40% 收入
 - **前五（Marriott / Hilton / IHG / Wyndham / Accor）控制 24% 客房**；美國前五佔 47% 房間
-- 2017 客房：[[entities/Airbnb|Airbnb]] 3M listings / Marriott 1.2M / Hilton 816K / IHG 737K / Wyndham 678K / Accor 580K
+- 2017 客房：Airbnb 3M listings / Marriott 1.2M / Hilton 816K / IHG 737K / Wyndham 678K / Accor 580K
 - 萬豪品牌客單盈利**比同市場非品牌平均高 13%** — brand premium 量化
 
 ## Starwood 併購（2015-2016）
@@ -81,7 +81,7 @@ related:
 - 2015/4 Starwood 宣布出售；競標含 Hyatt、**中國安邦**
 - Marriott 初價 \$12.2B 股票+現金；**安邦反覆抬價**；最終 \$13.6B
 - 2016/9/23 完成；客房翻倍、海外（亞、中東、非洲）擴大
-- 戰略後果：30 品牌 segment-by-segment 覆蓋；Loyalty 程式（Marriott Rewards + Ritz-Carlton Rewards + SPG）2018 整合為 [[entities/Marriott-Bonvoy|Bonvoy]]
+- 戰略後果：30 品牌 segment-by-segment 覆蓋；Loyalty 程式（Marriott Rewards + Ritz-Carlton Rewards + SPG）2018 整合為 Bonvoy
 
 ## Bonvoy / Loyalty 經濟學
 
@@ -108,7 +108,7 @@ related:
 
 > 「To compete with sharing economy, which strategy, **Prospector**, Analyzer (Challenger), Follower (reactor), or niche (Defender), Marriott should deploy? **ANS: 探勘型策略**（Prospector）」
 
-詳見 [[concepts/miles-and-snow-typology]]。
+詳見 miles and snow typology。
 
 教師講義 p.10「a) Marriott will thrive. 蓬勃發展 / b) Marriott will survive. / c) Marriott will be disrupted.」**三選項留給學員判斷**，但 Christensen disruption 圖標 「**Airbnb In 2018**」已上沿到 mainstream，提示答案偏 (b) 或 (c)。^[teacher-annotation]
 
@@ -136,12 +136,12 @@ related:
 - **Asset-light 是否真的可持續？** 飯店業 2008 金融危機顯示 owner（不是 Marriott）扛了下行風險，但 Marriott 收 base fee 仍降低 — owner 的「保留下行風險」會否在 Airbnb 普及後變成 owner 撤資？^[inferred]
 - **30 品牌會 cannibalize 嗎？** Marriott 自承「segment-by-segment 不互蝕」但**無公開實證**。^[ambiguous]
 - **Loyalty linkage 優勢假設 Airbnb 永遠無法做 host-side 母合**，但 Airbnb for Work / Plus / Luxe 是 sustaining innovation 已上移 — 假設邊界要重估。^[inferred]
-- **OTA 13.33% 預訂佔比**已超過 Brand.com 17.68% 的距離縮小 — Marriott 推「It Pays to Book Direct」抵抗 [[concepts/ota-disintermediation|OTA disintermediation]] 成效未明。
+- **OTA 13.33% 預訂佔比**已超過 Brand.com 17.68% 的距離縮小 — Marriott 推「It Pays to Book Direct」抵抗 OTA disintermediation 成效未明。
 - **Marriott 受循環影響較大**（教師眉批）— 大蕭條 / pandemic 時 dedicated capacity 是包袱不是優勢。
 
 ## Related
 
-- **概念**：[[concepts/asset-light-strategy]] / [[concepts/management-vs-franchise-contract]] / [[concepts/multi-brand-hotel-portfolio]] / [[concepts/dedicated-vs-flexible-capacity]] / [[concepts/compression-night-economics]] / [[concepts/ota-business-models]] / [[concepts/ota-disintermediation]] / [[concepts/miles-and-snow-typology]] / [[concepts/red-queen-effect]] / [[concepts/brand-hierarchy]] / [[concepts/brand-extension]] / [[concepts/CAGE-distance-framework]] / [[concepts/two-sided-market]] / [[concepts/network-externalities]] / [[concepts/transaction-cost-economics]]
-- **Entity**：[[entities/Airbnb]] / [[entities/Starwood]] / [[entities/Marriott-Bonvoy]] / [[entities/Ritz-Carlton]] / [[entities/Expedia]] / [[entities/Booking-com]]
+- **概念**：[[concepts/asset-light-strategy]] / management vs franchise contract / multi brand hotel portfolio / [[concepts/dedicated-vs-flexible-capacity]] / [[concepts/compression-night-economics]] / ota business models / ota disintermediation / miles and snow typology / red queen effect / [[concepts/brand-hierarchy]] / [[concepts/brand-extension]] / [[concepts/CAGE-distance-framework]] / two sided market / [[concepts/network-externalities]] / [[concepts/transaction-cost-economics]]
+- **Entity**：Airbnb / Starwood / Marriott-Bonvoy / Ritz-Carlton / Expedia / [[entities/Booking-com]]
 - **參考**：[[references/HBS-marriott-90yr-case]] / [[references/grant-contemporary-strategy-analysis]] Ch10 vertical scope / Ch12 diversification / Ch13 multibusiness
-- **Synthesis**：[[synthesis/asset-light-vs-asset-heavy-hospitality]] / [[synthesis/pipeline-vs-platform-hospitality]]
+- **Synthesis**：asset light vs asset heavy hospitality / pipeline vs platform hospitality

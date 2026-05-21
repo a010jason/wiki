@@ -20,7 +20,7 @@ related:
   - '[[concepts/icarus-paradox]]'
   - '[[concepts/penguin-effect]]'
   - '[[concepts/winner-take-all-determinants]]'
-  - '[[concepts/structural-hole-in-strategy]]'
+  - 'structural hole in strategy'
   - '[[synthesis/HTC-marketing-research-gap]]'
 ---
 
@@ -165,7 +165,7 @@ Exhibit 11（2017 State of the Game Industry Survey）：
 
 ## Related
 
-- **概念**：[[concepts/icarus-paradox]] / [[concepts/penguin-effect]] / [[concepts/winner-take-all-determinants]] / [[concepts/structural-hole-in-strategy]] / [[concepts/network-effects-direct-vs-indirect]] / [[concepts/multi-homing-cost]] / [[concepts/red-queen-competition]] / [[concepts/nascent-industry]] / [[concepts/gartner-hype-cycle]] / [[concepts/seven-layers-of-metaverse]] / [[concepts/loss-leader-pricing]] / [[concepts/B2B2C-via-ISV]] / [[concepts/dominant-design]] / [[concepts/disruptive-innovation]] / [[concepts/adopter-categorization]]
-- **Entity**：[[entities/Cher-Wang]] / [[entities/Peter-Chou]] / [[entities/Apple]] / [[entities/Sony]] / [[entities/Microsoft]] / [[entities/Meta]] / [[entities/Oculus]] / [[entities/Google]] / [[entities/Samsung-Electronics]] / [[entities/Valve]]
+- **概念**：[[concepts/icarus-paradox]] / [[concepts/penguin-effect]] / [[concepts/winner-take-all-determinants]] / structural hole in strategy / network effects direct vs indirect / multi homing cost / red queen competition / nascent industry / gartner hype cycle / seven layers of metaverse / loss leader pricing / B2B2C-via-ISV / [[concepts/dominant-design]] / [[concepts/disruptive-innovation]] / [[concepts/adopter-categorization]]
+- **Entity**：Cher-Wang / Peter-Chou / [[entities/Apple]] / Sony / Microsoft / Meta / Oculus / [[entities/Google]] / [[entities/Samsung-Electronics]] / Valve
 - **參考**：[[references/HBS-9-718-421-HTC-VR-case]] / [[references/grant-contemporary-strategy-analysis]] Ch4 hypercompetition / Ch7 industry analysis / Ch9 innovation
-- **Synthesis**：[[synthesis/HTC-marketing-research-gap]]（既有，本批可大幅補強） / [[synthesis/penguin-effect-as-pivot-driver]]
+- **Synthesis**：[[synthesis/HTC-marketing-research-gap]]（既有，本批可大幅補強） / penguin effect as pivot driver
