@@ -16,8 +16,8 @@ provenance:
   inferred: 0.13
   ambiguous: 0.02
 base_confidence: 0.32
-lifecycle: draft
-lifecycle_changed: 2026-05-05
+lifecycle: challenged
+lifecycle_changed: 2026-05-22
 ---
 
 # Disruptive Innovation（破壞式創新）
@@ -109,6 +109,16 @@ Disruptive innovation 之後 Christensen 提出兩個配套診斷工具，用來
 - 遠離 core 業務 → 失去 strategic proximity，graduate 不回去
 
 → 這直接驗證 Christensen 的 thesis：**真正的 disruptive innovation 在 incumbent 內部結構性不可能；唯一出路是 C 象限**。
+
+## Critique 摘要
+
+> **2026-05-22 跑了一次 wiki-challenge**
+>
+> 5 條核心 claim：1 survives / 1 narrow / 2 brittle / 1 unsupported。主要弱點：page 只 cite Christensen 自己的書，**完全沒納入**過去 15 年重量級反向研究（Lepore 2014、King-Baatartogtokh 2015 — 後者重新檢視 Christensen 77 案例只有 9% 符合定義）；iPhone（high-end 切入）這個史上最大 disruption 案例直接違反核心機制；Claim「incumbent 內部 disruption 結構性不可能」從 Intel NBI 一案推廣，但 Amazon AWS / MS Azure / Netflix streaming / Apple iPod→iPhone 多個反例存在。
+>
+> `base_confidence`：0.32 → 0.32（已低於 unsupported cap）；`lifecycle`：draft → challenged。
+>
+> 完整逐條質疑、行動項目、跨域對標：私人 meta 頁（不公開），路徑 `_meta/critique/disruptive-innovation.md`。
 
 ## Related
 

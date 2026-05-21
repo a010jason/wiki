@@ -18,12 +18,12 @@ owner: Jason
 
 | Tier | 已跑 | 待跑 | 總計 |
 |---|---|---|---|
-| Tier 1 — Top hub pages | 2 (disruptive-innovation ✅ / STP-framework ✅) | 3 | 5 |
+| Tier 1 — Top hub pages | 4 (disruptive-innovation ✅ / STP-framework ✅ / OKR ✅ / falsifiability-popper ✅) | 1 | 5 |
 | Tier 2 — Cross-domain hub theories | 0 | 5 | 5 |
 | Tier 3 — Research methods 核心 | 1 (agency-theory ✅) | 9 | 10 |
 | Tier 4 — Wave 2 supplementary papers | 0 | 6 | 6 |
 | Tier 5 — Research methods supporting | 0 | 15 | 15 |
-| **總計** | **3** | **38** | **41** |
+| **總計** | **5** | **36** | **41** |
 
 剩餘 363 頁 draft 屬 lower-priority（先跑這 40 個 high-impact 的）。
 
@@ -45,7 +45,7 @@ owner: Jason
 - [x] **`concepts/disruptive-innovation`** — 2026-05-22 done（5 claims: 1 survives / 1 narrow / 2 brittle / 1 unsupported；單邊 sourcing、iPhone 反例、Amazon/Azure/Netflix 反 Claim 5）
 - [x] **`concepts/STP-framework`** — 2026-05-22 done by parallel session (commit 7bf729f, 1 survives / 3 narrow / 1 brittle；教師批註「Porter 差異化只停在 BU」與 Porter 1985 原書矛盾)
 - [ ] **`concepts/VRIO-framework`** — 47 incoming，RBV 經典；常與 Porter's 5F 並用但少人挑戰前提
-- [ ] **`concepts/OKR`** — 40 incoming，Intel/Google 神話；OKR vs KPI 二分常 brittle
+- [x] **`concepts/OKR`** — 2026-05-22 done by parallel session（critique file 已寫 + Critique 摘要 blockquote 已加；TODO 漏打勾本次補）
 - [x] **`concepts/falsifiability-popper`** — 2026-05-22 done（5 claims: 0 survives / 2 narrow / 3 brittle / 0 unsupported；主要弱點 Duhem-Quine / Lakatos / Kuhn omission + Freud 全盤否定未引 Grünbaum 1984 + Loftus repression 實證；commit pending）
 
 ## Tier 2 — Cross-Domain Hub Theories（跨多個 wiki 章節引用）
