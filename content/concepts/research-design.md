@@ -16,8 +16,8 @@ provenance:
   inferred: 0.05
   ambiguous: 0
 base_confidence: 0.55
-lifecycle: draft
-lifecycle_changed: 2026-05-21
+lifecycle: challenged
+lifecycle_changed: 2026-05-22
 ---
 
 # Research Design
@@ -147,6 +147,16 @@ PM discovery research 的 design 選擇：
 | Long-term causal claim | Longitudinal cohort、quasi-experiment |
 
 PM 常見錯誤：用 quant survey 做 problem discovery（應該用 qualitative），或用 focus group 驗證 feature impact（應該用 A/B test）。
+
+## Critique 摘要
+
+> **2026-05-22 跑了一次 wiki-challenge**
+>
+> 5 條核心 claim：0 survives / 4 narrow / 1 brittle / 0 unsupported。主要弱點：100% Bhattacherjee Ch5 single-source（Yin / Creswell / Maxwell / Hevner / Lincoln-Guba 等並列 alternatives 未提）；emergent design tradition (grounded theory / lean startup / agile research) 反對 pre-specified blueprint，page 未承認；第三 paradigm (critical realism + pragmatism) 缺席；qualitative validity 對應框架 Lincoln-Guba 1985 4-criteria + Tracy 2010 8-criteria missing；Cone of Validity 處理過淺，Cronbach 1982 UTOS + Brewer 2000 gradient view 未引；7 designs 漏 IS 領域核心 design science (Hevner 2004 MISQ)；mixed-mode universal recommendation 過強，Bryman 2007 50% failure rate + FDA confirmatory trial 反例 missed。
+>
+> `base_confidence`：0.55 → 0.55（brittle cap 觸頂）；`lifecycle`：draft → challenged。
+>
+> 完整逐條質疑、行動項目：私人 meta 頁（不公開），路徑 `_meta/critique/research-design.md`。
 
 ## Related
 
