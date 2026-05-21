@@ -21,9 +21,9 @@ owner: Jason
 | Tier 1 — Top hub pages | **5/5 ✅** (disruptive-innovation / STP-framework / OKR / falsifiability-popper / VRIO-framework) | 0 | 5 |
 | Tier 2 — Cross-domain hub theories | **5/5 ✅** (scientific-theory / causality-three-conditions / innovation-diffusion-theory / elaboration-likelihood-model / social-cognitive-theory) | 0 | 5 |
 | Tier 3 — Research methods 核心 | 5 (agency-theory ✅ / construct-validity ✅ / reflective-vs-formative ✅ / inductive-vs-deductive ✅ / theory-vs-not-theory ✅) | 5 | 10 |
-| Tier 4 — Wave 2 supplementary papers | 0 | 6 | 6 |
+| Tier 4 — Wave 2 supplementary papers | 1 (human-like-AI-competencies ✅) | 5 | 6 |
 | Tier 5 — Research methods supporting | 0 | 15 | 15 |
-| **總計** | **15** | **26** | **41** |
+| **總計** | **16** | **25** | **41** |
 
 剩餘 363 頁 draft 屬 lower-priority（先跑這 40 個 high-impact 的）。
 
@@ -71,7 +71,7 @@ owner: Jason
 
 ## Tier 4 — Wave 2 Supplementary Papers（單篇 paper 衍生 concepts）
 
-- [ ] **`concepts/human-like-AI-competencies`** — Chandra 2022；H1b 不支持的 4 boundary conditions 是 ad hoc rationalization？
+- [x] **`concepts/human-like-AI-competencies`** — 2026-05-22 done（5 claims: 0 survives / 1 narrow / 4 brittle / 0 unsupported；單篇 pre-LLM paper 過度推廣；構念 transferability 未獨立驗證；Relational null result 被 over-interpret 與 Woebot/Wysa/Replika 文獻矛盾；MNT 三 mechanism mapping 是 Chandra 單方 theoretical claim；4 個 BC 是 post-hoc rationalization，BC#2/BC#3 與 service-recovery / ELIZA effect 文獻矛盾）
 - [ ] **`concepts/common-method-bias`** — Harman 已被 Aguirre-Urreta 批 power 不足
 - [ ] **`concepts/instrumental-variable-2SLS`** — Cragg-Donald > 10 threshold 是 simulation heuristic
 - [ ] **`concepts/PLS-SEM-vs-CB-SEM`** — 兩派系意識形態之爭，HTMT 已是 Fornell-Larcker 繼任者

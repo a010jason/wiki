@@ -16,8 +16,8 @@ provenance:
   inferred: 0.15
   ambiguous: 0
 base_confidence: 0.35
-lifecycle: draft
-lifecycle_changed: 2026-05-21
+lifecycle: challenged
+lifecycle_changed: 2026-05-22
 ---
 
 # Human-Like AI Competencies
@@ -120,6 +120,16 @@ User Engagement 三維（Schaufeli 等）：
 - 構念效度本身爭議：直接把人類能力分類搬到 AI（[[references/chandra-2022-human-like-AI-competencies|Chandra 2022 critique]]）
 - Pre-LLM 時代研究 — GPT/Claude/Gemini 來後三維關係可能重排
 - Sample 偏新加坡 18 歲商管生 — 對醫療 / 銀髮族外推性弱
+
+## Critique 摘要
+
+> **2026-05-22 跑了一次 wiki-challenge**
+>
+> 5 條核心 claim：0 survives / 1 narrow / 4 brittle / 0 unsupported。整頁主要弱點是**單篇 pre-LLM paper 過度推廣**：(1) 構念 transferability 從 human manager 到 AI agent 未獨立驗證；(2) Relational β=-0.027 null result 被 over-interpret 為「relational 不重要」，與 Woebot/Wysa RCT、Replika/Character.ai user-attachment 文獻直接矛盾；(3) 三維對應 MNT 三 mechanism 是 Chandra 單方 theoretical mapping，非 MNT 原文設計；(4) H1b 不支持的 4 個 boundary conditions 是 post-hoc rationalization，BC#2 與服務復原文獻矛盾、BC#3 與 ELIZA effect 矛盾。
+>
+> `base_confidence`：0.35 → 0.35（已在 brittle cap 0.55 內，且原值偏低反映 page 自我警示）；`lifecycle`：draft → challenged。
+>
+> 完整逐條質疑、行動項目：私人 meta 頁（不公開），路徑 `_meta/critique/human-like-AI-competencies.md`。
 
 ## Related
 
