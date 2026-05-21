@@ -495,6 +495,10 @@ title: Jason 的知識庫
 - [[synthesis/ab-testing-x-booking-strategic-limits]] — Booking A/B 文化 + 戰略邊界（Vermeer / Gulati 自承 A/B 不能 test strategy）
 - [[synthesis/STP-x-buying-center]] — STP 的 B2C 偏向 + B2B 用 buying center 7 角色擴展為 2D
 
+## Projects
+
+- [[projects/wiki-challenge-rollout]] — 404 draft → challenged 系統化升級 TODO（5 tier / 41 high-impact pages，單線程跑）
+
 ## Journal
 
 - [[journal/2026-05-04-llm-wiki-setup]] — 從零搭起個人 LLM Wiki：選工具、建 vault、客製規範、全域裝
