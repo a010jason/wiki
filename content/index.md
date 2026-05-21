@@ -106,6 +106,18 @@ title: Jason 的知識庫
 - [[concepts/CAGE-distance-framework]] — Ghemawat 跨國距離四維 + AAA Triangle（Grant Ch11）
 - [[concepts/organizational-ambidexterity]] — Exploit vs Explore 雙元能力；Structural（O'Reilly-Tushman）vs Contextual（Gibson-Birkinshaw）兩型；Hyundai sequencing 案例（Grant Ch08）
 
+#### Wave A 案例 — 6 個 HBS strategy cases（2026-05-21）
+
+- [[concepts/subsidiary-leader-lifecycle]] — Bartlett 三階段（Go-Getter / Local Baron / Professional Manager）+ 教師中文比喻（自走砲/野蠻成長/藩鎮割據/功高震主/太平盛世）（Levendary case）
+- [[concepts/dedicated-vs-flexible-capacity]] — 教師原創框架：平穩需求 dedicated 贏 / 變動需求 flexible 補位；對應太平盛世 vs 大飢荒（Marriott case）
+- [[concepts/compression-night-economics]] — 飯店 95%+ booked 之夜 4.9% 房晚 × 8% 收入；Marriott dedicated capacity 瓶頸（Marriott case）
+- [[concepts/asset-light-strategy]] — 1977 Marriott 年報首倡「emphasis on management rather than ownership」；franchise + management contract 結構；輕資產=空手道
+- [[concepts/ab-testing-as-strategy]] — Booking.com Vermeer「strategy 不能 A/B test，但搞清楚 strategy 後一切都可測」；270 teams 自組織（Booking case）
+- [[concepts/agency-vs-merchant-model]] — Platform 商模兩種結構；Booking agency / Expedia merchant / Amazon hybrid 對照
+- [[concepts/sashimi-theory]] — Yun Jong Yong：科技產品像生魚片第一天最值錢，速度決定誰勝出；Samsung 5 月 vs 業界 14 月 concept-to-market
+- [[concepts/smile-curve]] — 施振榮 1992 微笑曲線；R&amp;D + Brand 兩端高、Manufacturing 谷底（Flextronics ODM 嘗試案例）
+- [[concepts/desktop-vs-platform-mindset]] — 教師原創 incumbent 世代病診斷：MS AdCenter 7 條 break-into 全敗；Product 思維買不出 Platform
+
 ### 管理 / 行銷管理（Kotler 16e）
 - [[concepts/marketing-definition]] — Kotler/AMA 雙定義 + get/keep/grow + 10 類可被行銷的對象（Ch01 hub）
 - [[concepts/STP-framework]] — Segmentation → Targeting → Positioning（跨章 hub）
@@ -235,6 +247,14 @@ title: Jason 的知識庫
 - [[entities/Taylor-Swift]] — Personal brand + Scooter Braun 母帶之爭 + 收入四元化 + Swifties 社群
 - [[entities/Marcello-Damiani]] — Moderna CDO，AI Factory 三原則（Cloud/Integration/Automation）articulator；「先優化、後數位化」立場（Iansiti HBS Moderna case）
 
+### 策略管理 — 6 個 HBS strategy cases（Wave A，2026-05-21）
+- [[entities/Levendary-Cafe]] — HBS 4357 (Bartlett 2011)；Foster vs Chen 中國子公司治理；諫太宗十思疏 leadership 跨領域類比
+- [[entities/Marriott-International]] — 1977 asset-light 戰略 + Starwood 2016 $13.6B 併購 + Bonvoy 1 億會員 + Airbnb 競爭視角
+- [[entities/Booking-com]] — A/B testing 戰略化（同時 ~1,000 對照實驗）+ Agency model + Growth Flywheel + NK fitness landscape
+- [[entities/Flextronics-International]] — EMS 龍頭 ODM 轉型嘗試；Phone 1 成功 Phone 4 沒人買；smile curve 谷底困境
+- [[entities/Samsung-Electronics]] — 1997 turnaround + Yun sashimi theory + 反主流 vertical integration + Eric Kim GMO
+- [[entities/Microsoft-AdCenter]] — Porter generic strategy 在 digital 失靈案例；7 條 break-into 全敗 + Desktop vs Platform mindset 診斷
+
 ### ESG / 公司治理 / 倫理（陽明交大 2023-2025 系列）
 - [[entities/Hu-Jin-Li]] — 陽明交大經管所教授；行政院國家永續發展委員會委員；ESG 系列主導講者
 - [[entities/Liu-Zong-Sheng]] — 元大投信董事長 / 投信投顧公會理事長；永續金融 + ETF 2.0 講者
@@ -273,6 +293,12 @@ title: Jason 的知識庫
 - [[references/esg-lecture-corpus]] — 陽明交大 EMBA 2023 ESG 系列 14 PDFs / 887 頁（胡均立 + 劉宗聖 + 黃世忠 + 佳典管顧 + 致理 張民忠）
 - [[references/business-ethics-lecture-corpus]] — 陽明交大 2025 春《企業經營與倫理專題講座》6 PDFs / 119 頁（李建文 + 蔡豐明 + 黃柏翔 + 3 case briefing）
 - [[references/corporate-governance-lecture-corpus]] — 2025 春公司治理課程 9 lectures + 2 HP 醜聞報導 / 47 頁（公司法 + 證交法逐條教學）
+- [[references/HBS-levendary-cafe-case]] — HBS 4357 Bartlett &amp; Han 2011，跨國組織進入新興市場 + Bartlett 三階段 subsidiary leader lifecycle
+- [[references/HBS-marriott-90yr-case]] — Marriott 90 年 + Starwood 併購 + Bonvoy + Airbnb 對標；dedicated vs flexible capacity 教師原創框架
+- [[references/HBS-booking-com-case]] — HBS 9-619-015，A/B testing 作為戰略；Blue Screen Landing Page 實驗 cliffhanger
+- [[references/HBS-flextronics-international-case]] — EMS 廠商 ODM 轉型；CM/CDM/ODM 三層模型 + smile curve + patent thicket
+- [[references/HBS-samsung-electronics-case]] — HBS 9-504-051 (Quelch &amp; Harrington 2003)，行銷視角的 turnaround，Eric Kim GMO 整合 200 國
+- [[references/HBS-microsoft-adcenter-case]] — HBS 9-908-049 (Coles &amp; Edelman 2008)，AdCenter 失敗案例；**case 原文 35MB 純掃描已 deferred**，lecture-only ingest
 
 ## Synthesis
 
@@ -295,6 +321,8 @@ title: Jason 的知識庫
 - [[synthesis/family-firm-control-vs-governance]] — 東亞家族企業控制權保留 vs 公司治理透明化的根本張力
 - [[synthesis/medical-ai-ESG-implications]] — 醫療 AI 公司面對 ESG 監管的具體策略（E 弱 / S 重 / G 為 IPO 前置）— **visibility: internal**
 - [[synthesis/shipping-aviation-ESG-paths]] — IMO vs ICAO 減排框架對比 + 替代燃料路徑
+- [[synthesis/wei-zheng-leadership-and-subsidiary-management]] — 諫太宗十思疏 ↔ 跨國子公司治理跨領域對標；Bartlett 三階段 + 唐太宗治國模式映射；類比的適用邊界
+- [[synthesis/agency-vs-merchant-platform-models]] — Agency vs Merchant 商模跨產業對比（OTA / e-commerce / ride-hailing / cloud / 房地產）；為何 agency 普遍贏 + Amazon 雙軌的內部衝突
 
 ## Journal
 

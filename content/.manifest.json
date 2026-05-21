@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-05-21T15:00:00+08:00 (ESG 14 + Ethics 6 + Governance 11 = 31 PDFs / 1053 頁 / 62 new pages)",
+  "last_updated": "2026-05-21T17:00:00+08:00 (策略管理 Wave A: 12 PDFs / 226p / 23 new pages)",
   "sources": {
     "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/0820-OKR-講義.pdf": {
       "ingested_at": "2026-05-05T15:00:00+08:00",
@@ -1447,12 +1447,161 @@
         "references/corporate-governance-lecture-corpus.md"
       ],
       "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/9LevendaryCafe_S.pdf.pdf": {
+      "ingested_at": "2026-05-21T17:00:00+08:00",
+      "size_bytes": 1283917,
+      "content_hash": "sha256:dfd43ebc6530a98b94f90c248a883d965b39264121f4f9455345ed1f38b1285c",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/HBS-levendary-cafe-case.md",
+        "entities/Levendary-Cafe.md",
+        "concepts/subsidiary-leader-lifecycle.md",
+        "synthesis/wei-zheng-leadership-and-subsidiary-management.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/Levendary Café.pdf.pdf": {
+      "ingested_at": "2026-05-21T17:00:00+08:00",
+      "size_bytes": 8880882,
+      "content_hash": "sha256:b3363bb5f8666bdcbf488423f2a5f0a0b53179ab30e048d77ebad7fe80f74549",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/HBS-levendary-cafe-case.md",
+        "entities/Levendary-Cafe.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/8Flextronics_S.pdf.pdf": {
+      "ingested_at": "2026-05-21T17:00:00+08:00",
+      "size_bytes": 2271966,
+      "content_hash": "sha256:c2b4bbae4fd1fd6380a11c1c8f060dd6030b072ff2aea6c9243b399ce8e0ac78",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/HBS-flextronics-international-case.md",
+        "entities/Flextronics-International.md",
+        "concepts/smile-curve.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/11. Flextronics International.pdf.pdf": {
+      "ingested_at": "2026-05-21T17:00:00+08:00",
+      "size_bytes": 11041312,
+      "content_hash": "sha256:54583595c0b67e59be63a0fc640d2626f8723c25abfdc17067ae2d401502756f",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/HBS-flextronics-international-case.md",
+        "entities/Flextronics-International.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/11Marriott_next90yr_S.pdf.pdf": {
+      "ingested_at": "2026-05-21T17:00:00+08:00",
+      "size_bytes": 2693574,
+      "content_hash": "sha256:ad53b6540c640443c0e402205a2e8a8a47dd7dff9dc066a4949eabbdc90d9dc0",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/HBS-marriott-90yr-case.md",
+        "entities/Marriott-International.md",
+        "concepts/dedicated-vs-flexible-capacity.md",
+        "concepts/asset-light-strategy.md",
+        "concepts/compression-night-economics.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/13. Marriot International.pdf.pdf": {
+      "ingested_at": "2026-05-21T17:00:00+08:00",
+      "size_bytes": 12386139,
+      "content_hash": "sha256:bd1fc7e026e357422efd56ea84d975dd0c79dca2a8d97e757baecbe7388bb1bc",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/HBS-marriott-90yr-case.md",
+        "entities/Marriott-International.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/13Booking.pdf.pdf": {
+      "ingested_at": "2026-05-21T17:00:00+08:00",
+      "size_bytes": 3735625,
+      "content_hash": "sha256:ec0a6e3a87170be15986f1adbd018105068c10ca6b1abd6b484a9a056912199c",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/HBS-booking-com-case.md",
+        "entities/Booking-com.md",
+        "concepts/ab-testing-as-strategy.md",
+        "concepts/agency-vs-merchant-model.md",
+        "synthesis/agency-vs-merchant-platform-models.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/14. Booking.com.pdf.pdf": {
+      "ingested_at": "2026-05-21T17:00:00+08:00",
+      "size_bytes": 14006093,
+      "content_hash": "sha256:3c7978b61bd5fb05e2b8adafeb06b53e8dcf37988a5f0cd7fe2c06d75babfcf3",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/HBS-booking-com-case.md",
+        "entities/Booking-com.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/10. Samsung.pdf.pdf": {
+      "ingested_at": "2026-05-21T17:00:00+08:00",
+      "size_bytes": 16939280,
+      "content_hash": "sha256:53a0b8bdaa7bad73965161e3b9ef9f4077e1c7bca9cb50ec8e645b25ed2ac4eb",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/HBS-samsung-electronics-case.md",
+        "entities/Samsung-Electronics.md",
+        "concepts/sashimi-theory.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/1GAFA_S.pdf.pdf": {
+      "ingested_at": "2026-05-21T17:00:00+08:00",
+      "size_bytes": 520214,
+      "content_hash": "sha256:6f0efaa9c6f1d9124604c9f2c9321b7abee6834520b9119a7613956cc6e26620",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/6Moderna_S.pdf.pdf": {
+      "ingested_at": "2026-05-21T17:00:00+08:00",
+      "size_bytes": 2308801,
+      "content_hash": "sha256:9b9f0bbe70ff0fcf4c39dc116946cf92816784bd9013d6913bc9c0200a3e4685",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/1AdCenter_S.pdf.pdf": {
+      "ingested_at": "2026-05-21T17:00:00+08:00",
+      "size_bytes": 1807031,
+      "content_hash": "sha256:87b6a8a41dbdd03f015aecf43972ddc387a6840d7d5c351418c718dd6ac034cf",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/HBS-microsoft-adcenter-case.md",
+        "entities/Microsoft-AdCenter.md",
+        "concepts/desktop-vs-platform-mindset.md"
+      ],
+      "pages_updated": []
     }
   },
   "projects": {},
   "stats": {
-    "total_sources_ingested": 64,
-    "total_pages": 2215,
+    "total_sources_ingested": 76,
+    "total_pages": 2431,
     "total_projects": 0,
     "last_full_rebuild": null
   }

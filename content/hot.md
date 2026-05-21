@@ -1,6 +1,6 @@
 ---
 title: Hot Cache
-updated: 2026-05-21T15:00+08:00 (ESG 14 + 企業倫理 6 + 公司治理 11 = 31 PDFs / 1053 頁 / 62 新頁 — 三資料夾首次大規模 ingest)
+updated: 2026-05-21T17:00+08:00 (策略管理 Wave A 完成 — 12 PDFs / 226 頁 / 23 新頁)
 ---
 
 # Hot Cache
@@ -8,6 +8,14 @@ updated: 2026-05-21T15:00+08:00 (ESG 14 + 企業倫理 6 + 公司治理 11 = 31 
 *A ~500-word semantic snapshot of recent activity. Updated after every major write operation.*
 
 ## Recent Activity
+
+- [2026-05-21 17:00] INGEST — **策略管理 Wave A 完成（12 PDFs / 226 頁 / 23 新頁）**：6 case studies + 2 lecture supplements，8 個 subagent 並行 distill（A1 AdCenter 走 lecture-only / case 35MB 純掃描 deferred；A1 第一次撞 user-level token quota，2:40pm reset 後 retry 成功）。寫入：
+  - **6 entity hub**：[[entities/Levendary-Cafe]] / [[entities/Marriott-International]] / [[entities/Booking-com]] / [[entities/Flextronics-International]] / [[entities/Samsung-Electronics]] / [[entities/Microsoft-AdCenter]]
+  - **6 reference manifest**：5 HBS case + AdCenter
+  - **9 concept**：[[concepts/subsidiary-leader-lifecycle]]（教師原創自走砲/藩鎮割據/太平盛世）/ [[concepts/dedicated-vs-flexible-capacity]]（教師原創太平盛世vs大飢荒）/ [[concepts/ab-testing-as-strategy]] / [[concepts/smile-curve]] 施振榮 / [[concepts/asset-light-strategy]] 1977 Marriott 首倡 / [[concepts/agency-vs-merchant-model]] / [[concepts/sashimi-theory]] Yun / [[concepts/desktop-vs-platform-mindset]] 教師原創 / [[concepts/compression-night-economics]]
+  - **2 synthesis**：[[synthesis/wei-zheng-leadership-and-subsidiary-management]] 諫太宗十思疏跨領域對標 / [[synthesis/agency-vs-merchant-platform-models]] 跨產業
+  - **教師眉批採集**：Levendary 諫太宗十思疏 + 自走砲→藩鎮割據→功高震主→太平盛世 / Marriott 輕資產=空手道 + Miles-Snow Prospector 解答 + compression night / Booking NK fitness landscape + 學習型組織五項修練 + Survey-DB-Experiment 因果階梯 + Booking 吸 Google 的血 / Flextronics co-evolution + 鴻海 OBM Infocus 軌跡 / AdCenter 全部都沒用！！典範移轉 + MS 還是 Desktop 思維 + Porter 在 digital 失靈
+  - **策略管理資料夾剩 22 份待 ingest**（Wave B 8 個單檔 lecture + Wave C 4 misc + 10 已配對 case original 含 AdCenter case-only deferred）
 
 - [2026-05-21 15:00] INGEST — **ESG + 企業經營與倫理 + 公司治理三資料夾合併大爆發（31 PDFs / 1053 頁 / 62 新頁）**：(A) **ESG 14 PDFs (887p)** — 陽明交大 EMBA 2023 秋學期系列（[[entities/Hu-Jin-Li]] 主導）+ [[entities/Liu-Zong-Sheng]] 永續金融 / ETF 2.0、佳典管顧 GRI/SASB/TCFD + NetZero Pro、黃世忠 SGS 淨零策略、張民忠致理 碳會計、陳明宏百米良田 土力革命；(B) **企業經營與倫理 6 PDFs (119p)** — 2025 春學期業界主管系列：[[entities/Li-Jian-Wen]] 首都客運（雪隧火燒車 [[concepts/crisis-management-PDCA]]）/ [[entities/Tsai-Feng-Ming]] 陽明海運（紅海危機 + 川普 2.0 + IMO 減排）/ [[entities/Huang-Bo-Xiang]] 迪芬尼（雇主品牌四要素）+ 三商美邦 / 舊振南 / 迪芬尼 case briefing；(C) **公司治理 11 PDFs (47p)** — 2025 春學期公司法 + 證交法逐條教學 9 份 + HP pretexting scandal 2 篇報導。產出：3 reference manifest + 23 ESG concept（GRI/SASB/TCFD/ISSB/Scope1-3/ISO14064-1/ISO14067/CBAM/RE100/SBTi/SDGs/PRI/Equator/USR/碳費/淨零12策略/碳權市場/漂綠/評級分歧/永續會計...）+ 11 Governance concept（**帝王條款 23 條 / 獨董 / 審計委員會 / 三委會 / 特別股 / 複數表決權 / ESOP / 累積投票 / 競業禁止 / Pretexting / 金字塔結構**）+ 5 Ethics concept（PDCA 危機處理 / ISO 39001 / 指差確認 / 雇主品牌 / 退場 ESG）+ 16 entity（[[entities/Hewlett-Packard]] / [[entities/Patricia-Dunn]] / [[entities/TSMC]] / [[entities/Yang-Ming-Marine]] / [[entities/Capital-Bus-Group]] / [[entities/Delta-Electronics]] / [[entities/O-Right]] / [[entities/E-Sun-Financial]] / [[entities/Tymphany]] / [[entities/Kuo-Yuan-Ye]] / [[entities/BlackRock]] + 5 人物）+ 4 synthesis（**[[synthesis/HP-pretexting-lessons]]** / **[[synthesis/family-firm-control-vs-governance]]** / **[[synthesis/medical-ai-ESG-implications]]**（visibility: internal）/ **[[synthesis/shipping-aviation-ESG-paths]]**）。Wave 1 subagent 中 9 lectures governance 撞 sonnet rate limit，分成 2 個小 subagent 後續處理成功；土力革命 43MB + 李建文 34MB 走 pdftotext L2-A fallback
 
