@@ -20,10 +20,10 @@ owner: Jason
 |---|---|---|---|
 | Tier 1 — Top hub pages | **5/5 ✅** (disruptive-innovation / STP-framework / OKR / falsifiability-popper / VRIO-framework) | 0 | 5 |
 | Tier 2 — Cross-domain hub theories | **5/5 ✅** (scientific-theory / causality-three-conditions / innovation-diffusion-theory / elaboration-likelihood-model / social-cognitive-theory) | 0 | 5 |
-| Tier 3 — Research methods 核心 | 5 (agency-theory ✅ / construct-validity ✅ / reflective-vs-formative ✅ / inductive-vs-deductive ✅ / theory-vs-not-theory ✅) | 5 | 10 |
+| Tier 3 — Research methods 核心 | 6 (agency-theory ✅ / construct-validity ✅ / reflective-vs-formative ✅ / inductive-vs-deductive ✅ / theory-vs-not-theory ✅ / theory-building-blocks-whetten ✅) | 4 | 10 |
 | Tier 4 — Wave 2 supplementary papers | 1 (human-like-AI-competencies ✅) | 5 | 6 |
 | Tier 5 — Research methods supporting | 0 | 15 | 15 |
-| **總計** | **16** | **25** | **41** |
+| **總計** | **17** | **24** | **41** |
 
 剩餘 363 頁 draft 屬 lower-priority（先跑這 40 個 high-impact 的）。
 
@@ -63,7 +63,7 @@ owner: Jason
 - [x] **`concepts/reflective-vs-formative-measurement`** — 2026-05-22 done（5 claims: 0 survives / 2 narrow / 3 brittle / 0 unsupported；Coltman 是綜述非首發，前置 Bollen-Lennox 1991 / Jarvis 2003 / Edwards-Bagozzi 2000 未引；反方 Bagozzi 2007 / Howell 2007 缺席；binary split 忽略 MIMIC + composite；PLS-SEM-only 過強）
 - [x] **`concepts/inductive-vs-deductive-research`** — 2026-05-22 done（5 claims: 0 survives / 3 narrow / 2 brittle / 0 unsupported；100% Bhattacherjee；Wallace 1971 / Hume 1748 / Peirce 1903 abduction / Bryman 2007 critique 全未引；Popper 框架忽略 Bayesian/PAC 70 年發展；deductive>inductive 漏 conditional 關鍵 caveat；critical realism retroduction missing；mixed-mode aspirational claim）
 - [x] **`concepts/theory-vs-not-theory`** — 2026-05-22 done（5 claims: 0 survives / 4 narrow / 1 brittle / 0 unsupported；100% Sutton-Staw 編輯立場；Doty-Glick 1994 typology=theory / Eisenhardt 1989 case-based theory-building 等 alternative 未正面整合；跨領域盲點 物理 GR / Linnaean / Big Five 等 descriptive theory 不適用；counter-to-common-sense 與 replication crisis 不一致；page 自承「全無共識」卻採 Sutton-Staw 為金科玉律自我矛盾）
-- [ ] **`concepts/theory-building-blocks-whetten`** — Whetten 1989 四 blocks
+- [x] **`concepts/theory-building-blocks-whetten`** — 2026-05-22 done（5 claims: 0 survives / 4 narrow / 1 brittle / 0 unsupported；Whetten 1989 + Sutton-Staw 1995 single-source；Bacharach 1989 同期 3-blocks / Dubin 1978 7-elements / Pearl 2009 causal DAG ontology 未提；跨領域盲點物理 ML 生物分類學 What-centric theory 不適用；經濟政治不可比較 brittle vs Public Choice + Pfeffer 反例；peer review Bornmann 2011 reliability poor；PM 應用過度延伸）
 - [ ] **`concepts/attributes-of-good-theory`** — 5 準則 + falsifiability/parsimony 衝突
 - [ ] **`concepts/research-design`** — design hub
 - [ ] **`concepts/internal-validity`** — causality 三條件 + threats

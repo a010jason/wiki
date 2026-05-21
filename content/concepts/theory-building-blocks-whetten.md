@@ -16,8 +16,8 @@ provenance:
   inferred: 0.05
   ambiguous: 0
 base_confidence: 0.55
-lifecycle: draft
-lifecycle_changed: 2026-05-21
+lifecycle: challenged
+lifecycle_changed: 2026-05-22
 ---
 
 # Whetten 四大 Building Blocks
@@ -91,6 +91,16 @@ PM 寫 PRD 時也應對 4 block：
 - **How**: 這 feature 如何影響 KPI？
 - **Why**: 為什麼這 mechanism 會 work？（這段最容易薄弱）
 - **Boundary**: 哪些用戶、哪些情境、哪些市場不適用？
+
+## Critique 摘要
+
+> **2026-05-22 跑了一次 wiki-challenge**
+>
+> 5 條核心 claim：0 survives / 4 narrow / 1 brittle / 0 unsupported。主要弱點：Whetten 1989 + Sutton-Staw 1995 兩文 single-source；同期 Bacharach 1989 3-blocks alternative / Dubin 1978 7-elements / Pearl 2009 causal DAG ontology 全未提；跨領域盲點明顯（物理 / ML / 生物分類學 What-centric theory 不適用「Logic 最重要」）；「經濟政治不可比較」是 1970s pre-public-choice 立場，Buchanan 1986 Nobel + Pfeffer 組織政治經濟學反此 claim brittle；peer review reliability Bornmann 2011 顯示 criteria 應用 inter-rater agreement poor（~0.2-0.3）；PM 應用過度延伸，Amazon PR-FAQ / Stripe RFC 等 tactical PRD 不適用。
+>
+> `base_confidence`：0.55 → 0.55（brittle cap 觸頂）；`lifecycle`：draft → challenged。
+>
+> 完整逐條質疑、行動項目：私人 meta 頁（不公開），路徑 `_meta/critique/theory-building-blocks-whetten.md`。
 
 ## Related
 
