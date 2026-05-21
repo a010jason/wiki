@@ -5,14 +5,14 @@ domain: mgmt
 tags: [entity, hbs-case, platform-war, paid-search, microsoft, failure-case, mgmt, strategy]
 aliases: [adCenter, MSN adCenter, Microsoft AdCenter (HBS 9-908-049)]
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-05-22
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:
-  extracted: 0.7
-  inferred: 0.20
-  ambiguous: 0.10
-base_confidence: 0.4
+  extracted: 0.80
+  inferred: 0.15
+  ambiguous: 0.05
+base_confidence: 0.55
 sources:
   - id: AdCenter-lecture-slide
     type: lecture-slide
@@ -20,8 +20,9 @@ sources:
     pages: 11
   - id: HBS-9-908-049-AdCenter-case
     type: hbs-case
-    status: deferred
-    note: 'PDF 為純掃描 / 高解析（2758×4050）/ 21p / 35MB，前次 ingest 撞 user-level token quota；改 lecture-only 路徑'
+    ref: '[[references/HBS-microsoft-adcenter-case]]'
+    pages: 21
+    note: '2026-05-22 補完。L3 pdftoppm -r 72 -jpeg + 7 parallel subagent 走 CLAUDE.md SOP；前次 deferred 結論被推翻——SOP L3 路徑沒走完就放棄'
 related:
   - '[[concepts/porter-generic-strategy-fail-in-digital]]'
   - '[[concepts/two-sided-market]]'
@@ -42,10 +43,10 @@ Microsoft 2006 推出的 paid-search 廣告平台，企圖在 Google AdWords 已
 
 ## Source 狀態
 
-- ✅ **講義 slide**（11p / 1.8MB / 1AdCenter_S.pdf）— ingest 完成
-- ⚠️ **HBS case 9-908-049 原文**（21p / 35MB，2758×4050 純掃描，無文字層）— **deferred**：前次 subagent 嘗試直接 Read 觸發 user-level token quota；pdftotext 拿到 0 行（無文字層）；pdftoppm 渲圖 → PNG 每張 ~9MB，仍會撞 quota。需 OCR 工具或 vision API 後續再處理。
+- ✅ **講義 slide**（11p / 1.8MB / 1AdCenter_S.pdf）— Wave A 2026-05-21 ingest 完成（commit f9f11fb）
+- ✅ **HBS case 9-908-049 原文**（21p / 35MB，2758×4050 純掃描，無文字層）— **2026-05-22 補完**：L3 `pdftoppm -r 72 -jpeg` 渲成每張 ~770KB JPEG + 7 parallel subagent × 3 pages distill。前次 Wave A 標 deferred 的「需 OCR」結論被推翻——CLAUDE.md SOP L3 低 DPI JPEG 路徑沒走完就放棄了。
 
-本頁內容**僅基於講義**，case 自帶量化指標未補上（如 AdCenter 2006-2008 spend、market share 變化）。
+本頁綜合 lecture（教師眉批 + 觀點診斷）+ HBS case 原文（量化敘事 + Exhibits 9 個）。
 
 ## 失敗診斷（教師講義 slide 10）— 7 條策略全敗
 
@@ -76,6 +77,88 @@ slide 11 Take-Away 標題直問：**「Why Focus Strategy (波特) can't work? �
 2-7. 留空（推測對應 zero marginal cost / [[concepts/network-externalities|network effect]] / [[concepts/standard-war|standard war]] / [[concepts/two-sided-market|two-sided market]] / data flywheel / switching cost）
 
 詳見 [[concepts/porter-generic-strategy-fail-in-digital]]（candidate synthesis page）。
+
+## Case 原文敘事（HBS 9-908-049, Coles & Edelman 2008）— 2026-05-22 補完
+
+### Setting
+
+時點：**2007 年 5 月**。Microsoft adCenter 已上線一年（2006 年 5 月推出），但仍是 paid search 市場的 underdog。Doug Stotland（Microsoft adCenter PM）面臨三條戰略路徑要在董事會前選定。^[extracted, case-pdf]
+
+### 三大線上廣告分類（Case p.1-3）
+
+1. **Sponsored Search（贊助式搜尋廣告）**：~40% 線上廣告市場（2006）；SERP 文字廣告，CPC 模型，每頁 8-10 個廣告位。CPC 由 [[entities/Overture]]（Goto.com 改名）首創、Google AdWords 加上 Quality Score 強化 ^[extracted, case-pdf]
+2. **Contextual Ads（內容廣告）**：投放於 publisher 網站內容區，AdSense / Yahoo Publisher Network 為代表
+3. **Display Ads**：傳統 banner / 視覺廣告，branding 為主
+
+### 市場規模（Exhibit 1，Case p.12）
+
+| 年份 | Total | Search 占比 | Display 占比 | Other |
+|---|---|---|---|---|
+| 2003 | $7.3B | 35% | 41% | 24% |
+| 2004 | $9.6B | 39% | 38% | 23% |
+| 2005 | $12.5B | 41% | 39% | 20% |
+| 2006 | $16.9B | 40% | 32% | 28% |
+
+> Source: IAB Internet Advertising Revenue Reports。**Search 廣告占比穩定 40%、市場規模 CAGR ~30%** ^[extracted, case-pdf]
+
+### 搜尋市占演化（Exhibit 2，Case p.12）
+
+ComScore 2006-03 ~ 2007-07：
+- **Google**：~43% → ~58%（持續上升，14 個月 +15pt）
+- **Yahoo**：~27% → ~25%（緩降）
+- **Microsoft**：~12% → ~16%（緩升）
+- Ask、AOL：個位數
+
+> **Microsoft 雖然緩升但仍遠落後 Google 的擴張速度** ^[extracted, case-pdf]
+
+### Stotland 面臨的三條戰略（Case 核心）
+
+| # | 路徑 | 邏輯 | 教師批註對照（lecture slide） |
+|---|---|---|---|
+| 1 | **擴 Live Search 自有流量** | 用 MSN 首頁、IE7 預設 search、Vista 內建、Hotmail、Windows Live Messenger 等 Microsoft owned properties 養 adCenter | "Expanding Live Search traffic — BU's pricing strategy" |
+| 2 | **強攻 Google 廣告主** | 對 Google AdWords 客戶提供更低 CPC + 更好 reporting + 廣告匯入工具（Exhibit 5 展示 6 步匯入流程） | "Recruiting advertisers — Client, Key accounts" |
+| 3 | **簽 Digg.com partnership** | 把 adCenter 延伸到非 Microsoft 流量網（Digg 是 2007 當紅社群新聞網） | "Recruiting small publishers to show contextual ads — STP" |
+
+### Best Vacuum Case Study（Exhibit 8，Case p.17）
+
+唯一一個 case 給的具體 success story：
+
+- **客戶**：Best Vacuum（美國高端真空吸塵機零售商，2003 起經營線上）
+- **業務規模**：線上銷售 ≥ 65% 公司營收
+- **adCenter 成效**：lead cost **比其他平台低 50%**、轉換率 **高 26%**、每月節省「數千美元」
+- **代理商評**：「With adCenter, we are able to help Best Vacuum find niche customers that are overlooked by other advertising platforms.」— Brian Jensen, Submitawebsite Inc. Client Services Director
+
+> case 用這個 case study 試圖示範 adCenter 在「利基市場、特定人口統計」的價值主張。但 Best Vacuum 是高端吸塵機這種小眾類目——**規模不可放大**正是 adCenter 困境的縮影 ^[inferred, contrasted-with-lecture-takeaway]
+
+### Live Search 自有流量規模（Exhibit 4）
+
+- **89M+ 用戶/月** 跨 MSN + Windows Live sites
+- **30M+ 搜尋/月**
+- 廣告主可觸及這批流量
+
+> 規模可觀但**遠不及 Google 流量規模**——case 在量化呈現上反證 Microsoft 的劣勢 ^[extracted, case-pdf]
+
+### Discussion Questions（Case 結尾，p.21）
+
+case 留給學員兩道題：
+
+1. **You are Doug Stotland. What approach (or approaches) do you favor? Why?**
+2. **Suppose Microsoft goes forward with the deal with Digg. Where will adCenter be in 12 months?** (Optional)
+
+### 教師講義 vs Case 原文的張力
+
+case 由 Coles & Edelman 中立撰寫，把三條戰略**等價呈現**讓學員選；但教師講義 slide 10「**全部都沒用！！典範移轉**」直接打槍 7 條策略（含 case 的 3 條）。
+
+→ 反映**HBS case method 的 product** vs **教師補課的 verdict** 之間典型張力：
+- HBS：拿 2007 當下視角讓你思考
+- 教師：拿 2008-2026 後見之明告訴你哪個 paradigm 已敗
+
+case 的 2 個 discussion question 用 2026 的後續事實補答案：
+- **MS 沒走 Digg 路徑**——Digg 2010 倒閉
+- **MS 走了 "Yahoo buyout" 路徑**——2008 提案 $44.6B 失敗、2009 改 Bing-Yahoo search alliance
+- **AdCenter → Bing Ads (2010) → Microsoft Advertising (2018)**——市占至 2024 仍 < Google 1/10
+
+---
 
 ## Google AdWords 為什麼贏 — 對比診斷
 

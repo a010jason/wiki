@@ -1,6 +1,6 @@
 ---
 title: Hot Cache
-updated: 2026-05-21T21:00+08:00 (策略管理 Wave C 完成 — 7 PDFs / 58 頁 / 14 新頁；Wave A+B+C 合計 65 新頁，策略管理資料夾全閉環)
+updated: 2026-05-22T00:30+08:00 (HBS AdCenter case 21p 補完 — L3 pdftoppm SOP 推翻前次 deferred；策略管理資料夾真正 46/46 全閉環)
 ---
 
 # Hot Cache
@@ -8,6 +8,8 @@ updated: 2026-05-21T21:00+08:00 (策略管理 Wave C 完成 — 7 PDFs / 58 頁 
 *A ~500-word semantic snapshot of recent activity. Updated after every major write operation.*
 
 ## Recent Activity
+
+- [2026-05-22 00:30] INGEST — **HBS 9-908-049 AdCenter case 21p 純掃描 backfill — 推翻 Wave A deferred 結論**：Wave A 把 case 標 deferred 理由是「PNG 每張 9MB / 撞 user quota / 需 OCR」，但 **CLAUDE.md PDF SOP L3 路徑沒走完**。本次正確走完：`pdftoppm -r 72 -jpeg -jpegopt quality=80` 把 35MB / 2758×4050 純掃描渲成 21 張 JPEG（每張 ~770KB，總計 16MB），再 dispatch 7 parallel subagent × 3 頁，每 subagent 處理 ~2.3MB 遠在 quota 內。**新 SOP 啟示**：deferred 前必須把 L2-A / L2-B / L2-C / L3 全試完；JPEG 對掃描印刷品壓縮率比 PNG 高 5-10x。修正 metadata bug：reference frontmatter case sha256 誤抄 lecture（87b6a8a4...→66eb0e2e...）。entity 新增大段「Case 原文敘事」：Setting / 三大線上廣告分類 / 市場規模 Exhibit 1 / 搜尋市占演化 Exhibit 2 / Stotland 三條戰略 / Best Vacuum Exhibit 8 / Live Search 流量規模 / discussion questions / **教師講義 vs case 原文的張力對比**。**策略管理資料夾 46/46 真正全閉環**（前次 Wave C 宣告閉環時 AdCenter case 仍 deferred；本次補完才算數）
 
 - [2026-05-21 21:00] INGEST — **策略管理 Wave C 完成（7 PDFs / 58 頁 / 14 新頁，Wave A+B+C 全閉環）**：4 個 subagent 並行 distill misc PDFs。**最大發現**：
   - **[[entities/Tang-Edwin-Yingzhang|唐瓔璋（Edwin Tang）就是整個策略管理 14 週課程的授課者]]**，並親自把 Fighting with Porter 揭露為他自己 SMJ 2010 論文與 Porter/Barney/Christensen/Grant 學派的學術論戰

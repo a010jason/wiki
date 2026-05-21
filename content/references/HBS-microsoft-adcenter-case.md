@@ -19,24 +19,25 @@ sources:
     drive_url: https://drive.google.com/file/d/1nQd7_DWXd6dfU7Bhi9ekvtMUSPLfrSim/view
     pages: 21
     size_bytes: 36601995
-    sha256: 87b6a8a41dbdd03f015aecf43972ddc387a6840d7d5c351418c718dd6ac034cf
-    status: deferred
-    deferred_reason: 'PDF 為純掃描 / 2758×4050 pts 高解析、35MB / 無文字層；前次主 agent A1 subagent 嘗試 Read 撞 user-level token quota；pdftotext 拿到 0 行；pdftoppm 渲圖 PNG 每張 ~9MB 仍會撞 quota；需 OCR 或 vision API 後續再處理'
+    sha256: 66eb0e2e98fa0f4037b49778034abc61368a3d70f12a8abd3c037208eef06db1
+    ingest_method: pdftoppm-r72-jpeg + 7 parallel subagents × 3 pages
+    ingested_commit: pending
+    ingest_note: '純掃描 2758×4050 pts / 35MB 原檔 → pdftoppm -r 72 -jpeg 降至每張 ~770KB 總計 16MB → 7 subagent × 3 頁 distill。前次 deferred_reason 已解（SOP L3 路徑走完）。修正：原 frontmatter sha256 誤抄 lecture slide 的 87b6a8a4...，實際為 66eb0e2e...'
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-05-22
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:
-  extracted: 0.6
-  inferred: 0.30
-  ambiguous: 0.10
-base_confidence: 0.35
+  extracted: 0.75
+  inferred: 0.20
+  ambiguous: 0.05
+base_confidence: 0.5
 summary: >-
   HBS 9-908-049 (Peter Coles &amp; Benjamin Edelman, Rev 2008/4/30) — Microsoft adCenter 2006 進入 paid search 市場
-  企圖挑戰 Google AdWords 的失敗案例。本次 ingest 僅 lecture slide（11p）— HBS case 原文 PDF 為純掃描高解析，
-  讀法觸發 quota 已標 deferred。教師講義眉批密度極高：「全部都沒用！！發生典範移轉」/ 「MS 還是 Desktop 思維」/
+  企圖挑戰 Google AdWords 的失敗案例。教師講義眉批密度極高：「全部都沒用！！發生典範移轉」/ 「MS 還是 Desktop 思維」/
   「Why do all Porter's generic strategies fail in digital wars?」7 點 take-away 留學員。
-  Ingest 2026-05-21 (Wave A 1/8 case studies — partial: lecture only)。
+  Ingest 完整版 2026-05-22 — lecture slide（11p, Wave A 2026-05-21）+ HBS case 21p（本次補完，
+  L3 pdftoppm -r 72 -jpeg + 7 parallel subagent 走 CLAUDE.md SOP）。
 ---
 
 # Microsoft adCenter (HBS 9-908-049)
@@ -50,9 +51,9 @@ summary: >-
 | 階段 | Source | 路徑 | 日期 | 狀態 |
 |---|---|---|---|---|
 | Wave A 1/8 | Lecture slide (11p) | A (subagent retry) | 2026-05-21 | ✅ |
-| Wave A 1/8 | HBS case 9-908-049 (21p, 35MB scan) | B (subagent) | 2026-05-21 | ⚠️ **deferred** |
+| Wave A backfill | HBS case 9-908-049 (21p, 35MB scan) | L3 pdftoppm-r72-jpeg + 7 subagents × 3 pages | 2026-05-22 | ✅ |
 
-**A1 ingest 失敗紀錄**：第一次 subagent 嘗試讀 35MB case PDF 觸發 user-level token quota（2:40pm CST reset）；reset 後 retry 改 lecture-only scope 成功。Case 原文未來補時需先處理掃描檔（OCR 或 vision API）。
+**A1 ingest 失敗紀錄（已解）**：Wave A 第一次 subagent 嘗試直接 Read 35MB case PDF 觸發 user-level token quota（2:40pm CST reset）；reset 後 retry 改 lecture-only scope 成功並標 case deferred。**2026-05-22 補完**：依 CLAUDE.md PDF SOP 走完 L3 路徑——`pdftoppm -r 72 -jpeg` 把 35MB 渲成每張 ~770KB JPEG（21 張總計 16MB），再 dispatch 7 parallel subagent 各讀 3 張，每 subagent 處理 ~2.3MB image 遠在 quota 內。**前次的「deferred=必須 OCR」結論是錯的**——L3 低 DPI JPEG 路徑沒試完整就放棄了。
 
 ## 已 ingest 的核心內容
 
@@ -87,8 +88,8 @@ summary: >-
 
 | ID | 檔 | 頁 | SHA256 (prefix) | Ingested |
 |---|---|---|---|---|
-| `AdCenter-lecture-slide` | 1AdCenter_S.pdf.pdf | 11 | `87b6a8a4…` | pending |
-| `HBS-9-908-049-AdCenter-case` | Microsoft AdCenter.pdf.pdf | 21 | scan | **deferred** |
+| `AdCenter-lecture-slide` | 1AdCenter_S.pdf.pdf | 11 | `87b6a8a4…` | 2026-05-21 (f9f11fb) |
+| `HBS-9-908-049-AdCenter-case` | Microsoft AdCenter.pdf.pdf | 21 (scan) | `66eb0e2e…` | 2026-05-22 (pending) |
 
 ## Open Questions
 

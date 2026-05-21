@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-05-21T21:00:00+08:00 (策略管理 Wave C: 7 PDFs / 58p / 14 new pages — Wave A+B+C 全閉環)",
+  "last_updated": "2026-05-22T00:30:00+08:00 (HBS 9-908-049 AdCenter case 21p scan backfill — L3 pdftoppm-r72-jpeg path)",
   "sources": {
     "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/0820-OKR-講義.pdf": {
       "ingested_at": "2026-05-05T15:00:00+08:00",
@@ -2154,6 +2154,19 @@
         "references/strategy-management-course-2024-nycu.md"
       ],
       "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/Microsoft AdCenter.pdf.pdf": {
+      "ingested_at": "2026-05-22T00:30:00+08:00",
+      "size_bytes": 36601995,
+      "content_hash": "sha256:66eb0e2e98fa0f4037b49778034abc61368a3d70f12a8abd3c037208eef06db1",
+      "source_type": "document",
+      "project": null,
+      "ingest_method": "L3 pdftoppm -r 72 -jpeg + 7 parallel subagents × 3 pages",
+      "pages_created": [],
+      "pages_updated": [
+        "entities/Microsoft-AdCenter.md",
+        "references/HBS-microsoft-adcenter-case.md"
+      ]
     }
   },
   "projects": {},
