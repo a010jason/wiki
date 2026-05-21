@@ -14,9 +14,9 @@ provenance:
   extracted: 0.85
   inferred: 0.13
   ambiguous: 0.02
-base_confidence: 0.45
-lifecycle: draft
-lifecycle_changed: 2026-05-05
+base_confidence: 0.35
+lifecycle: challenged
+lifecycle_changed: 2026-05-22
 ---
 
 # VRIO Framework
@@ -88,6 +88,16 @@ VRIO 用 4 條檢驗一個資源或能力能否帶來**持續競爭優勢**：^[
 
 要繼續壓「Inimitable」優勢，方向是**深化客戶關係 + 文化資產 + 知識管理**，而非僅靠技術領先。
 
+## Critique 摘要
+
+> **2026-05-22 跑了一次 wiki-challenge**
+>
+> 5 條核心 claim：0 survives / 3 narrow / 1 brittle / 1 unsupported。主要弱點：page 唯一 source 是 Colquitt-OB 入門教科書，但 VRIO 是 strategy theory — **錯位 secondary source**，Barney 1991 *JOM* 等 strategy primary literature 完全沒 cite；**Tautology critique（Priem-Butler 2001 AMR）** 是 RBV 25 年未解 attack 卻沒處理；Inimitable 三種來源（history / causal ambiguity / socially complex）是 OB-centric reading，忽略 network effect / patent / scale / switching cost 等 strategy-centric mechanism；「OB 是 Inimitable 核心」有 source selection bias（OB textbook 當然這樣 frame）；ebmtech 應用 self-serving + GE/Siemens 在台早已 internalize 健保理解，empirical falsifier 未處理。
+>
+> `base_confidence`：0.45 → 0.35（unsupported claim 觸發 cap at 0.35）；`lifecycle`：draft → challenged。
+>
+> 完整逐條質疑、7 行動項目、跨域對標：私人 meta 頁（不公開），路徑 `_meta/critique/VRIO-framework.md`。
+
 ## Related
 
 - [[concepts/porters-five-forces]] —— 互補的外部視角
@@ -96,6 +106,8 @@ VRIO 用 4 條檢驗一個資源或能力能否帶來**持續競爭優勢**：^[
 
 - [[synthesis/VRIO-x-porter-five-forces]] — vs Porter 5F 的雙閘論述
 - [[synthesis/VRIO-x-value-chain]] — Inimitable 住在 linkages
+- [[synthesis/disruptive-innovation-x-VRIO-framework]] — synthesis：VRIO 與 Christensen disruption 的時間軸衝突 + 雙方都被 tautology 質疑
+- [[synthesis/VRIO-framework-x-OKR]] — synthesis：VRIO-aware OKR 設計（如何用 OKR 逆向打造 Inimitable 資源）
 ## Sources
 
 - [[references/colquitt-OB-textbook]] —— McGraw-Hill OB Ch1
