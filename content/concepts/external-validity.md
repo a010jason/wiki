@@ -15,8 +15,8 @@ provenance:
   inferred: 0.05
   ambiguous: 0
 base_confidence: 0.55
-lifecycle: draft
-lifecycle_changed: 2026-05-21
+lifecycle: challenged
+lifecycle_changed: 2026-05-22
 ---
 
 # External Validity
@@ -90,6 +90,16 @@ lifecycle_changed: 2026-05-21
 - 「足夠 representative」沒有絕對門檻 — 統計上多 generalize 仍需 judgment call
 - 純 lab experiment 的 generalizability 質疑可用「mechanism 一致即可 generalize」反駁 — 但這個 mechanism 假設本身需證明
 - Cross-cultural ecological validity 是當代心理學 replication crisis 的核心議題（WEIRD samples 問題）
+
+## Critique 摘要
+
+> **2026-05-22 跑了一次 wiki-challenge**
+>
+> 5 條核心 claim：0 survives / 4 narrow / 1 brittle / 0 unsupported。主要弱點：2-type 框架過簡（Lynch 1982 JCR 4-type 加 temporal + treatment + Calder 1981 effect-vs-theory 缺席）；Lab vs Field hierarchy 過嚴（Mook 1983 lab 目標 mechanism + Anderson 1999 lab-field correlation r=0.73 未提）；「Random selection → external validity」是 textbook fiction，Rothwell 2005 Lancet 顯示醫療 RCT trial-eligible < 10% real-world patients，pragmatic trial Schwartz-Lellouch 1967 + FDA 2016 RWE 接受度未提（brittle）；醫療 AI 5 challenges 漏多項，Finlayson 2021 NEJM 8-type dataset shift framework + STARD-AI / DECIDE-AI 報告標準缺席。
+>
+> `base_confidence`：0.55 → 0.55（brittle cap 觸頂）；`lifecycle`：draft → challenged。
+>
+> 完整逐條質疑、行動項目：私人 meta 頁（不公開），路徑 `_meta/critique/external-validity.md`。
 
 ## Related
 

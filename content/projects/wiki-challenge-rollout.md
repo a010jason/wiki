@@ -20,10 +20,10 @@ owner: Jason
 |---|---|---|---|
 | Tier 1 — Top hub pages | **5/5 ✅** (disruptive-innovation / STP-framework / OKR / falsifiability-popper / VRIO-framework) | 0 | 5 |
 | Tier 2 — Cross-domain hub theories | **5/5 ✅** (scientific-theory / causality-three-conditions / innovation-diffusion-theory / elaboration-likelihood-model / social-cognitive-theory) | 0 | 5 |
-| Tier 3 — Research methods 核心 | 9 (agency-theory ✅ / construct-validity ✅ / reflective-vs-formative ✅ / inductive-vs-deductive ✅ / theory-vs-not-theory ✅ / theory-building-blocks-whetten ✅ / attributes-of-good-theory ✅ / research-design ✅ / internal-validity ✅) | 1 | 10 |
+| Tier 3 — Research methods 核心 | **10/10 ✅** (agency-theory / construct-validity / reflective-vs-formative / inductive-vs-deductive / theory-vs-not-theory / theory-building-blocks-whetten / attributes-of-good-theory / research-design / internal-validity / external-validity) | 0 | 10 |
 | Tier 4 — Wave 2 supplementary papers | 4 (human-like-AI-competencies ✅ / common-method-bias ✅ / instrumental-variable-2SLS ✅ / PLS-SEM-vs-CB-SEM ✅) | 2 | 6 |
 | Tier 5 — Research methods supporting | 0 | 15 | 15 |
-| **總計** | **23** | **18** | **41** |
+| **總計** | **24** | **17** | **41** |
 
 剩餘 363 頁 draft 屬 lower-priority（先跑這 40 個 high-impact 的）。
 
@@ -67,7 +67,7 @@ owner: Jason
 - [x] **`concepts/attributes-of-good-theory`** — 2026-05-22 done（5 claims: 0 survives / 3 narrow / 2 brittle / 0 unsupported；100% Bhattacherjee Ch4；Kuhn 1962 / Lakatos 1970 / Davis 1971 alternative criteria 未提；R² 1980s textbook simplification，adjusted R²/AIC/BIC/Shmueli 2010 缺席；Ockham parsimony 在 ML scaling laws + double-descent 反例失敗；Forster-Sober 1994 AIC formal substitute 未提；tensions formal 解決 50 年發展缺席）
 - [x] **`concepts/research-design`** — 2026-05-22 done（5 claims: 0 survives / 4 narrow / 1 brittle / 0 unsupported；100% Bhattacherjee Ch5；emergent design (grounded theory/lean startup/agile) 反對 blueprint 未承認；critical realism + pragmatism 第三 paradigm 缺席；qualitative validity Lincoln-Guba 1985 4-criteria + Tracy 2010 8-criteria 未提；Cone of Validity 處理過淺；Hevner 2004 IS design science research 缺席；mixed-mode universal claim 過強 Bryman 2007 + FDA 反例 missed）
 - [x] **`concepts/internal-validity`** — 2026-05-22 done（5 claims: 0 survives / 4 narrow / 1 brittle / 0 unsupported；100% Bhattacherjee + Campbell-Stanley 1963 古典 single-source；現代 causal inference Pearl 2009 / Imbens-Rubin 2015 / Angrist-Pischke 2008 缺席；Design hierarchy 1979 立場 Card-Krueger 1994 + 2021 Nobel 已顛覆；5 controls 過時 PSM/IV/RD/DID/SC/DML missing；CMB Harman+Lindell-Whitney 已被 Fuller 2016 / Richardson 2009 批 power 不足；cross-ref dependency 多頁已 challenged 未繼承）
-- [ ] **`concepts/external-validity`** — internal-external trade-off 反論
+- [x] **`concepts/external-validity`** — 2026-05-22 done（5 claims: 0 survives / 4 narrow / 1 brittle / 0 unsupported；2-type 框架過簡 Lynch 1982 JCR 4-type + Calder 1981 effect-vs-theory 缺席；Lab vs Field hierarchy Mook 1983 + Anderson 1999 r=0.73 未提；「Random selection→external」是 textbook fiction，Rothwell 2005 Lancet trial-eligible < 10% real-world + pragmatic trial + FDA 2016 RWE 缺席 brittle；醫療 AI 5 challenges 漏多項，Finlayson 2021 NEJM 8-type dataset shift + STARD-AI / DECIDE-AI 未提）
 
 ## Tier 4 — Wave 2 Supplementary Papers（單篇 paper 衍生 concepts）
 
