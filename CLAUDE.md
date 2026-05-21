@@ -81,6 +81,27 @@ updated: 2026-05-04
 - 平行 agent 已被 Mehmet 證實會把 unicode 字元偷偷簡化（umlauts → ASCII，中文可能類似）
 - wiki-ingest 一次只跑一個
 
+**例外與 race-safety SOP**（2026-05-21 Wave 2/3 並行驗證後新增）：
+
+如果**必須**並行（如 user 同時跑兩條獨立 ingest pipeline，內容 page 不重疊但**協調檔不可避免重疊**），下列協調檔被視為 high-contention：
+
+- `content/.manifest.json`
+- `content/log.md`
+- `content/hot.md`
+- `content/index.md`
+- `content/references/*-textbook.md`（章節狀態表所在的 reference manifest 頁）
+
+對這些檔的寫入流程：
+
+1. **Edit 前**先 `Read` 完整最新內容（如果讀過後超過 ~5 分鐘 → 重讀）
+2. **Edit 失敗時**（linter 或他人 in-flight write 觸發 mtime mismatch）→ 重讀整檔再決定 chunk，不要硬重試
+3. **Append-only 內容**（log.md、hot.md Recent Activity）優先用 `>> file` 或 sentinel-based Edit，避免大範圍 string replace
+4. **JSON 寫入**（manifest）寫完立刻 `python3 -c "import json; json.load(open(...))"` 驗證
+5. **commit 前**`git status` 確認沒有未預期的 untracked / modified（另一 session 可能剛寫完還沒 commit）
+6. **發現他 session 漏 log**（page 已寫但 log.md 沒記）→ 補一條 BACKFILL log 條目而不是覆寫他的工作
+
+CLAUDE.md 中文編碼硬規則第 2 條的「禁止多個 session 同時寫入同一 wiki page」**沒改** — 上述只是協調檔（不是 content page）的並行 race-safety 補強。Content page 永遠單線程寫入。
+
 ### 3. 繁體中文，**不簡轉繁**
 - 一律繁體中文輸出
 - 若 source 是簡體，**保留原樣**作為 raw quote，不自動轉繁
