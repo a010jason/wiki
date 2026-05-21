@@ -92,6 +92,7 @@ title: Jason 的知識庫
 - [[concepts/dominant-design]] — 三鎖死機制 + standards war 戰術（Grant Ch9）
 - [[concepts/transaction-cost-economics]] — Coase-Williamson 框架（Grant Ch10）
 - [[concepts/CAGE-distance-framework]] — Ghemawat 跨國距離四維 + AAA Triangle（Grant Ch11）
+- [[concepts/organizational-ambidexterity]] — Exploit vs Explore 雙元能力；Structural（O'Reilly-Tushman）vs Contextual（Gibson-Birkinshaw）兩型；Hyundai sequencing 案例（Grant Ch08）
 
 ### 管理 / 行銷管理（Kotler 16e）
 - [[concepts/marketing-definition]] — Kotler/AMA 雙定義 + get/keep/grow + 10 類可被行銷的對象（Ch01 hub）
@@ -124,6 +125,46 @@ title: Jason 的知識庫
 - [[concepts/product-differentiation-9-dimensions]] — Kotler 9 維度，#1-2 vs #3-9 階層（Ch08）
 - [[concepts/product-line-strategies]] — Line stretching/filling/modernization/featuring/pruning（Ch08）
 
+### 管理 / 行銷管理（Kotler 16e Wave 2 — Ch09-18）
+
+**Ch09 Services：**
+- [[concepts/service-marketing-4Is]] — Intangibility / Inseparability / Variability / Perishability + 有形化策略 + 需求-供給平衡（Ch09 hub）
+- [[concepts/service-marketing-triangle]] — External + Internal + Interactive 三方向（Ch09）
+- [[concepts/servqual-gap-model]] — Parasuraman-Zeithaml-Berry 5 Gap + SQ = P − E + RATER 五維（Ch09）
+- [[concepts/service-blueprint]] — 三條分界線（Interaction / Visibility / Internal Interaction）+ Fail Point 標註（Ch09）
+
+**Ch10 Brands（PSB 3/3）：**
+- [[concepts/brand]] — AMA 定義 + 種子隱喻 + Brand 兩面角色（Ch10 hub）
+- [[concepts/brand-equity]] — 貨幣價值（財務 view）vs Brand Power CBBE（顧客 view）+ 三估值方法（Ch10）
+- [[concepts/brand-mantra]] — 3-5 字 DNA + Popper World 3 + Starbucks bull's-eye（Ch10）
+- [[concepts/brand-hierarchy]] — House-of-brands vs Branded-house vs Sub-brand + BCG 對應（Ch10）
+- [[concepts/cobranding]] — Same-co / JV / Ingredient（Intel Inside）三類（Ch10）
+- [[concepts/brand-value-chain]] — 4 stages（Investment → Mindset → Performance → Shareholder Value）+ 3 multipliers（Ch10）
+- [[concepts/brand-extension]] — Extension 優劣勢 + BIC 香水稀釋 + Burberry repositioning（Ch10）
+- [[concepts/luxury-branding]] — Access vs Exclusivity 平衡 + 4P 反向操作 + Masstige 中間路線（Ch10）
+
+**Ch11 Pricing：**
+- [[concepts/pricing-6-steps]] — Objectives → Demand → Costs → Competitors → Method → Final（Ch11 hub）
+- [[concepts/price-elasticity-of-demand]] — Elastic vs Inelastic + brand power 降低彈性（Ch11）
+- [[concepts/pricing-methods]] — Markup / Target-return / EVC / Competitive / Auction 六方法（Ch11）
+- [[concepts/price-discrimination]] — 1st-degree（personalized）/ 2nd-degree（versioning）/ 3rd-degree（segmentation）+ Surveillance pricing（Ch11）
+- [[concepts/product-mix-pricing]] — Loss-leader / Optional / Captive / Two-part / By-product / Bundling（Ch11）
+
+**Ch17 Growth + PLC：**
+- [[concepts/product-market-growth-framework]] — 4 象限（Penetration / Market Dev / Product Dev / Diversification）+ M&A + Cloner/Imitator/Adapter + Share of market/mind/heart（Ch17 hub）
+- [[concepts/defense-strategies]] — Market Leader 6 種防禦（Position / Flank / Pre-emptive / Counteroffensive / Mobile / Contraction）+ Responsive/Anticipative/Creative（Ch17）
+- [[concepts/product-life-cycle]] — Introduction / Growth / Maturity / Decline + Fads vs Trends + Scalloped variants（Ch17）
+
+**Ch18 NPD / Stage-Gate：**
+- [[concepts/stage-gate-framework]] — 5 stages + 4 validation gates + Managing Innovation 五種組織策略（Ch18 hub）
+- [[concepts/adopter-categorization]] — Rogers 5 類（2.5/13/34/34/16%）+ Moore Chasm（Early Adopters → Early Majority 死亡谷）（Ch18）
+- [[concepts/forces-fighting-new-ideas]] — 5 句藉口（Tried before / Not right time / Not the way / Done all right without / Discuss later）+ 4 反制工具（Ch18）
+
+### 管理 / 行銷管理（Kotler 16e Wave 3 — 案例補充）
+- [[concepts/modern-retail-environment-trends]] — 現代零售七大特徵 + barbell 中端衰退（DECATHLON.pdf 實際內容）
+- [[concepts/markops-marketing-operations-framework]] — Markops = 1E+5Cs+STP+7Ts → 動態調整 + CNC/MS + BCG invest/maintain/milk/divest
+- [[concepts/integrated-digital-marketing-six-pillars]] — 數位整合行銷六支柱概念圖（SEO / 社群 / 數據廣告 / O2O / 口碑 / PR）
+
 ## Entities
 
 - [[entities/Ar9av-obsidian-wiki]] — Claude Code 原生 LLM Wiki 工具，25 個 skills
@@ -131,6 +172,11 @@ title: Jason 的知識庫
 - [[entities/intel-NBI]] — Intel 內部 corporate venturing 單位，HBS 9-609-043 主角組織
 - [[entities/Philip-Kotler]] — 「現代行銷學之父」，Northwestern Kellogg；《Marketing Management》16 版作者
 - [[entities/Patrick-Hanlon]] — Thinktopia CEO，《Primal Branding》七要素信念系統作者
+- [[entities/Shopee]] — 東南亞 e-commerce 平台；Merchant Model 與 Amazon Agency Model 對比 + UVMC × 3 預掠定價
+- [[entities/TikTok]] — ByteDance 短影音；collaborative filtering + Gen Z 注意力 + completion ratio vs click rate
+- [[entities/Tiffany]] — 1837 紐約奢侈珠寶；2021 LVMH 收購；Audrey Hepburn × 中國市場 open question
+- [[entities/Taylor-Swift]] — Personal brand + Scooter Braun 母帶之爭 + 收入四元化 + Swifties 社群
+- [[entities/Marcello-Damiani]] — Moderna CDO，AI Factory 三原則（Cloud/Integration/Automation）articulator；「先優化、後數位化」立場（Iansiti HBS Moderna case）
 
 ## Skills
 
@@ -145,7 +191,7 @@ title: Jason 的知識庫
 - [[references/colquitt-OB-textbook]] — McGraw-Hill OB 教科書，**全書 14 章 ingest 完成**（Ch1-14 / 1,635 頁）
 - [[references/grant-contemporary-strategy-analysis]] — Wiley 策略管理教科書 11th ed，**Ch1-14 全章 ingest 完成**（Ch7 於 2026-05-20 audit 補完 5 頁）
 - [[references/shih-thurston-intel-nbi-2010-HBS]] — HBS 9-609-043 *Intel NBI (A)*，corporate venturing 失敗的經典案例
-- [[references/kotler-keller-chernev-marketing-management-16e]] — Pearson 2022，行銷管理 standard 教科書，**Wave 1 完成 Ch01-08**（剩 Ch09-18）
+- [[references/kotler-keller-chernev-marketing-management-16e]] — Pearson 2022，行銷管理 standard 教科書，**Wave 1+2+3 全部 21 PDFs ingest 完成**（Ch01-11 + Ch17-18 + 8 案例）
 
 ## Synthesis
 
@@ -160,6 +206,9 @@ title: Jason 的知識庫
 - [[synthesis/HTC-marketing-research-gap]] — HTC 失敗三層整合：customer centricity（Ch01 出貨給 Carrier）+ positioning（Ch07 lacks aspirational）+ product differentiation（Ch08 機海戰術）
 - [[synthesis/5C-vs-PESTLE-vs-Porter-five-forces]] — 三個常被混用的環境分析框架，**範疇與層級不同**；何時用哪個 ≠ 偏好，是 unit-of-analysis
 - [[synthesis/G-STIC-vs-OKR-SMART]] — 三框架對應三時間尺度（年 / 季 / 月），不是替代關係而是嵌套使用
+- [[synthesis/services-paradox-4Is-vs-product-management]] — 服務 4Is 是 feature 不只 bug；TSMC yield 思維適用中低端、不適用高端個人化服務
+- [[synthesis/asia-luxury-brand-gap]] — 教師質疑「亞洲為何無法創建奢侈品牌」的反例蒐集（Mikimoto / Sulwhasoo / 鼎泰豐 / 誠品）+ 拆解歐美 luxury 定義偏見
+- [[synthesis/PLC-vs-stage-gate-vs-adopter-curve]] — 三套時序模型對齊；Moore's Chasm ≈ Gartner Hype Cycle Trough，PLC 上看不見
 
 ## Journal
 

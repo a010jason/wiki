@@ -61,6 +61,85 @@ sources:
     pages: 23
     sha256: 693639732edce5adf9771c5a4d94581394429962a28e31deb8291e622e97b576
     ingested_commit: 7b8eef0
+  - id: Kotler-MM16e-Ch09-Services
+    type: textbook-chapter
+    rel_path: 行銷管理/Kotler_mm16e_inppt_09.pdf.pdf
+    pages: 32
+    sha256: 2b0d0a98be24f6d2f68c7c4f1b61c13f8f01a9a612495e17a4e88ddba77efd2e
+    ingested_commit: wave2-pending
+  - id: Kotler-MM16e-Ch10-Brands
+    type: textbook-chapter
+    rel_path: 行銷管理/Kotler_mm16e_inppt_10.pdf.pdf
+    pages: 29
+    sha256: 5bc53813fdbe025a14203852a166b1a1a20435629a3feaa299621d55d4a549e3
+    ingested_commit: wave2-pending
+  - id: Kotler-MM16e-Ch11-Pricing
+    type: textbook-chapter
+    rel_path: 行銷管理/Kotler_mm16e_inppt_11.pdf.pdf
+    pages: 34
+    sha256: bf3261641c35932c44b00c5d3f84e7247f11b15e50205bc542025a185246de10
+    ingested_commit: wave2-pending
+  - id: Kotler-MM16e-Ch17-GrowthPLC
+    type: textbook-chapter
+    rel_path: 行銷管理/Kotler_mm16e_inppt_17.pdf.pdf
+    pages: 28
+    sha256: 130c46034506582974d8c76369f979430ad0ca48d0dd94c56a88d0aa480024ca
+    ingested_commit: wave2-pending
+  - id: Kotler-MM16e-Ch18-NPD
+    type: textbook-chapter
+    rel_path: 行銷管理/Kotler_mm16e_inppt_18.pdf.pdf
+    pages: 28
+    sha256: 05060ff1037bf42f09d81b316d633cf5bf52d07db296f7ee5c1bde152fcc92f4
+    ingested_commit: wave2-pending
+  - id: Kotler-MM16e-Wave3-Retail-Trends
+    type: case-supplement
+    rel_path: 行銷管理/DECATHLON.pdf
+    pages: 2
+    sha256: a05d3eab58ab5b92d4a30359ed0d5a6b6fdaf28e4341b3f598a2c6d7c5e1ef6c
+    ingested_commit: pending
+    note: 檔名 DECATHLON 但內容為現代零售環境七大特徵框架
+  - id: Kotler-MM16e-Wave3-Shopee
+    type: case-supplement
+    rel_path: 行銷管理/Shopee.pdf
+    pages: 2
+    sha256: 6f94432365fbab95c1520870303a096b2f1c01ebfa90316d6e91f6d4ec7f8448
+    ingested_commit: pending
+  - id: Kotler-MM16e-Wave3-TikTok
+    type: case-supplement
+    rel_path: 行銷管理/TikTok.pdf
+    pages: 2
+    sha256: 6f38b5de4a55fbaf5011ca8c907b5d9a09b7e3d219e441a6e27e9d772a3cff2f
+    ingested_commit: pending
+  - id: Kotler-MM16e-Wave3-Tiffany
+    type: case-supplement
+    rel_path: 行銷管理/Tiffany.pdf
+    pages: 2
+    sha256: c52745793973dc2d326263a626663f5287e14fdb626fb077e1c399daed850c4d
+    ingested_commit: pending
+  - id: Kotler-MM16e-Wave3-TaylorSwift
+    type: case-supplement
+    rel_path: 行銷管理/Taylor Swift.pdf
+    pages: 2
+    sha256: fa8ccefeafe6e2dbd89b9ffe1541646bd5ffe724256d2dac7c86a53d5d6dafb2
+    ingested_commit: pending
+  - id: Kotler-MM16e-Wave3-AmazonPackaging
+    type: case-supplement
+    rel_path: 行銷管理/亞馬遜可持續包裝計劃.pdf.pdf
+    pages: 3
+    sha256: 2bba5c7abc81eb31d2c3c3bd0c7d75dbf7a4851bd4ffca55cdbd2025a1655fad
+    ingested_commit: pending
+  - id: Kotler-MM16e-Wave3-Markops
+    type: case-supplement
+    rel_path: 行銷管理/Markops.pdf
+    pages: 4
+    sha256: 45e53d1e62055205d2f2dfcf20bdc992b71fbbae4b3e1ac2e0dd47e8f7465b52
+    ingested_commit: pending
+  - id: Kotler-MM16e-Wave3-DigitalIMC
+    type: case-supplement
+    rel_path: 行銷管理/數位行銷-整合行銷.png.pdf
+    pages: 1
+    sha256: 9c8abcfed4b1eafab7c087f9ebcaa7b9b22871719d452f1a0d1f0282804debec
+    ingested_commit: pending
 created: 2026-05-20
 updated: 2026-05-21
 summary: >-
@@ -79,7 +158,7 @@ Philip Kotler、Kevin Lane Keller、Alexander Chernev 合著的《Marketing Mana
 
 ## Chapter Ingest Status
 
-Phase 2 Wave 1（2026-05-20）已 ingest 8 章。**Source 索引**：每章 `ID` 對應 frontmatter `sources[].id`，完整 schema（`rel_path` / `sha256` / `ingested_commit`）見 frontmatter。
+Phase 2 Wave 1（2026-05-20）已 ingest 8 章；**Wave 2（2026-05-21）+5 章**（Ch09/10/11/17/18），共 **13 章**。**Source 索引**：每章 `ID` 對應 frontmatter `sources[].id`，完整 schema（`rel_path` / `sha256` / `ingested_commit`）見 frontmatter。
 
 | ID | 章 | 主題 | 頁數 | ingest_method | hash (short) | Drive |
 |---|---|---|---|---|---|---|
@@ -91,12 +170,42 @@ Phase 2 Wave 1（2026-05-20）已 ingest 8 章。**Source 索引**：每章 `ID`
 | `Kotler-MM16e-Ch06` | Ch06 | Identifying Market Segments and Target Customers | 34 | read-subagent | `d27d9600…` | [↗](https://drive.google.com/file/d/1huMadgs7jt6yHUToPuUXzyC1gPtbB3dV/view) |
 | `Kotler-MM16e-Ch07` | Ch07 | Crafting a Customer Value Proposition and Positioning | 26 | read-main | `c0190204…` | [↗](https://drive.google.com/file/d/16cHXlMbgp01E6A4acmre3e7syEbTKs3s/view) |
 | `Kotler-MM16e-Ch08-PSB-Product` | Ch08 | Designing and Managing Products (PSB series 1/3 = Product) | 23 | read-main | `69363973…` | [↗](https://drive.google.com/file/d/17qzq4wHU-4bB3UBU4_s19b8s_d1FTska/view) |
+| `Kotler-MM16e-Ch09-Services` | Ch09 | Designing and Managing Services (PSB series 2/3 = Service) | 32 | read-subagent | `2b0d0a98…` | — |
+| `Kotler-MM16e-Ch10-Brands` | Ch10 | Building Strong Brands (PSB series 3/3 = Brand) | 29 | read-subagent | `5bc53813…` | — |
+| `Kotler-MM16e-Ch11-Pricing` | Ch11 | Crafting the Pricing Strategy & Tactics | 34 | read-subagent | `bf326164…` | — |
+| `Kotler-MM16e-Ch17-GrowthPLC` | Ch17 | Managing Sales Growth & Product Life Cycle | 28 | read-subagent | `130c4603…` | — |
+| `Kotler-MM16e-Ch18-NPD` | Ch18 | Developing New Market Offerings (Stage-Gate) | 28 | read-subagent | `05060ff1…` | — |
 
-**未 ingest 章節（源頭已有，待 Wave 2/3）：** Ch09 / Ch10 / Ch11 / Ch17 / Ch18（已知有 PDF）
+**PSB 系列完整**：Ch08（Product）+ Ch09（Service）+ Ch10（Brand）三件套 Wave 1+2 全部到位。
 
-**缺源頭：** Ch08 PSB 系列 2/3 (Service)、3/3 (Brand)；Ch12-Ch16；Ch19-Ch21
+**缺源頭：** Ch12-Ch16；Ch19-Ch21
+
+**Wave 2 Drive URL 待補**：本 wave ingest 時無 Google Drive MCP 認證，drive_url 留待後續 schema 升級時補完。
+
+## Case Supplement Status（Wave 3）
+
+Phase 2 Wave 3（2026-05-21）已 ingest 8 個案例 PDF（教師補充教材，小檔 1-4 頁）。**Source 索引**：每個案例 `ID` 對應 frontmatter `sources[].id`。
+
+| ID | 檔名 | 主題 | 頁數 | ingest_method | hash (short) | wiki 對應頁 |
+|---|---|---|---|---|---|---|
+| `Kotler-MM16e-Wave3-Retail-Trends` | DECATHLON.pdf | 現代零售環境七大特徵（檔名與內容不符） | 2 | read-subagent | `a05d3eab…` | [[concepts/modern-retail-environment-trends]] |
+| `Kotler-MM16e-Wave3-Shopee` | Shopee.pdf | Agency vs Merchant Model + UVMC × 3 預掠 | 2 | read-subagent | `6f944323…` | [[entities/Shopee]] |
+| `Kotler-MM16e-Wave3-TikTok` | TikTok.pdf | Algorithmic recommendation + Gen Z 注意力 + offshore | 2 | read-subagent | `6f38b5de…` | [[entities/TikTok]] |
+| `Kotler-MM16e-Wave3-Tiffany` | Tiffany.pdf | Luxury + 中國市場 + organic vs M&A（source 稀薄） | 2 | read-subagent | `c5274579…` | [[entities/Tiffany]] |
+| `Kotler-MM16e-Wave3-TaylorSwift` | Taylor Swift.pdf | Personal brand + Scooter Braun + 收入四元化 | 2 | read-subagent | `fa8ccefe…` | [[entities/Taylor-Swift]] |
+| `Kotler-MM16e-Wave3-AmazonPackaging` | 亞馬遜可持續包裝計劃.pdf.pdf | FFP / SIOC / Klabin / Walmart 對標 | 3 | read-subagent | `2bba5c7a…` | [[entities/Amazon]]（augment） |
+| `Kotler-MM16e-Wave3-Markops` | Markops.pdf | Marketing Operations 框架（1E+5C+STP+7T+CNC/MS+BCG） | 4 | read-subagent | `45e53d1e…` | [[concepts/markops-marketing-operations-framework]] |
+| `Kotler-MM16e-Wave3-DigitalIMC` | 數位行銷-整合行銷.png.pdf | 整合行銷六大支柱概念圖 | 1 | read-subagent | `9c8abcfe…` | [[concepts/integrated-digital-marketing-six-pillars]] |
+
+**Wave 3 觀察：**
+
+- **2 個檔案的 source 異常**：(a) `DECATHLON.pdf` 命名與內容不符 — 沒有 Decathlon 公司資料，內容是零售環境框架；(b) `Tiffany.pdf` 內容稀薄 — 只有教師批註的兩個 open question，沒有完整案例
+- **多數案例都是教師批註層**：與 Wave 1/2 textbook chapter 不同，Wave 3 PDFs 是 EMBA 課程補充手寫批註為主，許多 claim 屬 `^[inferred from instructor annotation]`
+- **Drive URL 待補**：本 wave ingest 時無法執行 Google Drive MCP 認證，drive_url 留待後續 P4 schema 升級時補完
 
 ## Key Frameworks (跨章)
+
+**Wave 1 (Ch01-08):**
 
 - **STP**（Segmentation → Targeting → Positioning） — 跨 Ch01/Ch02/Ch06/Ch07 → [[concepts/STP-framework]]
 - **G-STIC**（Goal → Strategy → Tactics → Implementation → Control） — Ch02 → [[concepts/G-STIC-framework]]
@@ -108,6 +217,32 @@ Phase 2 Wave 1（2026-05-20）已 ingest 8 章。**Source 索引**：每章 `ID`
 - **Consumer Buying Decision Process** 5 stages — Ch03 → [[concepts/buying-decision-process-consumer]]
 - **Business Buying Process** 8 stages + Buying Center — Ch04 → [[concepts/business-buying-process]]、[[concepts/buying-center]]
 - **Marketing Research Process** 6 stages + Marketing Dashboard 4 pathways — Ch05 → [[concepts/marketing-research-process]]、[[concepts/marketing-dashboard]]
+
+**Wave 2 (Ch09-18):**
+
+- **Services 4Is**（Intangibility / Inseparability / Variability / Perishability）— Ch09 → [[concepts/service-marketing-4Is]]
+- **Service Marketing Triangle**（External / Internal / Interactive）— Ch09 → [[concepts/service-marketing-triangle]]
+- **SERVQUAL Gap Model**（5 gaps + SQ = P − E）— Ch09 → [[concepts/servqual-gap-model]]
+- **Service Blueprint**（line of interaction / visibility / internal interaction）— Ch09 → [[concepts/service-blueprint]]
+- **Brand**（AMA 定義 + 種子隱喻）— Ch10 → [[concepts/brand]]
+- **Brand Equity vs Brand Power (CBBE)** — Ch10 → [[concepts/brand-equity]]
+- **Brand Mantra**（3-5 word essence + Popper's World 3）— Ch10 → [[concepts/brand-mantra]]
+- **Brand Hierarchy & Portfolio**（House-of-brands / Branded-house / Sub-brand）— Ch10 → [[concepts/brand-hierarchy]]
+- **Cobranding** — Ch10 → [[concepts/cobranding]]
+- **Brand Value Chain**（4 stages + 3 multipliers）— Ch10 → [[concepts/brand-value-chain]]
+- **Brand Extension / Dilution** — Ch10 → [[concepts/brand-extension]]
+- **Luxury Branding** — Ch10 → [[concepts/luxury-branding]]
+- **Pricing 6 Steps** — Ch11 → [[concepts/pricing-6-steps]]
+- **Price Elasticity of Demand** — Ch11 → [[concepts/price-elasticity-of-demand]]
+- **Pricing Methods 6 種** — Ch11 → [[concepts/pricing-methods]]
+- **Price Discrimination 三度**（First / Second / Third degree）— Ch11 → [[concepts/price-discrimination]]
+- **Product Mix Pricing 六模式** — Ch11 → [[concepts/product-mix-pricing]]
+- **Product-Market Growth Framework**（4 象限）— Ch17 → [[concepts/product-market-growth-framework]]
+- **Defense Strategies 6 種** — Ch17 → [[concepts/defense-strategies]]
+- **Product Life Cycle** — Ch17 → [[concepts/product-life-cycle]]
+- **Stage-Gate Framework**（5 stages + 4 validation gates）— Ch18 → [[concepts/stage-gate-framework]]
+- **Adopter Categorization**（Rogers + Moore's Chasm）— Ch18 → [[concepts/adopter-categorization]]
+- **Forces Fighting New Ideas** — Ch18 → [[concepts/forces-fighting-new-ideas]]
 
 ## 與其他 sources 的對照關係
 

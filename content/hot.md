@@ -1,6 +1,6 @@
 ---
 title: Hot Cache
-updated: 2026-05-20T19:30+08:00 (Kotler MM 16e Ch01-08 Wave 1 寫入完成)
+updated: 2026-05-21T10:30+08:00 (Kotler MM 16e Wave 2 完成 — Ch09/10/11/17/18 / 24 新 wiki 頁；Kotler 21 PDFs 全閉環)
 ---
 
 # Hot Cache
@@ -8,6 +8,19 @@ updated: 2026-05-20T19:30+08:00 (Kotler MM 16e Ch01-08 Wave 1 寫入完成)
 *A ~500-word semantic snapshot of recent activity. Updated after every major write operation.*
 
 ## Recent Activity
+
+- [2026-05-21 10:30] INGEST — **Kotler MM 16e Wave 2 完成（5 章 Ch09/10/11/17/18 / 151 頁總和 / 24 個 wiki 頁批量寫入）**：行銷管理 21 份 PDF 的第二批，5 parallel subagent 並行 distill 全 151 頁，主 agent 從未渲染 PDF。寫入：21 concept 頁 + 3 synthesis：
+  - **Ch09 Services（4Is + Triangle + SERVQUAL + Blueprint）**：4 concept — service-marketing-4Is（intangibility/inseparability/variability/perishability）、service-marketing-triangle（external/internal/interactive）、servqual-gap-model（5 gap + SQ = P − E）、service-blueprint（line of interaction/visibility/internal-interaction）
+  - **Ch10 Brands（PSB 3/3 完整）**：8 concept — brand、brand-equity（vs brand power CBBE）、brand-mantra（3-5 字 DNA + Popper World 3）、brand-hierarchy（house-of-brands/branded-house/sub-brand + BCG）、cobranding（same-co/JV/ingredient + Intel Inside）、brand-value-chain（4 stages + 3 multipliers）、brand-extension（dilution + Burberry/BIC）、luxury-branding（access vs exclusivity）
+  - **Ch11 Pricing**：5 concept — pricing-6-steps、price-elasticity-of-demand、pricing-methods（markup/target-return/EVC/competitive/auction）、price-discrimination（1st/2nd/3rd degree + personalized/surveillance）、product-mix-pricing（loss-leader/optional/captive/two-part/by-product/bundling）
+  - **Ch17 Growth + PLC**：3 concept — product-market-growth-framework（4 象限）、defense-strategies（6 種 + responsive/anticipative/creative）、product-life-cycle（intro/growth/maturity/decline + fads/trends + scalloped variants）
+  - **Ch18 NPD / Stage-Gate**：3 concept — stage-gate-framework（5 stages + 4 validation gates）、adopter-categorization（Rogers 5 類 + Moore Chasm）、forces-fighting-new-ideas（5 句組織抵抗藉口）
+  - **3 synthesis**：services-paradox-4Is-vs-product-management（4Is 是 feature 不只 bug，TSMC 模式適用邊界）、asia-luxury-brand-gap（教師質疑亞洲缺奢侈品牌 → 收集反例 + 歐美 luxury 定義偏見的拆解）、PLC-vs-stage-gate-vs-adopter-curve（三套時序模型對齊 + Moore chasm = Gartner trough）
+  - **教師中文眉批採集**：TSMC IP Mail yield > 100% 移植服務業 SOP / Twilio Inbound vs Outbound Marketing / 為何中韓日無法創建奢侈品牌 / Popper World 3 / Lot 500 為何成功 / D-Link 危機缺失什麼 / 代工 → price taker、Design → price giver / China race to the bottom / Uber surge vs airline peak / Bird scooters 狂潮 vs 趨勢
+  - **PSB 系列完整**：Ch08（Product）+ Ch09（Service）+ Ch10（Brand）三件套到位
+  - **Kotler 行銷管理 21 份 PDF 全部閉環**（Wave 1 + 2 + 3）
+
+- [2026-05-21 12:00] INGEST — **Kotler MM 16e Wave 3 — 8 案例 PDF 完成（18 頁總和 / 8 parallel subagent / 7 新頁 + 1 update）**：行銷管理 21 份 PDF 的第三批（小檔 1-4 頁），8 個 subagent 並行 distill。寫入：4 entity（**Shopee** / **TikTok** / **Tiffany** / **Taylor-Swift**）+ 3 concept（**modern-retail-environment-trends** 七大特徵 / **markops-marketing-operations-framework** 1E+5C+STP+7T+CNC/MS+BCG / **integrated-digital-marketing-six-pillars** 六支柱概念圖）+ Amazon entity augment（**FFP / SIOC / Klabin / Walmart 對標** sustainable packaging 段）。**Source 異常**：(a) DECATHLON.pdf 命名與內容不符（內容是零售環境框架，無公司資料）→ 落 concept 而非 entity；(b) Tiffany.pdf 內容稀薄（只有 Audrey Hepburn × 中國 + organic vs M&A 兩個 open question）→ thin entity stub。**剩 Wave 2 ch09/10/11/17/18** 5 章後 Kotler 21 PDFs 全閉環
 
 - [2026-05-20 19:30] INGEST — **Kotler MM 16e Ch01-08 Wave 1 完成（8 章 / 276 頁全文 / 36 個 wiki 頁批量寫入）**：行銷管理 21 份 PDF 的第一批，8 parallel subagent 並行 distill（Ch01/02/03/04/05/06/07 + 6PSB/Ch08），主 agent 從未渲染 PDF，Ch05/Ch03 自動降級 pdftotext L2-A。寫入：1 manifest reference（kotler-keller-chernev-marketing-management-16e）+ 30 concept 頁（hub: marketing-definition / STP-framework / G-STIC-framework / 5C / 3V / 7Ts / customer-value-proposition / positioning / points-of-difference-and-parity + supporting 21 個）+ 2 entities（Philip-Kotler / Patrick-Hanlon）+ 4 synthesis（**porter-vs-kotler-differentiation-debate** / **HTC-marketing-research-gap**（教師批註三層失敗整合）/ 5C-vs-PESTLE-vs-Porter-five-forces / G-STIC-vs-OKR-SMART）。教師中文眉批全採集（TSMC 生態系 / HTC quietly brilliant / Nokia drop dead test / Acer / Asus 本地案例 + 對 Porter stuck-in-the-middle 的挑戰）。**剩 Wave 2 (Kotler ch09-18 共 5 章) + Wave 3 (8 個案例 PDF)**
 
@@ -45,6 +58,40 @@ updated: 2026-05-20T19:30+08:00 (Kotler MM 16e Ch01-08 Wave 1 寫入完成)
 - **Visibility filter（A）：** RemoveInternal plugin 已上 ✅
 
 ## Key Takeaways
+
+### Kotler MM 16e Wave 2 — Ch09/10/11/17/18
+
+- **服務 4Is 是 feature 不只 bug**：Intangibility / Inseparability / Variability / Perishability 是服務的本質特徵，**也是差異化來源**；過度 SOP 化（消滅 variability）= 把高端服務拉到 commodity。教師 TSMC yield 思維適用於中低端服務工業化、不適用高端個人化服務
+- **Service Marketing Triangle**：External（公司→客戶）+ Internal（公司→員工）+ Interactive（員工→客戶）三方向；服務的 inseparability 決定「員工就是產品」 — internal marketing 是 interactive marketing 的前置條件
+- **SERVQUAL 5 Gap**：GAP 1（管理層認知 ↔ 客戶期望）是最大根因；SQ = P − E 公式把品質定義為「期望管理」問題
+- **Brand 種子隱喻**：教師批註「PSB（神木的種子）」 — branding 是 endowing 過程；brand mantra（3-5 字 DNA）= Popper's World 3 客觀知識載體，跨員工世代傳承
+- **Brand Equity vs Brand Power**：Equity 是貨幣價值（財務 view），Power 是顧客心智資產（CBBE，customer view）；brand power 高 → 需求彈性低 → 漲價不流失客戶
+- **Brand Value Chain**：Marketing Investment → Customer Mindset → Brand Performance → Shareholder Value，三個 multipliers（Program / Marketplace / Investor sentiment）解釋為何同樣行銷投資產生不同股價結果
+- **Luxury Brand 平衡**：access vs exclusivity 在鋼絲繩上走；教師尖銳問題「為何中韓日無法創建奢侈品牌」 — 本文反例蒐集（Mikimoto / Comme des Garçons / Sulwhasoo / 鼎泰豐 / 誠品）+ 拆解歐美 luxury 定義偏見
+- **Pricing 6 Steps + 4 Objectives**：Maximize profit / Penetration / Skimming / Quality leadership 四選一；教師強調定價同時是 resource / strategy / tactics / performance 四維角色
+- **Price Discrimination 三度**：1st (personalized)、2nd (versioning/quantity)、3rd (segmentation)；數位時代 surveillance pricing 是 1st 的進化，但有反托拉斯邊界
+- **Product Mix Pricing 6 模式**：loss-leader / optional / captive / two-part / by-product / bundling；captive pricing 經典 = 刮鬍刀+刀片、印表機+墨水、PlayStation 硬體微利 + 軟體 royalty
+- **代工 vs 設計議價權**（教師批註）：代工 = price taker，Design = price giver，需要 R&D + 客戶改變才能取得 market power；對應台灣 OEM/ODM 缺 POD 三準則的延伸
+- **Product-Market Growth Framework**（Ansoff 變體）：Penetration / Market Development / Product Development / Diversification；leader 加 6 種 defense strategies（position / flank / pre-emptive / counteroffensive / mobile / contraction）
+- **PLC + Adopter Curve + Hype Cycle 三線整合**：Moore's Chasm（Early Adopters → Early Majority 死亡谷）≈ Gartner Hype Cycle Trough；醫療 AI 在 chasm 特別寬（因為要 reimbursement + PACS 整合 + whole product）
+- **Stage-Gate 5 階段 + 4 Validation Gates**：Idea Gen → Idea Validation → Concept Dev → Concept Validation → Business Model → Business Model Validation → Implementation → Commercial Deployment；醫療 AI 多 FDA / Reimbursement 兩層 gate，總時程是一般 SaaS 的 3-5 倍
+- **Forces Fighting New Ideas 5 句藉口**：「Tried before / Not right time / Not the way we do things / Done all right without / Discuss next meeting」 — 對應 5 種認知偏誤（anchoring / status quo / endowment / survivorship / bystander）；對抗工具 = reference customer + pilot + cross-functional sponsor + forced deadline
+
+### Kotler MM 16e Wave 3 — 8 案例 PDF
+
+- **Shopee Agency vs Merchant 對比**：Agency model（阿里巴巴 / Amazon）抽高佣金、高利潤；Merchant model（Shopee）平台自有貨、低毛利規模換利潤；commission model 介於兩者
+- **UVMC × 3 預掠定價邊界**（教師補充量化規則）：價格 > 3 × User Value or Market Cost benchmark 觸發 predatory pricing → 反托拉斯風險。低價作為市場進入策略有法律上限
+- **TikTok 病毒傳播核心指標**：教師勾選 **completion ratio + click rate** —— click rate = 能不能拉進來，completion ratio = 能不能留住注意力；shares / comments / likes / following 都是次要
+- **TikTok offshore 結構**：開曼群島註冊 = 中國禁 Media 企業在中國上市的 VIE 規避結構（教師批註明說），governance 角度與 Amazon / Google 等美系科技公司路徑不同
+- **Taylor Swift = artist 從 brand asset 變 brand owner**：Scooter Braun 母帶之爭 → Taylor's Version 重錄 → 「twilight of the music manager」；收入四元化（演唱費 + 版權 + 代言 + 周邊）取代專輯為主
+- **Amazon FFP / SIOC**：SIOC 自 2015 減超過 100 萬噸包材；50%+ 客戶偏好環保包裝；Walmart 2025 100% 可回收承諾是直接對標
+- **Markops 動態調整核心**：1E + 5Cs + STP + 7Ts → 動態調整，雙指標 CNC（Cumulative Net Contribution）+ MS (Market Share in $) 必須同步追蹤，否則陷「收割 vs 補貼」二擇陷阱
+- **BCG matrix 教師重標註為動詞**：Stars → **invest** / Question Marks → **maintain** / Cash Cows → **milk** / Dogs → **divest**（從現況描述轉為決策動詞）
+- **行銷拙劣 5 大徵兆**（教師補充）：反應太快（違背快思慢想）/ 遺漏 KSF / drowning in data / 缺 strategy & knowledge / implementation gap —— 與 Kahneman bounded rationality 接合
+- **中端零售衰退（barbell 效應）**：hard discounter 與 luxury 同時擴張，中端被擠壓；STP 不能再用「中產階級」作 default segment；positioning 必須選邊或卡在 stuck-in-the-middle
+- **整合行銷六支柱**：SEO + 社群 + 數據廣告 + 線上線下 + 口碑 + PR，對 Kotler Ch17 IMC 八模式的數位重組；沒有 personal selling 暗示 B2C 偏向
+
+### OB / Strategy / Management（既有）
 
 - **OB 三層次：** Individual ⊂ Group ⊂ Organization；任何一層議題都被外層影響
 - **VRIO 四問：** Valuable / Rare / Inimitable / Organized 都 YES 才有 sustained advantage；OB 是 Inimitable 一柱

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-05-20T20:00:00+08:00 (Kotler MM 16e Ch01-08 Wave 1)",
+  "last_updated": "2026-05-21T12:30:00+08:00 (Kotler MM 16e Wave 2 +5 章 Ch09/10/11/17/18 / +151 頁 / +24 wiki 頁；Wave 3 已於同日先行落地)",
   "sources": {
     "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/0820-OKR-講義.pdf": {
       "ingested_at": "2026-05-05T15:00:00+08:00",
@@ -301,8 +301,12 @@
       "ingest_method": "read-subagent",
       "pages": 10,
       "note": "Grant Ch2 Goals/Values/Performance lecture slides",
-      "pages_created": ["concepts/balanced-scorecard.md"],
-      "pages_updated": ["references/grant-contemporary-strategy-analysis.md"]
+      "pages_created": [
+        "concepts/balanced-scorecard.md"
+      ],
+      "pages_updated": [
+        "references/grant-contemporary-strategy-analysis.md"
+      ]
     },
     "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/ch03_Industry Analysis.pdf.pdf": {
       "ingested_at": "2026-05-20T12:30:00+08:00",
@@ -313,7 +317,10 @@
       "pages": 11,
       "note": "Grant Ch3 Industry Analysis lecture slides",
       "pages_created": [],
-      "pages_updated": ["references/grant-contemporary-strategy-analysis.md", "concepts/porters-five-forces.md"]
+      "pages_updated": [
+        "references/grant-contemporary-strategy-analysis.md",
+        "concepts/porters-five-forces.md"
+      ]
     },
     "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/ch04_Competitive Analysis.pdf.pdf": {
       "ingested_at": "2026-05-20T12:30:00+08:00",
@@ -323,8 +330,12 @@
       "ingest_method": "read-subagent",
       "pages": 11,
       "note": "Grant Ch4 Further Topics in Industry & Competitive Analysis",
-      "pages_created": ["concepts/hypercompetition.md"],
-      "pages_updated": ["references/grant-contemporary-strategy-analysis.md"]
+      "pages_created": [
+        "concepts/hypercompetition.md"
+      ],
+      "pages_updated": [
+        "references/grant-contemporary-strategy-analysis.md"
+      ]
     },
     "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/ch05_Resources Capability.pdf.pdf": {
       "ingested_at": "2026-05-20T12:30:00+08:00",
@@ -334,8 +345,12 @@
       "ingest_method": "read-subagent",
       "pages": 12,
       "note": "Grant Ch5 Resources and Capabilities",
-      "pages_created": ["concepts/resource-based-view.md"],
-      "pages_updated": ["references/grant-contemporary-strategy-analysis.md"]
+      "pages_created": [
+        "concepts/resource-based-view.md"
+      ],
+      "pages_updated": [
+        "references/grant-contemporary-strategy-analysis.md"
+      ]
     },
     "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/ch06_Organization Structure.pdf.pdf": {
       "ingested_at": "2026-05-20T12:30:00+08:00",
@@ -345,8 +360,12 @@
       "ingest_method": "read-subagent",
       "pages": 10,
       "note": "Grant Ch6 Organization Structure",
-      "pages_created": ["concepts/cooperation-vs-coordination.md"],
-      "pages_updated": ["references/grant-contemporary-strategy-analysis.md"]
+      "pages_created": [
+        "concepts/cooperation-vs-coordination.md"
+      ],
+      "pages_updated": [
+        "references/grant-contemporary-strategy-analysis.md"
+      ]
     },
     "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/ch08-Evolution strategic changes.pdf.pdf": {
       "ingested_at": "2026-05-20T12:30:00+08:00",
@@ -356,8 +375,12 @@
       "ingest_method": "read-subagent",
       "pages": 12,
       "note": "Grant Ch8 Industry Evolution and Strategic Change",
-      "pages_created": ["concepts/industry-life-cycle.md"],
-      "pages_updated": ["references/grant-contemporary-strategy-analysis.md"]
+      "pages_created": [
+        "concepts/industry-life-cycle.md"
+      ],
+      "pages_updated": [
+        "references/grant-contemporary-strategy-analysis.md"
+      ]
     },
     "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/ch09_Innovations.pdf.pdf": {
       "ingested_at": "2026-05-20T12:30:00+08:00",
@@ -367,8 +390,12 @@
       "ingest_method": "read-subagent",
       "pages": 12,
       "note": "Grant Ch9 Innovation and Technology-based Industries",
-      "pages_created": ["concepts/dominant-design.md"],
-      "pages_updated": ["references/grant-contemporary-strategy-analysis.md"]
+      "pages_created": [
+        "concepts/dominant-design.md"
+      ],
+      "pages_updated": [
+        "references/grant-contemporary-strategy-analysis.md"
+      ]
     },
     "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/ch10_Vertical Integration_S.pdf.pdf": {
       "ingested_at": "2026-05-20T12:30:00+08:00",
@@ -378,8 +405,12 @@
       "ingest_method": "read-subagent",
       "pages": 26,
       "note": "Grant Ch10 Vertical Integration and the Scope of the Firm",
-      "pages_created": ["concepts/transaction-cost-economics.md"],
-      "pages_updated": ["references/grant-contemporary-strategy-analysis.md"]
+      "pages_created": [
+        "concepts/transaction-cost-economics.md"
+      ],
+      "pages_updated": [
+        "references/grant-contemporary-strategy-analysis.md"
+      ]
     },
     "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/ch11_Global Strategy.pdf.pdf": {
       "ingested_at": "2026-05-20T12:30:00+08:00",
@@ -389,8 +420,12 @@
       "ingest_method": "read-subagent",
       "pages": 12,
       "note": "Grant Ch11 Global Strategy",
-      "pages_created": ["concepts/CAGE-distance-framework.md"],
-      "pages_updated": ["references/grant-contemporary-strategy-analysis.md"]
+      "pages_created": [
+        "concepts/CAGE-distance-framework.md"
+      ],
+      "pages_updated": [
+        "references/grant-contemporary-strategy-analysis.md"
+      ]
     },
     "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/ch12_Diversification.pdf.pdf": {
       "ingested_at": "2026-05-20T12:30:00+08:00",
@@ -401,7 +436,9 @@
       "pages": 8,
       "note": "Grant Ch12 Diversification — concepts captured in reference page; standalone concept pages deferred",
       "pages_created": [],
-      "pages_updated": ["references/grant-contemporary-strategy-analysis.md"]
+      "pages_updated": [
+        "references/grant-contemporary-strategy-analysis.md"
+      ]
     },
     "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/ch13_Multibusiness.pdf.pdf": {
       "ingested_at": "2026-05-20T12:30:00+08:00",
@@ -412,7 +449,9 @@
       "pages": 15,
       "note": "Grant Ch13 Implementing Multibusiness Strategy — captured in reference; standalone concept pages deferred",
       "pages_created": [],
-      "pages_updated": ["references/grant-contemporary-strategy-analysis.md"]
+      "pages_updated": [
+        "references/grant-contemporary-strategy-analysis.md"
+      ]
     },
     "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/ch14_current trends_S.pdf.pdf": {
       "ingested_at": "2026-05-20T12:30:00+08:00",
@@ -423,7 +462,9 @@
       "pages": 6,
       "note": "Grant Ch14 Current Trends in Strategic Management",
       "pages_created": [],
-      "pages_updated": ["references/grant-contemporary-strategy-analysis.md"]
+      "pages_updated": [
+        "references/grant-contemporary-strategy-analysis.md"
+      ]
     },
     "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/Ch2.pdf.pdf": {
       "ingested_at": "2026-05-20T12:30:00+08:00",
@@ -433,8 +474,13 @@
       "ingest_method": "read-subagent",
       "pages": 166,
       "note": "Colquitt OB Ch2 Job Performance — path B dual subagent (pp.1-84 + pp.85-166)",
-      "pages_created": ["concepts/job-performance.md", "concepts/counterproductive-workplace-behavior.md"],
-      "pages_updated": ["references/colquitt-OB-textbook.md"]
+      "pages_created": [
+        "concepts/job-performance.md",
+        "concepts/counterproductive-workplace-behavior.md"
+      ],
+      "pages_updated": [
+        "references/colquitt-OB-textbook.md"
+      ]
     },
     "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/Ch3.pdf.pdf": {
       "ingested_at": "2026-05-20T15:00:00+08:00",
@@ -444,8 +490,13 @@
       "ingest_method": "read-subagent",
       "pages": 131,
       "note": "Colquitt OB Ch3 Organizational Commitment — path B subagent",
-      "pages_created": ["concepts/organizational-commitment.md", "concepts/EVLN-framework.md"],
-      "pages_updated": ["references/colquitt-OB-textbook.md"]
+      "pages_created": [
+        "concepts/organizational-commitment.md",
+        "concepts/EVLN-framework.md"
+      ],
+      "pages_updated": [
+        "references/colquitt-OB-textbook.md"
+      ]
     },
     "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/Ch4.pdf.pdf": {
       "ingested_at": "2026-05-20T15:00:00+08:00",
@@ -455,8 +506,13 @@
       "ingest_method": "read-subagent",
       "pages": 115,
       "note": "Colquitt OB Ch4 Job Satisfaction — path B subagent",
-      "pages_created": ["concepts/job-satisfaction.md", "concepts/job-characteristics-theory.md"],
-      "pages_updated": ["references/colquitt-OB-textbook.md"]
+      "pages_created": [
+        "concepts/job-satisfaction.md",
+        "concepts/job-characteristics-theory.md"
+      ],
+      "pages_updated": [
+        "references/colquitt-OB-textbook.md"
+      ]
     },
     "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/Ch5.pdf.pdf": {
       "ingested_at": "2026-05-20T15:00:00+08:00",
@@ -466,8 +522,12 @@
       "ingest_method": "pdftotext",
       "pages": 113,
       "note": "Colquitt OB Ch5 Stress — path B subagent with L2-A pdftotext fallback",
-      "pages_created": ["concepts/stress.md"],
-      "pages_updated": ["references/colquitt-OB-textbook.md"]
+      "pages_created": [
+        "concepts/stress.md"
+      ],
+      "pages_updated": [
+        "references/colquitt-OB-textbook.md"
+      ]
     },
     "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/Ch6.pdf.pdf": {
       "ingested_at": "2026-05-20T15:00:00+08:00",
@@ -477,8 +537,14 @@
       "ingest_method": "read-subagent",
       "pages": 120,
       "note": "Colquitt OB Ch6 Motivation — path B subagent",
-      "pages_created": ["concepts/expectancy-theory.md", "concepts/goal-setting-theory.md", "concepts/equity-theory.md"],
-      "pages_updated": ["references/colquitt-OB-textbook.md"]
+      "pages_created": [
+        "concepts/expectancy-theory.md",
+        "concepts/goal-setting-theory.md",
+        "concepts/equity-theory.md"
+      ],
+      "pages_updated": [
+        "references/colquitt-OB-textbook.md"
+      ]
     },
     "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/Ch7.pdf.pdf": {
       "ingested_at": "2026-05-20T15:00:00+08:00",
@@ -488,8 +554,13 @@
       "ingest_method": "pdftotext",
       "pages": 122,
       "note": "Colquitt OB Ch7 Trust Justice Ethics — path B subagent with L2-A pdftotext fallback",
-      "pages_created": ["concepts/trust.md", "concepts/organizational-justice.md"],
-      "pages_updated": ["references/colquitt-OB-textbook.md"]
+      "pages_created": [
+        "concepts/trust.md",
+        "concepts/organizational-justice.md"
+      ],
+      "pages_updated": [
+        "references/colquitt-OB-textbook.md"
+      ]
     },
     "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/Ch8.pdf.pdf": {
       "ingested_at": "2026-05-20T15:00:00+08:00",
@@ -499,8 +570,14 @@
       "ingest_method": "read-subagent",
       "pages": 115,
       "note": "Colquitt OB Ch8 Learning & Decision Making — path B subagent",
-      "pages_created": ["concepts/bounded-rationality.md", "concepts/decision-making-biases.md", "concepts/escalation-of-commitment.md"],
-      "pages_updated": ["references/colquitt-OB-textbook.md"]
+      "pages_created": [
+        "concepts/bounded-rationality.md",
+        "concepts/decision-making-biases.md",
+        "concepts/escalation-of-commitment.md"
+      ],
+      "pages_updated": [
+        "references/colquitt-OB-textbook.md"
+      ]
     },
     "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/Ch9.pdf.pdf": {
       "ingested_at": "2026-05-20T15:00:00+08:00",
@@ -510,8 +587,12 @@
       "ingest_method": "pdftotext",
       "pages": 118,
       "note": "Colquitt OB Ch9 Personality & Cultural Values — path B subagent with L2-A pdftotext fallback",
-      "pages_created": ["concepts/big-five-personality.md"],
-      "pages_updated": ["references/colquitt-OB-textbook.md"]
+      "pages_created": [
+        "concepts/big-five-personality.md"
+      ],
+      "pages_updated": [
+        "references/colquitt-OB-textbook.md"
+      ]
     },
     "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/Ch10.pdf.pdf": {
       "ingested_at": "2026-05-20T15:00:00+08:00",
@@ -521,8 +602,12 @@
       "ingest_method": "pdftotext",
       "pages": 92,
       "note": "Colquitt OB Ch10 Ability — path B subagent with L2-A pdftotext fallback",
-      "pages_created": ["concepts/emotional-intelligence.md"],
-      "pages_updated": ["references/colquitt-OB-textbook.md"]
+      "pages_created": [
+        "concepts/emotional-intelligence.md"
+      ],
+      "pages_updated": [
+        "references/colquitt-OB-textbook.md"
+      ]
     },
     "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/Ch11.pdf.pdf": {
       "ingested_at": "2026-05-20T15:00:00+08:00",
@@ -532,8 +617,12 @@
       "ingest_method": "read-subagent",
       "pages": 109,
       "note": "Colquitt OB Ch11 Teams: Characteristics & Diversity — path B subagent",
-      "pages_created": ["concepts/team-interdependence.md"],
-      "pages_updated": ["references/colquitt-OB-textbook.md"]
+      "pages_created": [
+        "concepts/team-interdependence.md"
+      ],
+      "pages_updated": [
+        "references/colquitt-OB-textbook.md"
+      ]
     },
     "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/Ch12.pdf.pdf": {
       "ingested_at": "2026-05-20T15:00:00+08:00",
@@ -543,8 +632,13 @@
       "ingest_method": "pdftotext",
       "pages": 127,
       "note": "Colquitt OB Ch12 Teams: Processes & Communication — path B subagent with L2-A pdftotext fallback",
-      "pages_created": ["concepts/groupthink.md", "concepts/transactive-memory.md"],
-      "pages_updated": ["references/colquitt-OB-textbook.md"]
+      "pages_created": [
+        "concepts/groupthink.md",
+        "concepts/transactive-memory.md"
+      ],
+      "pages_updated": [
+        "references/colquitt-OB-textbook.md"
+      ]
     },
     "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/Ch13.pdf.pdf": {
       "ingested_at": "2026-05-20T15:00:00+08:00",
@@ -554,8 +648,14 @@
       "ingest_method": "read-subagent",
       "pages": 98,
       "note": "Colquitt OB Ch13 Leadership: Power & Negotiation — path B subagent",
-      "pages_created": ["concepts/power-bases.md", "concepts/influence-tactics.md", "concepts/conflict-resolution-styles.md"],
-      "pages_updated": ["references/colquitt-OB-textbook.md"]
+      "pages_created": [
+        "concepts/power-bases.md",
+        "concepts/influence-tactics.md",
+        "concepts/conflict-resolution-styles.md"
+      ],
+      "pages_updated": [
+        "references/colquitt-OB-textbook.md"
+      ]
     },
     "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/Ch14.pdf.pdf": {
       "ingested_at": "2026-05-20T15:00:00+08:00",
@@ -565,8 +665,13 @@
       "ingest_method": "read-subagent",
       "pages": 84,
       "note": "Colquitt OB Ch14 Leadership: Styles & Behaviors — path B subagent",
-      "pages_created": ["concepts/transformational-leadership.md", "concepts/leader-member-exchange.md"],
-      "pages_updated": ["references/colquitt-OB-textbook.md"]
+      "pages_created": [
+        "concepts/transformational-leadership.md",
+        "concepts/leader-member-exchange.md"
+      ],
+      "pages_updated": [
+        "references/colquitt-OB-textbook.md"
+      ]
     },
     "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/行銷管理/Kotler_mm16e_inppt_01.pdf.pdf": {
       "ingested_at": "2026-05-20T19:00:00+08:00",
@@ -576,7 +681,14 @@
       "ingest_method": "read-subagent",
       "pages": 43,
       "note": "Kotler 16e Ch01 Defining Marketing for the New Realities — Phase 2 Wave 1 (8 parallel subagents); 教師中文眉批含 TSMC/HTC/SAMSUNG/Airbnb 等台灣本地案例",
-      "pages_created": ["references/kotler-keller-chernev-marketing-management-16e.md", "concepts/marketing-definition.md", "concepts/holistic-marketing.md", "concepts/marketing-orientations.md", "concepts/customer-centricity.md", "entities/Philip-Kotler.md"],
+      "pages_created": [
+        "references/kotler-keller-chernev-marketing-management-16e.md",
+        "concepts/marketing-definition.md",
+        "concepts/holistic-marketing.md",
+        "concepts/marketing-orientations.md",
+        "concepts/customer-centricity.md",
+        "entities/Philip-Kotler.md"
+      ],
       "pages_updated": []
     },
     "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/行銷管理/Kotler_mm16e_inppt_02.pdf.pdf": {
@@ -587,7 +699,12 @@
       "ingest_method": "read-main",
       "pages": 41,
       "note": "Kotler 16e Ch02 Marketing Planning and Management — G-STIC / 5C / 3V / 7Ts 四大框架 spine; 教師中文口訣見-識-謀-斷-行-控",
-      "pages_created": ["concepts/G-STIC-framework.md", "concepts/5C-target-market-framework.md", "concepts/3V-market-value-principle.md", "concepts/7Ts-marketing-tactics.md"],
+      "pages_created": [
+        "concepts/G-STIC-framework.md",
+        "concepts/5C-target-market-framework.md",
+        "concepts/3V-market-value-principle.md",
+        "concepts/7Ts-marketing-tactics.md"
+      ],
       "pages_updated": []
     },
     "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/行銷管理/Kotler_mm16e_inppt_03.pdf.pdf": {
@@ -598,7 +715,12 @@
       "ingest_method": "read-main + pdftotext",
       "pages": 35,
       "note": "Kotler 16e Ch03 Analyzing Consumer Markets — SOR model spine, 含 Maslow / Successive Sets / EKB",
-      "pages_created": ["concepts/SOR-model-consumer.md", "concepts/maslow-hierarchy-of-needs.md", "concepts/buying-decision-process-consumer.md", "concepts/successive-sets.md"],
+      "pages_created": [
+        "concepts/SOR-model-consumer.md",
+        "concepts/maslow-hierarchy-of-needs.md",
+        "concepts/buying-decision-process-consumer.md",
+        "concepts/successive-sets.md"
+      ],
       "pages_updated": []
     },
     "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/行銷管理/Kotler_mm16e_inppt_04.pdf.pdf": {
@@ -609,7 +731,10 @@
       "ingest_method": "read-main",
       "pages": 33,
       "note": "Kotler 16e Ch04 Analyzing Business Markets — B2B 章, Buying Center 7 角色 + 8 階段 Business Buying Process",
-      "pages_created": ["concepts/buying-center.md", "concepts/business-buying-process.md"],
+      "pages_created": [
+        "concepts/buying-center.md",
+        "concepts/business-buying-process.md"
+      ],
       "pages_updated": []
     },
     "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/行銷管理/Kotler_mm16e_inppt_05.pdf.pdf": {
@@ -620,7 +745,10 @@
       "ingest_method": "pdftotext",
       "pages": 41,
       "note": "Kotler 16e Ch05 Conducting Marketing Research — subagent 自動降級 L2-A pdftotext 抽取 414 行覆蓋全 41 頁",
-      "pages_created": ["concepts/marketing-research-process.md", "concepts/marketing-dashboard.md"],
+      "pages_created": [
+        "concepts/marketing-research-process.md",
+        "concepts/marketing-dashboard.md"
+      ],
       "pages_updated": []
     },
     "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/行銷管理/Kotler_mm16e_inppt_06.pdf.pdf": {
@@ -631,7 +759,13 @@
       "ingest_method": "read-subagent",
       "pages": 34,
       "note": "Kotler 16e Ch06 Identifying Market Segments and Target Customers — STP 的 S+T, 含 Strategic vs Tactical Targeting + B2B 五層切法; TSMC 生態系 + 鴻海 MIH 案例",
-      "pages_created": ["concepts/STP-framework.md", "concepts/market-segmentation.md", "concepts/targeting.md", "concepts/core-competency.md", "concepts/customer-persona.md"],
+      "pages_created": [
+        "concepts/STP-framework.md",
+        "concepts/market-segmentation.md",
+        "concepts/targeting.md",
+        "concepts/core-competency.md",
+        "concepts/customer-persona.md"
+      ],
       "pages_updated": []
     },
     "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/行銷管理/Kotler_mm16e_inppt_07.pdf.pdf": {
@@ -642,7 +776,15 @@
       "ingest_method": "read-main",
       "pages": 26,
       "note": "Kotler 16e Ch07 Crafting Customer Value Proposition and Positioning — STP 的 P, 含 FOR / POD / POP / MWG / Primal Branding; 教師批註 'Taiwan OEM/ODM miss all three POD criteria'",
-      "pages_created": ["concepts/customer-value-proposition.md", "concepts/positioning.md", "concepts/points-of-difference-and-parity.md", "concepts/frame-of-reference.md", "concepts/perceptual-map.md", "concepts/minimum-winning-game.md", "entities/Patrick-Hanlon.md"],
+      "pages_created": [
+        "concepts/customer-value-proposition.md",
+        "concepts/positioning.md",
+        "concepts/points-of-difference-and-parity.md",
+        "concepts/frame-of-reference.md",
+        "concepts/perceptual-map.md",
+        "concepts/minimum-winning-game.md",
+        "entities/Patrick-Hanlon.md"
+      ],
       "pages_updated": []
     },
     "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/行銷管理/6PSB_Product.pdf.pdf": {
@@ -653,14 +795,213 @@
       "ingest_method": "read-main",
       "pages": 23,
       "note": "Kotler 16e Ch08 Designing and Managing Products — PSB 系列 1/3 (Product); 9 維度差異化 + Nokia/HTC/Intel NBI 案例; 教師批註挑戰 Porter stuck-in-the-middle",
-      "pages_created": ["concepts/product-differentiation-9-dimensions.md", "concepts/product-line-strategies.md", "synthesis/porter-vs-kotler-differentiation-debate.md", "synthesis/HTC-marketing-research-gap.md", "synthesis/5C-vs-PESTLE-vs-Porter-five-forces.md", "synthesis/G-STIC-vs-OKR-SMART.md"],
+      "pages_created": [
+        "concepts/product-differentiation-9-dimensions.md",
+        "concepts/product-line-strategies.md",
+        "synthesis/porter-vs-kotler-differentiation-debate.md",
+        "synthesis/HTC-marketing-research-gap.md",
+        "synthesis/5C-vs-PESTLE-vs-Porter-five-forces.md",
+        "synthesis/G-STIC-vs-OKR-SMART.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/行銷管理/Kotler_mm16e_inppt_09.pdf.pdf": {
+      "ingested_at": "2026-05-21T10:30:00+08:00",
+      "size_bytes": 1572864,
+      "content_hash": "sha256:2b0d0a98be24f6d2f68c7c4f1b61c13f8f01a9a612495e17a4e88ddba77efd2e",
+      "source_type": "document",
+      "ingest_method": "read-subagent",
+      "pages": 32,
+      "note": "Kotler 16e Ch09 Designing and Managing Services — PSB 系列 2/3 (Service); 4Is (Intangibility/Inseparability/Variability/Perishability) + Service Marketing Triangle + SERVQUAL Gap Model + Service Blueprint; 教師批註豐富 (TSMC IP Mail yield > 100%, Twilio Inbound/Outbound, Singapore Airlines KYC, Zappos CHO)",
+      "pages_created": [
+        "concepts/service-marketing-4Is.md",
+        "concepts/service-marketing-triangle.md",
+        "concepts/servqual-gap-model.md",
+        "concepts/service-blueprint.md",
+        "synthesis/services-paradox-4Is-vs-product-management.md"
+      ],
+      "pages_updated": [
+        "references/kotler-keller-chernev-marketing-management-16e.md"
+      ]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/行銷管理/Kotler_mm16e_inppt_10.pdf.pdf": {
+      "ingested_at": "2026-05-21T10:30:00+08:00",
+      "size_bytes": 1468006,
+      "content_hash": "sha256:5bc53813fdbe025a14203852a166b1a1a20435629a3feaa299621d55d4a549e3",
+      "source_type": "document",
+      "ingest_method": "read-subagent",
+      "pages": 29,
+      "note": "Kotler 16e Ch10 Building Strong Brands — PSB 系列 3/3 (Brand); Brand Equity vs Brand Power (CBBE) + Brand Mantra + Brand Hierarchy (House/Branded-house/Sub-brand) + Brand Value Chain + Cobranding + Brand Extension/Dilution + Luxury Branding; 教師批註 'Popper World 3' + '為何中韓日無法創建奢侈品牌'",
+      "pages_created": [
+        "concepts/brand.md",
+        "concepts/brand-equity.md",
+        "concepts/brand-mantra.md",
+        "concepts/brand-hierarchy.md",
+        "concepts/cobranding.md",
+        "concepts/brand-value-chain.md",
+        "concepts/brand-extension.md",
+        "concepts/luxury-branding.md",
+        "synthesis/asia-luxury-brand-gap.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/行銷管理/Kotler_mm16e_inppt_11.pdf.pdf": {
+      "ingested_at": "2026-05-21T10:30:00+08:00",
+      "size_bytes": 1153434,
+      "content_hash": "sha256:bf3261641c35932c44b00c5d3f84e7247f11b15e50205bc542025a185246de10",
+      "source_type": "document",
+      "ingest_method": "read-subagent",
+      "pages": 34,
+      "note": "Kotler 16e Ch11 Crafting the Pricing Strategy & Tactics — Pricing 6 步驟 + 6 方法 (Markup/Target-return/EVC/Competitive/Auction/Discrimination) + Price Discrimination 三度 + Product Mix Pricing 六模式 (Loss-leader/Optional/Captive/Two-part/By-product/Bundling); 教師批註 'China race to the bottom / 代工 → price taker / Design → price giver' + Uber surge vs airline peak 對照",
+      "pages_created": [
+        "concepts/pricing-6-steps.md",
+        "concepts/price-elasticity-of-demand.md",
+        "concepts/pricing-methods.md",
+        "concepts/price-discrimination.md",
+        "concepts/product-mix-pricing.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/行銷管理/Kotler_mm16e_inppt_17.pdf.pdf": {
+      "ingested_at": "2026-05-21T10:30:00+08:00",
+      "size_bytes": 1153434,
+      "content_hash": "sha256:130c46034506582974d8c76369f979430ad0ca48d0dd94c56a88d0aa480024ca",
+      "source_type": "document",
+      "ingest_method": "read-subagent",
+      "pages": 28,
+      "note": "Kotler 16e Ch17 Managing Sales Growth & Product Life Cycle — Product-Market Growth Framework (4 象限) + Cloner/Imitator/Adapter + Share of market/mind/heart + Defense Strategies 6 種 + Product Life Cycle 4 階段 + Fads vs Trends; 教師批註 Gartner Hype Cycle 連結",
+      "pages_created": [
+        "concepts/product-market-growth-framework.md",
+        "concepts/defense-strategies.md",
+        "concepts/product-life-cycle.md",
+        "synthesis/PLC-vs-stage-gate-vs-adopter-curve.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/行銷管理/Kotler_mm16e_inppt_18.pdf.pdf": {
+      "ingested_at": "2026-05-21T10:30:00+08:00",
+      "size_bytes": 1048576,
+      "content_hash": "sha256:05060ff1037bf42f09d81b316d633cf5bf52d07db296f7ee5c1bde152fcc92f4",
+      "source_type": "document",
+      "ingest_method": "read-subagent",
+      "pages": 28,
+      "note": "Kotler 16e Ch18 Developing New Market Offerings — Stage-Gate Framework (5 stages + 4 validation gates: Idea/Concept/Business Model/Implementation/Deployment) + Forces Fighting New Ideas (5 句藉口) + Adopter Categorization (Rogers 5 類, Innovators 2.5%/Early Adopters 13%/Early Majority 34%/Late Majority 34%/Laggards 16%); 案例 BeyondMeat / Impossible Foods / StubHub / Bird scooters",
+      "pages_created": [
+        "concepts/stage-gate-framework.md",
+        "concepts/adopter-categorization.md",
+        "concepts/forces-fighting-new-ideas.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/行銷管理/DECATHLON.pdf": {
+      "ingested_at": "2026-05-21T12:00:00+08:00",
+      "size_bytes": 21188,
+      "content_hash": "sha256:a05d3eab58ab5b92d4a30359ed0d5a6b6fdaf28e4341b3f598a2c6d7c5e1ef6c",
+      "source_type": "document",
+      "ingest_method": "read-subagent",
+      "pages": 2,
+      "note": "Kotler 16e Wave 3 案例補充；檔名 DECATHLON 但實際內容是『現代零售環境七大特徵』教師補充框架，無 Decathlon 公司資料",
+      "pages_created": [
+        "concepts/modern-retail-environment-trends.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/行銷管理/Shopee.pdf": {
+      "ingested_at": "2026-05-21T12:00:00+08:00",
+      "size_bytes": 140751,
+      "content_hash": "sha256:6f94432365fbab95c1520870303a096b2f1c01ebfa90316d6e91f6d4ec7f8448",
+      "source_type": "document",
+      "ingest_method": "read-subagent",
+      "pages": 2,
+      "note": "Kotler 16e Wave 3 案例補充；Agency vs Merchant vs Commission Model 對比 + UVMC × 3 掠奪式定價邊界（教師批註）",
+      "pages_created": [
+        "entities/Shopee.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/行銷管理/TikTok.pdf": {
+      "ingested_at": "2026-05-21T12:00:00+08:00",
+      "size_bytes": 29683,
+      "content_hash": "sha256:6f38b5de4a55fbaf5011ca8c907b5d9a09b7e3d219e441a6e27e9d772a3cff2f",
+      "source_type": "document",
+      "ingest_method": "read-subagent",
+      "pages": 2,
+      "note": "Kotler 16e Wave 3 案例補充；collaborative filtering / Gen Z 注意力 / completion ratio vs click rate / 開曼群島 offshore 結構（教師批註）",
+      "pages_created": [
+        "entities/TikTok.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/行銷管理/Tiffany.pdf": {
+      "ingested_at": "2026-05-21T12:00:00+08:00",
+      "size_bytes": 15033,
+      "content_hash": "sha256:c52745793973dc2d326263a626663f5287e14fdb626fb077e1c399daed850c4d",
+      "source_type": "document",
+      "ingest_method": "read-subagent",
+      "pages": 2,
+      "note": "Kotler 16e Wave 3 案例補充；source 內容稀薄（Audrey Hepburn × 第凡內早餐 × 中國 / organic vs M&A 兩個 open question），entity 頁低 confidence stub",
+      "pages_created": [
+        "entities/Tiffany.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/行銷管理/Taylor Swift.pdf": {
+      "ingested_at": "2026-05-21T12:00:00+08:00",
+      "size_bytes": 21201,
+      "content_hash": "sha256:fa8ccefeafe6e2dbd89b9ffe1541646bd5ffe724256d2dac7c86a53d5d6dafb2",
+      "source_type": "document",
+      "ingest_method": "read-subagent",
+      "pages": 2,
+      "note": "Kotler 16e Wave 3 案例補充；personal brand / Scooter Braun 母帶之爭 / Spotify 分潤 / 收入四元化（演唱費版權代言周邊）",
+      "pages_created": [
+        "entities/Taylor-Swift.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/行銷管理/亞馬遜可持續包裝計劃.pdf.pdf": {
+      "ingested_at": "2026-05-21T12:00:00+08:00",
+      "size_bytes": 108819,
+      "content_hash": "sha256:2bba5c7abc81eb31d2c3c3bd0c7d75dbf7a4851bd4ffca55cdbd2025a1655fad",
+      "source_type": "document",
+      "ingest_method": "read-subagent",
+      "pages": 3,
+      "note": "Kotler 16e Wave 3 案例補充；Amazon FFP / SIOC / Klabin / Walmart 對標 sustainability，augment 既有 entities/Amazon.md",
+      "pages_created": [],
+      "pages_updated": [
+        "entities/Amazon.md"
+      ]
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/行銷管理/Markops.pdf": {
+      "ingested_at": "2026-05-21T12:00:00+08:00",
+      "size_bytes": 585264,
+      "content_hash": "sha256:45e53d1e62055205d2f2dfcf20bdc992b71fbbae4b3e1ac2e0dd47e8f7465b52",
+      "source_type": "document",
+      "ingest_method": "read-subagent",
+      "pages": 4,
+      "note": "Kotler 16e Wave 3 案例補充；Marketing Operations 策略框架（1E+5C+STP+7T → 動態調整 + CNC/MS + BCG invest/maintain/milk/divest + 行銷拙劣 5 大徵兆）",
+      "pages_created": [
+        "concepts/markops-marketing-operations-framework.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/行銷管理/數位行銷-整合行銷.png.pdf": {
+      "ingested_at": "2026-05-21T12:00:00+08:00",
+      "size_bytes": 137840,
+      "content_hash": "sha256:9c8abcfed4b1eafab7c087f9ebcaa7b9b22871719d452f1a0d1f0282804debec",
+      "source_type": "document",
+      "ingest_method": "read-subagent",
+      "pages": 1,
+      "note": "Kotler 16e Wave 3 案例補充；單頁概念圖『整合行銷六大支柱』（SEO / 社群 / 數據廣告 / O2O / 口碑 / PR），出處『捷盛數位行銷 / CYBER MARKETING』",
+      "pages_created": [
+        "concepts/integrated-digital-marketing-six-pillars.md"
+      ],
       "pages_updated": []
     }
   },
   "projects": {},
   "stats": {
-    "total_sources_ingested": 42,
-    "total_pages": 1702,
+    "total_sources_ingested": 56,
+    "total_pages": 1871,
     "total_projects": 0,
     "last_full_rebuild": null
   }
