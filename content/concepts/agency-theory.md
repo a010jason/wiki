@@ -17,8 +17,8 @@ provenance:
   inferred: 0.1
   ambiguous: 0
 base_confidence: 0.5
-lifecycle: draft
-lifecycle_changed: 2026-05-21
+lifecycle: challenged
+lifecycle_changed: 2026-05-22
 ---
 
 # Agency Theory
@@ -106,6 +106,16 @@ Information Asymmetry
   - 解方：performance-based pricing、SLA、independent validation、可續約合約
 - **醫師-病人關係**：經典 agency 案例 — 醫師（agent）有資訊優勢，病人（principal）難判斷醫療必要性
   - 監管 / DRG / EBM 都是 agency 控制機制
+
+## Critique 摘要
+
+> **2026-05-22 跑了一次 wiki-challenge**
+>
+> 5 條核心 claim：0 survives / 2 narrow / **3 brittle** / 0 unsupported。主要弱點：page 是 textbook compilation，過度簡化 Holmström 1979（hybrid contract is dominant solution）；忽略 behavioral economics（prospect theory）、SDT、motivation crowding-out 等對核心假設的系統性挑戰；「Agency vs Herzberg 立場相反」是 false dichotomy — 兩理論 unit of analysis 不同實則互補。Claim 4「Journal of Marketing 論文」引用 untraceable，需補 cite 或刪。
+>
+> `base_confidence`：0.50 → 0.50（維持，brittle cap 0.55 內）；`lifecycle`：draft → challenged。
+>
+> 完整逐條質疑、行動項目：私人 meta 頁（不公開），路徑 `_meta/critique/agency-theory.md`。
 
 ## Related
 
