@@ -1,14 +1,19 @@
 ---
-title: Intel NBI: Intel Corporation's New Business Initiatives (A)（Shih & Thurston, HBS 9-609-043, 2010）
+title: "Intel NBI: Intel Corporation's New Business Initiatives (A)（Shih & Thurston, HBS 9-609-043, 2010）"
 type: reference
 domain: mgmt
 tags: [case-study, hbs, corporate-venturing, innovation, intel, mgmt]
 aliases: [Intel NBI case, HBS 9-609-043, Shih Thurston 2010]
 sources:
-  - case:Shih-Thurston-2010-Intel-NBI-A-HBS-9-609-043
-source_url: https://drive.google.com/file/d/1ijKCsCoFKIeSGShDWhEkbsx398R-jbGV/view
+  - id: HBS-9-609-043-Intel-NBI
+    type: hbs-case
+    rel_path: 策略管理/5_Intel_NBI_S.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1ijKCsCoFKIeSGShDWhEkbsx398R-jbGV/view
+    pages: 9
+    sha256: f07fa9d072f330abda68fa7478e1f6eebf335022cda594ee4f4878aeaf887b2b
+    ingested_commit: 7b8eef0
 created: 2026-05-20
-updated: 2026-05-20
+updated: 2026-05-21
 summary: >-
   Harvard Business School 案例 9-609-043（Rev. December 6, 2010）。Willy Shih（HBS 教授，前 IBM、Kodak、Silicon Graphics 高管）與 Thomas Thurston 撰寫。主角 Rich Wykoff（NBI GM）面對策略檢討：NBI 雖有 WiMAX / LPCO / Larrabee 三項 T-Up 成功，卻始終無法 deliver 真正的長期新事業。案例追問：是 NBI 管理不善，還是大公司內部創投天生有結構性限制？
 provenance:
@@ -168,10 +173,12 @@ HBS 9-611-072（2011）為 (B) 版本續集^[inferred]，本 ingest 暫未涵蓋
 
 ## Sources
 
+> Source 索引 — locator 在 frontmatter `sources[]`。檔案路徑相對於 `PDF_ROOT`（見 [CLAUDE.md](../../CLAUDE.md)）。
+
+| ID | Source | Type | Pages | SHA256 (prefix) | Ingested |
+|---|---|---|---|---|---|
+| `HBS-9-609-043-Intel-NBI` | [5_Intel_NBI_S.pdf.pdf](https://drive.google.com/file/d/1ijKCsCoFKIeSGShDWhEkbsx398R-jbGV/view) | hbs-case | 9 | `f07fa9d0…` | commit `7b8eef0` |
+
+**Bibliographic：**
 - Shih, W. C., & Thurston, T. (2010). *Intel NBI: Intel Corporation's New Business Initiatives (A)* (Case 9-609-043, Rev. December 6, 2010). Harvard Business School.
 - 講義整理：陽明交大 EMBA 策略管理課程（2024/4/9 版講義）
-- Ingest 日期：2026-05-20；hash `f07fa9d0...`；9 頁全文讀取無截斷
-
-| 檔案 | Drive |
-|---|---|
-| 5_Intel_NBI_S.pdf.pdf | [Google Drive](https://drive.google.com/file/d/1ijKCsCoFKIeSGShDWhEkbsx398R-jbGV/view) |

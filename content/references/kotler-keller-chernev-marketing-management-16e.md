@@ -4,8 +4,65 @@ type: reference
 domain: marketing
 tags: [textbook, marketing, kotler, manifest, mgmt]
 aliases: [Kotler 16e, Marketing Management 16e, MM 16e]
+sources:
+  - id: Kotler-MM16e-Ch01
+    type: textbook-chapter
+    rel_path: 行銷管理/Kotler_mm16e_inppt_01.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1FMeRj0BQS7COIPiVl_6QWIWFSPa1DTeV/view
+    pages: 43
+    sha256: 5893e89cadfac9f92ad1a3b22a8ed08e2cea002393d57f41f970a4aa72b2ceb1
+    ingested_commit: 7b8eef0
+  - id: Kotler-MM16e-Ch02
+    type: textbook-chapter
+    rel_path: 行銷管理/Kotler_mm16e_inppt_02.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1ZQWV-PG9yjTaBJQ-jFIp5pbEc5oKLtTl/view
+    pages: 41
+    sha256: 7e746de408d2dbea812018680bfd853f36a2e110deb65a2dd1a293fa02602f56
+    ingested_commit: 7b8eef0
+  - id: Kotler-MM16e-Ch03
+    type: textbook-chapter
+    rel_path: 行銷管理/Kotler_mm16e_inppt_03.pdf.pdf
+    drive_url: https://drive.google.com/file/d/139ff6YnC6MVVOyvlnsh2Aa6NdgSiiyvV/view
+    pages: 35
+    sha256: 419b26adfb205d3bf50bdfced582833cbadc4106c20b0e081945c7d80a25fa0f
+    ingested_commit: 7b8eef0
+  - id: Kotler-MM16e-Ch04
+    type: textbook-chapter
+    rel_path: 行銷管理/Kotler_mm16e_inppt_04.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1-ynQW-t8gwJ8N1VdCQwT25ClyHFQKTl-/view
+    pages: 33
+    sha256: f515ed4f74d8a476513072a71415cd0186997676abc3732732ec191f698a6ee2
+    ingested_commit: 7b8eef0
+  - id: Kotler-MM16e-Ch05
+    type: textbook-chapter
+    rel_path: 行銷管理/Kotler_mm16e_inppt_05.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1APjVpWCazp7Q2HOlf6gNK5ZP3ZxKs0yl/view
+    pages: 41
+    sha256: 81f4c17551eb1d47610f01f718599bd34ae1b2bf967956a3e3ea950dba9bd6ba
+    ingested_commit: 7b8eef0
+  - id: Kotler-MM16e-Ch06
+    type: textbook-chapter
+    rel_path: 行銷管理/Kotler_mm16e_inppt_06.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1huMadgs7jt6yHUToPuUXzyC1gPtbB3dV/view
+    pages: 34
+    sha256: d27d96002ea59eb22112e78a47d9b8436cead5f3aaf21bc7efcfa1006c806f20
+    ingested_commit: 7b8eef0
+  - id: Kotler-MM16e-Ch07
+    type: textbook-chapter
+    rel_path: 行銷管理/Kotler_mm16e_inppt_07.pdf.pdf
+    drive_url: https://drive.google.com/file/d/16cHXlMbgp01E6A4acmre3e7syEbTKs3s/view
+    pages: 26
+    sha256: c0190204d8829fb82ceb2779356144033a538b62c6d664bf1a088601c1d44424
+    ingested_commit: 7b8eef0
+  - id: Kotler-MM16e-Ch08-PSB-Product
+    type: textbook-chapter
+    rel_path: 行銷管理/6PSB_Product.pdf.pdf
+    drive_url: https://drive.google.com/file/d/17qzq4wHU-4bB3UBU4_s19b8s_d1FTska/view
+    pages: 23
+    sha256: 693639732edce5adf9771c5a4d94581394429962a28e31deb8291e622e97b576
+    ingested_commit: 7b8eef0
 created: 2026-05-20
-updated: 2026-05-20
+updated: 2026-05-21
 summary: >-
   Kotler / Keller / Chernev《Marketing Management》16e Global Edition (Pearson 2022) 行銷管理教科書 manifest 頁，登錄各章 ingest 狀態、ingest_method 與對應的 wiki 頁。本書是行銷管理領域 standard 教科書，與 Grant《Contemporary Strategy Analysis》(策略)、Colquitt《Organizational Behavior》(OB) 形成管理三聯。
 lifecycle: draft
@@ -22,18 +79,18 @@ Philip Kotler、Kevin Lane Keller、Alexander Chernev 合著的《Marketing Mana
 
 ## Chapter Ingest Status
 
-Phase 2 Wave 1（2026-05-20）已 ingest 8 章：
+Phase 2 Wave 1（2026-05-20）已 ingest 8 章。**Source 索引**：每章 `ID` 對應 frontmatter `sources[].id`，完整 schema（`rel_path` / `sha256` / `ingested_commit`）見 frontmatter。
 
-| 章 | 主題 | 頁數 | ingest_method | hash (short) | Drive |
-|---|---|---|---|---|---|
-| Ch01 | Defining Marketing for the New Realities | 43 | read-subagent | 5893e89c | [↗](https://drive.google.com/file/d/1FMeRj0BQS7COIPiVl_6QWIWFSPa1DTeV/view) |
-| Ch02 | Marketing Planning and Management | 41 | read-main | 7e746de4 | [↗](https://drive.google.com/file/d/1ZQWV-PG9yjTaBJQ-jFIp5pbEc5oKLtTl/view) |
-| Ch03 | Analyzing Consumer Markets | 35 | read-main + pdftotext | 419b26ad | [↗](https://drive.google.com/file/d/139ff6YnC6MVVOyvlnsh2Aa6NdgSiiyvV/view) |
-| Ch04 | Analyzing Business Markets | 33 | read-main | f515ed4f | [↗](https://drive.google.com/file/d/1-ynQW-t8gwJ8N1VdCQwT25ClyHFQKTl-/view) |
-| Ch05 | Conducting Marketing Research | 41 | pdftotext (L2-A) | 81f4c175 | [↗](https://drive.google.com/file/d/1APjVpWCazp7Q2HOlf6gNK5ZP3ZxKs0yl/view) |
-| Ch06 | Identifying Market Segments and Target Customers | 34 | read-subagent | d27d9600 | [↗](https://drive.google.com/file/d/1huMadgs7jt6yHUToPuUXzyC1gPtbB3dV/view) |
-| Ch07 | Crafting a Customer Value Proposition and Positioning | 26 | read-main | c0190204 | [↗](https://drive.google.com/file/d/16cHXlMbgp01E6A4acmre3e7syEbTKs3s/view) |
-| Ch08 | Designing and Managing Products (PSB series 1/3 = Product) | 23 | read-main | 69363973 | [↗](https://drive.google.com/file/d/17qzq4wHU-4bB3UBU4_s19b8s_d1FTska/view) |
+| ID | 章 | 主題 | 頁數 | ingest_method | hash (short) | Drive |
+|---|---|---|---|---|---|---|
+| `Kotler-MM16e-Ch01` | Ch01 | Defining Marketing for the New Realities | 43 | read-subagent | `5893e89c…` | [↗](https://drive.google.com/file/d/1FMeRj0BQS7COIPiVl_6QWIWFSPa1DTeV/view) |
+| `Kotler-MM16e-Ch02` | Ch02 | Marketing Planning and Management | 41 | read-main | `7e746de4…` | [↗](https://drive.google.com/file/d/1ZQWV-PG9yjTaBJQ-jFIp5pbEc5oKLtTl/view) |
+| `Kotler-MM16e-Ch03` | Ch03 | Analyzing Consumer Markets | 35 | read-main + pdftotext | `419b26ad…` | [↗](https://drive.google.com/file/d/139ff6YnC6MVVOyvlnsh2Aa6NdgSiiyvV/view) |
+| `Kotler-MM16e-Ch04` | Ch04 | Analyzing Business Markets | 33 | read-main | `f515ed4f…` | [↗](https://drive.google.com/file/d/1-ynQW-t8gwJ8N1VdCQwT25ClyHFQKTl-/view) |
+| `Kotler-MM16e-Ch05` | Ch05 | Conducting Marketing Research | 41 | pdftotext (L2-A) | `81f4c175…` | [↗](https://drive.google.com/file/d/1APjVpWCazp7Q2HOlf6gNK5ZP3ZxKs0yl/view) |
+| `Kotler-MM16e-Ch06` | Ch06 | Identifying Market Segments and Target Customers | 34 | read-subagent | `d27d9600…` | [↗](https://drive.google.com/file/d/1huMadgs7jt6yHUToPuUXzyC1gPtbB3dV/view) |
+| `Kotler-MM16e-Ch07` | Ch07 | Crafting a Customer Value Proposition and Positioning | 26 | read-main | `c0190204…` | [↗](https://drive.google.com/file/d/16cHXlMbgp01E6A4acmre3e7syEbTKs3s/view) |
+| `Kotler-MM16e-Ch08-PSB-Product` | Ch08 | Designing and Managing Products (PSB series 1/3 = Product) | 23 | read-main | `69363973…` | [↗](https://drive.google.com/file/d/17qzq4wHU-4bB3UBU4_s19b8s_d1FTska/view) |
 
 **未 ingest 章節（源頭已有，待 Wave 2/3）：** Ch09 / Ch10 / Ch11 / Ch17 / Ch18（已知有 PDF）
 

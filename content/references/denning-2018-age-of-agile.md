@@ -5,10 +5,16 @@ domain: mgmt
 tags: [agile, book, reference, mgmt]
 aliases: [Denning 2018, Age of Agile]
 sources:
-  - lecture:2023-08-20-溫金豐-敏捷組織與敏捷方法
-source_url: https://drive.google.com/file/d/1aWr3mJjEXtwE6dSA2CavSQevH6kIJXou/view
+  - id: WenJinFeng-2023-08-20-Agile-Org-Lecture
+    type: lecture-notes
+    rel_path: 組織與人力資源管理/0820-Agile Org-講義.pdf
+    drive_url: https://drive.google.com/file/d/1aWr3mJjEXtwE6dSA2CavSQevH6kIJXou/view
+    pages: 14
+    sha256: 50b3f7576781c8e05dfa4b33e5cb1777ae45dd99e836c628979d5581ce750ca9
+    ingested_commit: 50812c1
+    note: "Secondary citation only — Denning 2018 原書未直接 ingest，本頁透過 2023-08-20 溫金豐課程講義二次引述。"
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-05-21
 summary: >-
   Stephen Denning 2018 出版的敏捷組織經典書（推測，本 wiki 尚未直接 ingest）。提出敏捷三大法則（聚焦顧客／小就是美／網路式結構）+ 推動 6 原則 + 案例對照，溫金豐 2023 課程主要學理基礎。
 provenance:
@@ -49,9 +55,13 @@ lifecycle_changed: 2026-05-05
 
 ## Sources
 
-| 檔案 | Drive |
-|---|---|
-| 0820-Agile Org-講義.pdf（溫金豐課程講義） | [Google Drive](https://drive.google.com/file/d/1aWr3mJjEXtwE6dSA2CavSQevH6kIJXou/view) |
+> Source 索引 — locator 在 frontmatter `sources[]`。檔案路徑相對於 `PDF_ROOT`（見 [CLAUDE.md](../../CLAUDE.md)）。**本頁是二次引述** — Denning 2018 原書尚未直接 ingest。
+
+| ID | Source | Type | Pages | SHA256 (prefix) | Ingested |
+|---|---|---|---|---|---|
+| `WenJinFeng-2023-08-20-Agile-Org-Lecture` | [0820-Agile Org-講義.pdf](https://drive.google.com/file/d/1aWr3mJjEXtwE6dSA2CavSQevH6kIJXou/view) | lecture-notes | 14 | `50b3f757…` | commit `50812c1` |
+
+**原書（未 ingest）：** Stephen Denning (2018). *The Age of Agile: How Smart Companies Are Transforming the Way Work Gets Done*. AMACOM.
 
 ## When to Read
 

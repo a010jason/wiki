@@ -5,10 +5,16 @@ domain: mgmt
 tags: [OKR, book, reference, mgmt]
 aliases: [Doerr 2018, Measure What Matters]
 sources:
-  - lecture:2023-08-20-溫金豐-OKR-管理技能發展專題
-source_url: https://drive.google.com/file/d/1L9RJklJQ14frwSRNRLayUoFr9hLCUA50/view
+  - id: WenJinFeng-2023-08-20-OKR-Lecture
+    type: lecture-notes
+    rel_path: 組織與人力資源管理/0820-OKR-講義.pdf
+    drive_url: https://drive.google.com/file/d/1L9RJklJQ14frwSRNRLayUoFr9hLCUA50/view
+    pages: 13
+    sha256: 7e703b05e0378d38c1f249b76fd860a67e12c0bcf1cbbf09e3771a27955980e1
+    ingested_commit: 3619f8f
+    note: "Secondary citation only — Doerr 2018 原書未直接 ingest，本頁透過 2023-08-20 溫金豐課程講義二次引述。"
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-05-21
 summary: >-
   John Doerr 2018 出版的 OKR 經典書，把 Andy Grove 在 Intel 建立的 OKR 方法系統化並推廣。OKR 領域的「源頭文獻」之一，多本後續著作（王怡淳, Niven 等）皆以此為基礎。
 provenance:
@@ -46,9 +52,13 @@ OKR 的源頭可追溯到 Intel 的 Andy Grove，但**讓 OKR 廣為人知的關
 
 ## Sources
 
-| 檔案 | Drive |
-|---|---|
-| 0820-OKR-講義.pdf（溫金豐課程講義） | [Google Drive](https://drive.google.com/file/d/1L9RJklJQ14frwSRNRLayUoFr9hLCUA50/view) |
+> Source 索引 — locator 在 frontmatter `sources[]`。檔案路徑相對於 `PDF_ROOT`（見 [CLAUDE.md](../../CLAUDE.md)）。**本頁是二次引述** — Doerr 2018 原書尚未直接 ingest。
+
+| ID | Source | Type | Pages | SHA256 (prefix) | Ingested |
+|---|---|---|---|---|---|
+| `WenJinFeng-2023-08-20-OKR-Lecture` | [0820-OKR-講義.pdf](https://drive.google.com/file/d/1L9RJklJQ14frwSRNRLayUoFr9hLCUA50/view) | lecture-notes | 13 | `7e703b05…` | commit `3619f8f` |
+
+**原書（未 ingest）：** John Doerr (2018). *Measure What Matters*. PORTFOLIO.
 
 ## Related
 

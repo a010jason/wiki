@@ -5,10 +5,15 @@ domain: mgmt
 tags: [strategy, AI, digital-transformation, hbr, reference, mgmt]
 aliases: [Competing in the Age of AI, Iansiti Lakhani 2020, Iansiti book]
 sources:
-  - book:Iansiti-Lakhani-Competing-Age-of-AI-HBR-2020-Ch1
-source_url: https://drive.google.com/file/d/1soSPh2mN48WI9Xud23yPe5VvzdbSldNl/view
+  - id: Iansiti-AoAI-2020-Ch1
+    type: book-chapter
+    rel_path: 策略管理/2Competing_in_the_age_of_AI.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1soSPh2mN48WI9Xud23yPe5VvzdbSldNl/view
+    pages: 24
+    sha256: 20c766b1a6cc7f290486d8a8fefb4227f9836a0907ba57dd8938e726523dcc45
+    ingested_commit: 7b5b016
 created: 2026-05-06
-updated: 2026-05-06
+updated: 2026-05-21
 summary: >-
   Marco Iansiti & Karim R. Lakhani（Harvard Business School）2020 年於 HBR Press 出版的 10 章書。核心命題：AI 已成為企業的「runtime」，使「digital operating model」公司能突破傳統公司的 scale / scope / complexity 限制。Phase 1 ingest 範圍：Ch1 (24 頁)，已涵蓋全書核心論點地圖。
 provenance:
@@ -128,10 +133,10 @@ ingest_method: pdf-read-chunked
 
 ## Sources
 
-- Iansiti & Lakhani (2020) Ch1, Harvard Business Review Press
-- 中譯版資訊：尚未確認此書是否有繁中譯本（待查）^[ambiguous]
-- Ingest 日期：2026-05-06；hash `20c766b1...`；24 頁全文讀取無截斷
+> Source 索引 — locator 在 frontmatter `sources[]`。檔案路徑相對於 `PDF_ROOT`（見 [CLAUDE.md](../../CLAUDE.md)）。
 
-| 檔案 | Drive |
-|---|---|
-| 2Competing_in_the_age_of_AI.pdf.pdf | [Google Drive](https://drive.google.com/file/d/1soSPh2mN48WI9Xud23yPe5VvzdbSldNl/view) |
+| ID | Source | Type | Pages | SHA256 (prefix) | Ingested |
+|---|---|---|---|---|---|
+| `Iansiti-AoAI-2020-Ch1` | [2Competing_in_the_age_of_AI.pdf.pdf](https://drive.google.com/file/d/1soSPh2mN48WI9Xud23yPe5VvzdbSldNl/view) | book-chapter | 24 | `20c766b1…` | commit `7b5b016` |
+
+**Bibliographic：** Iansiti, M., & Lakhani, K. R. (2020). *Competing in the Age of AI* (Ch1, 24p). Harvard Business Review Press. 中譯版資訊：尚未確認此書是否有繁中譯本 ^[ambiguous]。Ch2-10 BLOCKED（無源 PDF）— 詳見上方 Ingest TODO。

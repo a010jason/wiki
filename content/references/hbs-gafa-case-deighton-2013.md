@@ -5,11 +5,16 @@ domain: mgmt
 tags: [strategy, platform-competition, digital-economy, hbs-case, reference, mgmt]
 aliases: [GAFA case, GAFA HBS case, Deighton GAFA, 516-C05, 9-513-060]
 sources:
-  - textbook:HBS-Case-9-513-060-GAFA-Deighton-Kornfeld-2013
-  - translation:NCTU-516-C05-Tang-2015
-source_url: https://drive.google.com/file/d/1j9EE1Uux-AvAJsplf4jEBfofYh_EG7iB/view
+  - id: HBS-9-513-060-GAFA
+    type: hbs-case
+    rel_path: 策略管理/1GAFA_S.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1j9EE1Uux-AvAJsplf4jEBfofYh_EG7iB/view
+    pages: 4
+    sha256: 6f0efaa9c6f1d9124604c9f2c9321b7abee6834520b9119a7613956cc6e26620
+    ingested_commit: 7b5b016
+    note: "PDF at this path was replaced 2026-04-24 (now 4 pages, was 19 pages at original ingest hash c2b3f607). Wiki content distilled from original 19-page version including 唐瓔璋 NCTU 516-C05 translation."
 created: 2026-05-06
-updated: 2026-05-06
+updated: 2026-05-21
 summary: >-
   HBS 經典案例（19 頁），由 Prof. John Deighton & Leora Kornfeld 撰寫於 2013，紀錄 Amazon / Apple / Facebook / Google 四巨頭在 7 個能力維度（搜索/社交/零售/電視/手機/支付/廣告）互相滲透的競爭格局。中譯版由陽明交大唐瓔璋教授編譯（516-C05）。Jason 修策略管理課時的案例。
 provenance:
@@ -114,10 +119,14 @@ ingest_method: pdf-read-chunked
 
 ## Sources
 
-- HBS Case 9-513-060, John Deighton & Leora Kornfeld, December 12, 2013
-- NCTU 516-C05 中譯版，唐瓔璋編譯，2015
-- Ingest 日期：2026-05-06；hash `c2b3f607...`；19 頁全文讀取無截斷
+> Source 索引 — locator 在 frontmatter `sources[]`。檔案路徑相對於 `PDF_ROOT`（見 [CLAUDE.md](../../CLAUDE.md)）。
 
-| 檔案 | Drive |
-|---|---|
-| 1GAFA_S.pdf.pdf | [Google Drive](https://drive.google.com/file/d/1j9EE1Uux-AvAJsplf4jEBfofYh_EG7iB/view) |
+| ID | Source | Type | Pages | SHA256 (prefix) | Ingested |
+|---|---|---|---|---|---|
+| `HBS-9-513-060-GAFA` | [1GAFA_S.pdf.pdf](https://drive.google.com/file/d/1j9EE1Uux-AvAJsplf4jEBfofYh_EG7iB/view) | hbs-case | 4 ⚠️ | `6f0efaa9…` | commit `7b5b016` |
+
+⚠️ **檔案狀態 divergence**：PDF 於 2026-04-24 被改短（4 頁，hash `6f0efaa9…`），但本頁內容是從原始 19 頁版本（含 NCTU 516-C05 唐瓔璋中譯）distill 而來，原 hash `c2b3f607…`。要回看完整原文需另外找來源。
+
+**Bibliographic：**
+- Deighton, J., & Kornfeld, L. (2013). *Amazon, Apple, Facebook, and Google* (HBS Case 9-513-060, Rev: December 12, 2013). Harvard Business School Publishing.
+- 中譯版：唐瓔璋（編譯）（2015）。《亞馬遜、蘋果、臉書和谷歌》（516-C05）。國立交通大學經營管理研究所。

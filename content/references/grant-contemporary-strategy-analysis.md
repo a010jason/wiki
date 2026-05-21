@@ -5,9 +5,106 @@ domain: mgmt
 tags: [strategy, textbook, reference, mgmt]
 aliases: [Grant strategy textbook, Contemporary Strategy Analysis]
 sources:
-  - textbook:Grant-Contemporary-Strategy-Analysis-11ed-Wiley-2022
+  - id: Grant-CSA-11e-Ch01
+    type: textbook-chapter
+    rel_path: 策略管理/ch01_Concept of strategy.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1QFhpS2bQqHpJ0pNuHcULkVqnLiKHQWRt/view
+    pages: 8
+    sha256: 1aea919b24837830008af7e15de08c48138bd6f4287d73fa919d990b2742199a
+    ingested_commit: 0bcb17f
+  - id: Grant-CSA-11e-Ch02
+    type: textbook-chapter
+    rel_path: 策略管理/ch02_Goals, Values, and performance.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1Ac-6G6AHhXsA8ujnilSOxddEZjudRtzg/view
+    pages: 10
+    sha256: 6e2cea858e1180e6e592252ec83f9db02d28c32053817560e0f88642ca913720
+    ingested_commit: 4d31e72
+  - id: Grant-CSA-11e-Ch03
+    type: textbook-chapter
+    rel_path: 策略管理/ch03_Industry Analysis.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1qis7f8FOjAhVd5VOv-7Q7HnrGklY67XX/view
+    pages: 11
+    sha256: a1f96087be45e95cb0a541f52c721d2a6abd0b6681d70ff8f7a1643c0b37cb94
+    ingested_commit: 4d31e72
+  - id: Grant-CSA-11e-Ch04
+    type: textbook-chapter
+    rel_path: 策略管理/ch04_Competitive Analysis.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1ksOU9gleCTUn_wYOUt6xgNNBC1aMEDvr/view
+    pages: 11
+    sha256: c8f7e716247909f65934317a60fdafe7d586c33b0354de7c3bbc4ab30b3ea85f
+    ingested_commit: 4d31e72
+  - id: Grant-CSA-11e-Ch05
+    type: textbook-chapter
+    rel_path: 策略管理/ch05_Resources Capability.pdf.pdf
+    drive_url: https://drive.google.com/file/d/16lXOoWuXp6GxxEEzVXIusWyIncLk73Q1/view
+    pages: 12
+    sha256: 24a9f53962f5b00b34de7a1b68f523b52855ac85ebbdf6b2c7bc4dc4c6e7d45c
+    ingested_commit: 4d31e72
+  - id: Grant-CSA-11e-Ch06
+    type: textbook-chapter
+    rel_path: 策略管理/ch06_Organization Structure.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1POC4f6I68424iHGy09etpXc7zIDtXgEh/view
+    pages: 10
+    sha256: b98623b0e2eb3de50370f23763e96901a52fc17858cf501f5fec7068a3263fe3
+    ingested_commit: 4d31e72
+  - id: Grant-CSA-11e-Ch07
+    type: textbook-chapter
+    rel_path: 策略管理/ch07_Competitive Advantage.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1R_rtnOhkAD4bRqvPUlLIyWVR7hTxmdZK/view
+    pages: 13
+    sha256: c8d0e5a5023cf77aadc1dc42e47590ce1186d7e41adcae01c79ae8391fa9690a
+    ingested_commit: 2b175bd
+  - id: Grant-CSA-11e-Ch08
+    type: textbook-chapter
+    rel_path: 策略管理/ch08-Evolution strategic changes.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1UFcNTYo3UK2tOHc4xoJ-wHm8alRTmw5Z/view
+    pages: 12
+    sha256: a6d48244d0818d19afe787c1b5a7a51f9c4f21268c09187b5fb02292969c10e1
+    ingested_commit: 4d31e72
+  - id: Grant-CSA-11e-Ch09
+    type: textbook-chapter
+    rel_path: 策略管理/ch09_Innovations.pdf.pdf
+    drive_url: https://drive.google.com/file/d/157vW2PLNNGoastjrbpwdrZVEwYT2RiQC/view
+    pages: 12
+    sha256: 0ef79548a22c4e89a2d7bb3e2fc1ca46e6885852e2d5cd8c1ccbfa9ef0b57b2d
+    ingested_commit: 4d31e72
+  - id: Grant-CSA-11e-Ch10
+    type: textbook-chapter
+    rel_path: 策略管理/ch10_Vertical Integration_S.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1Yh1f3bJ7SLJ_-VQrIxg8GQKv8KSRm2YH/view
+    pages: 26
+    sha256: 9395c5251e6a359ee27a1a94cd97388ce280366137cb1b4e41a46c905838f62b
+    ingested_commit: 4d31e72
+  - id: Grant-CSA-11e-Ch11
+    type: textbook-chapter
+    rel_path: 策略管理/ch11_Global Strategy.pdf.pdf
+    drive_url: https://drive.google.com/file/d/12qbZyx51aLcJFMFVh2Q854MDT_8AR_JY/view
+    pages: 12
+    sha256: 5e19b9cd31d431fc8a49ec8b04017477e816b157207b4079d665d5f77968fcf1
+    ingested_commit: 4d31e72
+  - id: Grant-CSA-11e-Ch12
+    type: textbook-chapter
+    rel_path: 策略管理/ch12_Diversification.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1Gq-4Xc8ABFAcu6F2DVVh0X-jYnG4emlx/view
+    pages: 8
+    sha256: 4b8a6b4d1f1bf327eae5e45c29879c4e0baa9e86c5d9c0035c23be734be11848
+    ingested_commit: 4d31e72
+  - id: Grant-CSA-11e-Ch13
+    type: textbook-chapter
+    rel_path: 策略管理/ch13_Multibusiness.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1r8ESl6a8bwqxa3E31NgxHSdEcL9vkQnn/view
+    pages: 15
+    sha256: d0931d5a9102e864ff7654a62745b07861f4a27d0a8ac5821975241b8fc83613
+    ingested_commit: 4d31e72
+  - id: Grant-CSA-11e-Ch14
+    type: textbook-chapter
+    rel_path: 策略管理/ch14_current trends_S.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1vJGHcrPb2eRed-9fu518oY6H0rwJZDDM/view
+    pages: 6
+    sha256: 23b351bcf8392461a32f72dc7a98aefbd64c04ffc49517fbd4d561e1a1c2ad69
+    ingested_commit: 4d31e72
 created: 2026-05-05
-updated: 2026-05-20
+updated: 2026-05-21
 summary: >-
   Robert M. Grant 的策略管理經典教科書，11th ed (Wiley 2022)。EMBA 策略管理課程教材。
   2026-05-20 完成 Ch1-14（14 章 lecture slides 全部 ingest）。Ch7（Competitive Advantage）2026-05-05 初次 ingest（7 頁）後，於 2026-05-20 完成 audit + backfill：補 4 個獨立概念頁（isolating-mechanisms / causal-ambiguity / strategic-innovation / drivers-of-cost-advantage） + 1 synthesis（Ricardian vs Schumpeterian rent）。
@@ -138,22 +235,24 @@ Audit 動機：第一輪 ingest 把多個獨立概念塞在 competitive-advantag
 
 ## Sources
 
-| 章節 | 檔案 | Drive |
-|---|---|---|
-| Ch01 | ch01_Concept of strategy.pdf.pdf | [Google Drive](https://drive.google.com/file/d/1QFhpS2bQqHpJ0pNuHcULkVqnLiKHQWRt/view) |
-| Ch02 | ch02_Goals, Values, and performance.pdf.pdf | [Google Drive](https://drive.google.com/file/d/1Ac-6G6AHhXsA8ujnilSOxddEZjudRtzg/view) |
-| Ch03 | ch03_Industry Analysis.pdf.pdf | [Google Drive](https://drive.google.com/file/d/1qis7f8FOjAhVd5VOv-7Q7HnrGklY67XX/view) |
-| Ch04 | ch04_Competitive Analysis.pdf.pdf | [Google Drive](https://drive.google.com/file/d/1ksOU9gleCTUn_wYOUt6xgNNBC1aMEDvr/view) |
-| Ch05 | ch05_Resources Capability.pdf.pdf | [Google Drive](https://drive.google.com/file/d/16lXOoWuXp6GxxEEzVXIusWyIncLk73Q1/view) |
-| Ch06 | ch06_Organization Structure.pdf.pdf | [Google Drive](https://drive.google.com/file/d/1POC4f6I68424iHGy09etpXc7zIDtXgEh/view) |
-| Ch07 | ch07_Competitive Advantage.pdf.pdf | [Google Drive](https://drive.google.com/file/d/1R_rtnOhkAD4bRqvPUlLIyWVR7hTxmdZK/view) |
-| Ch08 | ch08-Evolution strategic changes.pdf.pdf | [Google Drive](https://drive.google.com/file/d/1UFcNTYo3UK2tOHc4xoJ-wHm8alRTmw5Z/view) |
-| Ch09 | ch09_Innovations.pdf.pdf | [Google Drive](https://drive.google.com/file/d/157vW2PLNNGoastjrbpwdrZVEwYT2RiQC/view) |
-| Ch10 | ch10_Vertical Integration_S.pdf.pdf | [Google Drive](https://drive.google.com/file/d/1Yh1f3bJ7SLJ_-VQrIxg8GQKv8KSRm2YH/view) |
-| Ch11 | ch11_Global Strategy.pdf.pdf | [Google Drive](https://drive.google.com/file/d/12qbZyx51aLcJFMFVh2Q854MDT_8AR_JY/view) |
-| Ch12 | ch12_Diversification.pdf.pdf | [Google Drive](https://drive.google.com/file/d/1Gq-4Xc8ABFAcu6F2DVVh0X-jYnG4emlx/view) |
-| Ch13 | ch13_Multibusiness.pdf.pdf | [Google Drive](https://drive.google.com/file/d/1r8ESl6a8bwqxa3E31NgxHSdEcL9vkQnn/view) |
-| Ch14 | ch14_current trends_S.pdf.pdf | [Google Drive](https://drive.google.com/file/d/1vJGHcrPb2eRed-9fu518oY6H0rwJZDDM/view) |
+> Source 索引 — locator 在 frontmatter `sources[]`。檔案路徑相對於 `PDF_ROOT`（見 [CLAUDE.md](../../CLAUDE.md)）。14 章 lecture slides PDF。
+
+| ID | 章節（點開 Drive）| 頁數 | SHA256 (prefix) | Ingested |
+|---|---|---|---|---|
+| `Grant-CSA-11e-Ch01` | [ch01_Concept of strategy.pdf.pdf](https://drive.google.com/file/d/1QFhpS2bQqHpJ0pNuHcULkVqnLiKHQWRt/view) | 8 | `1aea919b…` | commit `0bcb17f` |
+| `Grant-CSA-11e-Ch02` | [ch02_Goals, Values, and performance.pdf.pdf](https://drive.google.com/file/d/1Ac-6G6AHhXsA8ujnilSOxddEZjudRtzg/view) | 10 | `6e2cea85…` | commit `4d31e72` |
+| `Grant-CSA-11e-Ch03` | [ch03_Industry Analysis.pdf.pdf](https://drive.google.com/file/d/1qis7f8FOjAhVd5VOv-7Q7HnrGklY67XX/view) | 11 | `a1f96087…` | commit `4d31e72` |
+| `Grant-CSA-11e-Ch04` | [ch04_Competitive Analysis.pdf.pdf](https://drive.google.com/file/d/1ksOU9gleCTUn_wYOUt6xgNNBC1aMEDvr/view) | 11 | `c8f7e716…` | commit `4d31e72` |
+| `Grant-CSA-11e-Ch05` | [ch05_Resources Capability.pdf.pdf](https://drive.google.com/file/d/16lXOoWuXp6GxxEEzVXIusWyIncLk73Q1/view) | 12 | `24a9f539…` | commit `4d31e72` |
+| `Grant-CSA-11e-Ch06` | [ch06_Organization Structure.pdf.pdf](https://drive.google.com/file/d/1POC4f6I68424iHGy09etpXc7zIDtXgEh/view) | 10 | `b98623b0…` | commit `4d31e72` |
+| `Grant-CSA-11e-Ch07` | [ch07_Competitive Advantage.pdf.pdf](https://drive.google.com/file/d/1R_rtnOhkAD4bRqvPUlLIyWVR7hTxmdZK/view) | 13 | `c8d0e5a5…` | commit `2b175bd` |
+| `Grant-CSA-11e-Ch08` | [ch08-Evolution strategic changes.pdf.pdf](https://drive.google.com/file/d/1UFcNTYo3UK2tOHc4xoJ-wHm8alRTmw5Z/view) | 12 | `a6d48244…` | commit `4d31e72` |
+| `Grant-CSA-11e-Ch09` | [ch09_Innovations.pdf.pdf](https://drive.google.com/file/d/157vW2PLNNGoastjrbpwdrZVEwYT2RiQC/view) | 12 | `0ef79548…` | commit `4d31e72` |
+| `Grant-CSA-11e-Ch10` | [ch10_Vertical Integration_S.pdf.pdf](https://drive.google.com/file/d/1Yh1f3bJ7SLJ_-VQrIxg8GQKv8KSRm2YH/view) | 26 | `9395c525…` | commit `4d31e72` |
+| `Grant-CSA-11e-Ch11` | [ch11_Global Strategy.pdf.pdf](https://drive.google.com/file/d/12qbZyx51aLcJFMFVh2Q854MDT_8AR_JY/view) | 12 | `5e19b9cd…` | commit `4d31e72` |
+| `Grant-CSA-11e-Ch12` | [ch12_Diversification.pdf.pdf](https://drive.google.com/file/d/1Gq-4Xc8ABFAcu6F2DVVh0X-jYnG4emlx/view) | 8 | `4b8a6b4d…` | commit `4d31e72` |
+| `Grant-CSA-11e-Ch13` | [ch13_Multibusiness.pdf.pdf](https://drive.google.com/file/d/1r8ESl6a8bwqxa3E31NgxHSdEcL9vkQnn/view) | 15 | `d0931d5a…` | commit `4d31e72` |
+| `Grant-CSA-11e-Ch14` | [ch14_current trends_S.pdf.pdf](https://drive.google.com/file/d/1vJGHcrPb2eRed-9fu518oY6H0rwJZDDM/view) | 6 | `23b351bc…` | commit `4d31e72` |
 
 ## Open Questions
 

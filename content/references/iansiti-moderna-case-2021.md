@@ -5,11 +5,16 @@ domain: mgmt
 tags: [strategy, AI, biotech, digital-transformation, hbs-case, reference, mgmt]
 aliases: [Moderna case, HBS 9-621-032, Moderna A, 莫德納案例]
 sources:
-  - textbook:HBS-Case-9-621-032-Moderna-Iansiti-Lakhani-Mayer-Herman-2021
-  - translation:NCTU-621-032-Tang-2021
-source_url: https://drive.google.com/file/d/1awZYCYt0u8LWuxA15Bk7Wpu9cwJcR81i/view
+  - id: HBS-9-621-032-Moderna
+    type: hbs-case
+    rel_path: 策略管理/6Moderna_S.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1awZYCYt0u8LWuxA15Bk7Wpu9cwJcR81i/view
+    pages: 13
+    sha256: 9b9f0bbe70ff0fcf4c39dc116946cf92816784bd9013d6913bc9c0200a3e4685
+    ingested_commit: 7b5b016
+    note: "PDF at this path was replaced 2026-04-24 (now 13 pages, was 21 pages at original ingest hash dd7e5315). Wiki content distilled from original 21-page version including 唐瓔璋 NCTU 621-032 translation + Jason 課堂手寫邊注。"
 created: 2026-05-06
-updated: 2026-05-06
+updated: 2026-05-21
 summary: >-
   HBS Case (Iansiti / Lakhani / Mayer / Herman, 2021) 21 頁 + 9 exhibits 的 Moderna 案例。Moderna 是 [[references/iansiti-lakhani-competing-age-of-ai-2020]] 的活案例：mRNA 作為平台、AI Factory 數位化金字塔、自有諾伍德製造工廠、與 Lonza 合作 3 個月技轉、42 天從基因序列送出疫苗候選。Jason 上課時親手寫的邊注（「數位化!!」「共享資源」「沒辦法 silo」）已併入 wiki 對應頁。中譯版由陽明交大唐瓔璋教授編譯。
 provenance:
@@ -131,11 +136,15 @@ CNN/CNBC 採訪間隙，Bancel 與 Afeyan 短暫休息：mRNA-1273 剛宣布進�
 
 ## Sources
 
-- HBS Case 9-621-032, Iansiti / Lakhani / Mayer / Herman, July 13 2021
-- 中譯版 NCTU 621-032，唐瓔璋編譯，2021
-- Jason 課堂手寫邊注（「數位化!!」「共享資源」「資源整合，沒辦法 Silo」「層級不同、使命不同、風景不同」）
-- Ingest 日期：2026-05-06；hash `dd7e5315...`；21 頁全文讀取無截斷
+> Source 索引 — locator 在 frontmatter `sources[]`。檔案路徑相對於 `PDF_ROOT`（見 [CLAUDE.md](../../CLAUDE.md)）。
 
-| 檔案 | Drive |
-|---|---|
-| 6Moderna_S.pdf.pdf | [Google Drive](https://drive.google.com/file/d/1awZYCYt0u8LWuxA15Bk7Wpu9cwJcR81i/view) |
+| ID | Source | Type | Pages | SHA256 (prefix) | Ingested |
+|---|---|---|---|---|---|
+| `HBS-9-621-032-Moderna` | [6Moderna_S.pdf.pdf](https://drive.google.com/file/d/1awZYCYt0u8LWuxA15Bk7Wpu9cwJcR81i/view) | hbs-case | 13 ⚠️ | `9b9f0bbe…` | commit `7b5b016` |
+
+⚠️ **檔案狀態 divergence**：PDF 於 2026-04-24 被改短（13 頁，hash `9b9f0bbe…`），但本頁內容是從原始 21 頁版本（含 NCTU 621-032 唐瓔璋中譯 + Jason 課堂手寫邊注）distill 而來，原 hash `dd7e5315…`。
+
+**Bibliographic：**
+- Iansiti, M., Lakhani, K. R., Mayer, H., & Herman, K. (2021). *Moderna (A)* (HBS Case 9-621-032, Rev: July 13, 2021). Harvard Business School Publishing.
+- 中譯版：唐瓔璋（編譯）（2021）。《莫德納 (A)》（621-032）。國立交通大學經營管理研究所。
+- 個人 annotation：Jason 課堂手寫邊注（「數位化!!」「共享資源」「資源整合，沒辦法 Silo」「層級不同、使命不同、風景不同」）
