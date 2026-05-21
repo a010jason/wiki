@@ -17,8 +17,8 @@ provenance:
   inferred: 0.1
   ambiguous: 0
 base_confidence: 0.5
-lifecycle: draft
-lifecycle_changed: 2026-05-21
+lifecycle: challenged
+lifecycle_changed: 2026-05-22
 ---
 
 # Reflective vs Formative Measurement
@@ -115,6 +115,16 @@ Coltman et al. (2008) 對 JIBS、JoM 2006 年論文統計：
 - 兩 type 的區分有時不清晰（hybrid models 存在）
 - Coltman 框架仍預設「先理論定義 construct，再選 measurement type」— 但實務上常 reverse（已有 data 後才決定 modeling）
 - 形成性 construct 的 validity 評估方法仍在發展（PLS-SEM 1990s-2000s 才成熟）
+
+## Critique 摘要
+
+> **2026-05-22 跑了一次 wiki-challenge**
+>
+> 5 條核心 claim：0 survives / 2 narrow / 3 brittle / 0 unsupported。主要弱點是時間錯位（Coltman 2008 = JIBS+JoM 2006 snapshot；PLS-SEM 後續 boom 改變現況未更新）+ 前置文獻 Bollen-Lennox 1991 / Jarvis 2003 / Edwards-Bagozzi 2000 全未引 + 反方文獻 Bagozzi 2007 / Howell 2007 / Diamantopoulos-Riefler-Roth 2008 完全缺席 + binary split 忽略 MIMIC 與 composite 第三類 + PLS-SEM-only 立場過強（MIMIC + Williams 2003 2-step CB-SEM 為 alternative）。
+>
+> `base_confidence`：0.50 → 0.50（已在 brittle cap 0.55 內）；`lifecycle`：draft → challenged。
+>
+> 完整逐條質疑、行動項目：私人 meta 頁（不公開），路徑 `_meta/critique/reflective-vs-formative-measurement.md`。
 
 ## Related
 
