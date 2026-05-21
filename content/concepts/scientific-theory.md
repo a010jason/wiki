@@ -17,8 +17,8 @@ provenance:
   inferred: 0.05
   ambiguous: 0
 base_confidence: 0.55
-lifecycle: draft
-lifecycle_changed: 2026-05-21
+lifecycle: challenged
+lifecycle_changed: 2026-05-22
 ---
 
 # Scientific Theory
@@ -136,6 +136,16 @@ PM 工作的 theory 級論述常被混為 description：
 ## 與 wiki 的對應 ^[inferred]
 
 寫 wiki synthesis 頁本質是在做 theorizing — 整合多源 + 提 underlying logic。詳見 [[concepts/theory-vs-not-theory]]。
+
+## Critique 摘要
+
+> **2026-05-22 跑了一次 wiki-challenge**
+>
+> 5 條核心 claim：0 survives / 2 narrow / 3 brittle / 0 unsupported。最大弱點：頁面把 positivist organizational research 的 theory 觀當作普世真理 — prediction-vs-explanation 二分被當定論（Cartwright/Salmon 反駁未引）、「theory 基於 logic 而非 observations」違反 Quine/Hanson/Kuhn 的 theory-ladenness 共識（且把 grounded theory 排除）、5 條評估準則的內部張力（falsifiability vs parsimony；Darwin、string theory 反例）未討論。
+>
+> `base_confidence`：0.55 → 0.55（brittle cap 觸頂）；`lifecycle`：draft → challenged。
+>
+> 完整逐條質疑、行動項目：私人 meta 頁（不公開），路徑 `_meta/critique/scientific-theory.md`。
 
 ## Related
 

@@ -494,6 +494,8 @@ title: Jason 的知識庫
 - [[synthesis/MBO-x-forced-ranking]] — Absolute goal 達成 vs Relative 排名；底層邏輯相反、同時用會 self-undermine
 - [[synthesis/ab-testing-x-booking-strategic-limits]] — Booking A/B 文化 + 戰略邊界（Vermeer / Gulati 自承 A/B 不能 test strategy）
 - [[synthesis/STP-x-buying-center]] — STP 的 B2C 偏向 + B2B 用 buying center 7 角色擴展為 2D
+- [[synthesis/positioning-x-customer-value-proposition]] — CVP（要交付什麼價值）vs Positioning（如何在心智佔位）順序固定但常被合併；拆出各自失敗模式
+- [[synthesis/disruptive-innovation-x-VRIO-framework]] — VRIO 持續優勢 vs Disruption 翻覆機制在「持續」一詞上時間預設相反；兩框架皆有 tautology 嫌疑
 
 ## Projects
 
