@@ -81,3 +81,5 @@ DICOM + PACS + 510(k) 路徑是醫療 AI 的 dominant design，已經很難挑�
 - [[concepts/industry-life-cycle]] — dominant design 是 ILC 的關鍵轉折
 - [[concepts/platform-competition]] — winner-take-all 場景
 - [[references/grant-contemporary-strategy-analysis]] — Ch9 源頭
+
+- [[synthesis/disruptive-innovation-x-dominant-design]] — dominant design 三個鎖死機制如何成為 disruption 入口

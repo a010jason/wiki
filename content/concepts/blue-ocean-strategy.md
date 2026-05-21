@@ -91,6 +91,7 @@ Jason 邊註：Strategy Canvas 本質上是 **expectancy-value model** 的策略
 - [[concepts/porters-generic-strategies]] —— 對照（Porter 是紅海框架）
 - [[references/grant-contemporary-strategy-analysis]]
 
+- [[synthesis/blue-ocean-x-disruptive-innovation]] — 跨類別 vs 低端兩條相反軌跡
 ## Sources
 
 - [[references/grant-contemporary-strategy-analysis]] Ch7 引述

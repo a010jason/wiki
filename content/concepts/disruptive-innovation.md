@@ -123,6 +123,8 @@ Disruptive innovation 之後 Christensen 提出兩個配套診斷工具，用來
 - [[references/grant-contemporary-strategy-analysis]]
 - [[references/shih-thurston-intel-nbi-2010-HBS]]
 
+- [[synthesis/disruptive-innovation-x-dominant-design]] — Disruption 的結構前置條件
+- [[synthesis/blue-ocean-x-disruptive-innovation]] — 跨類別 vs 低端兩條相反軌跡
 ## Sources
 
 - [[references/grant-contemporary-strategy-analysis]] Ch7

@@ -169,3 +169,5 @@ Frisby 提案實驗（Exhibit 11）：全新藍色背景、Google 式單一搜�
 - **Entity**：Airbnb / Expedia / [[entities/Marriott-International]] / [[entities/Google]] / TripAdvisor / [[entities/Amazon]] / [[entities/Shopee]]（agency vs merchant 對照）
 - **參考**：[[references/HBS-booking-com-case]] / [[references/grant-contemporary-strategy-analysis]] Ch3 / Ch4 / Ch9 / [[references/measure-what-matters-doerr-2018]]
 - **Synthesis**：ab testing strategic limits / [[synthesis/agency-vs-merchant-platform-models]]
+
+- [[synthesis/booking-x-adcenter-platform-learning]] — vs AdCenter 對偶案例：學習速度作為決勝因子

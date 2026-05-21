@@ -1,6 +1,6 @@
 ---
 title: Hot Cache
-updated: 2026-05-22T00:30+08:00 (HBS AdCenter case 21p 補完 — L3 pdftoppm SOP 推翻前次 deferred；策略管理資料夾真正 46/46 全閉環)
+updated: 2026-05-22T01:00+08:00 (wiki-synthesize top 5 gap pair — VRIO×Porter, Disruption×DominantDesign, VRIO×ValueChain, Booking×AdCenter, BlueOcean×Disruption)
 ---
 
 # Hot Cache
@@ -8,6 +8,8 @@ updated: 2026-05-22T00:30+08:00 (HBS AdCenter case 21p 補完 — L3 pdftoppm SO
 *A ~500-word semantic snapshot of recent activity. Updated after every major write operation.*
 
 ## Recent Activity
+
+- [2026-05-22 01:00] WIKI_SYNTHESIZE — **5 個跨概念 synthesis 一次寫入（gap top 5）**：掃 wiki 42,030 個 concept/entity pair co-occurrence，扣除 456 個既有 synthesis 覆蓋 → 41,574 gap pair。取共現 ≥9 次的 5 個寫 synthesis：(1) [[synthesis/VRIO-x-porter-five-forces]] — 兩框架是策略流程的 sequential gate（外部→內部），不是同層雙視角；industry effect / firm effect 反向消長；(2) [[synthesis/disruptive-innovation-x-dominant-design]] — dominant design 三鎖死機制（learning/switching/coordination）正是 Innovator's Dilemma 的結構前置條件；(3) [[synthesis/VRIO-x-value-chain]] — Inimitable 三來源全部住在 linkages 而非單一 activity；causal ambiguity 是核心保護；(4) [[synthesis/booking-x-adcenter-platform-learning]] — 同年代雙邊平台後進者對偶；學習速度 vs Porter 框架 + Porter generic strategy 在 digital 失靈 7 條；(5) [[synthesis/blue-ocean-x-disruptive-innovation]] — 兩條相反軌跡（橫向跨類別 vs 垂直低端爬升）到同一目的地。10 個 backlink 加到 source page；index.md 列入。
 
 - [2026-05-22 00:30] INGEST — **HBS 9-908-049 AdCenter case 21p 純掃描 backfill — 推翻 Wave A deferred 結論**：Wave A 把 case 標 deferred 理由是「PNG 每張 9MB / 撞 user quota / 需 OCR」，但 **CLAUDE.md PDF SOP L3 路徑沒走完**。本次正確走完：`pdftoppm -r 72 -jpeg -jpegopt quality=80` 把 35MB / 2758×4050 純掃描渲成 21 張 JPEG（每張 ~770KB，總計 16MB），再 dispatch 7 parallel subagent × 3 頁，每 subagent 處理 ~2.3MB 遠在 quota 內。**新 SOP 啟示**：deferred 前必須把 L2-A / L2-B / L2-C / L3 全試完；JPEG 對掃描印刷品壓縮率比 PNG 高 5-10x。修正 metadata bug：reference frontmatter case sha256 誤抄 lecture（87b6a8a4...→66eb0e2e...）。entity 新增大段「Case 原文敘事」：Setting / 三大線上廣告分類 / 市場規模 Exhibit 1 / 搜尋市占演化 Exhibit 2 / Stotland 三條戰略 / Best Vacuum Exhibit 8 / Live Search 流量規模 / discussion questions / **教師講義 vs case 原文的張力對比**。**策略管理資料夾 46/46 真正全閉環**（前次 Wave C 宣告閉環時 AdCenter case 仍 deferred；本次補完才算數）
 

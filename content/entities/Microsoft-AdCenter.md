@@ -247,3 +247,5 @@ Google 後續發展，把影音 + 廣告平台整合。
 - **Entity**：[[entities/Google]] / Microsoft / Yahoo / AOL / Overture / [[entities/Facebook]] / Doug-Stotland
 - **參考**：[[references/HBS-microsoft-adcenter-case]] / [[references/grant-contemporary-strategy-analysis]] Ch3 / Ch4 / Ch9 / [[references/hbs-gafa-case-deighton-2013]]
 - **Synthesis（候選）**：porter generic strategy fail in digital / desktop vs platform mindset incumbents（MS / Nokia / Kodak / Blockbuster）
+
+- [[synthesis/booking-x-adcenter-platform-learning]] — vs Booking 對偶案例：Porter 在 digital 為何失靈

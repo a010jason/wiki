@@ -94,6 +94,7 @@ Jason 邊註：「差異化和成本的連接點在 Value Chain → 應該要擴
 - [[skills/differentiation-analysis]]
 - [[references/grant-contemporary-strategy-analysis]]
 
+- [[synthesis/VRIO-x-value-chain]] — Linkages 是 inimitable 的所在地
 ## Sources
 
 - [[references/grant-contemporary-strategy-analysis]] Ch7

@@ -427,6 +427,11 @@ title: Jason 的知識庫
 - [[synthesis/yoffie-five-rules-vs-sun-tzu-five-fundamentals]] — Yoffie 5 rules ↔ 孫子兵法五事「道天地將法」跨文化策略框架對接；Musk/Jobs/Gates/Grove 四案應用
 - [[synthesis/financial-ratio-epistemology-yi-jing]] — 財報詮釋的 epistemology：陰陽五行「象、數、理」+ Popper 三世界三層對接（Zara case，wiki 內最跨領域 synthesis）
 - [[synthesis/back-to-core-turnaround-pattern]] — Apple 1997 / Lego 2004 / Samsung 1997 三個成功 turnaround 的 5 條共同 pattern；犧牲不可侵犯之物 + 外部視角 CEO + 2×2 矩陣級極端 focus
+- [[synthesis/VRIO-x-porter-five-forces]] — 兩個框架是策略流程的 sequential gate（外部 → 內部），不是同層雙視角；industry effect vs firm effect 的解釋力反向消長
+- [[synthesis/disruptive-innovation-x-dominant-design]] — Dominant design 三個鎖死機制（learning/switching/coordination）正是 Innovator's Dilemma 的結構前置條件
+- [[synthesis/VRIO-x-value-chain]] — VRIO 的 Inimitable 三來源全部住在 Value Chain 的 linkages 而非單一 activity；causal ambiguity 是核心保護機制
+- [[synthesis/booking-x-adcenter-platform-learning]] — 同年代雙邊平台 後進者，Booking（學習速度）vs AdCenter（Porter 框架）對偶；Porter generic strategy 在 digital 失靈 7 條
+- [[synthesis/blue-ocean-x-disruptive-innovation]] — 兩條相反軌跡到同一目的地（uncontested market）；Blue Ocean 橫向跨類別 vs Disruptive 垂直低端爬升
 
 ## Journal
 

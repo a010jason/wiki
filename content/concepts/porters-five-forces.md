@@ -83,6 +83,7 @@ Bargaining Power  →  Rivalry Among   ←  Bargaining Power
 - [[concepts/organizational-behavior]] —— OB 在 RBV 找定位
 - [[references/colquitt-OB-textbook]]
 
+- [[synthesis/VRIO-x-porter-five-forces]] — vs VRIO 的雙閘論述
 ## Sources
 
 - [[references/colquitt-OB-textbook]] —— McGraw-Hill OB Ch1 引述

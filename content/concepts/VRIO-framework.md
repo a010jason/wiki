@@ -94,6 +94,8 @@ VRIO 用 4 條檢驗一個資源或能力能否帶來**持續競爭優勢**：^[
 - [[concepts/organizational-behavior]] —— OB 是 Inimitable 的源頭
 - [[references/colquitt-OB-textbook]]
 
+- [[synthesis/VRIO-x-porter-five-forces]] — vs Porter 5F 的雙閘論述
+- [[synthesis/VRIO-x-value-chain]] — Inimitable 住在 linkages
 ## Sources
 
 - [[references/colquitt-OB-textbook]] —— McGraw-Hill OB Ch1
