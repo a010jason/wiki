@@ -6,6 +6,8 @@ tags: [entity, fast-fashion, vertical-integration, spain, retail, quick-response
 aliases: [Zara, Inditex, Amancio Ortega]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  西班牙 Inditex 集團旗艦品牌、全球快時尚標竿，Amancio Ortega 1975 創辦、總部 La Coruña。15 天 design-to-display 全球 cycle（業界 6 個月 → 6 週 → Zara 15 天）。HBS case 9-703-497。戰略 DNA：反 outsource 路線的垂直整合（In-house 40% / Outsourcing 60% 混合）+ 大店 + 貴地段 + word-of-mouth（廣告 0.3% vs 業界 3.1%）。教師（[[entities/Tang-Edwin-Yingzhang]]）核心 framing：「天下武功，唯快不破」+ Toyota JIT + Dell pull 雙 benchmark。2001 Operating margin 21.66%（Gap 2.44%、H&M 13.80%）、ROE 22.88%。Ortega 名言「五指碰工廠，五指碰顧客」。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:

@@ -6,6 +6,8 @@ tags: [entity, professor, taiwan-academia, strategy-management, smj-author, mgmt
 aliases: [唐瓔璋, Tang Edwin, Edwin Tang, Edwin Yingzhang Tang]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  陽明交通大學經營管理研究所榮譽教授、前 IMBA / AMBA 執行長，UT-Austin 管理科學博士。Wave A/B/C 策略管理課程實際授課者；SMJ 2010 與 Fen-May Liou 合著「Does Firm Performance Reveal its Own Causes?」對 Porter / Barney 學派整體批判。教學特色：(1) 跨文化框架對接（孫子兵法 ↔ Yoffie 5 Rules、諫太宗十思疏 ↔ Bartlett 子公司治理、陰陽五行 ↔ Popper 三世界），(2) 用 [[concepts/INUS-condition]] / [[concepts/tautology-in-management-theory]] 拆解主流策略大師命題，(3) 大量教師原創框架（[[concepts/penguin-effect]]、[[concepts/desktop-vs-platform-mindset]]、[[concepts/specialized-generalist-vs-generalized-specialist]] 等）。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:

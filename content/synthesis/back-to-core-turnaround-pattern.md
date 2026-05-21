@@ -6,6 +6,8 @@ tags: [synthesis, turnaround, organizational-change, leadership, mgmt, strategy]
 aliases: [Back to core pattern, Apple Lego Samsung turnaround, Turnaround case comparison]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  [[entities/Apple]] 1997（Jobs 回鍋）、[[entities/Lego-Group]] 2004（Knudstorp 36 歲）、[[entities/Samsung-Electronics]] 1997（Yun Jong Yong）三個成功 turnaround 的 cross-case pattern。共同核心模板（[[concepts/corporate-turnaround-strategy]] 四步）：re-position → re-configuration → removes the barrier of mobility → re-inventing value chain。三案共通元素：瀕臨破產時刻、新領導 / 外部視角、回核心拒誘惑、多年磨刀（4-6 年 time-to-result）、Brand value 翻倍以上。三案差異：Apple 是技術 + 設計 DNA 重建、Lego 是 SKU + 通路精簡、Samsung 是垂直整合 + 反外包潮。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:

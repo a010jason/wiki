@@ -7,6 +7,8 @@ confidence: medium
 visibility: internal
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  醫療 AI 公司（PACS / 影像 AI / FHIR 整合廠商）面對 ESG 監管：E（環境）支柱衝擊小但成長中、S（社會）支柱是核心（演算法公平性、資料治理 GDPR/HIPAA、醫師可解釋性 EU AI Act、客戶醫院關係、病人權益、AI 取代臨床醫師議題）、G（治理）支柱是 IPO 前置。Scope 3 上游供應商（[[entities/TSMC]] 晶片、AWS / GCP 雲端）的減碳壓力會傳導下來；AI 訓練的碳排估算（LLM 訓練可達數百噸 CO2e）已成議題。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

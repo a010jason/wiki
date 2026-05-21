@@ -6,6 +6,8 @@ tags: [HP, pretexting, governance, lessons, taiwan]
 confidence: medium
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  2006 [[entities/Hewlett-Packard]] pretexting scandal 暴露「自衛手段超越法律邊界會變成更大犯罪」的治理盲點。三層治理失能：手段蓋過目的（為查洩密做更嚴重的違法）、獨立法律審查缺位（[[entities/Patricia-Dunn]] 授權前未進行合規檢查）、獨立董事失職。對台灣三大啟示：(1) 內部調查需建立事前法律審查 SOP，成立 Investigation Committee 由獨董 + 外部律師主導；(2) [[concepts/independent-director]] 制度已強制但「質疑領導決策的文化未建立」；(3) 美國 SOX (2002) 後仍出現 HP pretexting (2006)，台灣公司治理 3.0 (2020) 僅是起點，文化轉型更重要。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

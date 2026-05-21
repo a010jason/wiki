@@ -6,6 +6,8 @@ tags: [family-firm, control, governance, taiwan, asia]
 confidence: medium
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  東亞家族企業（含台灣）廣泛使用 [[concepts/pyramidal-control-structure]] + 交叉持股 + [[concepts/special-shares-tw]] 維持創辦人控制權，但這些機制與公司治理透明化、少數股東保護形成根本性張力。台灣公司法 2018 修正開放特別股設計（157 條），同時強化 [[concepts/audit-committee]]，反映「讓家族企業留在台灣 IPO + 同時加強少數股東保護」的平衡嘗試。張力的具體表現：隧道效應（Tunneling 把下層利益移轉至上層）、接班人非專業（家族常兼任 CEO 與董事長）、透明度衝突。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

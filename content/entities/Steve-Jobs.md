@@ -6,6 +6,8 @@ tags: [entity, founder, ceo, apple, pixar, next, leader-strategist, mgmt, strate
 aliases: [Steve Jobs, 賈伯斯]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  Apple 共同創辦人、CEO（1976-1985, 1997-2011）；HBS case 9-715-454 主角；2009《Fortune》「10 年最佳 CEO」。生涯弧：1976 Apple II → 1985 被董事會剝奪營運權 → NeXT + Pixar（1985-1996，學到 finance / pivot / Hollywood-Silicon Valley bridge）→ 1997 回歸 Apple（砍產品線 2×2 矩陣 + Ive 搭檔）→ 2001 Digital Hub → 2007 改名 Apple Inc.（從 BU 升為 corporate strategy）→ 2011 過世。Jobs 自述最重要的創作不是 iPhone / iPad 而是「讓公司經久不衰」—— enduring company 命題的源頭。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:

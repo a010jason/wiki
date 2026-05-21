@@ -6,6 +6,8 @@ tags: [synthesis, cross-domain-benchmark, epistemology, financial-analysis, clas
 aliases: [Financial ratio epistemology, 財報象數理, Popper three worlds finance]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  教師（[[entities/Tang-Edwin-Yingzhang]]）原創跨領域 epistemology synthesis：把財報分析的三個層級對應陰陽五行的「象、數、理」（中國古典）+ Karl Popper 的「Three Worlds」（西方哲學）。三層對應：數（Calculation is straightforward → 行 → World 1 物理事實 → ROE/ROA 數字）、象（Interpretation requires judgment → 卦象 → World 2 主觀心理 → 業務含義詮釋）、理（Judgment is sharpened by experience → 道理 → World 3 客觀知識體 → 跨脈絡跨產業洞察）。核心命題「凡事有定，定中有象，象中有數，數中有理」是 Jason wiki 內最跨領域的 epistemology synthesis。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:

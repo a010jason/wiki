@@ -6,6 +6,8 @@ tags: [synthesis, platform-business, ota, e-commerce, business-model-comparison,
 aliases: [Agency vs Merchant cross-industry, Platform business model synthesis]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  [[concepts/agency-vs-merchant-model]] 商模不只 OTA 業有；在 e-commerce、ride-hailing、food delivery、cloud SaaS、音樂影音、房地產等平台行業都看得到變體。跨產業對比：OTA（Booking agency / Expedia merchant）、e-commerce（Tmall agency / Shopee merchant / Amazon hybrid）、外送（UberEats / 美團）、SaaS（Salesforce / AWS）、影音（YouTube / Netflix）、房產（591 broker / iBuyer 已關門）。Agency 模式長期占優趨勢：Booking 70-80% 集團 revenue vs Expedia merchant 業務逐年衰退。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:
