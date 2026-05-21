@@ -15,8 +15,8 @@ provenance:
   inferred: 0.05
   ambiguous: 0
 base_confidence: 0.5
-lifecycle: draft
-lifecycle_changed: 2026-05-21
+lifecycle: challenged
+lifecycle_changed: 2026-05-22
 ---
 
 # Good Theory 評估五準則
@@ -95,6 +95,16 @@ PM strategy 也應跑五準則 self-check：
 | Falsifiability | 哪些 metric 能證明 hypothesis 錯？ |
 | Parsimony | 你的 strategy 是不是「啥都解釋」？ |
 | Generalizability | 跨地區 / 跨用戶 segment 適用嗎？ |
+
+## Critique 摘要
+
+> **2026-05-22 跑了一次 wiki-challenge**
+>
+> 5 條核心 claim：0 survives / 3 narrow / 2 brittle / 0 unsupported。主要弱點：100% Bhattacherjee Ch4 single-source；Kuhn 1962 puzzle-solving / Lakatos 1970 progressive programmes / Davis 1971 interestingness 等 alternative criteria 未提；R² 操作化是 1980s textbook simplification，adjusted R² / AIC / BIC / Shmueli 2010 explanatory-vs-predictive 區分缺席；Ockham parsimony 在 ML scaling laws (Kaplan 2020) + double-descent (Belkin 2019 PNAS) 領域實證失敗，Forster-Sober 1994 AIC 形式 substitute 未提；五準則間 tensions 描述真實但 Akaike 1973 / Schwarz 1978 / Pareto frontier / Bayesian model averaging 50 年發展未提；跨領域盲點明顯。
+>
+> `base_confidence`：0.50 → 0.50（brittle cap 0.55 內）；`lifecycle`：draft → challenged。
+>
+> 完整逐條質疑、行動項目：私人 meta 頁（不公開），路徑 `_meta/critique/attributes-of-good-theory.md`。
 
 ## Related
 

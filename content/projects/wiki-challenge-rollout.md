@@ -20,10 +20,10 @@ owner: Jason
 |---|---|---|---|
 | Tier 1 — Top hub pages | **5/5 ✅** (disruptive-innovation / STP-framework / OKR / falsifiability-popper / VRIO-framework) | 0 | 5 |
 | Tier 2 — Cross-domain hub theories | **5/5 ✅** (scientific-theory / causality-three-conditions / innovation-diffusion-theory / elaboration-likelihood-model / social-cognitive-theory) | 0 | 5 |
-| Tier 3 — Research methods 核心 | 6 (agency-theory ✅ / construct-validity ✅ / reflective-vs-formative ✅ / inductive-vs-deductive ✅ / theory-vs-not-theory ✅ / theory-building-blocks-whetten ✅) | 4 | 10 |
+| Tier 3 — Research methods 核心 | 7 (agency-theory ✅ / construct-validity ✅ / reflective-vs-formative ✅ / inductive-vs-deductive ✅ / theory-vs-not-theory ✅ / theory-building-blocks-whetten ✅ / attributes-of-good-theory ✅) | 3 | 10 |
 | Tier 4 — Wave 2 supplementary papers | 2 (human-like-AI-competencies ✅ / common-method-bias ✅) | 4 | 6 |
 | Tier 5 — Research methods supporting | 0 | 15 | 15 |
-| **總計** | **18** | **23** | **41** |
+| **總計** | **19** | **22** | **41** |
 
 剩餘 363 頁 draft 屬 lower-priority（先跑這 40 個 high-impact 的）。
 
@@ -64,7 +64,7 @@ owner: Jason
 - [x] **`concepts/inductive-vs-deductive-research`** — 2026-05-22 done（5 claims: 0 survives / 3 narrow / 2 brittle / 0 unsupported；100% Bhattacherjee；Wallace 1971 / Hume 1748 / Peirce 1903 abduction / Bryman 2007 critique 全未引；Popper 框架忽略 Bayesian/PAC 70 年發展；deductive>inductive 漏 conditional 關鍵 caveat；critical realism retroduction missing；mixed-mode aspirational claim）
 - [x] **`concepts/theory-vs-not-theory`** — 2026-05-22 done（5 claims: 0 survives / 4 narrow / 1 brittle / 0 unsupported；100% Sutton-Staw 編輯立場；Doty-Glick 1994 typology=theory / Eisenhardt 1989 case-based theory-building 等 alternative 未正面整合；跨領域盲點 物理 GR / Linnaean / Big Five 等 descriptive theory 不適用；counter-to-common-sense 與 replication crisis 不一致；page 自承「全無共識」卻採 Sutton-Staw 為金科玉律自我矛盾）
 - [x] **`concepts/theory-building-blocks-whetten`** — 2026-05-22 done（5 claims: 0 survives / 4 narrow / 1 brittle / 0 unsupported；Whetten 1989 + Sutton-Staw 1995 single-source；Bacharach 1989 同期 3-blocks / Dubin 1978 7-elements / Pearl 2009 causal DAG ontology 未提；跨領域盲點物理 ML 生物分類學 What-centric theory 不適用；經濟政治不可比較 brittle vs Public Choice + Pfeffer 反例；peer review Bornmann 2011 reliability poor；PM 應用過度延伸）
-- [ ] **`concepts/attributes-of-good-theory`** — 5 準則 + falsifiability/parsimony 衝突
+- [x] **`concepts/attributes-of-good-theory`** — 2026-05-22 done（5 claims: 0 survives / 3 narrow / 2 brittle / 0 unsupported；100% Bhattacherjee Ch4；Kuhn 1962 / Lakatos 1970 / Davis 1971 alternative criteria 未提；R² 1980s textbook simplification，adjusted R²/AIC/BIC/Shmueli 2010 缺席；Ockham parsimony 在 ML scaling laws + double-descent 反例失敗；Forster-Sober 1994 AIC formal substitute 未提；tensions formal 解決 50 年發展缺席）
 - [ ] **`concepts/research-design`** — design hub
 - [ ] **`concepts/internal-validity`** — causality 三條件 + threats
 - [ ] **`concepts/external-validity`** — internal-external trade-off 反論
