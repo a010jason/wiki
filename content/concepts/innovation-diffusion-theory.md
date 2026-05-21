@@ -16,8 +16,8 @@ provenance:
   inferred: 0.05
   ambiguous: 0
 base_confidence: 0.55
-lifecycle: draft
-lifecycle_changed: 2026-05-21
+lifecycle: challenged
+lifecycle_changed: 2026-05-22
 ---
 
 # Innovation Diffusion Theory (IDT)
@@ -119,6 +119,16 @@ Everett Rogers《Diffusion of Innovations》（1962, 1995, 2003）經典。教�
 - 忽略 network effects（後採用者價值不只看自身屬性，還看已採用者數量；[[concepts/network-externalities]] 待寫）
 - 對「拒絕」與「discontinuance」處理薄弱
 - 跨文化 generalizability 在 Hofstede 高 uncertainty avoidance 文化中採用率系統性較慢
+
+## Critique 摘要
+
+> **2026-05-22 跑了一次 wiki-challenge**
+>
+> 5 條核心 claim：0 survives / 3 narrow / 2 brittle / 0 unsupported。四個未處理弱點：(1) Tornatzky-Klein 1982 meta-analysis 未引 — 已揭示 5 構念中僅 3 條（CPA / ADV / CPL）效應一致；(2) Network effects 革命（Katz-Shapiro 1985 / Arthur 1989）使 S-curve 失效於網路效應產品，頁面在「限制」段點到但未整合；(3) 醫療 AI adoption 被 reimbursement codes (CPT) + FDA + multi-stakeholder dynamics 主導，5 構念個人層映射 brittle（Watson Health failure + PACS 採用反例）；(4) Survivorship bias — Rogers 框架描述成功擴散，失敗創新（Google Glass / Quibi）未進框架。
+>
+> `base_confidence`：0.55 → 0.55（brittle cap 觸頂）；`lifecycle`：draft → challenged。
+>
+> 完整逐條質疑、行動項目：私人 meta 頁（不公開），路徑 `_meta/critique/innovation-diffusion-theory.md`。
 
 ## Related
 
