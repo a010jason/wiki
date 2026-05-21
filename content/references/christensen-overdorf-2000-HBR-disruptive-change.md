@@ -56,7 +56,7 @@ summary: >-
 - **Values 反映 cost structure / business model**
 - 兩種會「以可預測方式演化」的 values：
   1. **Acceptable gross margin** — 隨上移高階市場升高，**封死低端 disruptive 入口**
-  2. **能 excite 公司的 minimum opportunity size** — $40M 公司被 $10M 機會 excite；$40B 公司同 25% 成長率要 $10B 新業務，小機會看不上
+  2. **能 excite 公司的 minimum opportunity size** — \$40M 公司被 \$10M 機會 excite；\$40B 公司同 25% 成長率要 \$10B 新業務，小機會看不上
 
 ### Migration of Capabilities（時序遷移）
 資源 → processes &amp; values → 文化

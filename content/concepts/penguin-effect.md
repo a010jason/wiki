@@ -73,8 +73,8 @@ Step 7: 通常無法在新產業 catch-up（先進者已有 [[concepts/winner-ta
 教師判斷：**HTC 不是看到 VR 機會主動 pivot，是手機業崩塌找出路的「企鵝跳」**。
 
 證據：
-- Vive 推出時 Facebook Oculus (2014/3 $2bn 收購) 已動手
-- Google Glass (2012)、Google Magic Leap (2014/10 $542mn) 也已動手
+- Vive 推出時 Facebook Oculus (2014/3 \$2bn 收購) 已動手
+- Google Glass (2012)、Google Magic Leap (2014/10 \$542mn) 也已動手
 - Sony Project Morpheus / PSVR (2014/3) 已宣布
 - HTC 是**第 5+ 個玩家** — 先進者已有 ISV / developer / IP 累積
 

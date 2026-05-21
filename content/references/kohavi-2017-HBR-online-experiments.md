@@ -35,7 +35,7 @@ summary: >-
   HBR 2017「The Surprising Power of Online Experiments」+ KDD 2009「Online Experimentation at Microsoft」。
   與 [[entities/Booking-com]] A/B testing 戰略文化形成 platform-side 補完。
   核心概念：OEC / HiPPO / Twyman's Law / Sample Ratio Mismatch / A/A test /
-  Application Implementation Continuum / Bing 100ms = $18M ROI 量化。
+  Application Implementation Continuum / Bing 100ms = \$18M ROI 量化。
   Vanilla 英文 article — 無中文眉批。
   Ingest 2026-05-21 (Wave C 2/4)。
 ---
@@ -84,17 +84,17 @@ summary: >-
 ## HBR 2017 — 6 大 Surprising Findings
 
 ### 1. Tiny changes can have a big impact
-- **Bing ad headline** 寫幾天 code → +12% 營收，年化 &gt;$100M 美國（idea 在 backlog 六個月）
+- **Bing ad headline** 寫幾天 code → +12% 營收，年化 &gt;\$100M 美國（idea 在 backlog 六個月）
 - **Hotmail link 開新 tab**：UK 900K user +8.9% / 美國 2.7M user → 全球 rollout + MSN +5% clicks
 - **Amazon 信用卡 offer** 從首頁搬到購物車頁 → 年化獲利 +tens of millions
-- **Bing 顏色調暗**：32M user 複測 → 年化 +$10M
+- **Bing 顏色調暗**：32M user 複測 → 年化 +\$10M
 
 ### 2. Big investment ≠ big payoff
-- **Bing 整合 Facebook/Twitter** 進搜尋結果第三 pane：花 &gt;$25M 開發，engagement / revenue 幾乎沒動
+- **Bing 整合 Facebook/Twitter** 進搜尋結果第三 pane：花 &gt;\$25M 開發，engagement / revenue 幾乎沒動
 
 ### 3. Experiments quantify ROI of perf/infrastructure work
 - **Bing 加 100ms 人工延遲 = -0.6% revenue**
-- Bing 年營收 &gt;$3B → **100ms 加速 = $18M/year**
+- Bing 年營收 &gt;\$3B → **100ms 加速 = \$18M/year**
 - 足以 fund 整個 perf 團隊；用來 gate 新 feature 是否值得拖慢 response
 
 ### 4. Experts can't predict outcomes — most ideas fail
@@ -114,14 +114,14 @@ summary: >-
 
 ### 7. Causality — knowing what 比 why 更重要（但 why 還是值得追）
 - **James Lind 壞血病 1747 案例**：citrus 治壞血病的實驗成功，但 Lind 誤推因果（以為酸性），把果汁加熱成濃縮液 → 破壞 vit C，導致 cure 延後 50 年才落地
-- 反例：Bing 顏色實驗成功**沒有理論支撐**，照樣 ship $10M/year
+- 反例：Bing 顏色實驗成功**沒有理論支撐**，照樣 ship \$10M/year
 
 ## MS-ExP KDD 2009 — Platform 細節
 
 ### 規模（2009 時點）
 - 跑在 **18 個 Microsoft properties**：MSN US/UK/巴西、Money、Real Estate、microsoft.com、store / support、Office Online、xbox.com 等
 - 單一實驗用 **100M+ users** 偵測小但關鍵 effect
-- 多個實驗預估年化 &gt;$1M
+- 多個實驗預估年化 &gt;\$1M
 - 推廣到 700+ 內部 distribution list
 
 ### Application Implementation Continuum（**MS-ExP 文件最 unique 概念**）

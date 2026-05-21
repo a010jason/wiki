@@ -65,7 +65,7 @@ Path B subagent-first；單一 subagent 一次讀完 case + slide 共 28 頁；�
 - [[concepts/transnational-strategy]] — TNC（integrated network）
 - [[concepts/subsidiary-leader-lifecycle]] — Go-Getter / Local Baron / Professional Manager（教師中文比喻：自走砲 / 藩鎮割據 / 太平盛世）
 - [[concepts/hq-subsidiary-control-tension]] — strategic control vs entrepreneurial flexibility
-- [[concepts/fast-casual-positioning]] — Quick Casual segment（介於 QSR $4-10 與 Casual Dining $8-20 之間 $8-12）
+- [[concepts/fast-casual-positioning]] — Quick Casual segment（介於 QSR \$4-10 與 Casual Dining \$8-20 之間 \$8-12）
 - [[synthesis/wei-zheng-leadership-and-subsidiary-management]] — **諫太宗十思疏 ↔ 子公司治理** 跨領域對標
 
 ## 教師眉批採集（核心 — 詳見 entities/Levendary-Cafe）

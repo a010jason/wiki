@@ -41,7 +41,7 @@ summary: >-
 
 ## Bibliographic
 
-HBS case (2010 修訂版)。Michael Marks 1994-CEO，新加坡基地，2002 營收 $13.1B、29 國 78,000 員工、世界第二大 EMS、最大手機 CM。案例聚焦 Marks 是否該全面轉 ODM 的戰略決策。
+HBS case (2010 修訂版)。Michael Marks 1994-CEO，新加坡基地，2002 營收 \$13.1B、29 國 78,000 員工、世界第二大 EMS、最大手機 CM。案例聚焦 Marks 是否該全面轉 ODM 的戰略決策。
 
 ## Ingest 範圍與方法
 
@@ -91,7 +91,7 @@ Path B subagent；44 頁讀完。
 - Exhibit 5 OEM Sourcing Strategy 2002→2005E
 - Exhibit 6 Regional handset forecast + Exhibit 7 Vendor share
 - Exhibit 8 ASP decline 1987-2005
-- Exhibit 9 Three-mode unit P&amp;L（CM $5 / CDM $8 / ODM $9 gross margin）
+- Exhibit 9 Three-mode unit P&amp;L（CM \$5 / CDM \$8 / ODM \$9 gross margin）
 
 ## Sources
 

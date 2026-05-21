@@ -35,7 +35,7 @@ related:
 
 # Levendary Café
 
-虛構公司，HBS 4357 (Bartlett &amp; Han 2011) 案例主角。一家以 Denver 起家、32 年成長為美國 $10.8B 全國連鎖（3,500 店）的 fast-casual 三明治 / 沙拉 / 湯店；2009 進入中國，由 Louis Chen 主導 1 年內開 23 家店，但因菜單、店面、財務報表全面在地化而與總部爆發衝突。^[extracted]
+虛構公司，HBS 4357 (Bartlett &amp; Han 2011) 案例主角。一家以 Denver 起家、32 年成長為美國 \$10.8B 全國連鎖（3,500 店）的 fast-casual 三明治 / 沙拉 / 湯店；2009 進入中國，由 Louis Chen 主導 1 年內開 23 家店，但因菜單、店面、財務報表全面在地化而與總部爆發衝突。^[extracted]
 
 > 案例核心張力：**全球品牌一致性（HQ 守護「TFG — Tasty Fresh Goodness」概念）vs 子公司在地化彈性（Chen 主張「美國模式在中國行不通」）**。
 
@@ -55,7 +55,7 @@ related:
 - 上任後第一場 challenge 就是處理 Chen 在中國的「自走砲」局面 ^[extracted]
 
 ### Howard Leventhal — 前 CEO / 創辦人
-- 32 年把 Denver 一家 soup-salad-sandwich 小店養成 $10B 帝國
+- 32 年把 Denver 一家 soup-salad-sandwich 小店養成 \$10B 帝國
 - 經營哲學：「忘記今天的利潤，對顧客的生活要有正面的影響，使他們想再回來」
 - 5 年前推「only organic grains + grass-fed beef sandwich」獲成功（提高 [[concepts/willingness-to-pay]]）
 - 親自挑 Chen、2009/9 簽 2 年合約（每年續約權）；以 **handshake agreement** 信任授權，僅給抽象指令「do right by the concept」 ^[extracted]
@@ -66,7 +66,7 @@ related:
 - 1 年多開到 23 家店，但偏離 US 概念差異極大：
   - 第 2 店（上海豫園歷史區）：**無座位純外帶**
   - 第 4 店（北京故宮北方入口）：**無沙拉、塑膠椅取代海綿填充椅**
-  - 第 23 店（上海郊區韓僑區）：**只剩三明治被移除**，改賣當地多變的水餃，counter-only、客單 $2
+  - 第 23 店（上海郊區韓僑區）：**只剩三明治被移除**，改賣當地多變的水餃，counter-only、客單 \$2
 - 拒絕用 GAAP 報表（堅持本地稅制格式）；拒按 Levendary 內部月報格式呈報
 - 公開承認「I do not have a strategic plan; if I had one, we wouldn't have grown this fast」 ^[extracted]
 - Chen 的反論：「Denny's 在日本提供炸豬排和拉麵也大成功；人們要的是熟悉的食物 + 美國品牌的酷感」 ^[extracted]
@@ -79,18 +79,18 @@ related:
 ## 案例量化錨點
 
 ### Levendary 美國（2010）
-- 3,500 家分店；年營收 $10.8B（sales $9.25B、royalties $603M、ingredient sales $946M）
-- Net income $780.6M；operating profit $1.30B
+- 3,500 家分店；年營收 \$10.8B（sales \$9.25B、royalties \$603M、ingredient sales \$946M）
+- Net income \$780.6M；operating profit \$1.30B
 - 約 2/3 為加盟店、1/3 直營；**總部 300 人，沒有國際部門** ^[extracted]
-- Suburban Denver 店年銷 $2.13M、NYC Metro 店 $10.32M
+- Suburban Denver 店年銷 \$2.13M、NYC Metro 店 \$10.32M
 - 加盟費率：royalty 3-6% + 行銷 2-10%
 - 成本結構：Occupancy ~10% / Labor 25-35% / Food 28-32% / Supply 1-4%
 
 ### Levendary 中國（2010 年截止 10/31）
-- 23 間店；10 個月銷售 $3.26M；**淨損 -$143,620**（operating loss -$193,547）
-- Pre-opening expenses $391,392 為 total cost 大宗 — **扣掉 pre-opening 後接近損益兩平**，Chen 主張「我們即將獲取利潤」並非完全沒有事實基礎 ^[ambiguous]
-- Beijing Embassy 店：年銷 $806K / 客單 $10
-- Shanghai Koreatown 店：年銷 $288K / 客單 $2（counter-only，徹底在地化為水餃店）
+- 23 間店；10 個月銷售 \$3.26M；**淨損 -\$143,620**（operating loss -\$193,547）
+- Pre-opening expenses \$391,392 為 total cost 大宗 — **扣掉 pre-opening 後接近損益兩平**，Chen 主張「我們即將獲取利潤」並非完全沒有事實基礎 ^[ambiguous]
+- Beijing Embassy 店：年銷 \$806K / 客單 \$10
+- Shanghai Koreatown 店：年銷 \$288K / 客單 \$2（counter-only，徹底在地化為水餃店）
 
 ### 競爭基準（中國快餐業 2009-2010）
 - 14 億人口 × GDP 14.5% 年增長；都市人口 36.2% (2000) → 46.6% (2009)

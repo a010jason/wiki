@@ -45,7 +45,7 @@ related:
 
 ### 2. 數位平台型（Booking）
 - **CGS ≈ 0** — 完全沒有實體庫存
-- 2017 Priceline Group：Revenue $12.68B / Cost of revenues $250M → **Gross profit ~98%**
+- 2017 Priceline Group：Revenue \$12.68B / Cost of revenues \$250M → **Gross profit ~98%**
 - 業務本質：**agency model** — 客戶在 Booking 訂房、付酒店、Booking 收 ~15% commission
 - 教師眉批：「**CGS=0 (digital economy as the resources) / 輕資產戰略（service vs. manufacturer）World 2 &amp; 3**」 ^[teacher-annotation]
 
@@ -81,7 +81,7 @@ Asset-light 是 Williamson TCE 的 **hybrid governance**：
 
 [[entities/Samsung-Electronics]] 是 asset-heavy + vertical integration 的反例：
 - Yun Jong Yong 名言：「**製造外包就輸了**」
-- 1998-2003 投資 $19B 蓋新晶片廠；2003 起 10 年再 $17B 在 TFT-LCD
+- 1998-2003 投資 \$19B 蓋新晶片廠；2003 起 10 年再 \$17B 在 TFT-LCD
 - 客製化晶片售價比業界標準高 17% — **靠 capex + 規模壟斷**換溢價
 
 兩種戰略沒有絕對對錯，**選哪個取決於：**

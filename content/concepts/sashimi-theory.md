@@ -41,8 +41,8 @@ related:
 ## 為什麼科技產品像生魚片
 
 ### 1. ASP 隨時間快速衰減
-- [[references/HBS-flextronics-international-case|Flextronics case]] Exhibit 8：cellular handset ASP 從 1987 ~$800 → 2005 ~$50
-- 同一款手機，第 1 季賣 $500 → 第 4 季賣 $250 → 第 8 季賣 $100 是常態
+- [[references/HBS-flextronics-international-case|Flextronics case]] Exhibit 8：cellular handset ASP 從 1987 ~\$800 → 2005 ~\$50
+- 同一款手機，第 1 季賣 \$500 → 第 4 季賣 \$250 → 第 8 季賣 \$100 是常態
 - Samsung 拼速度 = 拼 ASP premium 期最長化
 
 ### 2. 客戶需求高速 shift
@@ -63,7 +63,7 @@ Samsung 1997 Yun 接任後的**速度系統**（從 case 整理）：
 2. **客製化 vs 標準化**的決策權集中：Dell / Microsoft / Nokia 客製訂單高 margin，標準化線同步走 commodity
 3. **每年 4-5 旗艦 + 20 候選的 [[concepts/flagship-product-strategy|flagship product strategy]]** — 內部資源競爭機制
 4. **GMO 統一**全球行銷（90 人，1999 成立），不必每國重做 launch
-5. **NAND 等先進 IC** 同期投資（1998-2003 $19B 蓋新晶片廠）— 從供應端控制速度
+5. **NAND 等先進 IC** 同期投資（1998-2003 \$19B 蓋新晶片廠）— 從供應端控制速度
 
 ## 與其他「速度」論的關係
 

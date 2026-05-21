@@ -27,7 +27,7 @@ related:
 
 # LEGO Group
 
-丹麥家族企業，全球第 3 大玩具廠（2010+，僅次 Mattel / Hasbro，前於 Bandai-Namco / Fisher-Price / Barbie / Nerf）。2004 瀕臨破產，Knudstorp 36 歲接 CEO 主導 turnaround；2017 brand value $7.5B（vs 2010 $2B）。HBS case 9-713-478「LEGO (A): The Crisis」主角。^[extracted]
+丹麥家族企業，全球第 3 大玩具廠（2010+，僅次 Mattel / Hasbro，前於 Bandai-Namco / Fisher-Price / Barbie / Nerf）。2004 瀕臨破產，Knudstorp 36 歲接 CEO 主導 turnaround；2017 brand value \$7.5B（vs 2010 \$2B）。HBS case 9-713-478「LEGO (A): The Crisis」主角。^[extracted]
 
 > 戰略 DNA：**1999-2004 過度 explore（多角化）忽略 exploit（核心 plastic-brick）= [[concepts/organizational-ambidexterity|ambidexterity 失衡]]教科書級案例**。教師眉批明點「**雙元理論：等死、找死（創新）同時來**」。^[teacher-annotation]
 
@@ -45,7 +45,7 @@ related:
 | **2004** | DKK -1,931M 淨損；**Knudstorp 36 歲接 CEO**；瀕臨破產 |
 | 2005 | LEGOLAND parks 賣給 Merlin Entertainments（仍持 36%） |
 | 2010 | Revenue DKK 16,014M / operating profit 5,115M / ROE 84.8% / **gross margin 72.4%** |
-| 2017 | brand value $7.5B — turnaround 完成 |
+| 2017 | brand value \$7.5B — turnaround 完成 |
 
 ## 危機根因（1999-2004 多角化失控）
 

@@ -29,7 +29,7 @@ related:
 
 # Ant Group / 螞蟻金服
 
-中國 fintech 巨擘，Alibaba 集團旗下子公司（後分拆）。Alipay 第三方支付市占 68.4%，全球擴張 10 國本地版錢包覆蓋 30 億用戶。**2020 IPO 撤回事件**（原估 ~$300B 史上最大 IPO 緊急停掉）為案例核心。HBS case 9-617-060 (Feng Zhu et al. 2019) + IPO Halt case 主角。^[extracted]
+中國 fintech 巨擘，Alibaba 集團旗下子公司（後分拆）。Alipay 第三方支付市占 68.4%，全球擴張 10 國本地版錢包覆蓋 30 億用戶。**2020 IPO 撤回事件**（原估 ~\$300B 史上最大 IPO 緊急停掉）為案例核心。HBS case 9-617-060 (Feng Zhu et al. 2019) + IPO Halt case 主角。^[extracted]
 
 > 戰略 DNA：**institutional voids → ecosystem competition → 「替代 → 互補 → 替代效果」三段論**。教師核心 framing：「**Tipping point → mobile payment service → 太子黨 approve**」 — Alipay 拿 PBOC 牌照背後的政治背書。^[teacher-annotation]
 
@@ -46,7 +46,7 @@ related:
 | 2015 | Zhima Credit 芝麻信用 + MYbank 網商銀行成立 |
 | 2016 | 雙 11 處理 RMB 120.7B 支付 |
 | 2020/10 | [[entities/Jack-Ma|馬雲]] 外灘演講；批評監管 |
-| **2020/11** | **IPO 撤回**（原估值 ~$300B，史上最大 IPO 緊急喊停） |
+| **2020/11** | **IPO 撤回**（原估值 ~\$300B，史上最大 IPO 緊急喊停） |
 | 2021+ | 強制重組為金融控股公司；螞蟻消金；監管沙盒 |
 
 ## 產品家族（Exhibit 1）
@@ -93,11 +93,11 @@ Step 3: 替代效果
 教師眉批：「**Institutional Voids ~ pain points → 結構洞 → 互補性資產投入**」 ^[teacher-annotation]
 
 **中國四大銀行（Exhibit 2）市值與規模**：
-- 工商：$223B / 總資產 $3,473B / 淨利率 28.1%
-- 建設：$193B / $3,017B / 26.5%
-- 中國：$141B / $2,612B / 21.9%
-- 農業：$144B / $2,816B / 24.2%
-- 交通：$58B / $1,209B / 19.2%
+- 工商：\$223B / 總資產 \$3,473B / 淨利率 28.1%
+- 建設：\$193B / \$3,017B / 26.5%
+- 中國：\$141B / \$2,612B / 21.9%
+- 農業：\$144B / \$2,816B / 24.2%
+- 交通：\$58B / \$1,209B / 19.2%
 
 四大銀行**不服務小客戶 + 信用資料缺 + lemon market** → fintech 切入口。
 
@@ -172,7 +172,7 @@ slide p.11：
 | 維度 | 螞蟻案例 |
 |---|---|
 | **Political** | Fear of Ant getting too big；整體框架監管不足；國進民退 |
-| **Economic** | Capital market out of control；RMB 貶值；**2016/01 熔斷 4 兆人民幣蒸發**；**2017 capital flight $211B 錢荒** |
+| **Economic** | Capital market out of control；RMB 貶值；**2016/01 熔斷 4 兆人民幣蒸發**；**2017 capital flight \$211B 錢荒** |
 | **Society** | Microfinance serving financially illiterate（ESG 隱憂） |
 | **Technology** | INABC-Expertise |
 | **Industry** | Race to the bottom 逐底競爭 |

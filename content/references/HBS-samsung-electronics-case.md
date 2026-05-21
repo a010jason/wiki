@@ -24,7 +24,7 @@ provenance:
 base_confidence: 0.5
 summary: >-
   HBS 9-504-051 (Quelch &amp; Harrington 2003, REV Jan 2008) — 行銷視角的 Samsung turnaround case。
-  1997 亞洲金融風暴後從負債 $15B / 淨利 -$1.6B 的三流 OEM commodity brand 翻身成 2003 BusinessWeek 全球第 25 brand。
+  1997 亞洲金融風暴後從負債 \$15B / 淨利 -\$1.6B 的三流 OEM commodity brand 翻身成 2003 BusinessWeek 全球第 25 brand。
   涵蓋 Lee Kun-hee 1993 Frankfurt New Management Initiative、Yun Jong Yong sashimi theory、Eric Kim GMO、
   FCB 全球統一、M-Net 預算重分配、DigitAll、Country Market Clusters 三段式。
   中譯版由交大唐瓔璋教授審訂。本案例 PDF **無教師中文眉批**（純翻譯版）。

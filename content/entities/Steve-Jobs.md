@@ -47,7 +47,7 @@ Apple 共同創辦人、CEO（1976-1985, 1997-2011）；HBS case 9-715-454（Mon
 | **NeXT** | 1985-1996 | CEO + CTO + COO（+ CFO）一人身兼 | Low WTP 精品新貴；經驗複製失敗 |
 | **Pixar** | 1986-2006 | CEO + CFO + HRM | 學到 Involving with finance / Business model makes money / Learn how to pivot / Bridge Hollywood and Silicon Valley |
 | **回歸 Apple** | 1997-2011 | Interim CEO → CEO | 1997 砍產品線（2×2 矩陣）→ Ive 搭檔 → 2001 Digital Hub → 2007 Apple Computer 改名 Apple Inc. |
-| **離世後 Apple** | 2011/8/24- | Tim Cook 接班 | 2012/8 市值 $619B 史上最有價值 |
+| **離世後 Apple** | 2011/8/24- | Tim Cook 接班 | 2012/8 市值 \$619B 史上最有價值 |
 
 ### 教師對「被趕走 → NeXT/Pixar → 回歸」中間期的解讀
 

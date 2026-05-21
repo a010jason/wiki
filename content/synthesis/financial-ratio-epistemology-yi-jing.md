@@ -81,7 +81,7 @@ Karl Popper（1972）三世界框架：
 
 ### World 1 — Physical World
 - 物理對象、能量、物質狀態
-- 對應財報：**數字本身**（balance sheet 的 cash $1,694M 是物理事實）
+- 對應財報：**數字本身**（balance sheet 的 cash \$1,694M 是物理事實）
 
 ### World 2 — Subjective World
 - 個人心理狀態、知覺、信念、感受

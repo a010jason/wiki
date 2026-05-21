@@ -82,7 +82,7 @@ slide p.5：「**Why Airbnb has high marginal- (but low investment-) cost? / The
 
 - 太平盛世（flat demand 360 天）：Marriott 領跑，賺 fat margins
 - 大飢荒 / 尖峰（compression nights，4.9% 房晚）：**Marriott 容量瓶頸，Airbnb 補位**
-- 紐約對照（2016）：1/10 ADR $148 / Occ 55.7% / Airbnb 賣 2,487 房（3.9%） vs 12/31 ADR $418 / Occ 92.3% / Airbnb 賣 6,475（5.7%）— **Airbnb 在 peak day 漲量更多**
+- 紐約對照（2016）：1/10 ADR \$148 / Occ 55.7% / Airbnb 賣 2,487 房（3.9%） vs 12/31 ADR \$418 / Occ 92.3% / Airbnb 賣 6,475（5.7%）— **Airbnb 在 peak day 漲量更多**
 
 ## 跨產業適用性（推測）
 

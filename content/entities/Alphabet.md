@@ -28,7 +28,7 @@ related:
 
 # Alphabet Inc.
 
-Google 2015 重組後的母控股公司；市值 $475B（重組時）。HBS case 9-116-029（Robert Simons &amp; Annelena Lobb, Rev 2017）「Google to Alphabet」主角。教師核心 framing：「**Specialized generalist (Google) ↓ Generalized specialist (Alphabet)**」 — Alphabet 重組讓組織從「一專多能」變成「多專多能」。^[teacher-annotation]
+Google 2015 重組後的母控股公司；市值 \$475B（重組時）。HBS case 9-116-029（Robert Simons &amp; Annelena Lobb, Rev 2017）「Google to Alphabet」主角。教師核心 framing：「**Specialized generalist (Google) ↓ Generalized specialist (Alphabet)**」 — Alphabet 重組讓組織從「一專多能」變成「多專多能」。^[teacher-annotation]
 
 > 教師對 Alphabet 結構本質的判斷：「**不是 Matrix，是 Google and non-Google**」 — Alphabet 不是真矩陣組織，是 Google + 非 Google 二元結構。^[teacher-annotation]
 

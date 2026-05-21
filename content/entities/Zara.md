@@ -41,7 +41,7 @@ related:
 - 12 品牌（Zara、Massimo Dutti、Pull &amp; Bear、Stradivarius、Bershka、Oysho、Zara Home、Uterqüe 等）
 
 ### 財務（2001，單位 €）
-- Net Operating Revenues：3,250M（vs Gap $15,559M / H&amp;M €4,269M / Benetton €2,098M）
+- Net Operating Revenues：3,250M（vs Gap \$15,559M / H&amp;M €4,269M / Benetton €2,098M）
 - Net Income：340M（**vs Gap -€9M / H&amp;M €410M / Benetton €148M**）
 - **Operating margin 21.66%**（Gap 2.44% / H&amp;M 13.80% / Benetton 13.63%）
 - Net Margin 10.46%
@@ -138,7 +138,7 @@ Zara 第 6 條路 = **垂直整合 + Quick Response + 在地製造**。
 ## 關鍵角色
 
 - **Amancio Ortega (1975-)** — Inditex 創辦人；西班牙首富之一；五指名言；身家數百億
-- **Marta Ortega Perez** — Amancio 之女，2022 接 Inditex Chair；身家 $24B
+- **Marta Ortega Perez** — Amancio 之女，2022 接 Inditex Chair；身家 \$24B
 - **Jose Maria Castellano** — CEO（HBS case 主角）
 
 ## Open Questions（待 wiki-challenge）

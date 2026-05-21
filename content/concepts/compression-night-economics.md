@@ -42,11 +42,11 @@ related:
 
 | 日期 | ADR | Occupancy | Airbnb 預訂 | Airbnb 占比 |
 |---|---|---|---|---|
-| 1/10（淡日） | $148 | 55.7% | 2,487 房 | 3.9% |
-| 12/31（NYE compression） | **$418** | **92.3%** | **6,475 房** | **5.7%** |
+| 1/10（淡日） | \$148 | 55.7% | 2,487 房 | 3.9% |
+| 12/31（NYE compression） | **\$418** | **92.3%** | **6,475 房** | **5.7%** |
 
 關鍵觀察：
-1. **ADR 從 $148 → $418 = 2.83x**（compression premium 巨大）
+1. **ADR 從 \$148 → \$418 = 2.83x**（compression premium 巨大）
 2. **Airbnb 在 peak day 漲量更多**（2,487 → 6,475 = 2.6x），**證明 flexible capacity 在 compression 補位**
 3. Marriott / Hilton 等 dedicated capacity 玩家**無法擴容**，所以 Airbnb 拿到 incremental peak demand
 
@@ -56,7 +56,7 @@ related:
 
 機制：
 - **物理上限**：Marriott 一棟飯店有固定房間數，不能在 NYE 突然多開 100 間
-- **價格上限（隱性）**：教師眉批：「**Q. Should/Can Marriott increase to the 'peak' price?**」— 連鎖品牌有 brand standard pricing，**漲到 $1,000+ 會破壞 brand perception**，個體 Airbnb host 沒這顧慮
+- **價格上限（隱性）**：教師眉批：「**Q. Should/Can Marriott increase to the 'peak' price?**」— 連鎖品牌有 brand standard pricing，**漲到 \$1,000+ 會破壞 brand perception**，個體 Airbnb host 沒這顧慮
 - **動態 staffing 困難**：飯店需要 housekeeping、front desk staff，peak day 加班成本高
 - **「半年不開張、開張吃半年**」 — 教師中文比喻 ^[teacher-annotation]
 
@@ -95,7 +95,7 @@ Booking.com / Expedia 等 OTA 在 compression night 的 commission 對 Marriott 
 
 - **8% 收入 / 4.9% 房晚 數據**：是 Marriott 自家數據還是 STR / CBRE 等產業報告？^[ambiguous]
 - **下行週期 compression nights 是否消失？** 2020 pandemic 期間紐約 NYE 是否也 92% occupancy？^[inferred]
-- **OTA + Airbnb 是否會「壓平」compression premium？** 透明定價 + 全網比價是否會把 $418 ADR 壓回？^[inferred]
+- **OTA + Airbnb 是否會「壓平」compression premium？** 透明定價 + 全網比價是否會把 \$418 ADR 壓回？^[inferred]
 - **Marriott 為何不大規模做 surge pricing？** 監管 / brand standard / loyalty member 抗議 — 哪個是真正 binding constraint？^[ambiguous]
 
 ## Related

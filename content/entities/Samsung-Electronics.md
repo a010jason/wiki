@@ -31,7 +31,7 @@ related:
 
 # Samsung Electronics
 
-韓國最大 chaebol，HBS 9-504-051（Quelch &amp; Harrington 2003, REV 2008）案例主角 — **行銷視角的 turnaround**。1997 亞洲金融風暴後從負債 $15B / 淨利 -$1.6B 的三流 OEM commodity brand，2002 翻身成 top 25 global brand（$10.8B 品牌價值，唯一韓國品牌）。1997-2002 股價漲 10 倍。^[extracted]
+韓國最大 chaebol，HBS 9-504-051（Quelch &amp; Harrington 2003, REV 2008）案例主角 — **行銷視角的 turnaround**。1997 亞洲金融風暴後從負債 \$15B / 淨利 -\$1.6B 的三流 OEM commodity brand，2002 翻身成 top 25 global brand（\$10.8B 品牌價值，唯一韓國品牌）。1997-2002 股價漲 10 倍。^[extracted]
 
 > 戰略 DNA：**[[concepts/vertical-integration|垂直整合]] 反主流**（Yun Jong Yong：「製造外包就輸了」）+ **[[concepts/hardware-only-focus|純硬體 + open-architecture]]**（避軟體保護專利風險）+ **[[concepts/sashimi-theory|生魚片理論]]**（科技產品像生魚片，第一天最值錢） + **[[concepts/digital-convergence-strategy|DigitAll]]** 多功能整合。^[extracted]
 
@@ -42,8 +42,8 @@ related:
 - **1970s** 加半導體
 - **1980s** 電視 / VCR / 微波爐 OEM
 - **1993 Frankfurt 宣言**：Lee Kun-hee「New Management Initiative」— 從便宜 OEM 轉高附加價值品牌（**「跟傳統的、常見的智慧相抵觸」**；案中**未引「change everything except your wife and children」原句**，僅描述為「新的管理行動」）
-- **1997 亞洲金融風暴** turnaround：砍 29,000 員工、賣 $2B 資產、Yun Jong Yong 接任副董事長
-- **1998-2003** 投資 $19B 蓋新晶片廠
+- **1997 亞洲金融風暴** turnaround：砍 29,000 員工、賣 \$2B 資產、Yun Jong Yong 接任副董事長
+- **1998-2003** 投資 \$19B 蓋新晶片廠
 - **1999** GMO（Global Marketing Operations）成立、90 人首爾總部
 - **2000** Eric Kim 加入（韓裔但美國科技業背景，前 Pilot Software CEO）
 - **2001** FCB 全球單一代理鞏固（先前 55 個代理商、20 種標語）
@@ -52,12 +52,12 @@ related:
 
 ## 規模與市占（2002）
 
-- **品牌價值**：BusinessWeek 全球第 25 名（$10.8B，2002 為第 34、$8.3B）— top 100 中成長最快、唯一韓國品牌
-- 淨利 $5.9B（vs 1999 $2.8B）；營收 $44.6B（vs 1999 $28.0B）
-- 市值 $41B → 亞洲最大電子公司
-- 1997-2002 股價漲 10 倍；債務 $15B → $4.6B、淨利率 -3% → +13%
-- **R&amp;D**：17,000 名科學家/工程師/設計師、年支出 $2.45B
-- 行銷預算：GMO ~$400M + 事業單位 ~$600M = ~$1B
+- **品牌價值**：BusinessWeek 全球第 25 名（\$10.8B，2002 為第 34、\$8.3B）— top 100 中成長最快、唯一韓國品牌
+- 淨利 \$5.9B（vs 1999 \$2.8B）；營收 \$44.6B（vs 1999 \$28.0B）
+- 市值 \$41B → 亞洲最大電子公司
+- 1997-2002 股價漲 10 倍；債務 \$15B → \$4.6B、淨利率 -3% → +13%
+- **R&amp;D**：17,000 名科學家/工程師/設計師、年支出 \$2.45B
+- 行銷預算：GMO ~\$400M + 事業單位 ~\$600M = ~\$1B
 - 中國有 12 家工廠；R&amp;D 設廠印度
 
 ### 2002 事業群（單位：億美元）
@@ -87,7 +87,7 @@ related:
 ### 1. Vertical Integration（反主流）
 - 客製化晶片（Dell、Microsoft、Nokia 訂單）平均售價**比業界標準高 17%**
 - NAND 在相同價格下可儲存量是 Intel NOR 的 3 倍；NAND 市場 Samsung 已控制一半
-- 2003 起 10 年再投資 $17B 在 TFT-LCD
+- 2003 起 10 年再投資 \$17B 在 TFT-LCD
 - 與 Sumitomo Chemical 在 color-filter 競爭（直接和自己日本上游供應商競爭）
 - **Sony LCD JV 2003**：Sony 為避免重蹈自家 LCD 成本，與 Samsung 共同出資合資製造（**競爭對手變供應夥伴**）
 
@@ -108,7 +108,7 @@ related:
 
 ### 5. M-Net（Marketing Resource Allocation System）
 - **以潛在成長力而非現有銷售額分配行銷預算**的決策支援系統
-- 例：北美/俄羅斯 45% → 35%、歐洲/中國 31% → 42%、**$150M 重配**
+- 例：北美/俄羅斯 45% → 35%、歐洲/中國 31% → 42%、**\$150M 重配**
 - 詳見 [[concepts/mnet-marketing-resource-allocation]]
 
 ### 6. MDC（Market-Driven Change）

@@ -113,11 +113,11 @@ slide 11 Take-Away 標題直問：**「Why Focus Strategy (波特) can't work? �
 - Ask、AOL：個位數
 - 講義鎖定 **2003 為「Google search 一統天下」拐點**
 
-### 7. AOL Deal — Google 付 $1B 給 AOL
+### 7. AOL Deal — Google 付 \$1B 給 AOL
 
-教師：「**Why AOL didn't see the danger is coming?**」 — Google 用 $1B 把 AOL 變成 Google 廣告 affiliate，鎖死最後一個大流量入口。^[teacher-annotation]
+教師：「**Why AOL didn't see the danger is coming?**」 — Google 用 \$1B 把 AOL 變成 Google 廣告 affiliate，鎖死最後一個大流量入口。^[teacher-annotation]
 
-### 8. YouTube 收購（2006/10，$16.5 億）
+### 8. YouTube 收購（2006/10，\$16.5 億）
 
 Google 後續發展，把影音 + 廣告平台整合。
 

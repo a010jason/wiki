@@ -40,14 +40,14 @@ related:
 
 | 維度 | Apple 1997 (Jobs) | Lego 2004 (Knudstorp) | Samsung 1997 (Yun) |
 |---|---|---|---|
-| **危機程度** | 瀕臨破產（Q1 1997 loss $740M） | 瀕臨破產（2004 net loss DKK -1.9B） | 1997 亞洲金融風暴；債務 $15B / 淨利 -$1.6B |
+| **危機程度** | 瀕臨破產（Q1 1997 loss \$740M） | 瀕臨破產（2004 net loss DKK -1.9B） | 1997 亞洲金融風暴；債務 \$15B / 淨利 -\$1.6B |
 | **接班人** | Jobs 回鍋（外部多年） | Knudstorp 36 歲外部顧問 | Yun 接副董事長 |
 | **Re-position** | PC → consumer electronics + design DNA | 多角化 → plastic-brick 核心 | 三流 OEM → high-value brand |
-| **Re-configuration** | 砍產品線（2×2 矩陣）；Ive 搭檔 | 砍 SKU 12,000+；內化外包；AFOL 社群 | 砍 29,000 員工；賣 $2B 資產；GMO 整合 |
+| **Re-configuration** | 砍產品線（2×2 矩陣）；Ive 搭檔 | 砍 SKU 12,000+；內化外包；AFOL 社群 | 砍 29,000 員工；賣 \$2B 資產；GMO 整合 |
 | **Mobility barrier removed** | 接受砍掉 Apple Computer 歷史 | 接受家族企業犧牲不可侵犯之物 | 接受垂直整合 + 反外包潮 |
 | **Value chain reinvention** | 1998 iMac → 2001 iPod → Digital Hub → 2007 Apple Inc. | AFOL + Disney/Star Wars licensing + LEGO Movie | 客製化晶片 +17% 溢價；Sashimi 5 月 cycle；DigitAll |
 | **Time-to-result** | 4 年（1997→2001 iPod） | 6 年（2004→2010 利潤恢復） | 5 年（1997→2002 黑字） |
-| **量化結果** | 市值 → $619B 史上最有價值 | Brand value $2B → $7.5B | 股價 10x、市值 $41B 亞洲最大 |
+| **量化結果** | 市值 → \$619B 史上最有價值 | Brand value \$2B → \$7.5B | 股價 10x、市值 \$41B 亞洲最大 |
 
 ## 共同 Pattern 5 條（synthesis 主張）
 

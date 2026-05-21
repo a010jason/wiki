@@ -94,7 +94,7 @@ summary: >-
 ## Q2 PESTI 監管框架
 
 - **Political**：Fear of Ant getting too big；國進民退
-- **Economic**：Capital market out of control；RMB 貶值；2016/01 熔斷 4 兆人民幣蒸發；2017 capital flight $211B
+- **Economic**：Capital market out of control；RMB 貶值；2016/01 熔斷 4 兆人民幣蒸發；2017 capital flight \$211B
 - **Society**：Microfinance serving financially illiterate（ESG 隱憂）
 - **Technology**：INABC-Expertise
 - **Industry**：Race to the bottom

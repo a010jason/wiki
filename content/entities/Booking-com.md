@@ -51,7 +51,7 @@ related:
 - **Rentalcars.com**（租車）
 - **OpenTable**（餐廳訂位）
 
-2017 Total revenues $12.68B（Agency 9.71B + Merchant 2.13B + Advertising 0.83B）；Cost of revenues 僅 $250M → Gross profit ~98%；Performance advertising $4.14B（SEM 主力）；Operating income $4.54B；Net income $2.34B；**Market cap (Dec 2017) ≈ $92.9B**。教師眉批：「**Asset Light / Platform Heavy** / CGS=0 (digital economy as the resources) / **輕資產戰略**」。^[teacher-annotation]
+2017 Total revenues \$12.68B（Agency 9.71B + Merchant 2.13B + Advertising 0.83B）；Cost of revenues 僅 \$250M → Gross profit ~98%；Performance advertising \$4.14B（SEM 主力）；Operating income \$4.54B；Net income \$2.34B；**Market cap (Dec 2017) ≈ \$92.9B**。教師眉批：「**Asset Light / Platform Heavy** / CGS=0 (digital economy as the resources) / **輕資產戰略**」。^[teacher-annotation]
 
 ## A/B Testing 文化（核心戰略，不只工具）
 
@@ -108,12 +108,12 @@ A/B testing
 
 Tans：「我們的競爭對手更像旅行社，**agency 更合理**」。
 
-OTA 三巨頭 Expedia、Priceline Group、攜程推動整合；2017 全球線上旅遊銷售 $6,300 億（YoY +11.5%），2020 預估 $8,180 億。
+OTA 三巨頭 Expedia、Priceline Group、攜程推動整合；2017 全球線上旅遊銷售 \$6,300 億（YoY +11.5%），2020 預估 \$8,180 億。
 
 **競爭與威脅**：
 - [[entities/Expedia]]（merchant 對手；含 Hotels.com / Orbitz / Travelocity）
 - [[entities/Airbnb]]（degree of substitution 有限 — Morgan Stanley 2015 調查 42% 受訪者若無 Airbnb 仍會選酒店）
-- **Google Hotel Finder（2011 推出）**：教師眉批「**Booking 吸 Google 的血**」— Google 從 OTA 廣告抽 $140 億 / 年；Booking 33% revenue 用於 performance advertising 主要付給 Google ^[teacher-annotation]
+- **Google Hotel Finder（2011 推出）**：教師眉批「**Booking 吸 Google 的血**」— Google 從 OTA 廣告抽 \$140 億 / 年；Booking 33% revenue 用於 performance advertising 主要付給 Google ^[teacher-annotation]
 - [[entities/Amazon]]：被預期進入
 
 ## 關鍵角色

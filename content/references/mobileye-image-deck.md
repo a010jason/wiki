@@ -70,25 +70,25 @@ Source 性質：**case study 的視覺輔助材料，single source 不足以撐�
 | 3 | Cost/mile across mobility options（Taxi / Ride-hailing / Robotaxi / 私家車 / Public transit） |
 | 4 | Mobileye Robotaxi prototypes（Nio ES8-based） |
 | 5 | MaaS Societal Benefits 8 segments |
-| 6 | MaaS market $105B (2018) → $550B (2030)；Robotaxi $160B CAGR ~50% |
+| 6 | MaaS market \$105B (2018) → \$550B (2030)；Robotaxi \$160B CAGR ~50% |
 | 7 | Competitor map（Waymo / Cruise / Zoox / Argo） |
 | 8 | Moovit App：950M users / 3400 cities / 112 countries |
 | 9 | Business model：MaaS / RaaS / VaaS / SDS 四層 stack |
 | 10 | Mobileye Financials 2018-2020；EyeQ shipped 2.4M → 19.3M |
 | 11 | Mobileye Solution Portfolio 四段（Today L1-L2 / Today L2+ / 2022 L4-L5 MaaS / 2025 L3-L5 passenger） |
 | 12 | Intel 2020 Income Statement |
-| 13 | Intel 2020 Balance Sheet（含 Goodwill $26.97B） |
+| 13 | Intel 2020 Balance Sheet（含 Goodwill \$26.97B） |
 
 ## 關鍵 financial 觀察
 
 ### Mobileye 量化
-- 2018-2020 Revenue：$0.7B → $0.9B → **$1.0B**
-- Operating income：$0.1B → $0.2B → $0.2B（**op margin ~20%**）
+- 2018-2020 Revenue：\$0.7B → \$0.9B → **\$1.0B**
+- Operating income：\$0.1B → \$0.2B → \$0.2B（**op margin ~20%**）
 - EyeQ shipments 2014 → 2020：**2.4M → 19.3M units**（CAGR ~41%）
 
 ### Intel 2020 對 Mobileye 的關係
-- Intel 2020 Revenue $77.87B → Mobileye 占約 **1.3%**
-- Intel Goodwill $26.97B（含 Mobileye 2017 收購商譽 $15.3B）
+- Intel 2020 Revenue \$77.87B → Mobileye 占約 **1.3%**
+- Intel Goodwill \$26.97B（含 Mobileye 2017 收購商譽 \$15.3B）
 - **2022 Mobileye spin off IPO** 是教師 Parenting Matrix 判斷 ALIEN TERRITORY → 剝離的應驗
 
 ## Sources

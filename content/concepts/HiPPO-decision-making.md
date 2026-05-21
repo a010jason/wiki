@@ -36,7 +36,7 @@ related:
 Kohavi HBR 2017 量化：
 - **Google / Bing：10-20% 實驗顯著為正**
 - **Microsoft 整體：1/3 正、1/3 中性、1/3 負**
-- 連 design expert 都看不出 Bing 顏色實驗會贏（年化 +$10M）— **evidence took the place of theory**
+- 連 design expert 都看不出 Bing 顏色實驗會贏（年化 +\$10M）— **evidence took the place of theory**
 
 ### 2. Holland 2005 研究 150K idea 22 年
 「**人覺得有用」與「真的有用」毫無相關**」 — Kohavi 在 MS-ExP paper 用此數據反駁「實驗太貴」claim。

@@ -38,7 +38,7 @@ related:
 
 # Marriott International
 
-全球最大連鎖飯店集團（2017）：30 個品牌、6,000+ 飯店、110 萬間客房、110+ 國。2016 以 $13.6B 完成 Starwood 併購後規模翻倍。市值 $38B（vs Hilton $21B、Hyatt $7.4B、Choice $4.1B）。Marriott 家族仍持有 ~20%。^[extracted]
+全球最大連鎖飯店集團（2017）：30 個品牌、6,000+ 飯店、110 萬間客房、110+ 國。2016 以 \$13.6B 完成 Starwood 併購後規模翻倍。市值 \$38B（vs Hilton \$21B、Hyatt \$7.4B、Choice \$4.1B）。Marriott 家族仍持有 ~20%。^[extracted]
 
 > 戰略 DNA：**1977 年首倡 [[concepts/asset-light-strategy|asset-light strategy]]**（年報明文「emphasis on management rather than ownership」），不擁有大部分飯店但靠 management 與 franchise contract 與 [[entities/Marriott-Bonvoy|Bonvoy loyalty]] 賺錢。教師眉批：「**輕資產戰略，空手道**」。^[teacher-annotation]
 
@@ -59,18 +59,18 @@ related:
 | 1953 | 上市 |
 | 1957 | 第一家飯店 Twin Bridges Marriott Motor Hotel 開幕 |
 | 1964 | Bill Marriott Jr 接 CEO（當時 4 家飯店） |
-| 1976 | 發 $2,200 萬債券 — 父親不悅；隔年宣布 sale &amp; manage-back 7 家飯店 |
+| 1976 | 發 \$2,200 萬債券 — 父親不悅；隔年宣布 sale &amp; manage-back 7 家飯店 |
 | **1977** | **年報首倡 asset-light**：「emphasis on management rather than ownership」 |
 | 1983 | Courtyard 品牌切入 mid-scale — **brand extension 起點** |
 | 1984 | JW Marriott 高端品牌 |
 | 1987 | Fairfield Inn &amp; Suites、Residence Inn |
 | 1989 | 賣掉 Air Catering Unit → Caterair International（剝離非核心） |
 | 2012 | **Arne Sorenson 接 CEO — 首位非家族成員** |
-| 2016/9/23 | $13.6B 完成 Starwood 併購（客房翻倍） |
+| 2016/9/23 | \$13.6B 完成 Starwood 併購（客房翻倍） |
 
 ## 規模與市占（2017）
 
-- 全球飯店業 177,000 家、1,670 萬客房、年營收 $468B（40% 來自美國）
+- 全球飯店業 177,000 家、1,670 萬客房、年營收 \$468B（40% 來自美國）
 - 連鎖品牌 53%、前 20 大運營商佔 40% 收入
 - **前五（Marriott / Hilton / IHG / Wyndham / Accor）控制 24% 客房**；美國前五佔 47% 房間
 - 2017 客房：[[entities/Airbnb|Airbnb]] 3M listings / Marriott 1.2M / Hilton 816K / IHG 737K / Wyndham 678K / Accor 580K
@@ -79,7 +79,7 @@ related:
 ## Starwood 併購（2015-2016）
 
 - 2015/4 Starwood 宣布出售；競標含 Hyatt、**中國安邦**
-- Marriott 初價 $12.2B 股票+現金；**安邦反覆抬價**；最終 $13.6B
+- Marriott 初價 \$12.2B 股票+現金；**安邦反覆抬價**；最終 \$13.6B
 - 2016/9/23 完成；客房翻倍、海外（亞、中東、非洲）擴大
 - 戰略後果：30 品牌 segment-by-segment 覆蓋；Loyalty 程式（Marriott Rewards + Ritz-Carlton Rewards + SPG）2018 整合為 [[entities/Marriott-Bonvoy|Bonvoy]]
 
@@ -94,7 +94,7 @@ related:
 
 - **Compression night = 95%+ booked 之夜**；佔總房晚 4.9% **卻產生 8% 收入**；房價可比平時高 35%-10x
 - 美國 10 大市場 2011-2016 數據
-- 紐約對照（2016）：1/10 ADR $148 / Occ 55.7% / Airbnb 賣 2,487 房（3.9%）vs 12/31 ADR $418 / Occ 92.3% / Airbnb 賣 6,475（5.7%）
+- 紐約對照（2016）：1/10 ADR \$148 / Occ 55.7% / Airbnb 賣 2,487 房（3.9%）vs 12/31 ADR \$418 / Occ 92.3% / Airbnb 賣 6,475（5.7%）
 - 教師眉批：「**萬豪被綁樁** / Compression night 的時候吐房源 → 渡大月 → 造成萬豪入住率不到 100%」 — Marriott 是 **[[concepts/dedicated-vs-flexible-capacity|dedicated capacity]]** 無法在 peak 急速擴容，Airbnb 是 **flexible capacity** 補位
 - 「**太平盛世（fat margins）vs 大飢荒（青黃不接）**」 — 教師對需求週期的中文比喻 ^[teacher-annotation]
 

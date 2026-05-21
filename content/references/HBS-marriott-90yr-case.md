@@ -57,7 +57,7 @@ Path B subagent；43 頁讀完，採 read-main（5 頁/批）未撞 32MB。
 
 - [[entities/Marriott-International]] — 案例 hub
 - [[entities/Marriott-Bonvoy]] — loyalty 整合（Marriott Rewards + Ritz-Carlton + SPG → 2018 統一 1 億會員）
-- [[entities/Starwood]] — 2016/9/23 $13.6B 併購對象
+- [[entities/Starwood]] — 2016/9/23 \$13.6B 併購對象
 - [[entities/Airbnb]] — 主要對標 disruptor
 - [[concepts/asset-light-strategy]] — 1977 年報首倡（80% 管理協議 + franchise）
 - [[concepts/management-vs-franchise-contract]] — 兩種合約結構與費率

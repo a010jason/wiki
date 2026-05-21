@@ -101,11 +101,11 @@ A (Awareness 察覺) → M (Motivation 動機) → C (Capability 能力)
 - **M**：強烈 — Knudstorp 36 歲外部 CEO 接手
 - **C**：Knudstorp 顧問背景 + 願犧牲家族 legacy + AFOL 社群協作
 - **O**：玩具產業 Star Wars / Harry Potter licensing 機會窗口
-- **V**：高（brand value $2B → $7.5B）
+- **V**：高（brand value \$2B → \$7.5B）
 
 ### [[entities/Mobileye]] 2017 Intel 收購
 - **A**：Intel 察覺 ADAS 機會 ✓
-- **M**：強烈 — $15.3B 收購是大注
+- **M**：強烈 — \$15.3B 收購是大注
 - **C**：Intel 晶圓 + Mobileye AI 視覺
 - **O**：自駕產業時機窗口
 - **V**：成功 — 2022 spin off 釋放 valuation

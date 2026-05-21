@@ -71,16 +71,16 @@ re-inventing value chain
 | Re-position | 回歸 plastic-brick 核心；砍 LEGOLAND / Studios / Galidor / Clothing / Universe | SKU 12,000 → 大幅減少 |
 | Re-configuration | 內化 Flextronics 外包回 Monterrey / Kladno；Connect 是用戶不是產品 | Operating profit 從 -1.9B DKK → +5.1B DKK |
 | Mobility barrier | 換掉前 Ploughmann 治理；接受家族企業犧牲不可侵犯之物 | 36 歲外人 CEO 上任 |
-| Value chain reinvention | AFOL 社群協作 + Disney/Star Wars licensing + LEGO Movie | Brand value $2B → $7.5B |
+| Value chain reinvention | AFOL 社群協作 + Disney/Star Wars licensing + LEGO Movie | Brand value \$2B → \$7.5B |
 
 ### [[entities/Samsung-Electronics]] 1997-2002（Yun Jong Yong）
 
 | 步 | 內容 | 量化 |
 |---|---|---|
 | Re-position | 從便宜 OEM 轉高附加價值品牌（Lee 1993 Frankfurt 宣言落地） | — |
-| Re-configuration | 砍 29,000 員工、賣 $2B 資產；垂直整合反外包；GMO 全球統一 | 債務 $15B → $4.6B |
+| Re-configuration | 砍 29,000 員工、賣 \$2B 資產；垂直整合反外包；GMO 全球統一 | 債務 \$15B → \$4.6B |
 | Mobility barrier | Yun 直接領導；推 [[concepts/sashimi-theory|sashimi theory]] 5 個月 cycle | 從第 34 → 第 25 全球品牌 |
-| Value chain reinvention | Eric Kim GMO 整合 200 國行銷；FCB 全球單一代理；DigitAll 數位匯流 | 股價 10x、市值 $41B 亞洲最大 |
+| Value chain reinvention | Eric Kim GMO 整合 200 國行銷；FCB 全球單一代理；DigitAll 數位匯流 | 股價 10x、市值 \$41B 亞洲最大 |
 
 ### [[entities/Apple]] 1997-2001（Steve Jobs 回歸）
 
@@ -89,7 +89,7 @@ re-inventing value chain
 | Re-position | 從 PC 公司轉 consumer electronics + design DNA | — |
 | Re-configuration | 砍產品線（白板 2×2 矩陣 4 格） | Product SKU 大幅減 |
 | Mobility barrier | Jobs 自己回鍋；Ive 搭檔取代舊設計團隊；接受「犧牲 Apple Computer 歷史」 | 接近破產 → 健康獲利 |
-| Value chain reinvention | 1998 iMac → 2001 iPod → Digital Hub Strategy → 2007 Apple Inc.（從 BU 升 corporate） | 市值最終 $619B 史上最有價值 |
+| Value chain reinvention | 1998 iMac → 2001 iPod → Digital Hub Strategy → 2007 Apple Inc.（從 BU 升 corporate） | 市值最終 \$619B 史上最有價值 |
 
 ## 為什麼這個框架重要
 

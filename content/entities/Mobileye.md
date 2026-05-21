@@ -28,7 +28,7 @@ related:
 
 # Mobileye
 
-以色列自駕視覺 AI 公司，**EyeQ 系列 SoC** 是全球 ADAS / AV 主流晶片之一。1999 創辦 → 2014 NYSE IPO → **2017 Intel 收購 $15.3B** → 2017-2022 Intel 內結構性隔離 → **2022/10 Spin off NASDAQ IPO（MBLY）**。^[extracted]
+以色列自駕視覺 AI 公司，**EyeQ 系列 SoC** 是全球 ADAS / AV 主流晶片之一。1999 創辦 → 2014 NYSE IPO → **2017 Intel 收購 \$15.3B** → 2017-2022 Intel 內結構性隔離 → **2022/10 Spin off NASDAQ IPO（MBLY）**。^[extracted]
 
 > 戰略意義：**Mobileye 是 [[entities/intel-NBI|Intel NBI failure]] 的反面成功案例** — Intel 沒走「內部 ventured + dissolved」的 NBI 路徑，而是走「**acquire + structurally isolate + spin off**」的 Christensen Quadrant C 路徑（[[references/christensen-overdorf-2000-HBR-disruptive-change]]）。^[teacher-annotation, Jason synthesis]
 
@@ -41,17 +41,17 @@ related:
 | **1999** | Amnon Shashua + Ziv Aviram 在耶路撒冷創辦 |
 | 2007 | First EyeQ chip 量產（Mercedes 採用） |
 | 2010s | EyeQ 進入主流 OEM ADAS 配套 |
-| 2014/8 | NYSE IPO（MBLY），募資 $0.89B |
-| **2017/8** | Intel 收購 **$15.3B**（當時以色列史上最大科技交易） |
+| 2014/8 | NYSE IPO（MBLY），募資 \$0.89B |
+| **2017/8** | Intel 收購 **\$15.3B**（當時以色列史上最大科技交易） |
 | 2017-2022 | Intel 內結構性隔離：**Israel-based / 品牌獨立 / 商業模式自主**（B2B chip + B2B MaaS + 自家 robotaxi prototype） |
 | 2020 | 收 Moovit（MaaS app，950M users / 3400 cities） |
 | **2022/10/26** | NASDAQ IPO（MBLY），Intel 仍持 ~94% 股權 |
-| 2023+ | 持續為 ADAS / AV 市場主力，營收 ~$2B |
+| 2023+ | 持續為 ADAS / AV 市場主力，營收 ~\$2B |
 
 ## 量化（2020，case 時點）
 
-- Revenue $1.0B（2018 $0.7B → CAGR ~20%）
-- Operating income $0.2B（op margin ~20%）
+- Revenue \$1.0B（2018 \$0.7B → CAGR ~20%）
+- Operating income \$0.2B（op margin ~20%）
 - EyeQ 累計出貨 **2014 2.4M → 2020 19.3M units**（CAGR ~41%）
 - 佔 Intel 2020 total revenue ~1.3%
 
@@ -149,7 +149,7 @@ Mobileye-Tesla 早期合作（EyeQ3 用於 Autopilot），2016/7 Tesla Autopilot
 
 - **Robotaxi corridor hypothesis 是否會被驗證？** Waymo 2024 Phoenix / SF 持續但小規模；Cruise 已停 ^[2026 backfill]
 - **Mobileye vs Tesla FSD 兩路線**：camera-only vs camera+REM 何者勝？^[ambiguous]
-- **2022 spin off 後 valuation**：MBLY 初期 $17B → 2024 fluctuating；vs 2017 Intel 收 $15.3B 是否 paid off？^[inferred]
+- **2022 spin off 後 valuation**：MBLY 初期 \$17B → 2024 fluctuating；vs 2017 Intel 收 \$15.3B 是否 paid off？^[inferred]
 - **與 [[entities/intel-NBI|Intel NBI]] 的對比是否成立？** Mobileye 是 acquired entity 而非 internal venture — 嚴格說不是 NBI 的反例，是不同 path ^[inferred]
 - **教師 Parenting Matrix 判斷的學術正當性**：ALIEN TERRITORY 處置該全 divest，但 Intel 仍持 94% — 是部分執行還是新 framework？^[inferred]
 

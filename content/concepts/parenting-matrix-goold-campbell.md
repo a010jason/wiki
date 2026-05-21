@@ -65,7 +65,7 @@ Michael Goold &amp; Andrew Campbell 1995-2000 提出的 **multibusiness corporat
 ### Intel 的應對策略（事後驗證）
 
 事實時序：
-- 2017 Intel 收 Mobileye $15.3B
+- 2017 Intel 收 Mobileye \$15.3B
 - 2017-2022 Mobileye 在 Intel 內**結構性隔離**（Israel-based / 品牌獨立 / 商業模式自主）
 - 2022/10 Mobileye **spin off IPO**
 
@@ -93,7 +93,7 @@ Michael Goold &amp; Andrew Campbell 1995-2000 提出的 **multibusiness corporat
 - Musk 違反 parenting matrix 原則
 
 ### [[entities/Samsung-Electronics|Samsung]] — 1997 turnaround
-- 砍 29,000 員工 + 賣 $2B 資產 — 剝離 ALIEN TERRITORY / BALLAST
+- 砍 29,000 員工 + 賣 \$2B 資產 — 剝離 ALIEN TERRITORY / BALLAST
 - 保留 HEARTLAND（半導體 + 顯示器 + 手機）
 - 對應 [[concepts/corporate-turnaround-strategy|turnaround 第 2 步 re-configuration]]
 

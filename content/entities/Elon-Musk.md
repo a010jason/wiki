@@ -29,7 +29,7 @@ related:
 
 # Elon Musk
 
-連續創業者、Tesla / SpaceX CEO；2022 個人淨值 ~$282B。HBS case 9-722-439 (Yoffie &amp; Fisher 2022)「Doubling Down: Elon Musk's Big Bets in 2022」主角。同時經營 7 家公司：Tesla / SpaceX / Boring Co / Neuralink / Twitter (X) / OpenAI (early funder) / Hyperloop (whitepaper only)。^[extracted]
+連續創業者、Tesla / SpaceX CEO；2022 個人淨值 ~\$282B。HBS case 9-722-439 (Yoffie &amp; Fisher 2022)「Doubling Down: Elon Musk's Big Bets in 2022」主角。同時經營 7 家公司：Tesla / SpaceX / Boring Co / Neuralink / Twitter (X) / OpenAI (early funder) / Hyperloop (whitepaper only)。^[extracted]
 
 > 教師核心 framing：用**孫子兵法「道天地將法」** 對應 Yoffie/Cusumano《Strategy Rules》五法則，把 Musk 拉到 Bill Gates / Andy Grove / Steve Jobs 的同框比較。詳見 [[synthesis/yoffie-five-rules-vs-sun-tzu-five-fundamentals]]。^[teacher-annotation]
 
@@ -39,15 +39,15 @@ related:
 
 | 公司 | 估值 | Musk 持股 | 角色 |
 |---|---|---|---|
-| **Tesla** | ~$617B | ~20% | CEO |
-| **SpaceX**（含 Starlink/Starship） | ~$100B | 48% | CEO |
-| **The Boring Company** | ~$5.7B | ~80% | Founder |
+| **Tesla** | ~\$617B | ~20% | CEO |
+| **SpaceX**（含 Starlink/Starship） | ~\$100B | 48% | CEO |
+| **The Boring Company** | ~\$5.7B | ~80% | Founder |
 | **Neuralink** | ? | ? | Founder |
-| **Twitter (X)** | $44B 收購中 | — | Buyer / CEO |
+| **Twitter (X)** | \$44B 收購中 | — | Buyer / CEO |
 | **OpenAI** | — | 早期 funder（後退出董事會） | Funder |
 | **Hyperloop** | — | — | Whitepaper only |
 
-個人淨值 ~$282B（2022 早期）；薪酬綁市值與營運里程碑。
+個人淨值 ~\$282B（2022 早期）；薪酬綁市值與營運里程碑。
 
 ## Yoffie/Cusumano 五則 ↔ 孫子兵法五事
 
@@ -64,13 +64,13 @@ related:
 ## Tesla — 戰略賭注核心
 
 ### 量化（2017-2021）
-- Revenues：$11.76B → **$53.82B**（5x）
+- Revenues：\$11.76B → **\$53.82B**（5x）
 - Total debt/equity：267.4% → 28.2%（去槓桿）
-- Market value：$52.79B → **$937.7B**（18x，2021 末峰值）
-- 2020 單年增資 $12B（equity）
-- 2022/11 市值峰值 $622.9B；2023 年初股價 $192 / 市值 $608B / 年跌 -42%
-- R&amp;D 從 $93M → **$2,591M**（28x）
-- **Advertising：$3M → $0** — Tesla 零廣告（業界 Ford / GM 廣告費 $700-$2,800/車）
+- Market value：\$52.79B → **\$937.7B**（18x，2021 末峰值）
+- 2020 單年增資 \$12B（equity）
+- 2022/11 市值峰值 \$622.9B；2023 年初股價 \$192 / 市值 \$608B / 年跌 -42%
+- R&amp;D 從 \$93M → **\$2,591M**（28x）
+- **Advertising：\$3M → \$0** — Tesla 零廣告（業界 Ford / GM 廣告費 \$700-\$2,800/車）
 
 ### Gigafactory Bet — 教師標出最大策略賭注
 教師眉批：「**1. Gigafactory bet (vertical integration)**」紅框標出 ^[teacher-annotation]
@@ -118,9 +118,9 @@ related:
 
 ### 預測（2019-2040）
 - Launches 11 → 365 per year
-- Revenue $580M → $24.32B
+- Revenue \$580M → \$24.32B
 - Starlink subscribers 0 → 292M
-- Starlink revenue $0 → $71.49B
+- Starlink revenue \$0 → \$71.49B
 
 ## Twitter / X 收購（2022）
 

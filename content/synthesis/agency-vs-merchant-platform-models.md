@@ -50,7 +50,7 @@ related:
 - **Booking 70-80% 集團 revenue**（vs Expedia merchant 業務逐年衰退）
 - **阿里巴巴 Tmall** 賺得比 京東自營 多（雖然京東後來轉 hybrid）
 - **Amazon FBA marketplace** 占 Amazon 整體 GMV 60%+
-- **iBuyer 全行業失敗**（Zillow Offers 2021 關門虧 $500M）
+- **iBuyer 全行業失敗**（Zillow Offers 2021 關門虧 \$500M）
 
 可能原因：
 1. **資本效率**：不擔庫存 → ROE 高
