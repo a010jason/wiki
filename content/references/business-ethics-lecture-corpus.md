@@ -8,39 +8,45 @@ sources:
   - id: Ethics-Lee-CapitalBus-2025
     type: lecture-slides
     rel_path: 企業經營與倫理專題講座/1140226_企業經營與倫理_李建文_最終.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1vlWqj5n5GNhzm9juxSZ5xr0lXA5evPVW/view
     pages: 53
     sha256: f9fc66d281bd15841fa7e042521298cfb4dc1a6414bc6b32103ee90539d3eecf
-    ingested_commit: pending
+    ingested_commit: b7de5cf
   - id: Ethics-Tsai-YangMing-2025
     type: lecture-slides
     rel_path: 企業經營與倫理專題講座/1140416 變動的年代-航運業的挑戰與機遇_國立陽明交通大學 final.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1X65hq9YhM9RFzXhahI43Xa6d6besRb8W/view
     pages: 51
     sha256: 05a5e8487eda0cc001d596c68eb3bc81c0b5161f8c3963d8eb52e29d785ba680
-    ingested_commit: pending
+    ingested_commit: b7de5cf
   - id: Ethics-Huang-Tymphany-2025
     type: lecture-workbook
     rel_path: 企業經營與倫理專題講座/20250319_求才難-做雇主品牌_Workbook.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1OuEciNEirLuHWF7Hltt4gLmlkkXiJfbr/view
     pages: 8
     sha256: 9cd1ca8646ed72162fffd264a3d11ddcab7698e88d4b30c9fb57c460e22c903b
-    ingested_commit: pending
+    ingested_commit: b7de5cf
   - id: Ethics-Case-MercuriesLife
     type: case-note
     rel_path: 企業經營與倫理專題講座/三商美邦人壽.pdf
+    drive_url: https://drive.google.com/file/d/1umJKdu2bdVuNslFR5d6dQk-u1ewmpH_o/view
     pages: 2
     sha256: 1100294c753002cd2ea783b089a2a2a3fecc60673e781baddccb530d39cf3b2b
-    ingested_commit: pending
+    ingested_commit: b7de5cf
   - id: Ethics-Case-KuoYuanYe
     type: case-note
     rel_path: 企業經營與倫理專題講座/舊振南.pdf
+    drive_url: https://drive.google.com/file/d/1mtgaKu6db6nAk04J8x8YaQf18E7SQR9-/view
     pages: 3
     sha256: c328b35243eabe1dde6b3dfe08aa3bfd2c82bc255bc2c341f6deff423a1f80c5
-    ingested_commit: pending
+    ingested_commit: b7de5cf
   - id: Ethics-Case-Tymphany
     type: case-note
     rel_path: 企業經營與倫理專題講座/迪芬尼聲學科技.pdf
+    drive_url: https://drive.google.com/file/d/1UGlEjTZh6ge-PtsBw5mNMgsnCAqPd17s/view
     pages: 2
     sha256: 5685815abff5796609e89720bcddf5c8353f10a146255b1fe87135198d9c1d73
-    ingested_commit: pending
+    ingested_commit: b7de5cf
 provenance:
   extracted: 6
   inferred: 0
