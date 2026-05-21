@@ -14,9 +14,9 @@ provenance:
   extracted: 0.80
   inferred: 0.15
   ambiguous: 0.05
-base_confidence: 0.80
-lifecycle: draft
-lifecycle_changed: 2026-05-20
+base_confidence: 0.55
+lifecycle: challenged
+lifecycle_changed: 2026-05-22
 ---
 
 # STP Framework
@@ -111,6 +111,16 @@ G-STIC:  Goal → Strategy → Tactics → Implementation → Control
 - **Positioning**：通常 frame of reference 是「比較準的 AI 模型」（功能 framing），但可以重設為「比較會講話的影像科助理」（語言 framing） — 翻轉 frame of reference 是 EBM 等中小型醫療 AI 廠商可能的策略
 
 待 STP-applied-to-medical-AI-PM 展開。
+
+## Critique 摘要
+
+> **2026-05-22 跑了一次 wiki-challenge**
+>
+> 5 條核心 claim：1 survives / 3 narrow / 1 brittle / 0 unsupported。**主要弱點**：(a) 過度假設靜態 / sequential marketing planning，沒處理 algorithmic platform / lean startup / emergent strategy 三種主流現代場景；(b) Claim 5「波特差異化只到 BU」是教師個人 reading，與 Porter 1985 原書處理 competitive scope 的內容矛盾。
+>
+> `base_confidence`：0.80 → 0.55；`lifecycle`：draft → challenged。
+>
+> 完整逐條質疑、行動項目：私人 meta 頁（不公開），路徑 `_meta/critique/STP-framework.md`。
 
 ## Related
 

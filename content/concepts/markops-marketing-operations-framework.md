@@ -109,6 +109,7 @@ lifecycle_changed: 2026-05-21
 - **vs [[concepts/G-STIC-framework]]**：G-STIC 是 single-product 的策略 + 執行 + 控制三段論；Markops 是 portfolio-level 的 G-STIC 集合管理。
 - **vs [[concepts/marketing-dashboard]]**：Marketing Dashboard 是 metric layer，Markops 是包覆 dashboard 的 decision layer —— 教師補充強調「drowning in data」這個徵兆，暗示 dashboard 沒有 Markops 框架時容易反成負擔。
 - **vs [[concepts/marketing-research-process]]**：Research Process 給 input，Markops 給 output 決策動詞（invest / maintain / milk / divest）。
+- **vs [[concepts/integrated-digital-marketing-six-pillars]]**：六支柱是 execution-pillar 層（SEO / 社群 / 數據廣告 / O2O / 口碑 / PR），Markops 是包覆這些 execution pillars 的 portfolio decision 層 — Markops 決定 invest/milk 各 pillar 多少資源。
 
 ## 與業界「Marketing Ops」用法的差異
 
