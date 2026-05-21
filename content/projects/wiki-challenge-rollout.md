@@ -19,11 +19,11 @@ owner: Jason
 | Tier | 已跑 | 待跑 | 總計 |
 |---|---|---|---|
 | Tier 1 — Top hub pages | **5/5 ✅** (disruptive-innovation / STP-framework / OKR / falsifiability-popper / VRIO-framework) | 0 | 5 |
-| Tier 2 — Cross-domain hub theories | 4 (scientific-theory ✅ / causality-three-conditions ✅ / innovation-diffusion-theory ✅ / elaboration-likelihood-model ✅) | 1 | 5 |
-| Tier 3 — Research methods 核心 | 4 (agency-theory ✅ / construct-validity ✅ / reflective-vs-formative ✅ / inductive-vs-deductive ✅) | 6 | 10 |
+| Tier 2 — Cross-domain hub theories | **5/5 ✅** (scientific-theory / causality-three-conditions / innovation-diffusion-theory / elaboration-likelihood-model / social-cognitive-theory) | 0 | 5 |
+| Tier 3 — Research methods 核心 | 5 (agency-theory ✅ / construct-validity ✅ / reflective-vs-formative ✅ / inductive-vs-deductive ✅ / theory-vs-not-theory ✅) | 5 | 10 |
 | Tier 4 — Wave 2 supplementary papers | 0 | 6 | 6 |
 | Tier 5 — Research methods supporting | 0 | 15 | 15 |
-| **總計** | **13** | **28** | **41** |
+| **總計** | **15** | **26** | **41** |
 
 剩餘 363 頁 draft 屬 lower-priority（先跑這 40 個 high-impact 的）。
 
@@ -54,7 +54,7 @@ owner: Jason
 - [x] **`concepts/causality-three-conditions`** — 2026-05-22 done（5 claims: 1 survives / 2 narrow / 2 brittle / 0 unsupported；忽略 Pearl 2009 因果推論革命、頁面內部自我矛盾「cross-sectional 不可推因果」vs 下方列 IV/RD/DID 工具、醫療 AI「需要 RCT」與 FDA 實務不符）
 - [x] **`concepts/innovation-diffusion-theory`** — 2026-05-22 done（5 claims: 0 survives / 3 narrow / 2 brittle / 0 unsupported；Tornatzky-Klein 1982 meta-analysis 未引、network effects 整合不足、醫療 AI 5 構念映射 brittle vs reimbursement+FDA+multi-stakeholder 實況、survivorship bias）
 - [x] **`concepts/elaboration-likelihood-model`** — 2026-05-22 done（5 claims: 0 survives / 3 narrow / 2 brittle / 0 unsupported；頁面誤述 ELM 作者立場 — Cacioppo-Petty 1982 Need for Cognition 識別 chronic trait moderator；HSM/Unimodel 未提；醫療 AI 弔詭 claim 過度自信；MOA 三因素缺席）
-- [ ] **`concepts/social-cognitive-theory`** — Bandura；reciprocal triadic causation 反 falsifiable 嫌疑
+- [x] **`concepts/social-cognitive-theory`** — 2026-05-22 done（5 claims: 0 survives / 2 narrow / 3 brittle / 0 unsupported；triadic reciprocal causation falsifiability 問題 Phillips-Orton 1983 / Bunge 1979 未 serious 處理；醫療 AI 四來源處方 transfer Bandura 1977 運動/anxiety 無實證橋接 + Watson Health 高 efficacy build-up 仍失敗反例；Vancouver-Kendall 2006 within-person 負向效應頁面自己引但未整合）
 
 ## Tier 3 — Research Methods 核心（Bhattacherjee 主幹）
 
@@ -62,7 +62,7 @@ owner: Jason
 - [x] **`concepts/construct-validity`** — 2026-05-22 done（5 claims: 0 survives / 2 narrow / 3 brittle / 0 unsupported；single-source Bhattacherjee、Messick unified view 未引、Fornell-Larcker 已被 HTMT 取代 10 年、Coltman "95% reflective" 是 MIS 子領域 snapshot 被過度推廣）
 - [x] **`concepts/reflective-vs-formative-measurement`** — 2026-05-22 done（5 claims: 0 survives / 2 narrow / 3 brittle / 0 unsupported；Coltman 是綜述非首發，前置 Bollen-Lennox 1991 / Jarvis 2003 / Edwards-Bagozzi 2000 未引；反方 Bagozzi 2007 / Howell 2007 缺席；binary split 忽略 MIMIC + composite；PLS-SEM-only 過強）
 - [x] **`concepts/inductive-vs-deductive-research`** — 2026-05-22 done（5 claims: 0 survives / 3 narrow / 2 brittle / 0 unsupported；100% Bhattacherjee；Wallace 1971 / Hume 1748 / Peirce 1903 abduction / Bryman 2007 critique 全未引；Popper 框架忽略 Bayesian/PAC 70 年發展；deductive>inductive 漏 conditional 關鍵 caveat；critical realism retroduction missing；mixed-mode aspirational claim）
-- [ ] **`concepts/theory-vs-not-theory`** — Sutton-Staw 五件不是 theory；對 grounded theory 不公
+- [x] **`concepts/theory-vs-not-theory`** — 2026-05-22 done（5 claims: 0 survives / 4 narrow / 1 brittle / 0 unsupported；100% Sutton-Staw 編輯立場；Doty-Glick 1994 typology=theory / Eisenhardt 1989 case-based theory-building 等 alternative 未正面整合；跨領域盲點 物理 GR / Linnaean / Big Five 等 descriptive theory 不適用；counter-to-common-sense 與 replication crisis 不一致；page 自承「全無共識」卻採 Sutton-Staw 為金科玉律自我矛盾）
 - [ ] **`concepts/theory-building-blocks-whetten`** — Whetten 1989 四 blocks
 - [ ] **`concepts/attributes-of-good-theory`** — 5 準則 + falsifiability/parsimony 衝突
 - [ ] **`concepts/research-design`** — design hub

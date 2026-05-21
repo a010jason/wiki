@@ -17,8 +17,8 @@ provenance:
   inferred: 0.05
   ambiguous: 0
 base_confidence: 0.5
-lifecycle: draft
-lifecycle_changed: 2026-05-21
+lifecycle: challenged
+lifecycle_changed: 2026-05-22
 ---
 
 # What Theory Is NOT
@@ -125,6 +125,16 @@ PRD / strategy doc 常陷入「不是 theory」的五個陷阱：
 - Sutton-Staw 高標準在管理學 PhD 訓練上產生 **theoretical anxiety** — 學生害怕寫 paper
 - 對 inductive / grounded research 不公平（grounded theory 本就是從 data 上升至 theory，過程中很多步驟「不是 theory」）
 - 對 typology / taxonomy 過於苛刻 — Doty & Glick (1994) 反駁：configural typology 是 theory 的一種
+
+## Critique 摘要
+
+> **2026-05-22 跑了一次 wiki-challenge**
+>
+> 5 條核心 claim：0 survives / 4 narrow / 1 brittle / 0 unsupported。主要弱點：100% Sutton-Staw 編輯立場 single-source；Doty-Glick 1994 typology=theory / Eisenhardt 1989 case-based theory-building 等 alternative 全未正面整合；跨領域盲點明顯（物理 GR / Linnaean taxonomy / Big Five 等 descriptive/structural theory 不適用「theory = causal why」narrow 定義）；「Counter to common sense」privileges sensationalism，與 replication crisis 2015 + estimation approach 不一致；page 自承 theory-building literature「全無共識」卻採 Sutton-Staw 為金科玉律自我矛盾；Weick 同期反方 page 自承「slide 沒深入」未充分展開。
+>
+> `base_confidence`：0.50 → 0.50（已在 brittle cap 0.55 內）；`lifecycle`：draft → challenged。
+>
+> 完整逐條質疑、行動項目：私人 meta 頁（不公開），路徑 `_meta/critique/theory-vs-not-theory.md`。
 
 ## Related
 
