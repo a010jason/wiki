@@ -17,8 +17,8 @@ provenance:
   inferred: 0.05
   ambiguous: 0
 base_confidence: 0.55
-lifecycle: draft
-lifecycle_changed: 2026-05-21
+lifecycle: challenged
+lifecycle_changed: 2026-05-22
 ---
 
 # Elaboration Likelihood Model (ELM)
@@ -110,6 +110,16 @@ P2P lending investment intention：
 - Motivation / ability 的測量在不同研究不一致
 - 後續 dual-process theory（System 1 vs System 2, Kahneman）框架更廣
 - 跨文化適用性（高 [[concepts/hofstede-cultural-dimensions|collectivist]] 文化中 peripheral cue 權重可能更高）
+
+## Critique 摘要
+
+> **2026-05-22 跑了一次 wiki-challenge**
+>
+> 5 條核心 claim：0 survives / 3 narrow / 2 brittle / 0 unsupported。四個結構性問題：(1) **頁面誤述 ELM 作者立場** — Claim「ELM 是 situational 不是 trait」與 Cacioppo-Petty 1982 *JPSP* 的 Need for Cognition 工作直接矛盾（同樣兩位作者識別 chronic trait moderator）；(2) 競爭 dual-process 理論（Chaiken HSM 1980、Kruglanski Unimodel 1999）未提；(3) 醫療 AI 弔詭 claim 在無實證基礎下做強預測，忽略 reimbursement、specialty 差異、Watson Health 反例；(4) MOA framework（MacInnis-Moorman-Jaworski 1991 三因素）缺席，頁面把 Bhattacherjee 教學化簡的「Ability + Motivation」當原始 ELM。
+>
+> `base_confidence`：0.55 → 0.55（brittle cap 觸頂）；`lifecycle`：draft → challenged。
+>
+> 完整逐條質疑、行動項目：私人 meta 頁（不公開），路徑 `_meta/critique/elaboration-likelihood-model.md`。
 
 ## Related
 

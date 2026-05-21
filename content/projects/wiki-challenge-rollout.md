@@ -19,11 +19,11 @@ owner: Jason
 | Tier | 已跑 | 待跑 | 總計 |
 |---|---|---|---|
 | Tier 1 — Top hub pages | **5/5 ✅** (disruptive-innovation / STP-framework / OKR / falsifiability-popper / VRIO-framework) | 0 | 5 |
-| Tier 2 — Cross-domain hub theories | 3 (scientific-theory ✅ / causality-three-conditions ✅ / innovation-diffusion-theory ✅) | 2 | 5 |
+| Tier 2 — Cross-domain hub theories | 4 (scientific-theory ✅ / causality-three-conditions ✅ / innovation-diffusion-theory ✅ / elaboration-likelihood-model ✅) | 1 | 5 |
 | Tier 3 — Research methods 核心 | 4 (agency-theory ✅ / construct-validity ✅ / reflective-vs-formative ✅ / inductive-vs-deductive ✅) | 6 | 10 |
 | Tier 4 — Wave 2 supplementary papers | 0 | 6 | 6 |
 | Tier 5 — Research methods supporting | 0 | 15 | 15 |
-| **總計** | **12** | **29** | **41** |
+| **總計** | **13** | **28** | **41** |
 
 剩餘 363 頁 draft 屬 lower-priority（先跑這 40 個 high-impact 的）。
 
@@ -53,7 +53,7 @@ owner: Jason
 - [x] **`concepts/scientific-theory`** — 2026-05-22 done（5 claims: 0 survives / 2 narrow / 3 brittle / 0 unsupported；positivist organizational research 立場當普世真理、prediction-vs-explanation 二分被 Cartwright/Salmon 反駁未引、theory-ladenness of observation 違反 Quine/Hanson/Kuhn）
 - [x] **`concepts/causality-three-conditions`** — 2026-05-22 done（5 claims: 1 survives / 2 narrow / 2 brittle / 0 unsupported；忽略 Pearl 2009 因果推論革命、頁面內部自我矛盾「cross-sectional 不可推因果」vs 下方列 IV/RD/DID 工具、醫療 AI「需要 RCT」與 FDA 實務不符）
 - [x] **`concepts/innovation-diffusion-theory`** — 2026-05-22 done（5 claims: 0 survives / 3 narrow / 2 brittle / 0 unsupported；Tornatzky-Klein 1982 meta-analysis 未引、network effects 整合不足、醫療 AI 5 構念映射 brittle vs reimbursement+FDA+multi-stakeholder 實況、survivorship bias）
-- [ ] **`concepts/elaboration-likelihood-model`** — Petty-Cacioppo dual-process；medical AI 採用 framing
+- [x] **`concepts/elaboration-likelihood-model`** — 2026-05-22 done（5 claims: 0 survives / 3 narrow / 2 brittle / 0 unsupported；頁面誤述 ELM 作者立場 — Cacioppo-Petty 1982 Need for Cognition 識別 chronic trait moderator；HSM/Unimodel 未提；醫療 AI 弔詭 claim 過度自信；MOA 三因素缺席）
 - [ ] **`concepts/social-cognitive-theory`** — Bandura；reciprocal triadic causation 反 falsifiable 嫌疑
 
 ## Tier 3 — Research Methods 核心（Bhattacherjee 主幹）
