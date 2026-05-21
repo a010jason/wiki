@@ -16,8 +16,8 @@ provenance:
   inferred: 0.1
   ambiguous: 0
 base_confidence: 0.4
-lifecycle: draft
-lifecycle_changed: 2026-05-21
+lifecycle: challenged
+lifecycle_changed: 2026-05-22
 ---
 
 # Falsifiability（可否證性）
@@ -83,6 +83,16 @@ Bhattacherjee 自己承認此準則嚴格化會排除部分有價值科學：
 - **產品 hypothesis 設計**：好的 product hypothesis 必須可被 falsified（「這個 feature 會讓 retention 升 X%」可驗證；「我們的 AI 改善診斷品質」太籠統難 falsify）
 - **PR-FAQ 寫作**：寫 PR-FAQ 時為產品畫出 falsifiable success metrics，是把 PM 直覺變成 testable claim 的訓練
 - **醫療 AI 申報 FDA**：FDA 510(k) 採 substantial equivalence（與既有產品等效），不是嚴格 falsification — 這是 Popper 學派會批評的「too soft」（見 falsifiability tension in social science 待寫）
+
+## Critique 摘要
+
+> **2026-05-22 跑了一次 wiki-challenge**
+>
+> 5 條核心 claim：0 survives / 2 narrow / 3 brittle / 0 unsupported。主要弱點是**現代科哲三巨頭（Duhem-Quine / Lakatos / Kuhn）的 omission** —— 把 Popperian 嚴格版當成 demarcation 唯一準則，缺 Lakatos research programmes（解 Newton/Bohr「被 falsified 但仍是 good theory」）、Kuhn paradigm shifts（解 working scientists 對 string theory 等 unfalsifiable theory 的接納）。次要弱點是對 Freud 全盤否定未引 Grünbaum 1984 + Loftus 對 repression 的實際 falsify。
+>
+> `base_confidence`：0.40 → 0.40（在 brittle cap 0.55 內，保持不變）；`lifecycle`：draft → challenged。
+>
+> 完整逐條質疑與行動項目：私人 meta 頁（不公開），路徑 `_meta/critique/falsifiability-popper.md`。
 
 ## Related
 

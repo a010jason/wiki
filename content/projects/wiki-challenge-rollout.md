@@ -18,12 +18,12 @@ owner: Jason
 
 | Tier | 已跑 | 待跑 | 總計 |
 |---|---|---|---|
-| Tier 1 — Top hub pages | 0 | 5 | 5 |
+| Tier 1 — Top hub pages | 2 (disruptive-innovation ✅ / STP-framework ✅) | 3 | 5 |
 | Tier 2 — Cross-domain hub theories | 0 | 5 | 5 |
 | Tier 3 — Research methods 核心 | 1 (agency-theory ✅) | 9 | 10 |
 | Tier 4 — Wave 2 supplementary papers | 0 | 6 | 6 |
 | Tier 5 — Research methods supporting | 0 | 15 | 15 |
-| **總計** | **1** | **40** | **41** |
+| **總計** | **3** | **38** | **41** |
 
 剩餘 363 頁 draft 屬 lower-priority（先跑這 40 個 high-impact 的）。
 
@@ -42,11 +42,11 @@ owner: Jason
 
 按 incoming wikilink count 排序：
 
-- [ ] **`concepts/disruptive-innovation`** — 62 incoming，Christensen 1997；現成反例多（Lepore 2014 *New Yorker* "Disruption Machine"、Sood-Tellis 2011 *MIS Quarterly*）
-- [ ] **`concepts/STP-framework`** — 48 incoming，Kotler 行銷核心
+- [x] **`concepts/disruptive-innovation`** — 2026-05-22 done（5 claims: 1 survives / 1 narrow / 2 brittle / 1 unsupported；單邊 sourcing、iPhone 反例、Amazon/Azure/Netflix 反 Claim 5）
+- [x] **`concepts/STP-framework`** — 2026-05-22 done by parallel session (commit 7bf729f, 1 survives / 3 narrow / 1 brittle；教師批註「Porter 差異化只停在 BU」與 Porter 1985 原書矛盾)
 - [ ] **`concepts/VRIO-framework`** — 47 incoming，RBV 經典；常與 Porter's 5F 並用但少人挑戰前提
 - [ ] **`concepts/OKR`** — 40 incoming，Intel/Google 神話；OKR vs KPI 二分常 brittle
-- [ ] **`concepts/falsifiability-popper`** — 我寫的，本身就有 anthropology / sociology 反例張力可挖
+- [x] **`concepts/falsifiability-popper`** — 2026-05-22 done（5 claims: 0 survives / 2 narrow / 3 brittle / 0 unsupported；主要弱點 Duhem-Quine / Lakatos / Kuhn omission + Freud 全盤否定未引 Grünbaum 1984 + Loftus repression 實證；commit pending）
 
 ## Tier 2 — Cross-Domain Hub Theories（跨多個 wiki 章節引用）
 
