@@ -13,6 +13,8 @@ provenance:
   inferred: 0.15
   ambiguous: 0.05
 base_confidence: 0.55
+summary: >-
+  從數千形容詞 cluster 出的 5 大人格維度（OCEAN / CANOE）：Conscientiousness（盡責）/ Agreeableness（親和）/ Neuroticism（神經質、反向為情緒穩定）/ Openness（開放）/ Extraversion（外向）。Conscientiousness 是 King —— 跨職業最強且最一致的 job performance predictor，童年 conscientiousness → 50 年後 career success 強相關（effect 約其他 Big Five 的 2 倍），且與全因死亡率負相關。遺傳性 35-49%（identical twins reared apart 研究）。
 lifecycle: draft
 lifecycle_changed: 2026-05-20
 ingest_method: pdftotext

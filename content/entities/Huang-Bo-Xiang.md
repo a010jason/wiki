@@ -6,6 +6,9 @@ tags: [Huang-Bo-Xiang, HR, employer-branding, Tymphany]
 aliases: [黃柏翔, Bert Huang]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  [[entities/Tymphany]] 迪芬尼聲學科技人資長，跨產業（銀行、教育、音響）人資經驗豐富，PMP 國際認證、銀髮健康照顧協會理事、跨文化訓練協會理事。核心理念「專業極限玩家」（「先不要想可不可能，先想怎麼做」）與雇主品牌四要素金字塔（體驗 / 員工 / 期望 / 表達）。2025-03-19 於陽明交大主講「求才難-做雇主品牌 Workbook」，為 [[concepts/employer-branding]] 框架的主要建構者。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

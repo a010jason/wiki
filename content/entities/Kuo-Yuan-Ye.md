@@ -6,6 +6,9 @@ tags: [Kuo-Yuan-Ye, food, family-firm, branding, taiwan]
 aliases: [舊振南, Kuo Yuan Ye, 舊振南食品]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  舊振南食品，1890 年代由李府家族於高雄創立的台灣家族企業，以漢餅（綠豆椪、鳳梨酥、月餅）為核心，台灣最具歷史的食品老店之一。從傳統糕餅店轉型為精緻品牌的代表，目前由第六代李雄慶主導。品牌策略四支柱：通路多元化、品牌聯名（杜老爺、初鹿牧場）、城市聯名（台南建城 400 年）、文化體驗（漢餅融入出生 / 節氣 / 婚禮）。核心教訓：「有 Content 才是王道」、「不與寄賣通路合作」以保留品牌掌控。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

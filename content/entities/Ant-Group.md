@@ -6,6 +6,8 @@ tags: [entity, fintech, china, alibaba, platform, regulation, mgmt, strategy]
 aliases: [Ant Group, Ant Financial, 螞蟻金服, 螞蟻集團, Alipay parent]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  中國 fintech 巨擘，Alibaba 集團旗下子公司（後分拆）。Alipay 第三方支付市占 68.4%，全球擴張 10 國本地版錢包覆蓋 30 億用戶。2020-11 IPO 撤回事件（原估值 ~$300B 史上最大 IPO 緊急喊停，馬雲外灘演講批評監管後）為案例核心。戰略 DNA：[[concepts/institutional-voids]] → ecosystem competition → [[concepts/substitute-complement-substitute-cycle]] 三段論。生態演化：Alipay（escrow 解 lemon problem）→ 餘額寶（理財）→ 芝麻信用（信用評等）→ MYbank（網商銀行），系統性替代中國四大銀行未服務的客群。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:

@@ -6,6 +6,9 @@ tags: [carbon-pricing, ETS, carbon-tax, CBAM, policy]
 aliases: [Carbon Pricing, 碳定價, 排放交易]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  將溫室氣體外部成本內部化的三大主流機制：ETS（排放交易）/ 碳稅 / [[concepts/CBAM]] 進口碳關稅，輔以企業內部碳價（ICP）。EU ETS 碳價從 2005 €5/噸漲至 2023 €80-100/噸（40 倍），覆蓋歐盟 40% 排放。亞洲：中國 56 RMB、南韓 13,650 KRW、日本 289 JPY、新加坡 2030 升至 50 SGD。台灣 [[concepts/taiwan-carbon-fee]] 2025 起首波 287 家排放大戶。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

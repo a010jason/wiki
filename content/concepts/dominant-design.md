@@ -13,6 +13,8 @@ provenance:
   inferred: 0.2
   ambiguous: 0.05
 base_confidence: 0.4
+summary: >-
+  新產業早期百家爭鳴，到某臨界點市場收斂至單一主流配置，後續創新主要在 process 而非 product（經典三例：Ford Model T、IBM 360、Douglas DC3）。三個 entrenchment 鎖死機制：Learning effects（PACS hanging protocol 熟練）、Switching costs（HIS / PACS 替換難度極高）、Coordination requirements（DICOM、HL7、FHIR 之所以 sticky）。疊加 network externalities 易進入 winner-take-all。Standards war 兩條路線：Maximize market acceptance（VHS）vs Maximize value appropriation（Betamax），無兩全方案。
 lifecycle: draft
 lifecycle_changed: 2026-05-20
 ingest_method: read-subagent

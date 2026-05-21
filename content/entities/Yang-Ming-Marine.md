@@ -6,6 +6,9 @@ tags: [Yang-Ming, shipping, ESG, taiwan, alliance]
 aliases: [陽明海運, Yang Ming, 陽明]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  台灣三大貨櫃航運公司之一（與長榮、萬海並列），國營背景轉公私合營，2024-08 [[entities/Tsai-Feng-Ming]] 接任董事長。2025-02 加入 Premier Alliance 卓越聯盟（Yang Ming + ONE + HMM，200 艘現代化船舶、65 港口、200+ 週航線）。ESG 承諾：2050 淨零、2025 碳排強度較 2024 減 1%、辦公大樓 2030 RE40、5 艘 LNG 雙燃料 2026 起交付。三大挑戰：川普 2.0 港口費（中船 USD 1M / 中製船 1.5M）、紅海危機繞道好望角（+ USD 600-800/TEU）、烏俄黑海中斷。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

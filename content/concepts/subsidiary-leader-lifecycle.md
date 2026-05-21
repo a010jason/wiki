@@ -6,6 +6,8 @@ tags: [concept, mnc-management, subsidiary-management, organizational-lifecycle,
 aliases: [Subsidiary Leader Stages, Go-Getter Local Baron Professional Manager, Bartlett subsidiary leader stages]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  Christopher Bartlett 在 [[entities/Levendary-Cafe]] case 明引的子公司領導人三階段演化：(1) Go-Getter（拼命三郎 / 自走砲，建立 beachhead，高自主 + 高 entrepreneurial energy，HQ 給 resources + 信任）→ (2) Local Baron（藩鎮割據 / 土皇帝，累積 local knowledge 與 relationships，開始用在地化為由抵抗 HQ 標準）→ (3) Professional Manager（既懂 local 又能整合 HQ standard）。演化是雙向的，可前進也可退化。HQ 典型誤判：以為「給人 + 給錢 + 給時間就會自然演化」。常見對策：演化失敗 → 換人。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:

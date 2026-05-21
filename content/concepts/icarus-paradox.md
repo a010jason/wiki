@@ -6,6 +6,8 @@ tags: [concept, organizational-failure, incumbent-trap, pivot, mgmt, strategy]
 aliases: [Icarus paradox, 伊卡洛斯悖論, Miller 1990, success breeds failure]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  過去成功的同一套要素，反而成為未來失敗的根源。源自希臘神話 Icarus 用蠟黏羽毛飛翔卻因飛得太高被太陽融化墜落 —— 翅膀本身既是飛翔工具也是毀滅種子。學術源頭：Danny Miller (1990)《The Icarus Paradox》提出 4 種 trajectory（focusing / venturing / inventing / decoupling）。關鍵 paradox 點：capability 與 disability 同源 —— 正是過去讓你成功的東西讓你失敗。教師（[[entities/Tang-Edwin-Yingzhang]]）以 [[entities/HTC]] VR 案例為主例。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:

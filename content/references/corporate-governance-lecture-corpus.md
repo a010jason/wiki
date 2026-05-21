@@ -87,6 +87,9 @@ provenance:
   inferred: 0
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  2025 春學期公司治理課程逐條教學筆記與配套素材，涵蓋公司法 + 證券交易法的董事忠實義務、競業禁止、累積投票、特別股、獨董與三委會、審計委員會等核心議題。9 份 lecture-notes（2-9p 各週）+ HP pretexting 案的 Forbes / CIO.com 新聞截圖（2 份）。為本 wiki concepts/director-fiduciary-duty、independent-director、audit-committee、competing-business-prohibition、dual-class-shares、pyramidal-control-structure 等治理概念的核心來源。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

@@ -6,6 +6,9 @@ tags: [Capital-Bus, transportation, ethics, taiwan, crisis-management]
 aliases: [首都客運, Capital Bus, 首都]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  台灣最大民營客運集團，經營公車（市區、國道、跨城）與公路運輸服務，2015-10 取得全國第一張客運業 [[concepts/ISO-39001]] 道路交通安全管理證書。在企業倫理史上以 2012-05-07 雪隧火燒車重大事故（2 死 31 傷）的危機處理為示範案例，總經理 [[entities/Li-Jian-Wen]] 與罹難者家屬 1 對 1 聯繫、3 年後仍參加罹難者兒子喜宴，展現倫理領導力。透過 [[concepts/pointing-and-calling]] 指差確認 + 月度執行率 + 未執行減薪 500 元的金錢誘因強化安全文化。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

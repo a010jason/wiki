@@ -6,6 +6,9 @@ tags: [pointing-and-calling, safety, human-factor]
 aliases: [指差確認, Pointing and Calling, 指差喚呼]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  源自日本鐵道的「手指 + 出聲」確認標準動作（慢、停、指、出聲喚呼），日本鐵道研究指可減少約 85% 人為失誤。[[entities/Capital-Bus-Group]] 導入大客車左轉前確認流程，警方認同其防呆效果。為何有效：多感官激發（視覺 + 動作 + 聽覺）、強制慢動作迫使掃描死角、可被外部驗證。配合 [[concepts/ISO-39001]] 月度執行率 + 未執行減薪 500 元的金錢誘因。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

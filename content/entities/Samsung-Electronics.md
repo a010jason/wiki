@@ -6,6 +6,8 @@ tags: [entity, hbs-case, chaebol, brand-turnaround, vertical-integration, korea,
 aliases: [Samsung, SEC, 三星電子]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  韓國最大 chaebol，HBS 9-504-051（Quelch & Harrington 2003）行銷視角 turnaround 案例。1997 亞洲金融風暴後從負債 $15B / 淨利 -$1.6B 的三流 OEM commodity brand，2002 翻身成 top 25 global brand（$10.8B 品牌價值，唯一韓國品牌）；1997-2002 股價漲 10 倍。戰略 DNA：[[concepts/vertical-integration]] 反主流（Yun Jong Yong：「製造外包就輸了」）+ 純硬體 + open-architecture（避軟體保護專利風險）+ [[concepts/sashimi-theory]]（科技產品像生魚片，5 個月 concept-to-market vs 業界 14 個月）+ DigitAll 多功能整合。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:

@@ -6,6 +6,9 @@ tags: [corporate-governance, fiduciary-duty, company-law, taiwan]
 aliases: [帝王條款, 忠實義務, fiduciary duty, 23 條]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  台灣公司法第 23 條「帝王條款」，要求公司負責人對公司負忠實義務（duty of loyalty）與注意義務（duty of care），違反需賠償損失，股東會得決議將其所得視為公司所得。對比美國以重大過失為要件並明文採商業判斷規則（BJR）；台灣為一般過失、BJR 解釋上有但未明文。第 8 條定義含「實質董事 / 影子董事」——非掛名但實際指揮經營者亦負責任。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

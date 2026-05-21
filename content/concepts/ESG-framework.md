@@ -6,6 +6,9 @@ tags: [ESG, sustainability, framework]
 aliases: [ESG, Environmental Social Governance, 環境社會治理]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  Environmental（環境）+ Social（社會）+ Governance（治理）三支柱，是企業永續評估的核心框架，反映股東資本主義向利害關係人資本主義的轉向。Larry Fink（[[entities/BlackRock]]）2018 起年度致股東信反覆主張其重塑金融的角色。台灣 2023 起資本額 ≥ 20 億上市櫃強制編製永續報告書、2025 擴及 20 億以下；批判面有 [[concepts/ESG-rating-divergence]]、[[concepts/greenwashing]]、多準則重疊。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

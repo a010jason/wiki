@@ -6,6 +6,9 @@ tags: [CBAM, carbon-border, EU, trade-policy]
 aliases: [CBAM, Carbon Border Adjustment Mechanism, 碳邊境調整機制]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  歐盟 2022 立法、2026 全面實施的「碳關稅」，對進口商品隱含碳排徵費以防 [[concepts/carbon-pricing]] 下的碳洩漏。首波覆蓋鋼鐵、水泥、鋁、肥料、電力、氫氣，憑證價格連動 EU ETS。台灣 2026 起進口成本將升 2-8%，鋼鐵業首當其衝，與 [[concepts/taiwan-carbon-fee]] 存「雙重課稅」風險。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

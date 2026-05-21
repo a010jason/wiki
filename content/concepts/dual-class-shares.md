@@ -6,6 +6,9 @@ tags: [dual-class, shares, governance, control]
 aliases: [複數表決權, dual class, super voting]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  讓特定股票持有人每股擁有多票（如 1 股 = 10 票），常用於創辦人 / 家族保留控制權同時對外發行普通股募資。代表案例：Google A/B/C 三類股、Meta B 類股 10 票/股、Snap C 類股 0 票（IPO 投資人無表決權）。台灣 2018 公司法修正第 157 條開放但僅限非公開發行公司，目的是吸引新創在台 IPO。批判面：違反股權平等、代理問題加劇。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

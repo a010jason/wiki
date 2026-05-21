@@ -13,6 +13,8 @@ provenance:
   inferred: 0.35
   ambiguous: 0.05
 base_confidence: 0.35
+summary: >-
+  D'Aveni 定義：「intense and rapid competitive moves... continuously creating new competitive advantages and destroying existing competitive advantages」。對 Porter SCP 模型的根本挑戰 —— 因果方向反轉：Porter「Structure → Conduct → Performance」變成「Competition 反過來改變 structure」。McGrath transient advantage：競爭優勢半衰期愈來愈短，企業要不斷啟動下一波。Schumpeter creative destruction：market leaders 被推翻不是因為對手便宜而是定義了新賽局。實證錨點：1912 vs 2018 全球前十大市值公司完全洗牌（commodity/industrial → tech/platform）。
 lifecycle: draft
 lifecycle_changed: 2026-05-20
 ingest_method: read-subagent

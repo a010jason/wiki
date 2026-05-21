@@ -13,6 +13,8 @@ provenance:
   inferred: 0.3
   ambiguous: 0.05
 base_confidence: 0.4
+summary: >-
+  策略管理的內部觀點：當外部環境 volatile 時，企業內部的 resources & capabilities 比 market focus 提供更穩定的策略基礎，為 competitive advantage 的 primary source。譜系：Penrose 1959 → Wernerfelt 1984（命名）→ Barney 1991（VRIO）→ Grant 1991（6-criteria）→ Teece 1997（dynamic capabilities）。因果鏈：Resources → Capabilities → Strategy → Competitive Advantage。識別 capability 兩路徑：Inside-out（[[concepts/value-chain]] 拆內部 activity）vs Outside-in（KSF 從客戶反推）。經典案例：Honda 1946-2020 從引擎技術衍生 motorcycle → car → marine → generator → F1 → 商務機。
 lifecycle: draft
 lifecycle_changed: 2026-05-20
 ingest_method: read-subagent

@@ -6,6 +6,8 @@ tags: [entity, family-firm, denmark, toy-industry, turnaround, ambidexterity, mg
 aliases: [LEGO, Lego, 樂高, The LEGO Group]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  丹麥家族企業，全球第 3 大玩具廠（2010+），1932 年 Ole Kirk Christiansen 創辦於 Billund，1958 經典 stud-and-tube 互鎖系統專利，1963 訂下「LEGO 憲法」10 條 brand characteristics。**1999-2004 過度 explore（Galidor / Explore / Studios / Clothing 多角化爆衝）忽略 exploit（核心 plastic-brick）= [[concepts/organizational-ambidexterity]] 失衡教科書級案例**。2003 DKK -1,406M 淨損、2004 -1,931M 瀕臨破產、Knudstorp 36 歲接 CEO 主導 turnaround。2010 ROE 84.8% / gross margin 72.4%；2017 brand value $7.5B（vs 2010 $2B）。HBS case 9-713-478。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:

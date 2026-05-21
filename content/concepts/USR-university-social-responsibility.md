@@ -6,6 +6,9 @@ tags: [USR, university, SDG, ESG, taiwan]
 aliases: [USR, University Social Responsibility, 大學社會責任]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  大學版的 CSR / ESG，要求大學以研究 + 教學 + 校園永續三軸線回應社會議題；教育部 2018 啟動 USR 計畫補助，THE Impact Rankings（依 [[concepts/SDGs]]）2021 起每年公布。台灣頂大實踐含成大 1,499 門 SDG 課程（為台大 5 倍）、陽明交大 SDG7 論文 1,343 篇（10.8%）、清華綠建築 9 棟 + 6 棟興建中。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

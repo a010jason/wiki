@@ -6,6 +6,9 @@ tags: [TCFD, ESG, climate-risk, sustainability-reporting]
 aliases: [TCFD, Task Force on Climate-related Financial Disclosures]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  金融穩定委員會（FSB）2015 年成立、Michael Bloomberg 主席，提供企業向投資者揭露氣候風險與機會對財務影響的四大支柱（治理、策略、風險管理、指標與目標）。截至 2023-10 全球 4,855 家參採，亞洲過半、日本以 1,000+ 家居冠。2024 年起整體職責移交 [[concepts/ISSB-IFRS-S1-S2]]，TCFD 4 支柱結構幾乎原封進入 IFRS S2。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

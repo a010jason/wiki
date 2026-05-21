@@ -6,6 +6,9 @@ tags: [audit-committee, corporate-governance, taiwan]
 aliases: [審計委員會, Audit Committee]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  由 3 名以上獨立董事組成（台灣證交法 14-4 條），負責財報、內控、內稽、簽證會計師選任等職責；重大事項需審計委員會 2/3 同意 + 董事會決議。「公司派最痛苦的點」—— 可依公司法 220 條繞過董事會直接召集股東會。設審計委員會後可廢監察人。2014 強制 100 億以上 + 金控、銀行；2020 強制全體上市櫃公司。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

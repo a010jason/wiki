@@ -13,6 +13,8 @@ provenance:
   inferred: 0.2
   ambiguous: 0.05
 base_confidence: 0.45
+summary: >-
+  「對 demand 的心理反應，當 demand 涉及利害關係且應對 demand 消耗或超出個人能力或資源時產生」（Colquitt）。Stressors（壓力源）vs Strains（張力後果）。Lazarus & Folkman Transactional Theory 三階段：Primary Appraisal（challenge 還是 hindrance？）→ Secondary Appraisal（該做 / 能做什麼？）→ Coping。Stressor 2×2：Hindrance（role conflict、ambiguity、overload）通常損害績效與健康；Challenge（time pressure、complexity、responsibility）雖耗能但帶內在滿足與成長。Coping 二維：Problem-focused vs Emotion-focused。
 lifecycle: draft
 lifecycle_changed: 2026-05-20
 ingest_method: read-subagent

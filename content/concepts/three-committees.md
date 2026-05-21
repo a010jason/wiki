@@ -6,6 +6,9 @@ tags: [committees, corporate-governance, taiwan, OECD]
 aliases: [三委會, three committees]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  國際標準（OECD、NYSE、Nasdaq）的治理三大委員會 = 審計（[[concepts/audit-committee]]）+ 薪資報酬 + 提名，均由獨立董事主導。台灣監管以「審計優先（2020 全體上市櫃強制）、薪酬次之（2011 起強制）、提名最末（建議、非強制）」為實務順序。對比 OECD / 美國：提名委員會在美為強制（NYSE / Nasdaq）、台灣為建議；獨董比例美國過半、台灣 1/3 + 至少 3 人。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

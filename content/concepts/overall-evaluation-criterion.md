@@ -6,6 +6,8 @@ tags: [concept, ab-testing, measurement, kohavi, mgmt, strategy]
 aliases: [OEC, Overall Evaluation Criterion, Kohavi OEC, A/B testing metric design]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  Ronny Kohavi 一以貫之的 A/B testing 核心概念：實驗的唯一 north-star metric，用來判定 treatment 是否該 ship。「設計 OEC 比設計實驗本身更難」。Kohavi 引 Lewis Carroll：「If you don't know where you are going, any road will take you there」。短期 vs 長期 tradeoff 經典反例：Bing 降低搜尋結果相關性 → 用戶 issue 更多 queries + click 更多 ads（短期 revenue ↑）但長期用戶會流失到 Google。OEC 設計失敗就會優化錯誤目標，比 HiPPO（[[concepts/HiPPO-decision-making]]）更危險 —— 看起來在用 evidence 但 evidence 指向錯方向。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:

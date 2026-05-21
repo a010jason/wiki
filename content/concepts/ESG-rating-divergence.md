@@ -6,6 +6,9 @@ tags: [ESG-rating, divergence, finance, critique]
 aliases: [ESG rating divergence, 評級分歧]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  不同 ESG 評級機構（MSCI、S&P、FTSE Russell、Sustainalytics 等）對同一家公司的評級相關係數常 < 0.6（部分研究僅 0.28-0.58），對比信用評等 > 0.99 顯著低落。原因含方法論不透明、加權差異、產業歸類差異、數據來源不一。經典反差：Tesla MSCI 高分 vs S&P 低分。改善方向指向 [[concepts/ISSB-IFRS-S1-S2]] 統一揭露準則與雙重重大性思維。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

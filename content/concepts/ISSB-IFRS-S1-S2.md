@@ -6,6 +6,9 @@ tags: [ISSB, IFRS, ESG, sustainability-reporting, standardization]
 aliases: [IFRS S1, IFRS S2, ISSB]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  由 IFRS Foundation 於 2021 年 COP26 期間成立的國際永續準則理事會，把碎片化的 TCFD / SASB / CDSB / VRF 整合為單一全球標準。2023-06-26 發佈 IFRS S1（永續財務揭露一般要求）與 S2（氣候揭露），2024 起逐步取代 [[concepts/TCFD-framework]]。台灣金管會接軌時程：100 億以上 2026、50 億以上 2027、其餘 2028。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

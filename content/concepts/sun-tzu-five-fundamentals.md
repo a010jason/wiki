@@ -6,6 +6,8 @@ tags: [concept, classical-chinese, strategy-framework, sun-tzu, cross-domain, mg
 aliases: [孫子兵法五事, 道天地將法, Sun Tzu five fundamentals, Sun Tzu Art of War]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  《孫子兵法·始計篇》開篇所列領導者必須先衡量的五個基本面：道（令民與上同意 → mission / vision / 共同信念）、天（陰陽寒暑時制 → 產業週期 / 時機 / paradigm shift）、地（遠近險易廣狹死生 → 戰場位置 / 競爭環境）、將（智信仁勇嚴 → 領導者人格特質）、法（曲制官道主用 → 組織制度 / SOP）。被教師（[[entities/Tang-Edwin-Yingzhang]]）用以對應 [[concepts/strategy-rules-yoffie-cusumano]] 5 rules 做東西方策略框架 cross-domain benchmark（[[synthesis/yoffie-five-rules-vs-sun-tzu-five-fundamentals]]）。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:

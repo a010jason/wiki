@@ -6,6 +6,9 @@ tags: [Hu-Jin-Li, academic, ESG, sustainability, taiwan]
 aliases: [胡均立, Jin-Li Hu]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  國立陽明交通大學經營管理研究所教授、行政院國家永續發展委員會委員、台灣環境與資源經濟學會理事長、陽明交大 SDGs 工作小組成員。研究專長能源經濟、ESG、永續政策、DEA 效率分析。Google Scholar 引用 8,951 次，Stanford & Elsevier 全球前 2% Top Scientist（1960-2020）。本 wiki ESG 系列的核心骨幹講座（SustainabilityReport-Hu-2023、UN-SDGs-Hu-2023、Heading-NetZero-Hu-2023）來源。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

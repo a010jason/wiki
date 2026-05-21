@@ -6,6 +6,9 @@ tags: [special-shares, preferred-stock, company-law, taiwan]
 aliases: [特別股, preferred shares, 157 條]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  相對普通股具有特殊權利或限制的股份類別。台灣 2018 年公司法 157 條開放 8 項設計要素自由組合（股息分派、剩餘財產分派、表決權、複數表決權、特定事項否決權、轉換權、強制收回、表決權限制），可達成融資、控制、激勵、繼承等多目的。主要應用：家族企業控制權（搭配 [[concepts/pyramidal-control-structure]]）、員工激勵（搭配 [[concepts/ESOP-employee-stock]]）、短期融資（固定股息類債券但計權益）、防禦敵意併購。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

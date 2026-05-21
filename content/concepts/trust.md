@@ -13,6 +13,8 @@ provenance:
   inferred: 0.2
   ambiguous: 0.05
 base_confidence: 0.45
+summary: >-
+  「願意承受脆弱，基於對對方的正向期望」（willingness to be vulnerable based on positive expectations）。三類信任基礎：Disposition-Based（個人對人性的一般 faith、童年經驗形塑、陌生人互動最依賴）、Cognition-Based（基於 trustee 的 track record、中期關係主導）、Affect-Based（emotional、長期關係主導）。Cognition-Based Trustworthiness 三維：Ability（技能 / 專業）+ Benevolence（善意 — 非出於私利）+ Integrity（堅守原則 — walk the talk）。實證：高信任 Best Workplaces 年 revenue growth 26% vs 同儕 18%。Email 比面對面更頻繁說謊（無 shifty eyes 露餡）。
 lifecycle: draft
 lifecycle_changed: 2026-05-20
 ingest_method: pdftotext

@@ -13,6 +13,8 @@ provenance:
   inferred: 0.15
   ambiguous: 0.05
 base_confidence: 0.55
+summary: >-
+  Hackman & Oldham：解釋為何「對工作本身的滿意度」是 [[concepts/job-satisfaction]] 五個 facet 中 r 最高（≈.70）的成分。五核心特質 VISAF：Variety（技能多樣）、Identity（完成 whole piece）、Significance（對他人影響）、Autonomy（自主權）、Feedback（從工作本身獲得進度訊號）。透過三個 critical psychological states（Meaningfulness of Work、Responsibility for Outcomes、Knowledge of Results）產生 intrinsic motivation。量化工具：SPS（Satisfaction Potential Score）。
 lifecycle: draft
 lifecycle_changed: 2026-05-20
 ingest_method: read-subagent

@@ -6,6 +6,8 @@ tags: [concept, game-theory, first-mover, technology-adoption, mgmt, strategy]
 aliases: [Penguin problem, First penguin problem, Game theory penguin, Randy Pausch First Penguin]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  賽局論 / 群體採用躊躇問題：採用新技術 / 新行為的第一個玩家承擔風險（被海豹吃掉），但後續跟進者享受成果（成功下海後跟著跳）→ 大家都等別人先動 → 集體理性導致延誤採用。Nash equilibrium 多解：All hesitate（最常見）/ One brave penguin / All jump（罕見需強 coordination）。教師（[[entities/Tang-Edwin-Yingzhang]]）用此分析 [[entities/Mobileye]] EyeQ 平台採用 —— 為什麼汽車 OEM 都觀望、沒人想第一個押注。與 [[concepts/penguin-effect]] 不同：本頁是「都不敢先」，penguin-effect 是「動了你才被迫跟」。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:

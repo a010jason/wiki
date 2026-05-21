@@ -6,6 +6,8 @@ tags: [entity, hbs-case, ems-industry, contract-manufacturing, odm, mgmt, strate
 aliases: [Flextronics, Flex, Flex Ltd]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  新加坡基地 EMS（Electronics Manufacturing Services）龍頭，2002 營收 $13.1B、29 國 78,000 員工、世界第二大 EMS、最大手機 CM。Michael Marks 1994/1 任 CEO 後從 board stuffer → CM → CDM → 試圖突破到 ODM。Phone 1 (GSM) 證明能力後 Phone 4 (CDMA) 卻沒人買 —— 案例核心張力。戰略 DNA：vertical integration 反潮流（OEM 把製造外包，Flex 反向把設計拉進來）+ EMS 想擺脫 [[concepts/smile-curve]] 谷底 + 與客戶利益正面衝突的 ODM 困境。教師（[[entities/Tang-Edwin-Yingzhang]]）眉批「要 co-evolution，要共生，要動態」「CM → CDM」。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:

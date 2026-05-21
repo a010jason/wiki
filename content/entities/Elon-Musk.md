@@ -6,6 +6,8 @@ tags: [entity, founder, ceo, tesla, spacex, twitter, big-bets, mgmt, strategy]
 aliases: [Elon Musk, 馬斯克, Musk]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  連續創業者、Tesla / SpaceX CEO；2022 個人淨值 ~$282B。HBS case 9-722-439（Yoffie & Fisher 2022）「Doubling Down: Elon Musk's Big Bets in 2022」主角。同時經營 7 家公司：Tesla / SpaceX / Boring Co / Neuralink / Twitter (X) / OpenAI（early funder）/ Hyperloop。教師（[[entities/Tang-Edwin-Yingzhang]]）核心 framing：用孫子兵法「道天地將法」對應 [[concepts/strategy-rules-yoffie-cusumano]]，把 Musk 拉到 Bill Gates / Andy Grove / Steve Jobs 的同框比較。教師核心質疑（紅字標 Musk Empire）：「沒有 synergy」—— 7 家公司彼此缺乏綜效，違反 corp-strategy 經典原則。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:

@@ -6,6 +6,8 @@ tags: [concept, corporate-strategy, multibusiness, parenting-advantage, mgmt, st
 aliases: [Parenting matrix, Goold Campbell matrix, Parenting advantage matrix, 母公司增值矩陣]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  Michael Goold & Andrew Campbell (1994/1998) multibusiness corporate strategy 經典工具。2×2 矩陣判斷母公司對子公司「有沒有增值能力（Feel right ↔ Misfit）」+「有沒有增值機會（Benefit ↔ Misfit）」。四象限：HEARTLAND（核心事業，深耕）、EDGE OF HEARTLAND（邊緣核心）、BALLAST（壓艙石，賺錢但母公司沒幫，建議出售）、VALUE TRAP（陷阱，子公司需要幫但母公司不會）、ALIEN TERRITORY（無 fit 無 benefit，應出脫）。教師（[[entities/Tang-Edwin-Yingzhang]]）以 Intel × [[entities/Mobileye]] 為母合錯位（ALIEN TERRITORY / VALUE TRAP）典型例。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:

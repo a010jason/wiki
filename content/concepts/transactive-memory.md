@@ -13,6 +13,8 @@ provenance:
   inferred: 0.15
   ambiguous: 0.05
 base_confidence: 0.5
+summary: >-
+  專業知識在成員間分散，形成「誰知道什麼」的記憶系統。不需每人都懂同樣的事，需懂：(1) 何時自己的專業相關 (2) 如何結合他人專業。與 Mental Model 互補：Mental Model = 共同理解（everyone knows same thing），TMS = 分散映射（everyone knows who knows what）—— TMS 讓 team scale 超越個人腦容量。Mayo Clinic 動態 team 為典型應用。脆弱性：任一成員回應慢 / 遺忘 / 離開都讓 memory 系統失效。Mitigation：MWH、IBM、Solvay 用 social network survey 繪 informal network map 找 well-connected experts。
 lifecycle: draft
 lifecycle_changed: 2026-05-20
 ingest_method: pdftotext

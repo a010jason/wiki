@@ -13,6 +13,8 @@ provenance:
   inferred: 0.25
   ambiguous: 0.05
 base_confidence: 0.4
+summary: >-
+  Pankaj Ghemawat 的跨國市場進入評估框架，把「距離」拆成 Cultural（文化、語言）/ Administrative（政治、法制、貿易壁壘）/ Geographical（地理、運輸）/ Economic（所得、勞動成本）四維度，幫助判斷哪個市場該優先進、哪個策略需在地化。配合 AAA Triangle（Adaptation / Aggregation / Arbitrage）作策略選擇。對應 Bartlett-Ghoshal MNC Typology：European decentralized → American coordinated → Japanese centralized hub → 理想型 Transnational network。
 lifecycle: draft
 lifecycle_changed: 2026-05-20
 ingest_method: read-subagent

@@ -6,6 +6,9 @@ tags: [Li-Jian-Wen, Capital-Bus, ethics, leadership, crisis-management]
 aliases: [李建文, Lee Jian-Wen]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  [[entities/Capital-Bus-Group]] 首都客運集團總經理，運輸業 20+ 年資歷，以 2012-05-07 雪隧火燒車（2 死 31 傷）危機處理示範企業倫理三角困境（資訊披露 vs 人道 vs 法律）。2015-10 帶領首都客運取得全國第一張 [[concepts/ISO-39001]] 認證、長期推動 [[concepts/pointing-and-calling]] 指差確認文化。倫理領導力示範：把「客戶 / 受害者」當「朋友」—— 1 對 1 聯繫罹難家屬、總經理親自處理重傷者、2015-01 親自參加罹難者兒子喜宴。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

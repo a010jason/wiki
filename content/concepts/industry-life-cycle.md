@@ -13,6 +13,8 @@ provenance:
   inferred: 0.25
   ambiguous: 0.05
 base_confidence: 0.4
+summary: >-
+  產業在 Introduction → Growth → Maturity → Decline 四階段演化的框架，由需求成長與知識創造擴散兩股力共同驅動。S-Curve 是視覺錨點，廠商數呈倒 U 形（industry shakeout）—— Klepper 經典實證：US 汽車 1895-1960 廠商數從 1915 高峰 ~250 滑落至 1955 < 10 家。[[concepts/dominant-design]] 浮現是關鍵轉折：product innovation 接力給 process innovation。Grant 警告「assuming any common pre-determined pattern is dangerous」—— Tech-intensive 產業可長期停留 emerging、life-cycle regeneration（TV：黑白 → 彩色 → 平面 → HDTV）打破宿命。
 lifecycle: draft
 lifecycle_changed: 2026-05-20
 ingest_method: read-subagent

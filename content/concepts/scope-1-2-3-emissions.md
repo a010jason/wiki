@@ -6,6 +6,9 @@ tags: [GHG, carbon, scope, accounting, ESG]
 aliases: [Scope 1, Scope 2, Scope 3, 範疇一, 範疇二, 範疇三, GHG Protocol]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  GHG Protocol（WRI/WBCSD）建立並被 ISO 14064-1:2018 採用的溫室氣體排放分類，分 Scope 1（直接排放，公司鍋爐 / 車輛 / 製程燃燒）/ Scope 2（外購能源間接，電力 / 蒸汽 / 熱力）/ Scope 3（其他間接，上下游供應鏈、員工通勤、產品使用、廢棄處理）。新版 ISO 14064-1:2018 進一步把 Scope 3 細分為 Category 3–6。常見錯誤：把 IPCC 國際排放係數當最優先，實際應為自廠係數最優先。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

@@ -6,6 +6,8 @@ tags: [concept, emerging-markets, fintech, institutional-context, mgmt, strategy
 aliases: [Institutional voids, 制度缺陷, 結構洞-fintech, Khanna Palepu institutional voids]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  新興市場獨有的制度結構缺口 —— 已開發市場具備的中介機構（信用評等、credit bureau、法律執行、消費者保護）在新興市場部分或全部缺失，創造 fintech / platform 切入口。Khanna & Palepu（HBS）「Winning in Emerging Markets」系列。教師核心 framing：Institutional Voids ~ pain points → 結構洞 → 互補性資產投入。中國 fintech 案例（[[entities/Ant-Group]]）四 voids：Lemon market（Alipay 託管）、SOE 銀行不服務小客戶（餘額寶 + MYbank）、信用資料缺（芝麻信用）、理財產品稀缺（餘額寶 money market）。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:

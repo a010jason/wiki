@@ -13,6 +13,8 @@ provenance:
   inferred: 0.15
   ambiguous: 0.05
 base_confidence: 0.5
+summary: >-
+  J.S. Adams (1965)：motivation 不只看自己的 input/outcome，也看 comparison other —— 員工建立 mental ledger 比較自己與他人的「投入 / 產出比」。三狀態：Equity（Yours = Other's，中性）、Underreward（Yours < Other's，Anger → 談判 / 偷竊 / 降 effort）、Overreward（Yours > Other's，Guilt，多用 cognitive distortion 增 input 合理化）。第三條路：change comparison other（Job / Company / Occupational / Educational / Age Equity）。
 lifecycle: draft
 lifecycle_changed: 2026-05-20
 ingest_method: read-subagent

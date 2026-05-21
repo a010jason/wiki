@@ -6,6 +6,9 @@ tags: [employer-branding, HR, talent-attraction]
 aliases: [雇主品牌, Employer Branding, EVP]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  雇主品牌 = 員工真實體驗 + 組織期望與承諾表達。[[entities/Huang-Bo-Xiang]]（[[entities/Tymphany]] 人資長）2025 課程提出「真實雇主品牌四要素金字塔」（體驗 / 員工 / 期望 / 表達）與「吸引人才五大構面」（工作環境、待遇培育、福利獎勵、友善職場、財務獲利）。常見陷阱：過度強調表達致與真實體驗落差、價值理想化致信用破產、單一構面（如僅靠薪資）導致其他構面崩塌。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

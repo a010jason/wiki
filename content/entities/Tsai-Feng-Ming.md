@@ -6,6 +6,9 @@ tags: [Tsai-Feng-Ming, Yang-Ming, shipping, ESG, taiwan]
 aliases: [蔡豐明, Tsai Feng-Ming]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  2024-08-01 接任 [[entities/Yang-Ming-Marine]] 陽明海運董事長，2024-11 起任全國船聯會第 13 屆理事長。學界背景深：國立臺灣海洋大學航運管理學系專任教授兼系主任（2011-2024，13 年）、美國紐澤西州理工學院（NJIT）運輸管理博士。2025-04-16 於陽明交大主講「變動的年代-航運業的挑戰與機遇」，核心觀點為「貿易衝突（川普 2.0）+ 地緣政治（紅海 / 烏俄）+ 氣候 ESG」三大變動驅力下航運業的替代燃料路徑（LNG → 甲醇 → 生質 → e-fuel → 氫氨）。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

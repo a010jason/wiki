@@ -6,6 +6,9 @@ tags: [independent-director, corporate-governance, taiwan]
 aliases: [獨立董事, ID, Independent Director]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  不擔任公司其他職務、與公司無重大利益往來、客觀監督經營階層的董事；台灣證交法 14-2 條要求公開發行公司強制設置。獨立性要件：3 年內未任職、無重大關係、本人 + 親屬持股 < 1%、不兼任 > 4 家上市櫃獨董、需具商務 / 財務 / 法務專業。薪酬為固定制（為名望而戰，不與業績連動）。組成 [[concepts/audit-committee]] 後可廢監察人（監察人多由大股東關係人擔任、獨立性不足）。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

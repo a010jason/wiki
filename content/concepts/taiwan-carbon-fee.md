@@ -6,6 +6,9 @@ tags: [carbon-fee, taiwan, policy, carbon-pricing]
 aliases: [台灣碳費, 碳費]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  依 2023-02《氣候變遷因應法》，台灣自 2025 年起對年排放量 ≥ 2.5 萬公噸 CO2e 企業徵收碳費，首波涵蓋 287 家排放大戶（製造、電力業為主），與歐盟 [[concepts/CBAM]] 接軌設計。本質為「費」而非「稅」（環境部主管），收入專款用於減碳補助、技術研發、公正轉型。一般費率約 300 NTD/tCO2e、自主減量優惠 50-100；若 < CBAM 應付金額，企業面臨「在台繳一次、出口歐盟繳一次」的雙重課稅風險。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

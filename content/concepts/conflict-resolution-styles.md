@@ -13,6 +13,8 @@ provenance:
   inferred: 0.15
   ambiguous: 0.05
 base_confidence: 0.55
+summary: >-
+  Thomas-Kilmann（TKI）雙軸（Assertiveness × Cooperativeness）五型衝突處理框架：Competing（高低，win-lose，緊急 / 不受歡迎決策）、Avoiding（低低，lose-lose，瑣碎議題）、Accommodating（低高，lose-win，對方 issue 較重要）、Collaboration（高高，win-lose 需 full info + 平權 + 時間）、Compromise（中中，give-and-take）。沒有 universal best style ——「style 是否有效 depends on situational issues」。Negotiation 延伸：Distributive（fixed-pie）vs Integrative（win-win），4 stages 含 BATNA。
 lifecycle: draft
 lifecycle_changed: 2026-05-20
 ingest_method: read-subagent

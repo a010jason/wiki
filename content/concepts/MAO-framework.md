@@ -6,6 +6,8 @@ tags: [concept, taiwan-mgmt-theory, decision-making, mao-chih-kuo, mgmt, strateg
 aliases: [V=MAO, MAO framework, AMC framework, 毛治國 MAO, Motivation Ability Opportunity]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  毛治國 2018《決斷》提出的 leadership decision-making 雙框架。V = MAO（Value = Motivation × Ability × Opportunity，乘法關係任一為零則整體為零）解釋「為什麼會做某個決定」；AMC（Awareness → Motivation → Capability）解釋「為什麼會察覺到要做決定」。被唐瓔璋（[[entities/Tang-Edwin-Yingzhang]]）反覆引用為台灣本土策略管理思想的核心框架。Awareness 缺失 → 即使有動機 + 能力也用不上（[[concepts/icarus-paradox]] 的死角）。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:

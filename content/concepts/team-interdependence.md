@@ -13,6 +13,8 @@ provenance:
   inferred: 0.15
   ambiguous: 0.05
 base_confidence: 0.55
+summary: >-
+  「Team 之所以是 team」的核心區分軸，三類獨立可衡量。Task Interdependence 4 levels（協調需求由低到高）：Pooled（pole-and-line tuna fishing）→ Sequential（assembly line）→ Reciprocal（customized design project）→ Comprehensive（IDEO 設計團隊）。Goal Interdependence 由 formalized mission statement 驅動（MacMillan 2001 5 criteria：Clarity / Relevance / Significance / Believability / Urgency）。Outcome Interdependence 提高 → 增加成員資訊分享 → 促進 learning → 提升 team performance。
 lifecycle: draft
 lifecycle_changed: 2026-05-20
 ingest_method: read-subagent

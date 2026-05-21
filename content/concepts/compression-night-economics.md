@@ -6,6 +6,8 @@ tags: [concept, hospitality, capacity-strategy, yield-management, mgmt, strategy
 aliases: [Compression nights, Peak-night economics, 飯店尖峰夜, ADR-RevPAR-Occ]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  飯店業專屬概念：95%+ booked 之夜稱為 compression night，雖佔總房晚比例小卻產生不成比例收入，是 [[concepts/dedicated-vs-flexible-capacity]] 競爭的關鍵戰場。[[entities/Marriott-International]] case：美國 10 大市場 2011-2016，compression nights 佔 4.9% 房晚但產生 8% 收入（1.6x 房晚槓桿）；ADR 可比平時高 35%-10x。紐約 2016 NYE 對照：ADR $148 → $418（2.83x）、Airbnb 預訂 2,487 → 6,475 房（2.6x），證明 flexible capacity（Airbnb）在 compression 補位。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:

@@ -108,6 +108,9 @@ provenance:
   inferred: 0
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  2023 陽明交大 EMBA / 致理 / SGS / 佳典管顧 ESG 講座與課程資料庫，14+ 份 PDF / 887 頁，為本 wiki ESG 系列的核心來源。涵蓋 ESG 對總體經濟影響、永續氣候金融（劉宗聖 108p）、全球 ETF（85p）、ESG 報告書製作（佳典 78p）、企業永續報告書（[[entities/Hu-Jin-Li]] 124p）、碳揭露與低碳數位轉型（張民忠系列）、聯合國 SDGs 在地實踐（85p）、EMBA Net-Zero（黃 110p）。多為陽明交大 SDGs 工作小組成員講授。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

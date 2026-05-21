@@ -52,6 +52,9 @@ provenance:
   inferred: 0
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  2025 春學期陽明交大《企業經營與倫理專題講座》系列，邀請業界高階主管以「自家企業面對的倫理困境」為主軸授課。共 6 份 / 119 頁：[[entities/Li-Jian-Wen]] 雪隧火燒車危機處理（53p）、[[entities/Tsai-Feng-Ming]] 航運 ESG 與紅海 / 川普關稅（51p）、[[entities/Huang-Bo-Xiang]] 求才難雇主品牌 Workbook（8p），加 3 份學生整理 case（三商美邦、舊振南、迪芬尼）。格式特色：講者親述危機 + 決策時的兩難（人道 vs 法律、增班 vs 工時、品牌 vs 真實體驗）。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

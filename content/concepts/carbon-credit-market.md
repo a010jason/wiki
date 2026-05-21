@@ -6,6 +6,9 @@ tags: [carbon-credit, VCM, CCM, market, ESG]
 aliases: [碳權市場, Carbon Credit Market, VCM, Voluntary Carbon Market]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  分強制（Compliance Carbon Market, CCM）與自願（Voluntary Carbon Market, VCM）兩大類。CCM 由政府配額制驅動（EU ETS、K-ETS、中國全國碳市場），VCM 為企業自願承諾驅動（Verra VCS、Gold Standard、Climate Impact X）。VCM 2021 規模突破 USD 2B 但品質參差。台灣首家購碳權企業為奇美實業（2022-04 CIX 購 1 萬噸）。2023 Guardian 揭 Verra 部分熱帶森林專案誇大減碳。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

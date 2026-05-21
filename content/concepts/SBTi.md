@@ -6,6 +6,9 @@ tags: [SBTi, science-based-targets, climate, ESG]
 aliases: [SBTi, Science Based Targets initiative]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  CDP、UN Global Compact、WRI、WWF 於 2015 年共同發起，要求加入企業設定符合 1.5°C 巴黎協定路徑的減碳目標，涵蓋 Scope 1-3 全範疇並提供獨立目標審核認證。Scope 1+2 至少 4.2% 年降速線性減量。嚴格限制碳抵換在 Net-Zero 中的角色：殘餘排放只能用碳移除（removal）而非避免類碳權（avoided emissions）。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

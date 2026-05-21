@@ -6,6 +6,9 @@ tags: [competing-business, fiduciary-duty, company-law, taiwan]
 aliases: [競業禁止, 209 條, competing business prohibition]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  台灣公司法 209 條：董事不得未經股東會同意為自己或第三人從事與公司營業範圍相同或類似業務。違反者公司可行使「歸入權」，要求行為所得 1 年內全數歸入公司。屬 [[concepts/director-fiduciary-duty]] 忠實義務具體化。對比美國 Corporate Opportunity Doctrine：台灣保護範圍以公司營業為界、救濟手段為歸入權；美國範圍及「公司商機」、救濟手段為 Constructive Trust + 損害賠償。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

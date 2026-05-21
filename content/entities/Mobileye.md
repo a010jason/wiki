@@ -6,6 +6,8 @@ tags: [entity, autonomous-driving, israel, intel-subsidiary, adas, mgmt, strateg
 aliases: [Mobileye, Mobileye Global, EyeQ, Mobileye Vision]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  以色列自駕視覺 AI 公司，EyeQ 系列 SoC 是全球 ADAS / AV 主流晶片之一。1999 Amnon Shashua + Ziv Aviram 在耶路撒冷創辦 → 2014 NYSE IPO → 2017 Intel 收購 $15.3B（當時以色列史上最大科技交易）→ 2017-2022 Intel 內結構性隔離（Israel-based / 品牌獨立 / 商業模式自主）→ 2022/10 NASDAQ Spin off（MBLY）。教師（[[entities/Tang-Edwin-Yingzhang]]）以 [[concepts/parenting-matrix-goold-campbell]] 判斷：「Mobileye + Intel 不是母合優勢」—— ALIEN TERRITORY + VALUE TRAP 區；2022 spin off 應驗教師預測。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:

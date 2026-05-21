@@ -6,6 +6,8 @@ tags: [concept, strategy-framework, ceo-leadership, big-bets, platform, mgmt, st
 aliases: [Strategy Rules, Yoffie Cusumano 5 rules, 我們這樣改變世界]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  David Yoffie（HBS）+ Michael Cusumano（MIT Sloan）2015《Strategy Rules: Five Timeless Lessons from Bill Gates, Andy Grove, and Steve Jobs》，從 3 位 tech 巨頭 CEO 提煉的 5 條跨時代策略法則。Rule 1 Look Forward, Reason Back（道）、Rule 2 Make Big Bets Without Betting the Company（天地）、Rule 3 Build Platforms and Ecosystems Not Just Products、Rule 4 Exploit Leverage and Power（Judo and Sumo）、Rule 5 Shape the Organization Around Your Personal Anchor。教師（[[entities/Tang-Edwin-Yingzhang]]）對應到孫子兵法「道天地將法」做東西方策略框架對接（[[synthesis/yoffie-five-rules-vs-sun-tzu-five-fundamentals]]）。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:

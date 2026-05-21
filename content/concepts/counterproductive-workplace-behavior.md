@@ -14,6 +14,8 @@ provenance:
   inferred: 0.2
   ambiguous: 0.05
 base_confidence: 0.45
+summary: >-
+  「有意（intentional）阻礙組織目標的員工行為」，job performance 的負向組成。Robinson & Bennett (1995, AMJ) 二維四象限：Property Deviance（嚴重組織，sabotage / theft）/ Production Deviance（輕微組織，wasting resources / substance abuse）/ Personal Aggression（嚴重人際，harassment / bullying）/ Political Deviance（輕微人際，gossip / incivility）。四個結構事實：CWB 間相關、任何工作都相關、具傳染性（incivility spiral）、與 task performance 僅弱負相關（高績效者也可能是 bad apple）—— 「績效好就 OK」是踩雷判斷。
 lifecycle: draft
 lifecycle_changed: 2026-05-20
 ingest_method: read-subagent

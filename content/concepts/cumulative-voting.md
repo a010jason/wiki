@@ -6,6 +6,9 @@ tags: [cumulative-voting, shareholder-rights, taiwan]
 aliases: [累積投票制, cumulative voting, 192-1 條]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  台灣公司法 192-1 條強制規定（不可章程排除），讓小股東集中所有票數於一位候選人。1 股有 N 票（N = 應選席次），可全投同一人。最低當選持股 = 1 / (席次 + 1) + 1 股；5 席約需 16.7% 即可選 1 席。對少數股東保護程度高於美國一般州法（美國多州允許章程排除累積投票）。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

@@ -6,6 +6,9 @@ tags: [pretexting, social-engineering, scandal, HP]
 aliases: [Pretexting, 社會工程詐騙, 假冒身分詐騙]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  假冒他人身分（社會工程手法）以取得敏感資訊。最知名案例為 2006 年 [[entities/Hewlett-Packard]] pretexting scandal —— HP 董事會為調查媒體洩密來源，雇用偵探對自家董事、高管及記者進行 pretexting；事發後 [[entities/Patricia-Dunn]] 辭職、多人遭刑事起訴，HP 認罪支付 USD 14.5M 民事罰款，直接催生美國《Telephone Records and Privacy Protection Act of 2006》。治理啟示：手段不可蓋過目的、內部調查須事前法律審查。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

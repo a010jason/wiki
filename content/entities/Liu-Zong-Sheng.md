@@ -6,6 +6,9 @@ tags: [Liu-Zong-Sheng, ETF, finance, ESG, taiwan]
 aliases: [劉宗聖, Liu Tsung-Sheng]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  元大投信董事長、中華民國投信投顧公會理事長、退休基金協會副理事長、國立陽明交通大學兼任副教授，台灣 ETF 與永續金融的權威，引領 Yuanta 成為台灣最大投信公司。核心觀點：ETF 2.0 時代從產品導向轉向解決方案導向（異質、客製化、永續化、智能化）；資產管理業 ESG 7P 架構（Principle → People → Process → Platform → Performance → Practice → Policy）。指出台灣 ETF 占共同基金 44%（全球最高）、高股息 ETF 收益平準金存對後進投資人不公的爭議。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

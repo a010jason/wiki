@@ -6,6 +6,9 @@ tags: [TSMC, semiconductor, ESG, taiwan, RE100]
 aliases: [TSMC, 台積電, 台灣積體電路]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  台灣積體電路（Taiwan Semiconductor Manufacturing Company），1987 年張忠謀創立的全球最大晶圓代工廠，2024 全球市占約 60%，台灣經濟與國家安全的核心資產。ESG 領域為**全球首家加入 [[concepts/RE100]] 的半導體廠商**，承諾 2030 RE60 → 2040 RE100、2050 全範疇淨零；列入台灣 287 家首波碳費企業。對供應鏈施加 RE100 要求，下游醫療 AI 公司（如 ebmtech）的 ESG 要求最終會傳導至 TSMC。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

@@ -6,6 +6,8 @@ tags: [entity, taiwan, smartphone, vr, pivot, icarus-paradox, mgmt, strategy]
 aliases: [HTC, 宏達電, HTC Vive]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  台灣電子廠 1997 由 Cher Wang（王雪紅）創辦：手機 ODM → OBM（HTC One M7/M8 高峰）→ 急速衰退（三星 + Apple 雙頭夾擊）→ 2015 pivot to VR（HTC Vive，與 Valve / Steam 合作）→ Vive Pro / Focus / VIVERSE。HBS case 9-718-421 主角。教師（[[entities/Tang-Edwin-Yingzhang]]）核心 framing：「當國家危急存亡之秋，理應安內攘外，雙管齊下」（清史稿）；對 HTC pivot 動機判斷「[[concepts/penguin-effect]] → HTC 被迫到這產業」—— 不是主動選 VR 而是被手機業崩塌「逼到」VR。展現 [[concepts/icarus-paradox]] 與 [[concepts/winner-take-all-determinants]] 的雙重困境。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:

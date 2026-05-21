@@ -6,6 +6,8 @@ tags: [concept, platform-strategy, ecosystem-competition, fintech, mgmt, strateg
 aliases: [Substitute-Complement-Substitute, 三段論, 替代互補替代, Ant Financial 三段論]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  教師（[[entities/Tang-Edwin-Yingzhang]]）原創框架，解釋 fintech / platform 公司演化三段：Stage 1 替代（Substitute，切入 incumbent 未服務的 institutional voids，從低端 / niche 邊緣切入，客戶逃離 incumbent）→ Stage 2 互補（Complementary，與 incumbent 共生，客戶同時用兩者，新服務反而幫 incumbent 觸及更多客戶）→ Stage 3 替代效果（Substituted effect，規模反過來威脅 incumbent，原 incumbent 變被取代方）。「質變：替代 → 互補品 → 替代效果」，[[entities/Ant-Group]] 對中國四大銀行為典型案例。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:

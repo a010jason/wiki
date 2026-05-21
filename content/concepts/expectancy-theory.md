@@ -13,6 +13,8 @@ provenance:
   inferred: 0.15
   ambiguous: 0.05
 base_confidence: 0.55
+summary: >-
+  Vroom 期望理論：motivation 三大主流認知選擇模型之一。Motivation = (E → P) × Σ[(P → O) × V]：Expectancy（努力 → 表現）× Instrumentality（表現 → 結果）× Valence（結果價值）。乘法效應 —— 任一為零則整體 motivation 為零。Expectancy 的關鍵決定因素是 Self-Efficacy（Bandura 1977），來自 4 source：past accomplishments、vicarious experience、verbal persuasion、emotional cues。Stajkovic & Luthans (1998) meta-analysis 顯示 self-efficacy 是 motivation 中最強的 performance predictor。
 lifecycle: draft
 lifecycle_changed: 2026-05-20
 ingest_method: read-subagent

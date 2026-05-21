@@ -6,6 +6,8 @@ tags: [concept, epistemology, financial-analysis, classical-chinese, cross-domai
 aliases: [象數理, 象數理 epistemology, Yi Jing financial ratios, Popper three worlds finance]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  教師（[[entities/Tang-Edwin-Yingzhang]]）原創跨領域 epistemology 框架：把財報詮釋 + 陰陽五行 + Popper 三世界三套框架對接。三層對應：數（Calculation is straightforward，ROE/ROA 數字本身、五行的「行」、Popper World 1 物理 / 數字事實）、象（Interpretation requires judgment，數字背後的業務含義、五行卦象 / 形象、World 2 主觀心理 / 詮釋）、理（Judgment is sharpened by experience，跨脈絡跨產業洞察、五行道理 / 規律、World 3 客觀知識體 / 累積智慧）。核心命題：「凡事有定，定中有象，象中有數，數中有理」。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:

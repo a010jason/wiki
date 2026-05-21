@@ -6,6 +6,9 @@ tags: [SDG, sustainable-development, UN, ESG]
 aliases: [SDGs, Sustainable Development Goals, 永續發展目標]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  聯合國 2015 年通過《2030 永續發展議程》提出 17 項目標 169 細項，取代千禧年發展目標（MDGs），涵蓋消除貧窮、健康、教育、性別、氣候、海洋、陸域、和平、夥伴。THE Impact Rankings 依 SDG 評估全球大學覆蓋研究 / 外展 / 管理 / 教學四領域；2023 年成大 24 名、台大 67 名、陽明交大 83 名。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

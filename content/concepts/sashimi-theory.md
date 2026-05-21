@@ -6,6 +6,8 @@ tags: [concept, product-lifecycle, speed-to-market, innovation, dynamic-capabili
 aliases: [生魚片理論, Sashimi theory of technology products, Yun Jong Yong Samsung]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  Yun Jong Yong（前 [[entities/Samsung-Electronics]] 副董事長 / CEO）提出的科技產品價值衰減論：「科技產品像生魚片 —— 第一天最值錢，等到第三天就成乾魚不值錢了。速度決定誰勝出」。量化錨點：Samsung 1997-2003 達成 5 個月 concept-to-market（業界標準 14 個月、日商 2 倍快）、1997-2002 股價漲 10 倍。為何科技產品像生魚片：ASP 隨時間快速衰減（cellular handset ASP 1987 ~$800 → 2005 ~$50）、客戶需求高速 shift（3 個月後變「上一代」）。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:

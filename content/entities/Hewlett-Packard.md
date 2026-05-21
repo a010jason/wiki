@@ -6,6 +6,9 @@ tags: [HP, Hewlett-Packard, technology, scandal, governance]
 aliases: [HP, Hewlett-Packard, 惠普]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  1939 年 Bill Hewlett 與 David Packard 於矽谷車庫創立的美國科技公司，被視為矽谷起源代表，2015 年分拆為 HP Inc.（消費端 PC + 印表機）與 Hewlett Packard Enterprise（企業端伺服器 + 服務）。在公司治理史上以 2006 年 pretexting scandal 成為「內部調查倫理失格」的經典案例 —— 董事會（時任董事長 [[entities/Patricia-Dunn]]）授權偵探對自家董事、記者進行 [[concepts/pretexting]] 取得通話紀錄，事發後 HP 支付 USD 14.5M 民事罰款並催生美國《Telephone Records and Privacy Protection Act of 2006》。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

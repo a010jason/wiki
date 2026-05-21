@@ -6,6 +6,9 @@ tags: [SASB, ESG, sustainability-reporting, investor-focused]
 aliases: [SASB, Sustainability Accounting Standards Board]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  Bloomberg 前 SEC 主席 Mary Schapiro 於 2011 年成立的永續會計準則委員會，建立產業別、財務重大性導向的揭露標準（11 大類 / 77 子產業 / 26 個 ESG 主題），與 [[concepts/GRI-standards]] 多利害關係人視角互補。2022 年併入 [[concepts/ISSB-IFRS-S1-S2]]，產業指標被 IFRS S1 收編。台灣參考企業 2021→2022 從 120 → 381 家（+218%）。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

@@ -13,6 +13,8 @@ provenance:
   inferred: 0.15
   ambiguous: 0.05
 base_confidence: 0.55
+summary: >-
+  對失敗的 course of action 持續投入 ——「throw good money after bad」，特別在自視為決策負責人時更嚴重。反直覺發現：rational decision-makers 反而更易 escalate —— 因為 carefully gathered information 與「撤退」不一致，越仔細收集 info 越覺得 sunk cost 不能放。經典案例：United Airlines / Denver Airport 行李系統花 10 年才放棄、Concorde 超音速客機（「Concorde fallacy」名稱由此而來）。Mitigation：Devil's advocate、Pre-commitment（明確 abandon criteria）、Separating evaluators、Increase Your Options（強迫 ≥ 3 alternative）。
 lifecycle: draft
 lifecycle_changed: 2026-05-20
 ingest_method: read-main

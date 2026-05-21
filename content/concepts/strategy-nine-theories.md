@@ -6,6 +6,8 @@ tags: [concept, taiwan-mgmt-theory, strategy-framework, wu-szu-hua, mgmt, strate
 aliases: [策略九說, Wu Szu-hua nine strategy theories, Nine theories of strategy, 吳思華策略九說]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  吳思華 2000《策略九說：策略思考的本質》整理出策略管理的 9 種不同視角 —— 從西方策略理論的綜合 + 中文管理脈絡的補強，被唐瓔璋（[[entities/Tang-Edwin-Yingzhang]]）反覆引用為台灣本土策略管理 master framework。九說：價值（Porter Value Chain / Kotler 5C）、效率（Cost Leadership）、資源（RBV / VRIO）、結構（Five Forces）、競局（Game theory）、統治（TCE / Agency）、互賴（Stakeholder / Contingency）、風險（SWOT / Scenario）、生態（Ecosystem / Dynamic capabilities）。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:

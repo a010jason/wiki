@@ -6,6 +6,8 @@ tags: [entity, hbs-case, multinational, restaurant, china-market, standardizatio
 aliases: [Levendary, Levendary Café (HBS case)]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  虛構公司 HBS 4357（Bartlett & Han 2011）案例主角：一家 Denver 起家、32 年成長為美國 $10.8B 全國連鎖（3,500 店）的 fast-casual 三明治 / 沙拉 / 湯店。2009 進入中國，由 Louis Chen 主導 1 年內開 23 家店，但因菜單、店面、財務報表全面在地化而與總部爆發衝突。案例核心張力：全球品牌一致性（HQ 守護「TFG — Tasty Fresh Goodness」）vs 子公司在地化彈性（Chen 主張「美國模式在中國行不通」）。教學定位：跨國組織進入新興市場、HQ-subsidiary 治理、[[concepts/subsidiary-leader-lifecycle]] 演化（Chen 為典型 Local Baron）。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:

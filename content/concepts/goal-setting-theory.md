@@ -13,6 +13,8 @@ provenance:
   inferred: 0.15
   ambiguous: 0.05
 base_confidence: 0.55
+summary: >-
+  Locke & Latham (1990, 2002)：Goals 是 effort intensity 與 persistence 的 primary drivers。Specific and Difficult Goals > do-your-best > easy > no goals。核心曲線：Goal Difficulty 倒 U 型 —— 最佳 motivation 在 Difficult（但 attainable），過 Impossible 後 performance 反崩。Mediator 路徑：Specific/Difficult assigned goal → Self-set goal → 努力強度 / 持續性 / task strategies → task performance。SMART goals 批判：M（Measurable）+ A（Attainable）多被誤用為「設保守目標」，違反 Difficult 原則。
 lifecycle: draft
 lifecycle_changed: 2026-05-20
 ingest_method: read-subagent

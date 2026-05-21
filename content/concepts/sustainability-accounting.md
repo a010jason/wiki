@@ -6,6 +6,9 @@ tags: [sustainability-accounting, environmental-liability, accounting, ESG]
 aliases: [永續會計, 環境會計, sustainable accounting]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  傳統會計只反映「正產品」（賣得出去的產品）成本，忽視「負產品」（廢棄物、污染、碳排）成本而導致淨利虛高。永續會計透過導入「負產品成本 = 材料成本 + 系統成本 + 能源成本 + CO2 處理成本」，將環境外部性內部化進損益表與資產負債表（張民忠教授示例顯示淨利可降 21.7%）。碳權三種會計處理法：完全市場價值法、初始市場價值法、名目金額法。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

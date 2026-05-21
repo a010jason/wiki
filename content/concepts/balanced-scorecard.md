@@ -13,6 +13,8 @@ provenance:
   inferred: 0.25
   ambiguous: 0.05
 base_confidence: 0.4
+summary: >-
+  Kaplan & Norton 提出的策略執行框架，把組織 performance 拆成 Financial（shareholder）/ Customer / Internal（操作流程）/ Learning & Growth 四維度，避免單看財務指標的短視。四階串接：Strategy Map → Performance Measures → Targets → Initiatives —— 沒有 strategy map 的 BSC 只是 dashboard。與 KPI（單一指標）、OKR（目標 + 關鍵結果）可疊用：BSC 提供維度框架，OKR cascade 目標，KPI 是具體 measures。Boeing 1996-2004 案例為反證 —— 過度追逐 shareholder value 致 R&D 砍光、737-MAX 災難。
 lifecycle: draft
 lifecycle_changed: 2026-05-20
 ingest_method: read-subagent

@@ -6,6 +6,8 @@ tags: [entity, hbs-case, platform-war, paid-search, microsoft, failure-case, mgm
 aliases: [adCenter, MSN adCenter, Microsoft AdCenter (HBS 9-908-049)]
 created: 2026-05-21
 updated: 2026-05-22
+summary: >-
+  Microsoft 2006 推出的 paid-search 廣告平台，企圖在 Google AdWords 主導的市場切入。HBS case 9-908-049（Coles & Edelman 2008）。教師講義 take-away 直問「Why do all Porter's generic strategies fail in digital wars?」—— 7 條 break-into 策略全打槍（包括差異化、低成本、聚焦、收購 Yahoo 等）。戰略診斷：「MS 還是 Desktop 思維」（教師眉批）—— 根本病灶不是策略不對，是世界觀過時。Desktop OS + boxed software 的成功心法套不到 cloud + ad-platform 戰場（詳見 [[concepts/desktop-vs-platform-mindset]]）。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:

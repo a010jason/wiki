@@ -6,6 +6,8 @@ tags: [concept, turnaround, restructuring, leadership, mgmt, strategy]
 aliases: [Turnaround strategy, Corporate turnaround, Back to core, Re-position 四步]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  公司從接近破產 / 鉅損狀態回到健康獲利的戰略框架，[[entities/Lego-Group]] case 教師明點四步模板：re-position（Identify the core，犧牲不可侵犯之物）→ re-configuration（砍 SKU / 內化外包 / 集中組織）→ removes the barrier of mobility（換 CEO / 處置 Local Baron / 拆掉舊制度）→ re-inventing value chain（NPD / Distribution / Marketing 三段重設）。典型 pattern：「Back to core」—— Lego、Samsung、Apple（[[entities/Steve-Jobs]] 1997 回鍋）皆套用此模板。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:

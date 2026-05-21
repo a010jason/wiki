@@ -6,6 +6,9 @@ tags: [ESOP, employee-stock, equity-incentive, taiwan]
 aliases: [ESOP, 員工認股權, employee stock option]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  員工認股權契約（Employee Stock Ownership Plan / Option），台灣依公司法 167-2 條訂定，配合減資再增資與虧損撥補機制使用，目的是激勵長期承諾並與股東利益對齊。對比美國 ESOP 規模大且稅務優惠多。批判面：CEO 短視炒股推升短期股價、股本稀釋風險；4 年逐步歸屬（vesting）是業界慣例。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

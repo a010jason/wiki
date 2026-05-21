@@ -6,6 +6,9 @@ tags: [O-Right, cosmetics, ESG, RE100, taiwan]
 aliases: [歐萊德, O'right, O-Right]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  歐萊德（O'right）為台灣有機美妝品牌，2006 年葛望平創立、總部桃園龍潭、願景「全球品牌都會變綠」。**全球美妝業首家達成 [[concepts/RE100]]** 的企業（2022-11 提前），同時通過 SGS「組織碳中和」+「77 項全品項碳中和」雙認證（2020），開發全球第一支 PCR 再生壓頭（碳排 -66.29%）。2022 RE100 領袖獎冠軍、於 UNGA77 + COP27 發表「解凍格陵蘭」遠征計畫。高門檻第三方認證策略避免漂綠指控。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

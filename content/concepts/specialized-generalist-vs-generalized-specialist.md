@@ -6,6 +6,8 @@ tags: [concept, organization-design, diversification, multibusiness, mgmt, strat
 aliases: [Specialized generalist, Generalized specialist, 一專多能 vs 多專多能, Google Alphabet 結構對比]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  教師（[[entities/Tang-Edwin-Yingzhang]]）原創 framing 描述 [[entities/Alphabet]] 2015 重組對 [[entities/Google]] 的結構轉變：「Specialized generalist（Google 一專多能）→ Generalized specialist（Alphabet 多專多能）」。Specialized generalist：一個 deep capability 延伸應用到多領域（Search algorithm → Search / Ads / Maps / YouTube），Central CEO + No P&L by unit。Generalized specialist：多個 deep capabilities 彼此獨立但同一 holding，Each unit own P&L（Calico longevity + Verily medical + Waymo auto + DeepMind AI）。失敗模式：前者跨界拉太遠失 focus，後者各自為政缺綜效。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:

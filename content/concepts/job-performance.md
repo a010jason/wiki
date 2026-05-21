@@ -13,6 +13,8 @@ provenance:
   inferred: 0.25
   ambiguous: 0.05
 base_confidence: 0.4
+summary: >-
+  Colquitt-LePine-Wesson 定義：「行為的集合，對組織目標完成有正或負貢獻」——是行為本身、不是結果。行為 vs 結果之爭：取 behavior 排除運氣 / 景氣，取 outcome 是 stakeholder 真正在意的；JPMorgan 三項定義（核心職務 + 公司流程支持 + 不違反 policy）全是 behavior。三維分解：Task Performance（核心職務）+ Citizenship Behavior（角色外正向）− Counterproductive Behavior（[[concepts/counterproductive-workplace-behavior]]）。爭議錨點：Trump 賭場 1991-2009 六次 bankruptcy 但個人從未破產 —— 教材自己留作 open question。
 lifecycle: draft
 lifecycle_changed: 2026-05-20
 ingest_method: read-subagent

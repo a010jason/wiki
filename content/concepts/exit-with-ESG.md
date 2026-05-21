@@ -6,6 +6,9 @@ tags: [exit-strategy, ESG, business-ethics, taiwan]
 aliases: [退場 ESG, exit ESG]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  企業即使退出市場 / 結束營運仍須考量員工、社區、客戶、供應鏈的妥善過渡，三大檢核點：員工再就業、社區替代服務、業務 / 路線移交。新竹客運全面退出公路客運被 [[entities/Li-Jian-Wen]] 引為示範：留下懷念身影、無居民抗爭、其他業者承接路線。反諷觀點：當「退場 ESG」變新聞，反襯日常 ESG 做得不夠。歐盟有 Just Transition Fund，台灣多賴企業自律。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

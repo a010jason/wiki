@@ -13,6 +13,8 @@ provenance:
   inferred: 0.25
   ambiguous: 0.05
 base_confidence: 0.45
+summary: >-
+  員工對組織的 (1) desire to remain + (2) willingness to exert high effort + (3) belief in and acceptance of organizational values。Allen & Meyer (1990) 三類承諾：Affective（I want to，emotional attachment，中強正相關 OCB / Performance）、Continuance（I need to，sunk cost + 缺 alternatives，與 performance 無統計關係 —— passive loyalty）、Normative（I ought to，moral duty，集體主義國家更強）。Embeddedness（Mitchell 2001）把 continuance 操作化為 Links/Fit/Sacrifice × Organization/Community 六格矩陣。Withdrawal progression：lateness → absenteeism → quitting。
 lifecycle: draft
 lifecycle_changed: 2026-05-20
 ingest_method: read-subagent

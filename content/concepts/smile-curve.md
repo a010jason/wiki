@@ -6,6 +6,8 @@ tags: [concept, value-chain, manufacturing, vertical-integration, taiwan-industr
 aliases: [Smile Curve, 微笑曲線, Stan Shih smile curve, 施振榮微笑曲線]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  施振榮 1992 年在 Acer 經營策略中提出的 value chain 視覺化框架。橫軸為 value chain 各環節（R&D / Patent / Production / Distribution / Branding / Marketing / Service），縱軸為毛利率，曲線呈微笑形狀：兩端高、中間低。核心命題「Manufacturing 在谷底，R&D + Brand 在兩端高峰」對代工為主的台灣企業（Acer 自身、鴻海、Quanta）是戰略警示：靠製造永遠賺辛苦錢。連結 [[entities/Flextronics-International]] EMS case 的代工低毛利現象。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:

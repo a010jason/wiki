@@ -13,6 +13,8 @@ provenance:
   inferred: 0.2
   ambiguous: 0.05
 base_confidence: 0.45
+summary: >-
+  Coase（1991 Nobel）+ Williamson（2009 Nobel）回答「公司為什麼存在？」的經濟學理論：當內部行政協調成本 < 外部市場交易成本時，活動被內化進公司。四構念同時存在 → 市場合約成本暴增、內化（垂直整合）划算：Asset Specificity（投資專屬性，易被綁架）、Bounded Rationality（無法寫涵蓋所有未來的合約）、Opportunism（資訊不對稱時自利）、Small-Numbers Bargaining（廠商少、market price 失效）。對比 Adam Smith Invisible Hand vs Alfred Chandler Visible Hand（19 世紀後 multi-unit business 經濟規模到了讓行政協調比市場協調更有效率的臨界點）。
 lifecycle: draft
 lifecycle_changed: 2026-05-20
 ingest_method: read-subagent

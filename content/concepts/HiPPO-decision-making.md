@@ -6,6 +6,8 @@ tags: [concept, decision-making, evidence-based-management, anti-pattern, kohavi
 aliases: [HiPPO, Highest Paid Person's Opinion, HiPPO decision making, Kohavi HiPPO]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  Highest Paid Person's Opinion —— Ronny Kohavi（Microsoft ExP）自創縮寫，反指標：當組織決策依賴「在場最高薪 / 最高 title 的人說了算」而非 evidence。Kohavi HBR 2017 量化：Google/Bing 10-20% 實驗顯著為正、MS 整體 1/3 正 1/3 中性 1/3 負；連 design expert 都看不出 Bing 顏色實驗會贏（年化 +$10M）。Holland 2005 對 150K idea 22 年研究：「人覺得有用」與「真的有用」毫無相關。醫療歷史教訓：doctors 1923 醫療標準包含 200 年 bloodletting，沒 controlled trial 就會錯數百年。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:

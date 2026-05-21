@@ -6,6 +6,8 @@ tags: [entity, hbs-case, platform, experimentation-culture, ab-testing, ota, mgm
 aliases: [Booking, Bookings.nl, Priceline Group Booking]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  全球最大 OTA（線上旅遊代理），核心為 [[concepts/agency-vs-merchant-model]] agency model（客戶在 Booking 預訂、付款給酒店、Booking 收 ~15% commission）。1996 由 Geert-Jan Bruinsma 在阿姆斯特丹創辦。1,500+ 萬 room nights/day、1.6M+ properties 在 227 國、15,000 員工、70 國 199 辦公室、43 語言。公司核心 DNA：「Experiment or die」—— 同時運行 ~1,000 對照實驗、每天 1,000+ 嚴格測試、1,800 名技術與產品人員 75% 用實驗平台（[[concepts/ab-testing-as-strategy]] 的示範案例）。母公司 Priceline Group 70-80% 營收由 Booking 單獨產生。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:

@@ -6,6 +6,9 @@ tags: [PRI, responsible-investment, ESG, finance]
 aliases: [PRI, UN PRI, Principles for Responsible Investment]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  聯合國 2006 年發起的機構投資人 ESG 整合自律承諾，要求簽署人將 ESG 融入投資分析、所有權政策、企業揭露要求、產業推廣、合作機制與年度報告六大原則。截至 2024 年超 3,100 家機構簽署、AUM 110 兆美元。牛津 200+ case 研究指出採永續標準企業 90% 可降資金成本、80% 股價受益。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

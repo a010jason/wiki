@@ -6,6 +6,9 @@ tags: [pyramidal-structure, family-firm, governance, control]
 aliases: [金字塔結構, Pyramidal Structure, 多層控股]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  透過多層控股公司讓終極控制人以較少資金控制較大資產規模 —— 例如 A 持有 B 51%、B 持有 C 51%，則 A 約以 26% 等值出資即可控制 C 的全部經營。為台灣與東亞家族企業常見的控制權保留手段（鴻海、台塑、遠東集團）。學術批判（La Porta, Shleifer, Vishny）：代理問題加劇、隧道效應（Tunneling）—— 透過關聯交易把利益從下層公司吸到上層。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

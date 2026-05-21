@@ -6,6 +6,8 @@ tags: [concept, causality, philosophy-of-science, mackie, mgmt, strategy]
 aliases: [INUS condition, INUS condition Mackie, Mackie causality, 必要但不充分條件]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  J. L. Mackie (1965/1974) 哲學概念 —— 因果關係的非充分必要結構分析：An Insufficient but Necessary part of a condition which is itself Unnecessary but Sufficient for the result。唐瓔璋（[[entities/Tang-Edwin-Yingzhang]]）以森林大火比喻（香煙蒂 = 競爭優勢 → 大火 = 價值創造）攻擊 Porter「差異化 → 競爭優勢」的充分條件謬誤。INUS 結構：個別條件本身不充分但必要、屬於整個複合條件、複合條件本身不必要（多 path）但充分。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:

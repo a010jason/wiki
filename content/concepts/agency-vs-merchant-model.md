@@ -6,6 +6,8 @@ tags: [concept, platform-business, ota, e-commerce, business-model, mgmt, strate
 aliases: [Agency model, Merchant model, Platform business model, Booking agency Expedia merchant]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  平台商模的兩種典型結構，差異在於平台是否取得庫存所有權 + 客戶付款流向。Agency Model：賣方擁有庫存、客戶 → 賣方付款、平台收 ~15% commission（Booking.com、Agoda）；Merchant Model：平台批發取得短期 inventory、客戶 → 平台付款、平台再付賣方（Expedia、Priceline）。第三種為 Advertising business model（TripAdvisor 不撮合交易、只賣 CPC 廣告位）。Tans 為 Booking 選 agency 的理由：「對手更像旅行社，agency 更合理」。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:

@@ -13,6 +13,8 @@ provenance:
   inferred: 0.15
   ambiguous: 0.05
 base_confidence: 0.55
+summary: >-
+  H.A. Simon (1979) + Kahneman 的決策理論：人類無法達到傳統理性模型的 5 步要求（列全部 alternative、對所有 criteria 評估、無限處理時間），實際行為是「filter & simplify → satisfice」（pick first acceptable）。Satisficing 在低 stakes 決策 OK，但高 stakes（M&A、產品線存廢）會 systematically miss 更好選項。Programmed decision 用 satisficing healthy；Nonprogrammed decision 應走 rational 5 steps。連結 [[concepts/escalation-of-commitment]]：rational decision-makers 反而更易 escalate。
 lifecycle: draft
 lifecycle_changed: 2026-05-20
 ingest_method: read-main

@@ -6,6 +6,9 @@ tags: [E-Sun, finance, ESG, taiwan, governance]
 aliases: [玉山金控, E.SUN Financial, 玉山銀行]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  1992 年由黃永仁、黃男州等銀行業老兵共同創辦，以「玉山精神」（誠信、品質、效率、卓越）為核心，台灣金融業 ESG 與公司治理雙標竿。ESG 里程碑：2014 首入 DJSI、2015 簽 [[concepts/equator-principles]]、2017 加入 [[concepts/TCFD-framework]]、2020 為首家依 TCFD 量化氣候影響的台企、2022 通過 SBTi + 加入 RE100 + 簽 TNFD。連 6 年公司治理評鑑前 5%（金融業唯一），同時採用 GRI + SASB（台灣首家）。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

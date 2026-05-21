@@ -6,6 +6,9 @@ tags: [Patricia-Dunn, HP, governance, scandal]
 aliases: [Patricia Dunn, Pattie Dunn]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  美國資產管理界資深高管（1953-2011），原任 Barclays Global Investors（BGI）執行長（1995-2002，女性資管界先驅），2005 接任 [[entities/Hewlett-Packard]] 董事長。因 2006 HP **pretexting scandal**（董事會洩密調查使用詐騙手段）2006-09 被迫辭職，遭加州檢察官對 4 項重罪刑事起訴（2007-03 因卵巢癌健康因素撤銷）。治理史教訓：[[concepts/director-fiduciary-duty]] 注意義務 —— 即使聲稱不知情，董事長仍應對授權的調查負監督責任。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

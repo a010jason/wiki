@@ -6,6 +6,9 @@ tags: [crisis-management, PDCA, ethics, leadership]
 aliases: [危機處理 PDCA, 危機管理三階段]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  危機處理三階段框架由 [[entities/Li-Jian-Wen]]（[[entities/Capital-Bus-Group]] 總經理）以雪隧火燒車案（2012-05-07，2 死 31 傷）提煉：事前防治 → 事中救濟 → 事後復原，疊加 PDCA 循環並配合 [[concepts/ISO-39001]]。展示「資訊披露 vs 隱瞞」「人道關懷 vs 法律風險」「媒體透明 vs 利益保護」的倫理三角困境，倫理領導力示範為總經理親自處理重傷者並於 3 年後參加罹難者兒子喜宴。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

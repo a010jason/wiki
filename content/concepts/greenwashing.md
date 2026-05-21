@@ -6,6 +6,9 @@ tags: [greenwashing, ESG, critique, ethics]
 aliases: [Greenwashing, 漂綠, 環保洗白]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  企業透過行銷話術、不實揭露、選擇性報導等方式讓自己的環境績效看起來比實際更好。常見手法：模糊宣稱、選擇性揭露、虛假認證、抵換濫用（大量購碳權而非實際減量）、時程操弄（承諾 2050 淨零但無中短期里程碑）。監管反制：歐盟 Green Claims Directive（2023 提案）、SEC Climate Disclosure Rule、[[concepts/ISSB-IFRS-S1-S2]] 強制揭露格式。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

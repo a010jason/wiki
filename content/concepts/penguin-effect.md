@@ -6,6 +6,8 @@ tags: [concept, network-externalities, pivot, reactive-strategy, mgmt, strategy,
 aliases: [Penguin effect, 企鵝效應, Forced pivot, Reactive pivot]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  教師（[[entities/Tang-Edwin-Yingzhang]]）原創 framing：公司不是主動戰略選擇 pivot 到新產業，而是被網絡外部性 / 市場崩塌「逼著」進入新產業。比喻來自南極企鵝群下海前沒人想第一個跳，等到有一隻被擠下水活下來後其他才一窩蜂跳 —— reactive strategy 而非 vision-driven。[[entities/HTC]] 為主例：不是看到 VR 願景主動 pivot，而是手機業崩塌找不到 way out 被迫跳進 VR；跳進去找解但已晚於 Facebook (Oculus) / Sony / Google 等 vision-driven 玩家。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:

@@ -6,6 +6,8 @@ tags: [concept, vertical-integration, capital-allocation, business-model, mgmt, 
 aliases: [Asset-light, 輕資產, 空手道戰略, Asset-light business model]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  把 ownership 與 operations 拆開的戰略：公司不擁有大部分資產，靠 management contract + brand + platform + IP 賺管理費 / royalty / commission。兩種典型形態：(1) Franchise / Management Contract 型（[[entities/Marriott-International]] 1977 年報首倡 emphasis on management rather than ownership、2017 全球 6,000+ 飯店僅 < 4,000 旗艦自有、2016 營業利潤率 ~45% 平台級毛利）；(2) 數位平台型（[[entities/Booking-com]] CGS ≈ 0、2017 Gross profit ~98%）。優勢：資本效率高 ROE 高、規模擴張快、下行風險轉嫁。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:

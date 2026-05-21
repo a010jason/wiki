@@ -13,6 +13,8 @@ provenance:
   inferred: 0.15
   ambiguous: 0.05
 base_confidence: 0.55
+summary: >-
+  French & Raven 五種權力來源，Colquitt 重組為 Organizational（來自職位：Legitimate、Reward、Coercive）vs Personal（來自個人：Expert、Referent）。Coercive 的 principle of fear：降低 JS、抑制創新、引發 backlash —— 「Only a fool makes threats he is not prepared to carry out」。Power 雙向 —— leader 既要對下影響、也要對上抵抗。Contingency 4 因子（Substitutability 低、Discretion 高、Centrality 高、Visibility 高）決定 power 能否被有效運用 —— commodity 角色 + 主管不知道你做了什麼 → 個人 power 趨近零即使技能極強。
 lifecycle: draft
 lifecycle_changed: 2026-05-20
 ingest_method: read-subagent

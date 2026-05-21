@@ -6,6 +6,8 @@ tags: [entity, holdings, google, conglomerate, moonshot, other-bets, mgmt, strat
 aliases: [Alphabet, Alphabet Inc., GOOGL]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  Google 2015 重組後的母控股公司（市值 $475B 重組時），結構為 Google（Sundar Pichai，占整體營收絕大部分）+ Other Bets（Calico 抗衰老、DeepMind AI、Verily 醫療、Waymo 自駕、Google X moonshot、Nest 智慧家居）。HBS case 9-116-029 主角。教師（[[entities/Tang-Edwin-Yingzhang]]）核心 framing：「Specialized generalist (Google) → Generalized specialist (Alphabet)」—— 重組讓組織從「一專多能」變成「多專多能」。並指出「不是 Matrix，是 Google and non-Google」二元結構。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:

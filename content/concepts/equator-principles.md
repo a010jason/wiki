@@ -6,6 +6,9 @@ tags: [equator-principles, sustainable-finance, project-finance]
 aliases: [赤道原則, EP, Equator Principles]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  2002 年由國際金融公司（IFC）與荷蘭銀行於倫敦提出的國際專案融資社會環境風險管理框架，10 項原則含風險分級、環社評估、IFC 標準適用、利益相關人諮詢、申訴管道、獨立審查、透明揭露。截至 2023 年全球 37 國 93 家金融機構簽署，台灣僅 3 家（占全球 3.2%；9 家公股金融機構全簽）。自願性、不具強制效力，仰賴金融機構自律。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

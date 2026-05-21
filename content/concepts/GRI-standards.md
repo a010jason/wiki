@@ -6,6 +6,9 @@ tags: [GRI, ESG, sustainability-reporting, framework]
 aliases: [GRI 2021, Global Reporting Initiative]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  Global Reporting Initiative 全球永續報告書通用準則，2021 年版重構為「通用 GRI 1/2/3 + 產業 GRI 11-40 + 主題 GRI 200-400」三層架構，2023-01-01 全面生效。重點：模組化、強化人權盡職調查、雙重重大性、新增可驗證性與可靠性。台灣強制編製永續報告書企業需同時參考 GRI、TCFD、SASB 三準則。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

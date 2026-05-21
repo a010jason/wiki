@@ -13,6 +13,8 @@ provenance:
   inferred: 0.15
   ambiguous: 0.05
 base_confidence: 0.55
+summary: >-
+  Power（capacity）轉成 behavior 的方式。Colquitt 整理 9 tactics × 3 effectiveness：Most Effective（Rational Persuasion —— 唯一在 upward influence 一致有效、Consultation、Inspirational Appeals、Collaboration）、Moderately Effective（Ingratiation —— 長期策略才有效、Personal Appeals、Exchange、Apprising 訴諸對方個人利益）、Least Effective（Pressure、Coalitions）。關鍵 nuance：Ingratiation 在 influence attempt immediately prior 反成 manipulation；Apprising 與 rational persuasion 著眼點不同（對方利益 vs 客觀邏輯）。
 lifecycle: draft
 lifecycle_changed: 2026-05-20
 ingest_method: read-subagent

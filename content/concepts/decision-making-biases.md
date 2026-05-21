@@ -13,6 +13,8 @@ provenance:
   inferred: 0.15
   ambiguous: 0.05
 base_confidence: 0.55
+summary: >-
+  Heuristics（rules of thumb）在不確定下快速決策的「good and bad」—— 對 uncertainty 有效率但同時是 systematic bias 來源。六大 biases：Availability（用想得到例子估機率）、Anchoring（第一數字定錨後 adjustment 不足、錨點越精準調整越小）、Framing（Asian Disease 600 人實驗：「saves 200」72% 選 vs「400 die」22% 選同一選項）、Representativeness、Contrast、Recency。Kelley Attribution Process Model 三維度（Consensus / Distinctiveness / Consistency）區分 internal vs external 歸因；Fundamental attribution error vs Self-serving bias。
 lifecycle: draft
 lifecycle_changed: 2026-05-20
 ingest_method: read-main

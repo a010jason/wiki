@@ -6,6 +6,8 @@ tags: [concept, platform-economics, network-effects, dominant-design, mgmt, stra
 aliases: [Winner-take-all 4 determinants, Winner-take-most, Platform winner 4 要素]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  教師（[[entities/Tang-Edwin-Yingzhang]]）明點 platform 戰場「winner-take-all 或 winner-take-most」的 4 個決定要素：(1) Network Effects（Direct 同邊：用戶越多 WTP 越高；Indirect 跨邊：兩邊互相吸引），(2) Multi-Homing Costs（用戶同時用多個競品平台的成本，高則 winner-take-all），(3) Differentiation（產品差異化程度，低則 winner-take-all），(4) Branding / Trust（規模信任溢價）。HTC VR 戰場分析框架，解釋為什麼 Meta Quest 拿走絕大多數蛋糕。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:

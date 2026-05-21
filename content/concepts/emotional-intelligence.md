@@ -13,6 +13,8 @@ provenance:
   inferred: 0.2
   ambiguous: 0.05
 base_confidence: 0.5
+summary: >-
+  管理與運用情緒、與他人互動的能力，與標準智力神經學上獨立（前額葉皮質受損者智力測驗正常但 EI 顯著低）。Goleman 四維度：Self-awareness、Other awareness、Emotion regulation、Use of emotions。關鍵實證：U.S. Air Force 招募 EI 強制測試後 turnover 25% → 2%、保險業務首年離職率 -63%、業績 +$91,370；EI 對低 cognitive ability 員工 performance 更重要（「people smarts」補「book smarts」）；FedEx Express EI 訓練 6 個月後核心領導職能 +8-11%。
 lifecycle: draft
 lifecycle_changed: 2026-05-20
 ingest_method: pdftotext

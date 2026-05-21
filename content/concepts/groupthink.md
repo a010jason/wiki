@@ -13,6 +13,8 @@ provenance:
   inferred: 0.15
   ambiguous: 0.05
 base_confidence: 0.5
+summary: >-
+  過高團隊 cohesion 的副產品 —— 為維持和諧而盲目共識、不主動尋求替代觀點。Cohesion vs Performance 倒 U 型：180+ 旅行社團隊研究顯示初期社交連結提升績效，過高 cohesion 反而拉低。緩解對策：量化評估 cohesion、設 devil's advocate（SEAL Team Six 對 OBL 行動的 voiced doubts）、增加 surface + deep level diversity、拆解 task 為 independent subgroup、外部 reviewers。經典反 groupthink 制度：Jeff Bezos「Have Backbone; Disagree and Commit」、Steve Jobs「In strong companies best ideas win」。
 lifecycle: draft
 lifecycle_changed: 2026-05-20
 ingest_method: pdftotext

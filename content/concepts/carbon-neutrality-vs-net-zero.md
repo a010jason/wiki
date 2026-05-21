@@ -6,6 +6,9 @@ tags: [carbon-neutrality, net-zero, climate]
 aliases: [Carbon Neutrality, Net Zero, 碳中和, 淨零]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  碳中和（Carbon Neutrality）= 減量 + 抵換，可包含購碳權達標、通常僅 CO2；淨零排放（Net Zero）= 全 7 種溫室氣體減量到極限 + 殘餘排放透過移除（removal）抵銷，標準更嚴並需符合 1.5°C 路徑。「先減量再抵換」為核心倫理精神。Microsoft 2030 負碳、Apple 2030 供應鏈碳中和、[[entities/TSMC]] 2050 淨零。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

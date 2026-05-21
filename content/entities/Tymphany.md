@@ -6,6 +6,9 @@ tags: [Tymphany, audio, employer-branding, taiwan]
 aliases: [迪芬尼, Tymphany, 迪芬尼聲學]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  迪芬尼聲學科技為跨國音響科技公司，業務涵蓋揚聲器、聲學系統設計與代工。在企業倫理講座中以「員工夢工廠」（Employer Dream Factory）模型為示範，由人資長 [[entities/Huang-Bo-Xiang]] 推動。四部曲：音樂連結（音樂節 + 公司樂團 + 董事長圓打鼓夢 + ICRT 廣播）、夢想實踐（員工夢想 1 年內達成）、多元溝通（聲音測試室）、DIY 音響相關（新人禮物 + CES 禮物）。核心信念「人選對了，什麼都對了」，[[concepts/employer-branding]] 框架的實踐案例。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

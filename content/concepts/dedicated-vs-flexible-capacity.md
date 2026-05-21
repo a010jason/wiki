@@ -6,6 +6,8 @@ tags: [concept, capacity-strategy, demand-cycle, platform-vs-pipeline, mgmt, str
 aliases: [Dedicated capacity, Flexible capacity, 太平盛世 vs 大飢荒]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  教師原創框架（[[entities/Tang-Edwin-Yingzhang]] Marriott lecture）解釋為何 dedicated-capacity 玩家（Marriott）與 flexible-capacity 玩家（Airbnb）在不同需求週期分別領先。核心命題：「需求平穩（太平盛世，fat margins）→ dedicated 最高效；需求波動（大飢荒，尖峰）→ flexible 補位」。Dedicated 優勢：規模經濟、預測收入、品質一致；Flexible 優勢：zero-marginal-cost host pool、彈性供給；現實多為平峰互補（peak day Marriott 滿、Airbnb 吸溢出）。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:

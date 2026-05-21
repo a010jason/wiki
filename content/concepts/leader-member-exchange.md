@@ -13,6 +13,8 @@ provenance:
   inferred: 0.15
   ambiguous: 0.05
 base_confidence: 0.5
+summary: >-
+  二元（dyadic）關係模型，解釋為何同單位成員對同一 leader 評價分歧 —— 因為每對 leader-member 關係品質不同。High-quality Exchange（Ingroup）vs Low-quality（Outgroup）。進 ingroup 機率高的：competent + likable + 與 leader personality 相似（effect 大於 age/gender/race similarity，隱含倫理疑慮）。Meta-analysis：high LMX → 高 job performance、多 OCB、少 CWB。離職 paradox：high LMX → 不易離開組織，但 leadership succession 發生時反而更可能離職（attachment 是 person-specific）。Cross-cultural：individualistic 文化更 effective。
 lifecycle: draft
 lifecycle_changed: 2026-05-20
 ingest_method: read-subagent

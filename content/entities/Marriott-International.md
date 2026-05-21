@@ -6,6 +6,8 @@ tags: [entity, hbs-case, hospitality, asset-light, multibusiness, mgmt, strategy
 aliases: [Marriott, Marriott Hotels, Marriott Corporation]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  全球最大連鎖飯店集團（2017）：30 個品牌、6,000+ 飯店、110 萬間客房、110+ 國，2016 以 $13.6B 完成 Starwood 併購規模翻倍。市值 $38B（vs Hilton $21B、Hyatt $7.4B）。戰略 DNA：1977 年首倡 [[concepts/asset-light-strategy]]（年報明文「emphasis on management rather than ownership」）—— 不擁有大部分飯店但靠 management 與 franchise contract 與 Bonvoy loyalty 賺錢。教師（[[entities/Tang-Edwin-Yingzhang]]）眉批「輕資產戰略，空手道」。美國 80% franchise，海外 28%；6,000+ 飯店中旗艦 < 4,000、管理協議 ~1,800、其餘 franchise。2016 營業利潤率 ~45%（平台級毛利）。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:

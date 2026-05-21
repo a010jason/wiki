@@ -6,6 +6,8 @@ tags: [concept, paradigm-shift, incumbent-failure, business-model-innovation, mg
 aliases: [Desktop mindset, Platform mindset, MS 還是 Desktop 思維, Incumbent paradigm trap]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  教師（[[entities/Tang-Edwin-Yingzhang]]）原創診斷框架解釋為何 [[entities/Microsoft-AdCenter]] 7 條 break-into 策略全敗 ——「MS 還是 Desktop 思維」。核心命題：incumbent 在 paradigm shift 期間失敗的根本原因不是策略不對，是世界觀過時 —— Desktop / Boxed Software era 的成功心法（feature race、one-time license、stuck-in-the-middle 可活、18-24 月 dev cycle）套不到 cloud + ad-platform + winner-takes-all 戰場（network effect、commission、第二名拿不到油水、持續部署）。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:

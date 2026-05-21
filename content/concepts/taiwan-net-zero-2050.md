@@ -6,6 +6,9 @@ tags: [net-zero, taiwan, policy, climate-strategy]
 aliases: [台灣淨零路徑, 2050 淨零, Taiwan Net-Zero 2050]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  行政院 2022-03 公布《臺灣 2050 淨零排放路徑》，2023-02《氣候變遷因應法》三讀，提出「四大轉型（能源、產業、生活、社會）+ 兩大基礎（氣候立法、科技研發）+ 12 項關鍵戰略」架構。目標：2030 再生能源占比 30%（2023 已達 10%）、化石燃料發電降至 20%、2040 電動機車 100%。批判邊界：人均碳排 15.2 噸/年（全球 2.5 倍），電力碳係數 640 gCO2e/kWh 遠高於歐盟，2050 達成存悲觀。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

@@ -13,6 +13,8 @@ provenance:
   inferred: 0.15
   ambiguous: 0.05
 base_confidence: 0.55
+summary: >-
+  Bass & Riggio 2006 框架：Leader 透過 shared vision 啟發 followers，做 role model、help reach potential、view problems from new perspectives，把短期 self-interest 轉成 collective good。4 I 維度：Idealized Influence（charisma，Lincoln Gettysburg）/ Inspirational Motivation（meaning making，FDR "fear itself"）/ Intellectual Stimulation（challenge assumptions，JFK "ask not what...")/ Individualized Consideration（coaching、mentoring）。Full Range：Laissez-Faire < Passive MBE < Active MBE < Contingent Reward < Transformational。實證：→ Job Performance ~.30、→ Organizational Commitment ~.50（強，但對 Continuance Commitment 無效）。
 lifecycle: draft
 lifecycle_changed: 2026-05-20
 ingest_method: read-subagent

@@ -13,6 +13,8 @@ provenance:
   inferred: 0.15
   ambiguous: 0.05
 base_confidence: 0.55
+summary: >-
+  [[concepts/trust]] 的「行為證據」—— 員工對組織公平的感知透過四個獨立但互補的維度被判讀：Distributive Justice（結果公平，依情境選 equity / equality / need）、Procedural Justice（流程公平，6 規則含 voice / correctability / consistency / bias suppression / representativeness / accuracy）、Interpersonal Justice（人際對待，respect rule + propriety rule，極端違反 → abusive supervision）、Informational Justice（溝通公平，justification rule + truthfulness rule）。Voice + Correctability 是兩個最被研究的：即使結果不利，program 仍會被視為公平。
 lifecycle: draft
 lifecycle_changed: 2026-05-20
 ingest_method: pdftotext

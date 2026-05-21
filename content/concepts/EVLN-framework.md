@@ -13,6 +13,8 @@ provenance:
   inferred: 0.15
   ambiguous: 0.05
 base_confidence: 0.5
+summary: >-
+  員工面對 negative work event（低 [[concepts/organizational-commitment]] / 低 [[concepts/job-satisfaction]]）時的四象限反應：Exit（主動破壞，離職）/ Voice（主動建設，發聲改善）/ Loyalty（被動建設，等待自我改善）/ Neglect（被動破壞，psychological withdrawal）。兩軸：active vs passive × constructive vs destructive。Griffeth-Gaertner-Sager 1999 對應「Stars / Citizens / Lone Wolves / Apathetics」四群。Google voice channels 為示範；Apple / Google / Facebook ignoring voice 後員工轉 Exit（如 2018 Google walkout）。
 lifecycle: draft
 lifecycle_changed: 2026-05-20
 ingest_method: read-subagent

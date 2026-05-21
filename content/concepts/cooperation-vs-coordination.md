@@ -13,6 +13,8 @@ provenance:
   inferred: 0.25
   ambiguous: 0.05
 base_confidence: 0.4
+summary: >-
+  Grant Ch6 提出組織存在的根本兩問題：高生產力來自 specialization，但 specialized individuals 必須被整合 —— Cooperation Problem（員工目標 ≠ 老闆目標、agency problem，解方：hierarchy / incentives / shared values）vs Coordination Problem（誰先做、誰等誰、資訊怎麼接，解方：rules / routines / mutual adjustment）。比 hierarchy / agile / matrix 等結構選擇更底層。常見錯誤：把 coordination 問題（接口設計）當 cooperation 問題（人不努力）來解。Loose Coupling 是解兩者衝突的鑰匙。
 lifecycle: draft
 lifecycle_changed: 2026-05-20
 ingest_method: read-subagent

@@ -6,6 +6,9 @@ tags: [Delta-Electronics, ESG, RE100, SBTi, taiwan]
 aliases: [台達電, Delta Electronics, 台達]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  1971 年鄭崇華創立的全球領先電源管理與散熱解決方案供應商，台灣 ESG 標竿：連續 11 年入選 DJSI 金獎，[[concepts/RE100]]（2025 台灣 / 2030 全球）+ [[concepts/SBTi]] 雙承諾。2019 年碳密集度下降 29%、連續 2 年達 SBT 目標。2011-2019 累計 2,036 項節能方案，2022 節能解決方案營收逾 100 億（全年營收 3,000 億+）。電動車事業群 2024 預期成長 50%。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

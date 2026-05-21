@@ -6,6 +6,9 @@ tags: [BlackRock, asset-management, ESG]
 aliases: [BlackRock, 貝萊德, Larry Fink]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  全球最大資產管理公司，1988 年 Larry Fink 等人創立，2024 年管理資產（AUM）逾 USD 10 兆。Larry Fink 自 2018 年起每年致股東信反覆主張「永續性是投資未來的鑰匙」，2021 宣布要求所有被投資公司達成淨零目標、無法符合者剔除組合，引領全球機構投資人 ESG 轉向。2023-24 因美國共和黨州反 ESG 浪潮稍降詞彙使用但策略不變。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

@@ -13,6 +13,8 @@ provenance:
   inferred: 0.25
   ambiguous: 0.05
 base_confidence: 0.45
+summary: >-
+  A pleasurable emotional state resulting from the appraisal of one's job or job experiences，同時建立在 cognition（計算性判斷）與 affect（情緒反應）兩種基礎上。Value-Percept Theory：Dissatisfaction = (V_want − V_have) × V_importance。Five Facets 與 Overall 的相關：Work itself .70（最強，靠 [[concepts/job-characteristics-theory]] VISAF 驅動）、Supervision .52、Coworker .51、Promotion .39、Pay .22（反 commonsense —— Pay 並非主要驅動子）。
 lifecycle: draft
 lifecycle_changed: 2026-05-20
 ingest_method: read-subagent

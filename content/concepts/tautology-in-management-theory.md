@@ -6,6 +6,8 @@ tags: [concept, philosophy-of-science, falsifiability, strategy-critique, mgmt, 
 aliases: [Tautology, 同義反覆, 恆真句, Management theory critique]
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  唐瓔璋（[[entities/Tang-Edwin-Yingzhang]]）SMJ 2010 論戰核心攻擊：Porter / Barney / Blue Ocean 等策略管理大師命題本質上是同義反覆（tautology）—— 按 Popper falsifiability 標準不算 science。Tautology 的邏輯定義：定義上必為真的命題（「未婚男性是 bachelor」、「適者生存」）。教師形式化 Porter 為三段論：競爭優勢 → 高績效 + 差異化 → 競爭優勢 → 因此差異化 → 高績效，但「競爭優勢」「差異化」皆以結果回頭定義 —— 永遠不能被任何事實否證。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 provenance:
