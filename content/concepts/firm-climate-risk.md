@@ -15,8 +15,8 @@ provenance:
   inferred: 0.1
   ambiguous: 0
 base_confidence: 0.4
-lifecycle: draft
-lifecycle_changed: 2026-05-21
+lifecycle: challenged
+lifecycle_changed: 2026-05-22
 ---
 
 # Firm Climate Risk
@@ -102,6 +102,16 @@ Table 4 用以驗證機制：
 - H2 用 OLS subset 沒做 IV / DID / matched sample → 難排「好公司同時做氣候管理 + 拿好條款」reverse causation
 - Real Climate Risk 用過去災害推未來，**過去 ≠ 未來**
 - Editor Chatterji 多篇 ESG paper，可能 publication bias
+
+## Critique 摘要
+
+> **2026-05-22 跑了一次 wiki-challenge**
+>
+> 5 條核心 claim：0 survives / 2 narrow / 3 brittle / 0 unsupported。整頁主要弱點是 **過度依賴 single SMJ paper（Huang 2022）framing，2020+ firm-level climate finance literature 系統性缺席**：(1)「填補 gap」是 Huang self-positioning，Sautner et al. 2023 *JF* / Pankratz et al. 2023 *Mgmt Sci* 同期 firm-level victim-view literature 未引；(2) CDP/SHELDUS 雙測量「robust」是 null-as-evidence 邏輯（與 CMB Harman test 同源弱點），CDP voluntary disclosure selection bias（page 自承）直接 contaminates perceived measure validity；(3) +7.1% spread / +14% covenants page 自承無 IV/DID 但仍呈現 causal magnitude，Delis et al. 2023 climate policy shock DID 識別未引；(4) 5 個氣候管理機制 dummy 未處理 greenwashing 風險，Lyon-Maxwell 2011 *JEMS* + Marquis-Toffel-Zhou 2016 *Org Sci* selective disclosure literature 全缺席；(5) Merton+agency+incomplete contract+NRBV 整合是 Huang 內部論證，跨 banking systems / fintech / 行為金融 boundary 未明說。
+>
+> `base_confidence`：0.40 → 0.40（已在 brittle cap 0.55 內，原值偏低反映 page 自我警示）；`lifecycle`：draft → challenged。
+>
+> 完整逐條質疑、行動項目：私人 meta 頁（不公開），路徑 `_meta/critique/firm-climate-risk.md`。
 
 ## 對醫療 AI PM 的跨域類比 ^[inferred]
 

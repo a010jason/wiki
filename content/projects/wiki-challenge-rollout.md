@@ -21,9 +21,9 @@ owner: Jason
 | Tier 1 — Top hub pages | **5/5 ✅** (disruptive-innovation / STP-framework / OKR / falsifiability-popper / VRIO-framework) | 0 | 5 |
 | Tier 2 — Cross-domain hub theories | **5/5 ✅** (scientific-theory / causality-three-conditions / innovation-diffusion-theory / elaboration-likelihood-model / social-cognitive-theory) | 0 | 5 |
 | Tier 3 — Research methods 核心 | **10/10 ✅** (agency-theory / construct-validity / reflective-vs-formative / inductive-vs-deductive / theory-vs-not-theory / theory-building-blocks-whetten / attributes-of-good-theory / research-design / internal-validity / external-validity) | 0 | 10 |
-| Tier 4 — Wave 2 supplementary papers | 4 (human-like-AI-competencies ✅ / common-method-bias ✅ / instrumental-variable-2SLS ✅ / PLS-SEM-vs-CB-SEM ✅) | 2 | 6 |
+| Tier 4 — Wave 2 supplementary papers | 5 (human-like-AI-competencies ✅ / common-method-bias ✅ / instrumental-variable-2SLS ✅ / PLS-SEM-vs-CB-SEM ✅ / firm-climate-risk ✅) | 1 | 6 |
 | Tier 5 — Research methods supporting | 0 | 15 | 15 |
-| **總計** | **24** | **17** | **41** |
+| **總計** | **25** | **16** | **41** |
 
 剩餘 363 頁 draft 屬 lower-priority（先跑這 40 個 high-impact 的）。
 
@@ -75,7 +75,7 @@ owner: Jason
 - [x] **`concepts/common-method-bias`** — 2026-05-22 done（5 claims: 0 survives / 2 narrow / 3 brittle / 0 unsupported；detection-pass 邏輯缺方法論 critique 整合；Spector 2006 ORM urban-legend / Fuller 2016 JBR Harman false-negative simulation / Richardson 2009 ORM Lindell-Whitney 批評 / Williams 2010 CFA marker model / Spector et al. 2019 JoM 共同立場文「procedural > post-hoc」全未引；緩解方法表格與「social desirability 沒有有效解法」段落 page 內部矛盾未 reconcile；single case Chandra 2022 不足以作 best practice template）
 - [x] **`concepts/instrumental-variable-2SLS`** — 2026-05-22 done（5 claims: 0 survives / 2 narrow / 3 brittle / 0 unsupported；Stock-Yogo 2005 時代處方未跟上 2010s+ literature；**Cragg-Donald F > 10 過時，Lee-McCrary-Moreira-Porter 2022 AER robust SE 下推到 F > 104.7**；Hausman pre-test 在 weak IV 下 type I 50%+ inflate（Guggenberger 2010）；Sargan null-as-evidence 邏輯 + Parente-Santos Silva 2012 heteroskedasticity 不一致未引；LATE framework 四條件 Angrist-Imbens-Rubin 1996 / Angrist-Pischke 2009 MHE 未整合；「2SLS 處理三大 endogeneity」過度推廣，Imbens-Wooldridge 2009 JEL 不同 endogeneity 不同 strategy 缺席）
 - [x] **`concepts/PLS-SEM-vs-CB-SEM`** — 2026-05-22 done（5 claims: 0 survives / 2 narrow / 3 brittle / 0 unsupported；呈現兩派系時偏 Hair-Henseler PLS 立場，方法論 critique literature 缺席；**Rönkkö-Evermann 2013 ORM "Critical Examination of Common Beliefs" + Goodhue-Lewis-Thompson 2012 MISQ 系列反駁 PLS 小樣本+formative 優勢 10 年未引**；Marsh-Hau-Wen 2004 SEM "In Search of Golden Rules" 警告 Hu-Bentler thresholds 不適用不同 N / complexity；Shmueli 2010 Stat Sci "To Explain or to Predict?" + PLSpredict 2016 已模糊 confirmation/exploration 二分；page 自承雙用「為 reviewer 接受」即承認 sociology of science 邏輯，Antonakis et al. 2010 LQ 反對為審稿妥協嚴謹度未引）
-- [ ] **`concepts/firm-climate-risk`** — Huang 2022；CDP voluntary disclosure selection bias
+- [x] **`concepts/firm-climate-risk`** — 2026-05-22 done（5 claims: 0 survives / 2 narrow / 3 brittle / 0 unsupported；過度依賴 single SMJ paper Huang 2022 framing；2020+ firm-level climate finance literature Sautner 2023 JF + Pankratz 2023 Mgmt Sci 缺席；**雙測量「robust」是 null-as-evidence 邏輯與 CMB Harman test 同源弱點 + CDP voluntary disclosure selection bias 影響 perceived measure validity（page 自承）**；+7.1% spread / +14% covenants page 自承無 IV/DID 仍呈現 causal magnitude，Delis et al. 2023 climate policy shock DID 未引；5 個氣候管理 dummy 未處理 greenwashing 風險，Lyon-Maxwell 2011 JEMS + Marquis 2016 Org Sci 缺席；理論整合是 Huang 內部論證，banking systems / fintech / 行為金融 boundary 未明說）
 - [ ] **`concepts/LIBOR`** — PwC 文宣，顧問業利益動機
 
 ## Tier 5 — Research Methods 支撐頁（後 batch）
