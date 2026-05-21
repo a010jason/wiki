@@ -15,8 +15,8 @@ provenance:
   inferred: 0.15
   ambiguous: 0
 base_confidence: 0.35
-lifecycle: draft
-lifecycle_changed: 2026-05-21
+lifecycle: challenged
+lifecycle_changed: 2026-05-22
 ---
 
 # LIBOR
@@ -122,6 +122,16 @@ PwC 文宣未提：
 - **Legacy contract fallback** 細節（ISDA fallback protocol、UK Critical Benchmarks Act）
 - 零售房貸消費者保護議題
 - **顧問業利益動機**：誇大複雜度推銷顧問服務
+
+## Critique 摘要
+
+> **2026-05-22 跑了一次 wiki-challenge**
+>
+> 5 條核心 claim：0 survives / 2 narrow / 2 brittle / **1 unsupported**。整頁主要弱點是 **single-source PwC consulting firm marketing + academic/regulatory primary sources 系統性缺席**：(1) 三大缺陷 brittle — Hou-Skeie 2014 *JFE* "LIBOR: Origins, Economics, Crisis, Scandal, and Reform" + Wheatley Review 2012 + FCA Bailey 2017 全未引；「1:400,000 失衡」是 reference rate 本質特徵被誤解為 LIBOR 特有 bug；(2) 5 種 RFR universally accepted narrow — AMERIBOR / BSBY / Term SOFR 市場分裂與 adoption heterogeneity 未進入主表格；(3) RFR vs LIBOR backward vs forward trade-off 不平衡，CME Term SOFR 2021 已部分破解「overnight-only」框架未提；(4) PwC 8 面向 best practice brittle — ARRC playbook + ISDA 2020 IBOR Fallback Protocol industry consensus alternative 未引，page 自承「顧問業利益動機」但未影響主 claim；(5) **教師選擇此篇理由 unsupported** — page 自承 `^[inferred]` 但 claim 強度高，HBS LIBOR case + Stulz 2010 *JACF* + Hou-Skeie 2014 academic alternative 全未提（rollout 用戶質疑「PwC 文宣，顧問業利益動機」嫌疑成立）。
+>
+> `base_confidence`：0.35 → 0.35（已在 unsupported cap 0.35 觸頂）；`lifecycle`：draft → challenged。
+>
+> 完整逐條質疑、行動項目：私人 meta 頁（不公開），路徑 `_meta/critique/LIBOR.md`。
 
 ## 與 wiki 既有概念連結 ^[inferred]
 
