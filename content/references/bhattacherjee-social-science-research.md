@@ -70,6 +70,8 @@ sources:
     ingested_commit: pending
 visibility: public
 confidence: high
+summary: >-
+  Bhattacherjee (2012, 2nd ed., open access)《Social Science Research — Principles, Methods, and Practices》151 頁開源教科書 + 配套 chapter slides（Ch1-Ch6 各 128-209p）。為「管理專題研討」AMBA 研究方法 seminar 的主教材，涵蓋社會科學研究法基礎：研究設計、構念與測量、抽樣、調查 / 實驗 / 質性方法、信效度、量表發展。常被搭配 SMJ / JMIS / JAP 期刊論文做批判閱讀練習，訓練學生從研究方法論視角解構主流策略 / 管理研究。
 lifecycle: draft
 created: 2026-05-21
 updated: 2026-05-21

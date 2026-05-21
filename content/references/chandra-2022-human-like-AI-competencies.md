@@ -19,6 +19,8 @@ sources:
     ingested_commit: pending
 visibility: public
 confidence: high
+summary: >-
+  Chandra, Shirish, Srivastava (2022) JMIS 39(4):969-1005 mixed-methods 實證論文：chatbot / conversational AI 三維能力（cognitive / relational / emotional）連到 user engagement，trust 為中介。教師選為「管理專題研討」研究方法論教材，不只為 conversational AI 領域內容，主要訓練：(1) RQ 從文獻 gap 建構、(2) 理論建構 + 構念操作化（MNT + competency + trust → contextualized model）、(3) Construct validity / CMB / endogeneity 標準套餐、(4) Mixed methods 教科書範例、(5) 批判教學材料：H1b 不支持後作者用 4 boundary conditions 補救 —— 引發「真 boundary 還是 ad hoc rationalization？」課堂 critique。
 lifecycle: draft
 created: 2026-05-21
 updated: 2026-05-21

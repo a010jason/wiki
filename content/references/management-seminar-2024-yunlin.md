@@ -37,6 +37,8 @@ sources:
     sha256: e61552c81a7d8c28dbe1a7a485e0e375ad87adf9bc9bdcef270d46a2dc7d3928
 visibility: public
 confidence: high
+summary: >-
+  「管理專題研討」AMBA 研究方法 seminar 2024 的課程資料夾：含 Grading_AMBA syllabus（6p）+ 課堂問答彙整（2024-05-02，7p）+ Jason 個人課堂筆記（2024-02-24 / 05-04 / 05-18，各 2p）。為 AMBA 學程的研究方法核心課程，搭配 Bhattacherjee SSR 教科書 + 多篇 SMJ / JMIS / JAP 期刊論文，訓練學生從研究方法論視角批判閱讀主流策略 / 管理 / IS 研究。教師（[[entities/Tang-Edwin-Yingzhang]] 授課風格延伸）強調 RQ 建構、構念操作化、CMB / endogeneity 處理、boundary condition 是真 contingency 還是 ad hoc rationalization 的判別。
 lifecycle: draft
 created: 2026-05-21
 updated: 2026-05-21

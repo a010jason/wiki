@@ -20,6 +20,8 @@ sources:
     ingested_commit: pending
 visibility: public
 confidence: high
+summary: >-
+  Huang, Kerstein, Wang, Wu (2022) SMJ 43(13):2849-2880 實證論文：把企業視為氣候風險「受害者」（非加害者），連結 firm-level climate risk → bank loan terms（spread / collateral / covenants）；並測試 5 個內部氣候管理機制能否緩和。「整合 PDF」實為 4 位 AMBA 學生課堂報告 deck（雙語對照 + 邊緣手寫質疑註記），不是論文 PDF 本體。教師在「管理專題研討」用此 deck 做批判閱讀練習，從研究方法論角度的多重教學目的：氣候風險量化、agency theory 應用、實證設計、ESG-finance 連結。
 lifecycle: draft
 created: 2026-05-21
 updated: 2026-05-21

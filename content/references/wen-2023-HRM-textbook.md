@@ -67,6 +67,7 @@ created: 2026-05-21
 updated: 2026-05-21
 summary: >-
   溫金豐、王群孝、黃家齊、韓志翔、黃良志（2023）《人力資源管理－理論與實務》第 5 版，華泰文化。陽明交大 EMBA「組織與人力資源管理」課程指定教科書，溫金豐教授（後半段）授課 Ch3-12。本書與 Colquitt《Organizational Behavior》（英文 OB 通論）形成 OB-HRM 雙書配對：OB 偏 micro / individual / group，HRM 偏 employment lifecycle 實務。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

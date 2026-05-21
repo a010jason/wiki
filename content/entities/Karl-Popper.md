@@ -8,6 +8,7 @@ created: 2026-05-21
 updated: 2026-05-21
 summary: >-
   奧地利-英國科學哲學家（1902-1994）。提出 falsifiability 作為 science 的判別準則 + critical rationalism 認識論。對 Bhattacherjee 全書方法論立場有貫穿性影響：Ch1 介紹、Ch4 列為 theory 評估準則、Ch11 case research 理論測試標準、Ch15 hypothesis testing 邏輯基礎。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---

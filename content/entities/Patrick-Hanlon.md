@@ -11,6 +11,7 @@ created: 2026-05-20
 updated: 2026-05-20
 summary: >-
   Thinktopia CEO，《Primal Branding》作者。提出 branding 視為 **belief system** 的七要素架構（Creation story / Creed / Icon / Rituals / Pagans / Sacred words / Leader）。Kotler 16e Ch07 引用作為 positioning 的 storytelling 工具。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-20
 ---

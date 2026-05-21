@@ -152,6 +152,7 @@ created: 2026-05-20
 updated: 2026-05-21
 summary: >-
   Kotler / Keller / Chernev《Marketing Management》16e Global Edition (Pearson 2022) 行銷管理教科書 manifest 頁，登錄各章 ingest 狀態、ingest_method 與對應的 wiki 頁。本書是行銷管理領域 standard 教科書，與 Grant《Contemporary Strategy Analysis》(策略)、Colquitt《Organizational Behavior》(OB) 形成管理三聯。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-20
 ---

@@ -10,6 +10,7 @@ created: 2026-05-20
 updated: 2026-05-20
 summary: >-
   「現代行銷學之父」。Northwestern Kellogg 行銷學教授 emeritus。《Marketing Management》自 1967 年首版以來改版至 16e（2022），是行銷管理 standard 教科書。把行銷從「賣東西」擴大到「creating, communicating, delivering value」的方法論。提出 5C / 3V / 7Ts / G-STIC / STP 等核心框架。
+confidence: medium
 lifecycle: draft
 lifecycle_changed: 2026-05-20
 ---
