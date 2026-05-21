@@ -1,0 +1,37 @@
+#!/bin/sh
+# Wiki pre-commit hook — 防 wiki-ingest 漏更新 index.md。
+#
+# 觸發條件：staged 變更含 content/*.md（新增、刪除、改名都算）。
+# 動作：跑 scripts/check-index-completeness.py，有 missing/phantom 就 abort。
+#
+# 啟用方式：
+#   git config core.hooksPath .githooks
+
+set -e
+
+REPO_ROOT="$(git rev-parse --show-toplevel)"
+SCRIPT="$REPO_ROOT/scripts/check-index-completeness.py"
+
+# 只在 staged diff 涉及 content/ 下的 .md 時才檢查
+TOUCHES_CONTENT=$(git diff --cached --name-only --diff-filter=ACDR | grep -E '^content/.*\.md$' || true)
+
+if [ -z "$TOUCHES_CONTENT" ]; then
+  exit 0
+fi
+
+if [ ! -x "$SCRIPT" ]; then
+  echo "pre-commit: skipping check (missing or non-executable $SCRIPT)"
+  exit 0
+fi
+
+echo "pre-commit: 檢查 index.md 與 disk 是否對齊..."
+if ! python3 "$SCRIPT" --quiet; then
+  echo ""
+  echo "✗ pre-commit aborted：index.md 漏列或 phantom。"
+  echo "  跑 \`python3 scripts/check-index-completeness.py\` 看詳情，補完再 commit。"
+  echo "  繞過（不建議）：git commit --no-verify"
+  exit 1
+fi
+
+echo "pre-commit: ✓"
+exit 0

@@ -66,6 +66,9 @@ title: Jason 的知識庫
 - [[concepts/conflict-resolution-styles]] — Thomas-Kilmann 5 styles + BATNA + integrative vs distributive（Ch13）
 - [[concepts/transformational-leadership]] — 4 I model + Full Range + charisma 60% genetic（Ch14）
 - [[concepts/leader-member-exchange]] — Dyadic ingroup/outgroup + 跨文化 boundary（Ch14）
+- [[concepts/motivation]] — Direction / Intensity / Persistence 三可觀察維度 + 涵蓋四大理論母概念（Ch6 hub）
+- [[concepts/team-processes]] — Marks-Mathieu-Zaccaro：Taskwork + Teamwork × Transition/Action/Interpersonal（Ch12）
+- [[concepts/citizenship-fatigue]] — Loyal Employees Trap：OCB 邊界條件 + skill-curve stretching 陷阱（Ch3）
 
 ### 管理 / 人力資源管理（溫金豐 2024 Ch1-12）
 - [[concepts/ulrich-hr-roles]] — Ulrich 4 角色 + HRM 5 階段演進（Personnel→HRM→SHRM→TM→DEI）（Ch1-2）
@@ -105,6 +108,13 @@ title: Jason 的知識庫
 - [[concepts/transaction-cost-economics]] — Coase-Williamson 框架（Grant Ch10）
 - [[concepts/CAGE-distance-framework]] — Ghemawat 跨國距離四維 + AAA Triangle（Grant Ch11）
 - [[concepts/organizational-ambidexterity]] — Exploit vs Explore 雙元能力；Structural（O'Reilly-Tushman）vs Contextual（Gibson-Birkinshaw）兩型；Hyundai sequencing 案例（Grant Ch08）
+- [[concepts/dynamic-capabilities]] — Teece：integrate / build / reconfigure 內外能力應對快速變動環境（Grant 引述）
+- [[concepts/grant-strategic-importance-criteria]] — Grant 6-criteria 框架，對照 Barney VRIO 的 4-criterion；Establishing / Sustaining / Appropriating 三 meta-categories
+- [[concepts/appropriability]] — Grant Ch05 第三軸：誰擷取資源／能力創造的回報；Property rights / Bargaining power / Embeddedness
+- [[concepts/appropriability-regime]] — Teece（Grant Ch09 引述）：創新獲利 = value to users × 創新者擷取能力；4 因素
+- [[concepts/vertical-integration]] — Grant Ch10：Make-vs-buy + TCE 為理論基礎；backward/forward × spot↔full VI 中介九階
+- [[concepts/network-externalities]] — Grant Ch14 / Ch09：價值隨採用人數上升；platform competition / winner-take-all 前提
+- [[concepts/organizational-inertia]] — Grant Ch08：既有公司抵抗變革 5 大來源（Routines / Social-political / Conformity / Limited Search / Complementarities）
 
 #### 競爭優勢、商模、平台動態
 
@@ -120,6 +130,8 @@ title: Jason 的知識庫
 - [[concepts/penguin-problem-game-theory]] — 賽局論 first-mover hesitation（與 HTC penguin-effect 不同）；Mobileye OEM 觀望困境
 - [[concepts/substitute-complement-substitute-cycle]] — 教師原創三段論：替代 → 互補 → 替代效果；fintech / platform 演化模式（Ant Financial case）
 - [[concepts/institutional-voids]] — 新興市場制度結構缺口提供 fintech 切入口（Khanna-Palepu）（Ant Financial case）
+- [[concepts/platform-competition]] — 數位時代單一 vertical 龍頭跨界滲透成多 vertical 平台（GAFA case 核心觀察）
+- [[concepts/winner-take-all-vs-always-a-share]] — 市場結構二分：WTA 70-90% 贏者吃 vs Always-a-Share 共存（GAFA case Q2）
 
 #### 組織轉型、多元化、跨國治理
 
@@ -177,6 +189,15 @@ title: Jason 的知識庫
 - [[concepts/marketing-dashboard]] — 4 pathway 框架（Customer/Unit/Cash-flow/Brand）（Ch05）
 - [[concepts/product-differentiation-9-dimensions]] — Kotler 9 維度，#1-2 vs #3-9 階層（Ch08）
 - [[concepts/product-line-strategies]] — Line stretching/filling/modernization/featuring/pruning（Ch08）
+- [[concepts/business-market-characteristics]] — B2B 市場 10 大特徵（fewer larger buyers / professional purchasing / multiple decision makers...）（Ch04）
+- [[concepts/buying-situations]] — Straight Rebuy / Modified Rebuy / New Task 三型情境（Ch04）
+- [[concepts/customer-journey-map]] — Awareness → Analysis → Purchase → Delivery → Loyalty 五段，跨 online/offline 觸點（Ch03）
+- [[concepts/expectancy-value-model]] — A = Σ Bᵢ × Eᵢ 多屬性態度模型（Ch03 評估階段）
+- [[concepts/perceived-risk]] — 6 類 risk（Functional / Physical / Financial / Social / Psychological / Time），介於 intent 與 decision 的 intervening factor（Ch03）
+- [[concepts/reference-groups]] — Primary / Aspirational / Dissociative；社會因素影響購買行為（Ch03）
+- [[concepts/long-tail-theory]] — Chris Anderson 2004，數位經濟 98% 商品都有銷售機會（Ch06 segmentation）
+- [[concepts/features-fatigue]] — 不斷加功能稀釋產品價值；HTC 機海戰術反例 vs Apple simplicity（Ch08）
+- [[concepts/product-portfolio-design]] — Width × Length × Depth × Consistency 四維度（Ch08，P&G 示意）
 
 **Ch09 Services：**
 - [[concepts/service-marketing-4Is]] — Intangibility / Inseparability / Variability / Perishability + 有形化策略 + 需求-供給平衡（Ch09 hub）
@@ -193,6 +214,8 @@ title: Jason 的知識庫
 - [[concepts/brand-value-chain]] — 4 stages（Investment → Mindset → Performance → Shareholder Value）+ 3 multipliers（Ch10）
 - [[concepts/brand-extension]] — Extension 優劣勢 + BIC 香水稀釋 + Burberry repositioning（Ch10）
 - [[concepts/luxury-branding]] — Access vs Exclusivity 平衡 + 4P 反向操作 + Masstige 中間路線（Ch10）
+- [[concepts/narrative-branding]] — Setting / Cast / Narrative arc / Language 4 元素故事框架（Ch07 + Ch10）
+- [[concepts/primal-branding]] — Patrick Hanlon 7 元素信仰系統（Creation/Creed/Icon/Rituals/Pagans/Sacred words/Leader）
 
 **Ch11 Pricing：**
 - [[concepts/pricing-6-steps]] — Objectives → Demand → Costs → Competitors → Method → Final（Ch11 hub）
@@ -215,6 +238,19 @@ title: Jason 的知識庫
 - [[concepts/modern-retail-environment-trends]] — 現代零售七大特徵 + barbell 中端衰退（DECATHLON.pdf 實際內容）
 - [[concepts/markops-marketing-operations-framework]] — Markops = 1E+5Cs+STP+7Ts → 動態調整 + CNC/MS + BCG invest/maintain/milk/divest
 - [[concepts/integrated-digital-marketing-six-pillars]] — 數位整合行銷六支柱概念圖（SEO / 社群 / 數據廣告 / O2O / 口碑 / PR）
+- [[concepts/audience-volume-vs-premium-content]] — Display 廣告二元策略：programmatic/RTB vs 線下媒體邏輯（GAFA case）
+- [[concepts/stickiness-vs-reach]] — 數位媒體兩個正交指標：黏著度 vs 觸及；FB 6:41 vs Google 1:54（GAFA case）
+
+### 管理 / AI 戰略與數位營運模型（Iansiti & Lakhani 2020）
+- [[concepts/digital-operating-model]] — DOM 母概念：AI 作為 runtime 突破傳統 S-curve 邊際遞減，達 Scale × Scope × Learning 同時放大
+- [[concepts/ai-factory]] — DOM 核心基礎設施：可擴展的「決策工廠」整合資料/演算法/軟體/連通性
+- [[concepts/scale-scope-learning]] — Iansiti SSL 三優勢：規模邊際成本≈0 + 範疇零成本連結 + 嵌入式學習
+- [[concepts/humans-on-edge-ai-in-core]] — 員工在邊、AI 在核心；critical-path AI 執行 + 邊緣例外人工補洞
+- [[concepts/weak-ai-sufficiency]] — 反 AGI hype：現有 weak AI 已足以重塑營運模型，別等 AGI
+- [[concepts/strategic-collisions]] — 數位公司「碰撞」傳統公司：collateral damage 而非 direct challenge（Kodak 式倒下）
+- [[concepts/platform-vs-pipeline-pharma]] — 製藥業 Pipeline 傳統 vs Platform 通用底層（mRNA / CRISPR / genomics）
+- [[concepts/cdo-chief-digital-officer]] — 數位長 C-suite 角色；Marcello Damiani 為經典案例（Moderna）
+- [[concepts/flagship-pioneering-model]] — Noubar Afeyan 自孵自投 4 階段（Explorations / ProtoCo / NewCo / GrowthCo）；Moderna 起源模式
 
 ### ESG / 永續發展（陽明交大 2023 系列 + 業界）
 - [[concepts/ESG-framework]] — Environmental / Social / Governance 三支柱 + 演進軸線（SRI→CSR→ESG→Net Zero）
@@ -338,6 +374,23 @@ title: Jason 的知識庫
 - [[entities/Elon-Musk]] — HBS 9-722-439；7 公司 Empire「沒有 synergy」；Yoffie 5 rules ↔ 孫子兵法五事框架對接
 - [[entities/Tang-Edwin-Yingzhang]] — 唐瓔璋（Edwin Tang）— 陽明交大策略管理 14 週課程授課者；SMJ 2010 Bayesian Inference 論文作者；Fighting with Porter 學術論戰實際投稿者
 
+### 數位巨頭（HBS GAFA case 2013）
+
+- [[entities/Amazon]] — 1994 Bezos 創立；GAFA 中零售主導 + AWS 跨界滲透 lever
+- [[entities/Apple]] — 1976 創立；GAFA 中介面層 + iTunes 生態；不靠廣告，反推 Screen Time
+- [[entities/Facebook]] — 2004 Zuckerberg 創立；GAFA 中社交主導；FB 6:41 vs Google 1:54 黏著度差距
+- [[entities/Google]] — 1998 Page & Brin 創立；GAFA 中搜索主導；2013 桌面 66% / 行動 93.3% WTA 代表
+
+### 醫療 AI / 數位轉型（Iansiti Moderna case 2021）
+
+- [[entities/Moderna]] — 2010 創立；「被生技耽誤的科技公司」；Day 1 即定位數位化生技 + AI Factory
+- [[entities/Noubar-Afeyan]] — Flagship Pioneering 創辦人；自孵自投 venture creation 模式開創者
+- [[entities/Stephane-Bancel]] — Moderna CEO（2011-）；法國工程師背景；從 bioMérieux/Lilly 帶來數位/系統痛點教訓
+
+### 研究方法論 — 哲學家
+
+- [[entities/Karl-Popper]] — 奧地利-英國科哲家（1902-1994）；falsifiability 判別準則 + critical rationalism；Bhattacherjee 全書方法論立場貫穿性影響
+
 ### ESG / 公司治理 / 倫理（陽明交大 2023-2025 系列）
 - [[entities/Hu-Jin-Li]] — 陽明交大經管所教授；行政院國家永續發展委員會委員；ESG 系列主導講者
 - [[entities/Liu-Zong-Sheng]] — 元大投信董事長 / 投信投顧公會理事長；永續金融 + ETF 2.0 講者
@@ -399,6 +452,9 @@ title: Jason 的知識庫
 - [[references/chandra-2022-human-like-AI-competencies]] — JMIS 2022 chatbot human-like competency；mixed methods + CMB + IV/2SLS + PLS-SEM 範本
 - [[references/huang-2022-firm-climate-risk-bank-loan]] — SMJ 2022；firm-level climate risk → bank loan terms；CDP + SHELDUS + DealScan 多資料庫合併範本
 - [[references/management-seminar-2024-yunlin]] — 管理專題研討 AMBA 2024 課程框架（syllabus + Q&A + Jason 課堂筆記）
+- [[references/hbs-gafa-case-deighton-2013]] — HBS 9-513-060 Deighton & Kornfeld，Amazon/Apple/Facebook/Google 七維度互相滲透；唐瓔璋編譯
+- [[references/iansiti-lakhani-competing-age-of-ai-2020]] — HBR Press 10 章書，AI 作為 runtime + digital operating model；Wave 3 數位營運模型核心
+- [[references/iansiti-moderna-case-2021]] — HBS 9-621-032，Moderna (A) 21 頁 + 9 exhibits；Iansiti 2020 書的活案例
 
 ## Synthesis
 
@@ -420,6 +476,7 @@ title: Jason 的知識庫
 - [[synthesis/HP-pretexting-lessons]] — 2006 HP 醜聞對台灣公司治理的三層啟示（內部調查合法性 / 獨董質疑勇氣 / 隱私保護平衡）
 - [[synthesis/family-firm-control-vs-governance]] — 東亞家族企業控制權保留 vs 公司治理透明化的根本張力
 - [[synthesis/medical-ai-ESG-implications]] — 醫療 AI 公司面對 ESG 監管的具體策略（E 弱 / S 重 / G 為 IPO 前置）— **visibility: internal**
+- [[synthesis/medical-ai-platform-vs-pipeline]] — 醫療 AI 5 年內會分化 platform 型 vs pipeline 型；後者長期被 disintermediate（Jason 判斷，2026-05-06）
 - [[synthesis/shipping-aviation-ESG-paths]] — IMO vs ICAO 減排框架對比 + 替代燃料路徑
 - [[synthesis/wei-zheng-leadership-and-subsidiary-management]] — 諫太宗十思疏 ↔ 跨國子公司治理跨領域對標；Bartlett 三階段 + 唐太宗治國模式映射；類比的適用邊界
 - [[synthesis/agency-vs-merchant-platform-models]] — Agency vs Merchant 商模跨產業對比（OTA / e-commerce / ride-hailing / cloud / 房地產）；為何 agency 普遍贏 + Amazon 雙軌的內部衝突

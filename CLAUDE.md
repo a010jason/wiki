@@ -255,6 +255,26 @@ log 格式（append-only，新的加在最後）：
 - 跑之前先跑 wiki-status 確認 delta
 - 中文 source **單線程**處理，不要平行
 - 完成後更新 `index.md`、`log.md`、`hot.md`
+- **commit 前**跑 `python3 scripts/check-index-completeness.py` 驗證 disk-vs-index 對齊（0 missing / 0 phantom）；若已啟用 `.githooks/pre-commit`，commit 時會自動擋
+
+### 完整性檢查與 pre-commit hook（防 ingest 漏更新 index）
+
+`scripts/check-index-completeness.py` 做雙向 diff：
+
+- **missing**：disk 有頁但 `index.md` 沒引用 → wiki-ingest 漏做收尾步驟
+- **phantom**：`index.md` 引用但 disk 沒頁 → 拼錯或頁被刪
+
+兩者任一不為 0，script 返回 exit 1。預期常態 `0 / 0`。
+
+**啟用 pre-commit hook（一次性設定，每次 clone repo 後做一次）：**
+
+```sh
+git config core.hooksPath .githooks
+```
+
+啟用後，commit 含 `content/*.md` 變更時會自動跑 check，不過就 abort。繞過用 `git commit --no-verify`（不建議）。
+
+歷史教訓：2026-05-22 LINT 發現 46 個 page 漏列 index.md，根因是 ESG / 倫理 / 治理 batch ingest（62 new pages）跳過了 index 更新步驟，且事後沒人補。Hook 防的就是這類遺漏。
 
 ### PDF Ingest 操作規範（強制 SOP）
 
