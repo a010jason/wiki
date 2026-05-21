@@ -19,11 +19,11 @@ owner: Jason
 | Tier | 已跑 | 待跑 | 總計 |
 |---|---|---|---|
 | Tier 1 — Top hub pages | **5/5 ✅** (disruptive-innovation / STP-framework / OKR / falsifiability-popper / VRIO-framework) | 0 | 5 |
-| Tier 2 — Cross-domain hub theories | 1 (scientific-theory ✅) | 4 | 5 |
+| Tier 2 — Cross-domain hub theories | 2 (scientific-theory ✅ / causality-three-conditions ✅) | 3 | 5 |
 | Tier 3 — Research methods 核心 | 2 (agency-theory ✅ / construct-validity ✅) | 8 | 10 |
 | Tier 4 — Wave 2 supplementary papers | 0 | 6 | 6 |
 | Tier 5 — Research methods supporting | 0 | 15 | 15 |
-| **總計** | **8** | **33** | **41** |
+| **總計** | **9** | **32** | **41** |
 
 剩餘 363 頁 draft 屬 lower-priority（先跑這 40 個 high-impact 的）。
 
@@ -51,7 +51,7 @@ owner: Jason
 ## Tier 2 — Cross-Domain Hub Theories（跨多個 wiki 章節引用）
 
 - [x] **`concepts/scientific-theory`** — 2026-05-22 done（5 claims: 0 survives / 2 narrow / 3 brittle / 0 unsupported；positivist organizational research 立場當普世真理、prediction-vs-explanation 二分被 Cartwright/Salmon 反駁未引、theory-ladenness of observation 違反 Quine/Hanson/Kuhn）
-- [ ] **`concepts/causality-three-conditions`** — Bhattacherjee + Colquitt 雙來源；影響 internal-validity / 因果推論
+- [x] **`concepts/causality-three-conditions`** — 2026-05-22 done（5 claims: 1 survives / 2 narrow / 2 brittle / 0 unsupported；忽略 Pearl 2009 因果推論革命、頁面內部自我矛盾「cross-sectional 不可推因果」vs 下方列 IV/RD/DID 工具、醫療 AI「需要 RCT」與 FDA 實務不符）
 - [ ] **`concepts/innovation-diffusion-theory`** — Rogers 五類採用者；近年被 network effect 文獻挑戰
 - [ ] **`concepts/elaboration-likelihood-model`** — Petty-Cacioppo dual-process；medical AI 採用 framing
 - [ ] **`concepts/social-cognitive-theory`** — Bandura；reciprocal triadic causation 反 falsifiable 嫌疑

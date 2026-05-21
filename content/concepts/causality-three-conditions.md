@@ -17,8 +17,8 @@ provenance:
   inferred: 0.05
   ambiguous: 0
 base_confidence: 0.55
-lifecycle: draft
-lifecycle_changed: 2026-05-21
+lifecycle: challenged
+lifecycle_changed: 2026-05-22
 ---
 
 # Causality 三條件
@@ -98,6 +98,16 @@ lifecycle_changed: 2026-05-21
    - 若皆是 → 只能 claim correlation
 
 → 這是醫療 AI 上市後 post-market surveillance 的核心方法論挑戰。
+
+## Critique 摘要
+
+> **2026-05-22 跑了一次 wiki-challenge**
+>
+> 5 條核心 claim：1 survives / 2 narrow / 2 brittle / 0 unsupported。三個結構性弱點：(1) 忽略 Pearl 2009 因果推論革命（do-calculus / counterfactual），把 Mill 1843 三條件當定論；(2) 頁面內部自我矛盾 — 上方斷言「cross-sectional 不可建立因果」，下方又列 IV/RD/DID 等正是用於 cross-sectional 因果推論的工具；(3) 醫療 AI「需要 RCT」過度規範化 — 多數 FDA-cleared medical AI（PathAI / Aidoc / Babylon）實際用 retrospective evidence。
+>
+> `base_confidence`：0.55 → 0.55（brittle cap 觸頂）；`lifecycle`：draft → challenged。
+>
+> 完整逐條質疑、行動項目：私人 meta 頁（不公開），路徑 `_meta/critique/causality-three-conditions.md`。
 
 ## Related
 
