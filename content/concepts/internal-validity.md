@@ -16,8 +16,8 @@ provenance:
   inferred: 0.1
   ambiguous: 0
 base_confidence: 0.5
-lifecycle: draft
-lifecycle_changed: 2026-05-21
+lifecycle: challenged
+lifecycle_changed: 2026-05-22
 ---
 
 # Internal Validity（內部效度）
@@ -100,6 +100,16 @@ lifecycle_changed: 2026-05-21
 | 排除其他原因了嗎？（同期換主管、市場變化） | 通常未驗證 |
 
 → 若三者不能同時 yes，只能 claim correlation，不能 claim causal effect。
+
+## Critique 摘要
+
+> **2026-05-22 跑了一次 wiki-challenge**
+>
+> 5 條核心 claim：0 survives / 4 narrow / 1 brittle / 0 unsupported。主要弱點：100% Bhattacherjee + Campbell-Stanley 1963 古典 single-source；現代 causal inference revolution 完全缺席（Pearl 2009 do-calculus / Imbens-Rubin 2015 potential outcomes / Angrist-Pischke 2008 credibility revolution）；Design hierarchy「Lab > Cross-sectional」反映 1979 立場，Card-Krueger 1994 NJ-PA minimum wage 自然實驗 + Card 2021 Nobel 已顛覆此 ordering；5 controls 框架過時，現代 propensity score (Rosenbaum-Rubin 1983) + IV + RD + DID + synthetic control + double ML 缺席；CMB 緩解 Harman + Lindell-Whitney 已被 Fuller 2016 + Richardson 2009 critique 為 power 不足；Cross-ref dependency 多頁已 challenged 未繼承 critiques。
+>
+> `base_confidence`：0.50 → 0.50（brittle cap 0.55 內）；`lifecycle`：draft → challenged。
+>
+> 完整逐條質疑、行動項目：私人 meta 頁（不公開），路徑 `_meta/critique/internal-validity.md`。
 
 ## Related
 
