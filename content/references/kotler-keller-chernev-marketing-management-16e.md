@@ -93,6 +93,7 @@ sources:
     ingested_commit: wave2-pending
   - id: Kotler-MM16e-Wave3-Retail-Trends
     type: case-supplement
+    drive_url: https://drive.google.com/file/d/1eB7axk16cN0zXWa8AlkEZM_WrGTINWBl/view
     rel_path: 行銷管理/DECATHLON.pdf
     pages: 2
     sha256: a05d3eab58ab5b92d4a30359ed0d5a6b6fdaf28e4341b3f598a2c6d7c5e1ef6c
@@ -100,42 +101,49 @@ sources:
     note: 檔名 DECATHLON 但內容為現代零售環境七大特徵框架
   - id: Kotler-MM16e-Wave3-Shopee
     type: case-supplement
+    drive_url: https://drive.google.com/file/d/1XY8TZfDrjckbjWRgtWeWyPGYUW6xozu1/view
     rel_path: 行銷管理/Shopee.pdf
     pages: 2
     sha256: 6f94432365fbab95c1520870303a096b2f1c01ebfa90316d6e91f6d4ec7f8448
     ingested_commit: pending
   - id: Kotler-MM16e-Wave3-TikTok
     type: case-supplement
+    drive_url: https://drive.google.com/file/d/1Pejbl13hp1Sh4wvP2VOkJtciafzQCf1W/view
     rel_path: 行銷管理/TikTok.pdf
     pages: 2
     sha256: 6f38b5de4a55fbaf5011ca8c907b5d9a09b7e3d219e441a6e27e9d772a3cff2f
     ingested_commit: pending
   - id: Kotler-MM16e-Wave3-Tiffany
     type: case-supplement
+    drive_url: https://drive.google.com/file/d/16a7uYVPYg9UXurfbLe9IDsKhPzgM2eaE/view
     rel_path: 行銷管理/Tiffany.pdf
     pages: 2
     sha256: c52745793973dc2d326263a626663f5287e14fdb626fb077e1c399daed850c4d
     ingested_commit: pending
   - id: Kotler-MM16e-Wave3-TaylorSwift
     type: case-supplement
+    drive_url: https://drive.google.com/file/d/1e2eSo57wHXNns5zVSNQB3VcjqkpbMQTO/view
     rel_path: 行銷管理/Taylor Swift.pdf
     pages: 2
     sha256: fa8ccefeafe6e2dbd89b9ffe1541646bd5ffe724256d2dac7c86a53d5d6dafb2
     ingested_commit: pending
   - id: Kotler-MM16e-Wave3-AmazonPackaging
     type: case-supplement
+    drive_url: https://drive.google.com/file/d/1RMLFkmlggizHQekM0YUSEecAmdYU3d1n/view
     rel_path: 行銷管理/亞馬遜可持續包裝計劃.pdf.pdf
     pages: 3
     sha256: 2bba5c7abc81eb31d2c3c3bd0c7d75dbf7a4851bd4ffca55cdbd2025a1655fad
     ingested_commit: pending
   - id: Kotler-MM16e-Wave3-Markops
     type: case-supplement
+    drive_url: https://drive.google.com/file/d/1r2nBEhTvVi2UK8-NaU4XFMJp3m0kJhd-/view
     rel_path: 行銷管理/Markops.pdf
     pages: 4
     sha256: 45e53d1e62055205d2f2dfcf20bdc992b71fbbae4b3e1ac2e0dd47e8f7465b52
     ingested_commit: pending
   - id: Kotler-MM16e-Wave3-DigitalIMC
     type: case-supplement
+    drive_url: https://drive.google.com/file/d/1AB5R5aKuVxxYg4i1O3IZ_fatFfCckG63/view
     rel_path: 行銷管理/數位行銷-整合行銷.png.pdf
     pages: 1
     sha256: 9c8abcfed4b1eafab7c087f9ebcaa7b9b22871719d452f1a0d1f0282804debec
@@ -186,16 +194,16 @@ Phase 2 Wave 1（2026-05-20）已 ingest 8 章；**Wave 2（2026-05-21）+5 章*
 
 Phase 2 Wave 3（2026-05-21）已 ingest 8 個案例 PDF（教師補充教材，小檔 1-4 頁）。**Source 索引**：每個案例 `ID` 對應 frontmatter `sources[].id`。
 
-| ID | 檔名 | 主題 | 頁數 | ingest_method | hash (short) | wiki 對應頁 |
-|---|---|---|---|---|---|---|
-| `Kotler-MM16e-Wave3-Retail-Trends` | DECATHLON.pdf | 現代零售環境七大特徵（檔名與內容不符） | 2 | read-subagent | `a05d3eab…` | [[concepts/modern-retail-environment-trends]] |
-| `Kotler-MM16e-Wave3-Shopee` | Shopee.pdf | Agency vs Merchant Model + UVMC × 3 預掠 | 2 | read-subagent | `6f944323…` | [[entities/Shopee]] |
-| `Kotler-MM16e-Wave3-TikTok` | TikTok.pdf | Algorithmic recommendation + Gen Z 注意力 + offshore | 2 | read-subagent | `6f38b5de…` | [[entities/TikTok]] |
-| `Kotler-MM16e-Wave3-Tiffany` | Tiffany.pdf | Luxury + 中國市場 + organic vs M&A（source 稀薄） | 2 | read-subagent | `c5274579…` | [[entities/Tiffany]] |
-| `Kotler-MM16e-Wave3-TaylorSwift` | Taylor Swift.pdf | Personal brand + Scooter Braun + 收入四元化 | 2 | read-subagent | `fa8ccefe…` | [[entities/Taylor-Swift]] |
-| `Kotler-MM16e-Wave3-AmazonPackaging` | 亞馬遜可持續包裝計劃.pdf.pdf | FFP / SIOC / Klabin / Walmart 對標 | 3 | read-subagent | `2bba5c7a…` | [[entities/Amazon]]（augment） |
-| `Kotler-MM16e-Wave3-Markops` | Markops.pdf | Marketing Operations 框架（1E+5C+STP+7T+CNC/MS+BCG） | 4 | read-subagent | `45e53d1e…` | [[concepts/markops-marketing-operations-framework]] |
-| `Kotler-MM16e-Wave3-DigitalIMC` | 數位行銷-整合行銷.png.pdf | 整合行銷六大支柱概念圖 | 1 | read-subagent | `9c8abcfe…` | [[concepts/integrated-digital-marketing-six-pillars]] |
+| ID | 檔名 | 主題 | 頁數 | ingest_method | hash (short) | wiki 對應頁 | Drive |
+|---|---|---|---|---|---|---|---|
+| `Kotler-MM16e-Wave3-Retail-Trends` | DECATHLON.pdf | 現代零售環境七大特徵（檔名與內容不符） | 2 | read-subagent | `a05d3eab…` | [[concepts/modern-retail-environment-trends]] | [↗](https://drive.google.com/file/d/1eB7axk16cN0zXWa8AlkEZM_WrGTINWBl/view) |
+| `Kotler-MM16e-Wave3-Shopee` | Shopee.pdf | Agency vs Merchant Model + UVMC × 3 預掠 | 2 | read-subagent | `6f944323…` | [[entities/Shopee]] | [↗](https://drive.google.com/file/d/1XY8TZfDrjckbjWRgtWeWyPGYUW6xozu1/view) |
+| `Kotler-MM16e-Wave3-TikTok` | TikTok.pdf | Algorithmic recommendation + Gen Z 注意力 + offshore | 2 | read-subagent | `6f38b5de…` | [[entities/TikTok]] | [↗](https://drive.google.com/file/d/1Pejbl13hp1Sh4wvP2VOkJtciafzQCf1W/view) |
+| `Kotler-MM16e-Wave3-Tiffany` | Tiffany.pdf | Luxury + 中國市場 + organic vs M&A（source 稀薄） | 2 | read-subagent | `c5274579…` | [[entities/Tiffany]] | [↗](https://drive.google.com/file/d/16a7uYVPYg9UXurfbLe9IDsKhPzgM2eaE/view) |
+| `Kotler-MM16e-Wave3-TaylorSwift` | Taylor Swift.pdf | Personal brand + Scooter Braun + 收入四元化 | 2 | read-subagent | `fa8ccefe…` | [[entities/Taylor-Swift]] | [↗](https://drive.google.com/file/d/1e2eSo57wHXNns5zVSNQB3VcjqkpbMQTO/view) |
+| `Kotler-MM16e-Wave3-AmazonPackaging` | 亞馬遜可持續包裝計劃.pdf.pdf | FFP / SIOC / Klabin / Walmart 對標 | 3 | read-subagent | `2bba5c7a…` | [[entities/Amazon]]（augment） | [↗](https://drive.google.com/file/d/1RMLFkmlggizHQekM0YUSEecAmdYU3d1n/view) |
+| `Kotler-MM16e-Wave3-Markops` | Markops.pdf | Marketing Operations 框架（1E+5C+STP+7T+CNC/MS+BCG） | 4 | read-subagent | `45e53d1e…` | [[concepts/markops-marketing-operations-framework]] | [↗](https://drive.google.com/file/d/1r2nBEhTvVi2UK8-NaU4XFMJp3m0kJhd-/view) |
+| `Kotler-MM16e-Wave3-DigitalIMC` | 數位行銷-整合行銷.png.pdf | 整合行銷六大支柱概念圖 | 1 | read-subagent | `9c8abcfe…` | [[concepts/integrated-digital-marketing-six-pillars]] | [↗](https://drive.google.com/file/d/1AB5R5aKuVxxYg4i1O3IZ_fatFfCckG63/view) |
 
 **Wave 3 觀察：**
 
