@@ -17,8 +17,8 @@ provenance:
   inferred: 0.1
   ambiguous: 0
 base_confidence: 0.4
-lifecycle: draft
-lifecycle_changed: 2026-05-21
+lifecycle: challenged
+lifecycle_changed: 2026-05-22
 ---
 
 # Instrumental Variable + 2SLS
@@ -126,6 +126,16 @@ PM A/B test 與 observational study 的差距：
 - IV 強度不足（weak IV）→ 2SLS 偏誤可能大於 OLS（Bound, Jaeger, Baker 1995）
 - Exclusion restriction（exogeneity）**不可實證測試** — 永遠是 theoretical argument
 - 多重 IV 解讀困難（LATE：Local Average Treatment Effect 只對 compliers 適用）
+
+## Critique 摘要
+
+> **2026-05-22 跑了一次 wiki-challenge**
+>
+> 5 條核心 claim：0 survives / 2 narrow / 3 brittle / 0 unsupported。整頁主要弱點是 **Stock-Yogo 2005 時代 IV 處方未跟上 2010s+ 計量 IV literature**：(1) **Cragg-Donald F > 10 是過時 single-IV heuristic** — Lee-McCrary-Moreira-Porter 2022 *AER* 在 robust SE 下推到 F > 104.7；Olea-Pflueger 2013 multiple-IV 修正未提（用戶 rollout 標出的核心 issue）；(2) Hausman pre-test 被 Guggenberger 2010 *Econometric Theory* 警告在 weak IV 下 inflate type I 至 50%+，且 post-model-selection inference 問題未提；(3) Sargan/Basman 用 null-as-evidence 邏輯（與 CMB Harman test 同源弱點），Parente-Santos Silva 2012 *J Econometrics* heteroskedasticity 不一致未引，Chandra 2022 範例 low-df 場景下 Sargan 不適用；(4) LATE framework 四條件（Angrist-Imbens-Rubin 1996 / Angrist-Pischke 2009 *MHE*）未在主定義整合，heterogeneous treatment effect 下 IV 只 identify LATE；(5) 「2SLS 處理三大 endogeneity」過度推廣，Imbens-Wooldridge 2009 *JEL* 主張不同 endogeneity 來源需 different identification strategy。
+>
+> `base_confidence`：0.40 → 0.40（已在 brittle cap 0.55 內，且原值偏低反映 page 自我警示）；`lifecycle`：draft → challenged。
+>
+> 完整逐條質疑、行動項目：私人 meta 頁（不公開），路徑 `_meta/critique/instrumental-variable-2SLS.md`。
 
 ## Related
 

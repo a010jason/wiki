@@ -21,9 +21,9 @@ owner: Jason
 | Tier 1 — Top hub pages | **5/5 ✅** (disruptive-innovation / STP-framework / OKR / falsifiability-popper / VRIO-framework) | 0 | 5 |
 | Tier 2 — Cross-domain hub theories | **5/5 ✅** (scientific-theory / causality-three-conditions / innovation-diffusion-theory / elaboration-likelihood-model / social-cognitive-theory) | 0 | 5 |
 | Tier 3 — Research methods 核心 | 7 (agency-theory ✅ / construct-validity ✅ / reflective-vs-formative ✅ / inductive-vs-deductive ✅ / theory-vs-not-theory ✅ / theory-building-blocks-whetten ✅ / attributes-of-good-theory ✅) | 3 | 10 |
-| Tier 4 — Wave 2 supplementary papers | 2 (human-like-AI-competencies ✅ / common-method-bias ✅) | 4 | 6 |
+| Tier 4 — Wave 2 supplementary papers | 3 (human-like-AI-competencies ✅ / common-method-bias ✅ / instrumental-variable-2SLS ✅) | 3 | 6 |
 | Tier 5 — Research methods supporting | 0 | 15 | 15 |
-| **總計** | **19** | **22** | **41** |
+| **總計** | **20** | **21** | **41** |
 
 剩餘 363 頁 draft 屬 lower-priority（先跑這 40 個 high-impact 的）。
 
@@ -73,7 +73,7 @@ owner: Jason
 
 - [x] **`concepts/human-like-AI-competencies`** — 2026-05-22 done（5 claims: 0 survives / 1 narrow / 4 brittle / 0 unsupported；單篇 pre-LLM paper 過度推廣；構念 transferability 未獨立驗證；Relational null result 被 over-interpret 與 Woebot/Wysa/Replika 文獻矛盾；MNT 三 mechanism mapping 是 Chandra 單方 theoretical claim；4 個 BC 是 post-hoc rationalization，BC#2/BC#3 與 service-recovery / ELIZA effect 文獻矛盾）
 - [x] **`concepts/common-method-bias`** — 2026-05-22 done（5 claims: 0 survives / 2 narrow / 3 brittle / 0 unsupported；detection-pass 邏輯缺方法論 critique 整合；Spector 2006 ORM urban-legend / Fuller 2016 JBR Harman false-negative simulation / Richardson 2009 ORM Lindell-Whitney 批評 / Williams 2010 CFA marker model / Spector et al. 2019 JoM 共同立場文「procedural > post-hoc」全未引；緩解方法表格與「social desirability 沒有有效解法」段落 page 內部矛盾未 reconcile；single case Chandra 2022 不足以作 best practice template）
-- [ ] **`concepts/instrumental-variable-2SLS`** — Cragg-Donald > 10 threshold 是 simulation heuristic
+- [x] **`concepts/instrumental-variable-2SLS`** — 2026-05-22 done（5 claims: 0 survives / 2 narrow / 3 brittle / 0 unsupported；Stock-Yogo 2005 時代處方未跟上 2010s+ literature；**Cragg-Donald F > 10 過時，Lee-McCrary-Moreira-Porter 2022 AER robust SE 下推到 F > 104.7**；Hausman pre-test 在 weak IV 下 type I 50%+ inflate（Guggenberger 2010）；Sargan null-as-evidence 邏輯 + Parente-Santos Silva 2012 heteroskedasticity 不一致未引；LATE framework 四條件 Angrist-Imbens-Rubin 1996 / Angrist-Pischke 2009 MHE 未整合；「2SLS 處理三大 endogeneity」過度推廣，Imbens-Wooldridge 2009 JEL 不同 endogeneity 不同 strategy 缺席）
 - [ ] **`concepts/PLS-SEM-vs-CB-SEM`** — 兩派系意識形態之爭，HTMT 已是 Fornell-Larcker 繼任者
 - [ ] **`concepts/firm-climate-risk`** — Huang 2022；CDP voluntary disclosure selection bias
 - [ ] **`concepts/LIBOR`** — PwC 文宣，顧問業利益動機
