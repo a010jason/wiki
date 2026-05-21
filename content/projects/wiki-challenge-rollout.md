@@ -21,9 +21,9 @@ owner: Jason
 | Tier 1 — Top hub pages | **5/5 ✅** (disruptive-innovation / STP-framework / OKR / falsifiability-popper / VRIO-framework) | 0 | 5 |
 | Tier 2 — Cross-domain hub theories | **5/5 ✅** (scientific-theory / causality-three-conditions / innovation-diffusion-theory / elaboration-likelihood-model / social-cognitive-theory) | 0 | 5 |
 | Tier 3 — Research methods 核心 | 6 (agency-theory ✅ / construct-validity ✅ / reflective-vs-formative ✅ / inductive-vs-deductive ✅ / theory-vs-not-theory ✅ / theory-building-blocks-whetten ✅) | 4 | 10 |
-| Tier 4 — Wave 2 supplementary papers | 1 (human-like-AI-competencies ✅) | 5 | 6 |
+| Tier 4 — Wave 2 supplementary papers | 2 (human-like-AI-competencies ✅ / common-method-bias ✅) | 4 | 6 |
 | Tier 5 — Research methods supporting | 0 | 15 | 15 |
-| **總計** | **17** | **24** | **41** |
+| **總計** | **18** | **23** | **41** |
 
 剩餘 363 頁 draft 屬 lower-priority（先跑這 40 個 high-impact 的）。
 
@@ -72,7 +72,7 @@ owner: Jason
 ## Tier 4 — Wave 2 Supplementary Papers（單篇 paper 衍生 concepts）
 
 - [x] **`concepts/human-like-AI-competencies`** — 2026-05-22 done（5 claims: 0 survives / 1 narrow / 4 brittle / 0 unsupported；單篇 pre-LLM paper 過度推廣；構念 transferability 未獨立驗證；Relational null result 被 over-interpret 與 Woebot/Wysa/Replika 文獻矛盾；MNT 三 mechanism mapping 是 Chandra 單方 theoretical claim；4 個 BC 是 post-hoc rationalization，BC#2/BC#3 與 service-recovery / ELIZA effect 文獻矛盾）
-- [ ] **`concepts/common-method-bias`** — Harman 已被 Aguirre-Urreta 批 power 不足
+- [x] **`concepts/common-method-bias`** — 2026-05-22 done（5 claims: 0 survives / 2 narrow / 3 brittle / 0 unsupported；detection-pass 邏輯缺方法論 critique 整合；Spector 2006 ORM urban-legend / Fuller 2016 JBR Harman false-negative simulation / Richardson 2009 ORM Lindell-Whitney 批評 / Williams 2010 CFA marker model / Spector et al. 2019 JoM 共同立場文「procedural > post-hoc」全未引；緩解方法表格與「social desirability 沒有有效解法」段落 page 內部矛盾未 reconcile；single case Chandra 2022 不足以作 best practice template）
 - [ ] **`concepts/instrumental-variable-2SLS`** — Cragg-Donald > 10 threshold 是 simulation heuristic
 - [ ] **`concepts/PLS-SEM-vs-CB-SEM`** — 兩派系意識形態之爭，HTMT 已是 Fornell-Larcker 繼任者
 - [ ] **`concepts/firm-climate-risk`** — Huang 2022；CDP voluntary disclosure selection bias

@@ -17,8 +17,8 @@ provenance:
   inferred: 0.05
   ambiguous: 0
 base_confidence: 0.5
-lifecycle: draft
-lifecycle_changed: 2026-05-21
+lifecycle: challenged
+lifecycle_changed: 2026-05-22
 ---
 
 # Common Method Bias (CMB / CMV)
@@ -106,6 +106,16 @@ PM 做 user research / clinician survey 必避：
 - Marker variable 的「理論上無關」判斷主觀
 - Pre-registration 雖能降低多種 bias 但對 CMB 直接效果有限
 - 質性研究本身較不擔心 CMB（沒統計效應），但有類似的 interviewer bias 問題
+
+## Critique 摘要
+
+> **2026-05-22 跑了一次 wiki-challenge**
+>
+> 5 條核心 claim：0 survives / 2 narrow / 3 brittle / 0 unsupported。整頁主要弱點是**把 CMB 處理成 detection-pass 邏輯，缺方法論 critique 文獻整合**：(1) CMB 概念單向描述 inflated correlation，Spector 2006 ORM "urban legend" 立場 + Williams-Brown 1994 attenuation 未提；(2) Harman test 50% threshold 被 Fuller 2016 *JBR* simulation 證明在強 CMB 下仍 false negative 普遍，且 Podsakoff 2003 原文自身警告「relatively insensitive」未在 page 直接呈現；(3) Lindell-Whitney marker technique 被 Richardson-Simmering-Sturman 2009 *ORM* 直接批「不足以 control method bias」、Williams 2010 CFA marker model 替代方案未提；(4) 緩解方法表格與 page 自承「social desirability 沒有有效解法」未 reconcile；(5)「detect → pass → 宣稱 no CMB」邏輯被 Spector et al. 2019 *JoM* 共同立場文質疑為 backwards logic，single case Chandra 2022 不足以作 best practice template。
+>
+> `base_confidence`：0.50 → 0.50（在 brittle cap 0.55 內）；`lifecycle`：draft → challenged。
+>
+> 完整逐條質疑、行動項目：私人 meta 頁（不公開），路徑 `_meta/critique/common-method-bias.md`。
 
 ## Related
 
