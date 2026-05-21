@@ -1,6 +1,6 @@
 ---
 title: Hot Cache
-updated: 2026-05-21T19:00+08:00 (策略管理 Wave B 完成 — 8 PDFs / 120 頁 / 28 新頁，Wave A+B 合計 51 新頁)
+updated: 2026-05-21T21:00+08:00 (策略管理 Wave C 完成 — 7 PDFs / 58 頁 / 14 新頁；Wave A+B+C 合計 65 新頁，策略管理資料夾全閉環)
 ---
 
 # Hot Cache
@@ -8,6 +8,19 @@ updated: 2026-05-21T19:00+08:00 (策略管理 Wave B 完成 — 8 PDFs / 120 頁
 *A ~500-word semantic snapshot of recent activity. Updated after every major write operation.*
 
 ## Recent Activity
+
+- [2026-05-21 21:00] INGEST — **策略管理 Wave C 完成（7 PDFs / 58 頁 / 14 新頁，Wave A+B+C 全閉環）**：4 個 subagent 並行 distill misc PDFs。**最大發現**：
+  - **[[entities/Tang-Edwin-Yingzhang|唐瓔璋（Edwin Tang）就是整個策略管理 14 週課程的授課者]]**，並親自把 Fighting with Porter 揭露為他自己 SMJ 2010 論文與 Porter/Barney/Christensen/Grant 學派的學術論戰
+  - **[[entities/Mobileye]] 是 [[entities/intel-NBI|Intel NBI failure]] 的反面成功案例**（acquire + structural isolation + 2022 spin off 路徑 vs internal venture + dissolved）
+  - **Kohavi HBR 2017 + KDD 2009** 與 [[entities/Booking-com|Booking]] case 形成 A/B testing platform-side 補完
+  - **14 個新頁**：2 entity hub（[[entities/Tang-Edwin-Yingzhang]] / [[entities/Mobileye]]）+ 4 reference manifest（[[references/strategy-management-course-2024-nycu|課程 master index]] / [[references/fighting-with-porter-lecture]] / [[references/kohavi-2017-HBR-online-experiments]] / [[references/mobileye-image-deck]]）+ 8 concept：
+    - **學術 critique**：[[concepts/tautology-in-management-theory]] / [[concepts/INUS-condition]]（管理理論恆真句批判 + Mackie 因果哲學）
+    - **A/B testing**：[[concepts/overall-evaluation-criterion]] (OEC) / [[concepts/HiPPO-decision-making]]
+    - **Corporate strategy**：[[concepts/parenting-matrix-goold-campbell]]（Goold-Campbell 母合矩陣，Mobileye-Intel 應用）
+    - **台灣本土策略思想**：[[concepts/MAO-framework]]（毛治國 V=MAO/AMC）/ [[concepts/strategy-nine-theories]]（吳思華策略九說）
+    - **賽局論**：[[concepts/penguin-problem-game-theory]]（與 HTC penguin-effect 不同）
+  - **教師眉批高光**：Fighting with Porter 從 Tautology / INUS / Popper falsifiability 哲學層級攻 Porter + Course syllabus 含毛治國 ABC 個案學習法 + 吳思華策略九說 + 雙元理論等死找死 + Red Queen + 形而上謂之道 + Mobileye Parenting Matrix 紅箭頭點 ALIEN TERRITORY / VALUE TRAP（2022 spin off 應驗）
+  - **Wave A+B+C 合計 65 個 wiki 頁**（23+28+14）；策略管理資料夾 27 PDFs ingest 完成（含 AdCenter case scan deferred）
 
 - [2026-05-21 19:00] INGEST — **策略管理 Wave B 完成（8 PDFs / 120 頁 / 28 新頁）**：8 個 single-file lecture 並行 subagent distill。**Teacher annotation 密度極高**，是 Wave B 最大價值：
   - **7 entity hub**：[[entities/Steve-Jobs]] / [[entities/Elon-Musk]] / [[entities/Lego-Group]] / [[entities/HTC]] / [[entities/Alphabet]] / [[entities/Ant-Group]] / [[entities/Zara]]

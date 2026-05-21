@@ -131,6 +131,17 @@ title: Jason 的知識庫
 - [[concepts/象-數-理-epistemology]] — 教師原創跨領域：陰陽五行「象數理」+ Popper 三世界 + 財報詮釋三層對接（Zara case，wiki 內最跨領域 framework）
 - [[concepts/corporate-turnaround-strategy]] — re-position → re-configuration → mobility barrier → value chain reinvention 四步 + Managing for Cash/Value/Growth 三階段（Lego case）
 
+#### Wave C 案例 — 4 misc + meta（2026-05-21，策略管理全閉環）
+
+- [[concepts/tautology-in-management-theory]] — 唐瓔璋 SMJ 2010 論戰核心：Porter 1985 三段論 + Barney VRIN + Blue Ocean + Disruptive Innovation 都是恆真句、不可證偽
+- [[concepts/INUS-condition]] — Mackie 1965 因果哲學：差異化只是必要但不充分條件；森林大火比喻
+- [[concepts/overall-evaluation-criterion]] — OEC，Kohavi A/B testing 的測量靈魂；Bing query share 反例
+- [[concepts/HiPPO-decision-making]] — Highest Paid Person's Opinion 反指標；Kohavi viral 玩偶 + Experiment or Die 文化
+- [[concepts/parenting-matrix-goold-campbell]] — Goold-Campbell 2×2 母合矩陣（HEARTLAND/BALLAST/VALUE-TRAP/ALIEN-TERRITORY）；Mobileye-Intel 應用
+- [[concepts/MAO-framework]] — 毛治國 V=MAO（動機×能力×機會）+ AMC（察覺→動機→能力）台灣本土決策框架
+- [[concepts/strategy-nine-theories]] — 吳思華 2000《策略九說》：價值/效率/資源/結構/競局/統治/互賴/風險/生態 9 視角整合
+- [[concepts/penguin-problem-game-theory]] — 賽局論 first-mover hesitation（與 HTC penguin-effect 不同）；Mobileye OEM 觀望困境
+
 ### 管理 / 行銷管理（Kotler 16e）
 - [[concepts/marketing-definition]] — Kotler/AMA 雙定義 + get/keep/grow + 10 類可被行銷的對象（Ch01 hub）
 - [[concepts/STP-framework]] — Segmentation → Targeting → Positioning（跨章 hub）
@@ -271,11 +282,15 @@ title: Jason 的知識庫
 ### 策略管理 — 8 個 lecture-only 案例（Wave B，2026-05-21）
 - [[entities/Steve-Jobs]] — HBS 9-715-454；leader-strategist 雙能力；1976-2011 完整生涯弧；張忠謀/TSMC/NVIDIA legacy 對標
 - [[entities/Elon-Musk]] — HBS 9-722-439；7 公司 Empire「沒有 synergy」；Yoffie 5 rules ↔ 孫子兵法五事框架對接
-- [[entities/Lego-Group]] — HBS 9-713-478；2004 Knudstorp 36 歲 turnaround；雙元理論等死找死同時來；re-position 四步框架
+- [[entities/Lego-Group]] — HBS 9-713-478；2004 Knudstorp 36 歲 turnaround；雙元理論等死找找同時來；re-position 四步框架
 - [[entities/HTC]] — HBS 9-718-421；手機 ODM/OBM 衰退 pivot VR；伊卡洛斯悖論 + 企鵝效應 pivot driver
 - [[entities/Alphabet]] — HBS 9-116-029；Specialized generalist ↓ Generalized specialist；Simons 7Q 框架分析
 - [[entities/Ant-Group]] — HBS 9-617-060；中國 fintech 巨擘；2020 IPO halt $300B 史上最大；替代→互補→替代三段論
 - [[entities/Zara]] — HBS 9-703-497 (Ghemawat &amp; Nueno)；垂直整合 + Quick Response 15 天 cycle；象數理 epistemology 跨領域框架
+
+### 策略管理 — 教師 + Mobileye（Wave C，2026-05-21）
+- [[entities/Tang-Edwin-Yingzhang]] — 唐瓔璋（Edwin Tang）— 陽明交大策略管理 14 週課程授課者；SMJ 2010 Bayesian Inference 論文作者；Fighting with Porter 學術論戰實際投稿者
+- [[entities/Mobileye]] — 1999 以色列創辦 → 2014 IPO → 2017 Intel $15.3B 收購 → 2022 spin off；Intel NBI failure 的反面成功案例
 
 ### 研究方法論 — 管理專題研討（AMBA 2024 — Bhattacherjee SSR）
 - [[concepts/scientific-method-four-criteria]] — Replicability / Precision / Falsifiability / Parsimony 四準則（Bhattacherjee Ch1）
@@ -373,6 +388,10 @@ title: Jason 的知識庫
 - [[references/HBS-9-617-060-Ant-Financial-case]] — HBS 9-617-060 (Zhu/Zhang/Palepu 2019)，Ant Financial + Alibaba Growth Frenzy + IPO Halt 三 case 合輯
 - [[references/HBS-9-703-497-Zara-case]] — HBS 9-703-497 (Ghemawat &amp; Nueno 2003, Rev 2006)，ZARA Fast Fashion；象數理 epistemology 教師框架
 - [[references/christensen-overdorf-2000-HBR-disruptive-change]] — Christensen + Overdorf HBR 2000，RPV framework 原始出處
+- [[references/strategy-management-course-2024-nycu]] — NYCU IBM 5635 策略管理 2024 春季課程 master index（唐瓔璋授課，14 週 + 12 HBS case）
+- [[references/fighting-with-porter-lecture]] — 唐瓔璋 SMJ 2010 論戰演練講座 10p；Tautology + INUS + Popper falsifiability 哲學層級攻 Porter
+- [[references/kohavi-2017-HBR-online-experiments]] — Ronny Kohavi HBR 2017 + KDD 2009 雙論文；OEC / HiPPO / Application Implementation Continuum
+- [[references/mobileye-image-deck]] — Mobileye 案例 13 頁 figure pack；SAE levels / Robotaxi corridor / MaaS-RaaS-VaaS-SDS stack / REM
 - [[references/bhattacherjee-social-science-research]] — Bhattacherjee SSR 開放教科書（USF 2012, CC BY-NC-ND）+ 教師 Ch1-8 lecture slides 1,380 頁；管理專題研討 AMBA 課程主教材
 - [[references/chandra-2022-human-like-AI-competencies]] — JMIS 2022 chatbot human-like competency；mixed methods + CMB + IV/2SLS + PLS-SEM 範本
 - [[references/huang-2022-firm-climate-risk-bank-loan]] — SMJ 2022；firm-level climate risk → bank loan terms；CDP + SHELDUS + DealScan 多資料庫合併範本

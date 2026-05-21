@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-05-21T19:00:00+08:00 (策略管理 Wave B: 8 PDFs / 120p / 28 new pages)",
+  "last_updated": "2026-05-21T21:00:00+08:00 (策略管理 Wave C: 7 PDFs / 58p / 14 new pages — Wave A+B+C 全閉環)",
   "sources": {
     "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/組織與人力資源管理/0820-OKR-講義.pdf": {
       "ingested_at": "2026-05-05T15:00:00+08:00",
@@ -2064,12 +2064,102 @@
         "references/christensen-overdorf-2000-HBR-disruptive-change.md"
       ],
       "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/Fighting with Porter.pdf.pdf": {
+      "ingested_at": "2026-05-21T21:00:00+08:00",
+      "size_bytes": 1084169,
+      "content_hash": "sha256:7bad2cad5056182e49eeb7f18d8ae58447dbf9051dc0ded9ba174d4f63cbdd45",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/fighting-with-porter-lecture.md",
+        "entities/Tang-Edwin-Yingzhang.md",
+        "concepts/tautology-in-management-theory.md",
+        "concepts/INUS-condition.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/Kohavi_HBR2017.pdf.pdf": {
+      "ingested_at": "2026-05-21T21:00:00+08:00",
+      "size_bytes": 317726,
+      "content_hash": "sha256:b53f336337645a053d33756b821dc3154592b27e0eb82e31dd4a9671e294411e",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/kohavi-2017-HBR-online-experiments.md",
+        "concepts/overall-evaluation-criterion.md",
+        "concepts/HiPPO-decision-making.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/Kohavi_MS-ExP.pdf.pdf": {
+      "ingested_at": "2026-05-21T21:00:00+08:00",
+      "size_bytes": 1094486,
+      "content_hash": "sha256:bfc443ecfcc16e307762dec3a585291767d67d473c3063377b3be7c97bac4bce",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/kohavi-2017-HBR-online-experiments.md",
+        "concepts/overall-evaluation-criterion.md",
+        "concepts/HiPPO-decision-making.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/S0_mobileye_圖片整理_更新.pdf.pdf": {
+      "ingested_at": "2026-05-21T21:00:00+08:00",
+      "size_bytes": 1116639,
+      "content_hash": "sha256:d77cebbcd08d3e97fa3844176408c18aa1043917031741996e6dbf846e0b101c",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/mobileye-image-deck.md",
+        "entities/Mobileye.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/0Introduction2024_S.pdf": {
+      "ingested_at": "2026-05-21T21:00:00+08:00",
+      "size_bytes": 3445938,
+      "content_hash": "sha256:9324fc8c772ebb72693aa2584ffd5d41569b2969a5d8b9e95ef673cdab4db812",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/strategy-management-course-2024-nycu.md",
+        "entities/Tang-Edwin-Yingzhang.md",
+        "concepts/MAO-framework.md",
+        "concepts/strategy-nine-theories.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/20240604.pdf": {
+      "ingested_at": "2026-05-21T21:00:00+08:00",
+      "size_bytes": 149408,
+      "content_hash": "sha256:8e1c098f1a7efea98ba36abd4926c81a8c4dbef91c0de12723166a96028d33fc",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/strategy-management-course-2024-nycu.md",
+        "concepts/parenting-matrix-goold-campbell.md",
+        "concepts/penguin-problem-game-theory.md"
+      ],
+      "pages_updated": []
+    },
+    "/Users/jason/Library/CloudStorage/GoogleDrive-a010jason@gmail.com/我的雲端硬碟/AI PM 資料/管理技能與策略/策略管理/我們這樣改變世界:賈伯斯、比爾蓋茲與葛洛夫.pdf.pdf": {
+      "ingested_at": "2026-05-21T21:00:00+08:00",
+      "size_bytes": 1041924,
+      "content_hash": "sha256:b44da4bf89696af42b2cf3e6ac6f480facf956f253beb811361c33c54d2fc8ba",
+      "source_type": "document",
+      "project": null,
+      "pages_created": [
+        "references/strategy-management-course-2024-nycu.md"
+      ],
+      "pages_updated": []
     }
   },
   "projects": {},
   "stats": {
-    "total_sources_ingested": 135,
-    "total_pages": 4097,
+    "total_sources_ingested": 142,
+    "total_pages": 4155,
     "total_projects": 0,
     "last_full_rebuild": null
   }
