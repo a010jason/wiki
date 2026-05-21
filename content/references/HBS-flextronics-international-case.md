@@ -8,17 +8,19 @@ sources:
   - id: HBS-Flextronics-case
     type: hbs-case
     rel_path: 策略管理/11. Flextronics International.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1_wiN3IQsVkSSyZ-Rp2AShsaIQmjUdJxt/view
     pages: 21
     size_bytes: 11041312
     sha256: 54583595c0b67e59be63a0fc640d2626f8723c25abfdc17067ae2d401502756f
-    ingested_commit: pending
+    ingested_commit: f9f11fb
   - id: Flextronics-lecture-slide
     type: lecture-slide
     rel_path: 策略管理/8Flextronics_S.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1JFwvHjagec79dpds3C2hwHANFVVeGgE5/view
     pages: 23
     size_bytes: 2271966
     sha256: c2b4bbae4fd1fd6380a11c1c8f060dd6030b072ff2aea6c9243b399ce8e0ac78
-    ingested_commit: pending
+    ingested_commit: f9f11fb
 created: 2026-05-21
 updated: 2026-05-21
 lifecycle: draft

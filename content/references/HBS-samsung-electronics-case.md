@@ -8,10 +8,11 @@ sources:
   - id: HBS-9-504-051-Samsung-case
     type: hbs-case
     rel_path: 策略管理/10. Samsung.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1GOEucXbdMFfCrr1iyKzW6LNw8G3cN26q/view
     pages: 35
     size_bytes: 16939280
     sha256: 53a0b8bdaa7bad73965161e3b9ef9f4077e1c7bca9cb50ec8e645b25ed2ac4eb
-    ingested_commit: pending
+    ingested_commit: f9f11fb
 created: 2026-05-21
 updated: 2026-05-21
 lifecycle: draft

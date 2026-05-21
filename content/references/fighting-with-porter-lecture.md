@@ -8,10 +8,11 @@ sources:
   - id: fighting-with-porter-lecture
     type: lecture-slide
     rel_path: 策略管理/Fighting with Porter.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1NSbskMhwvFXPYGJPkEWBqnExwARfqoIw/view
     pages: 10
     size_bytes: 1084169
     sha256: 7bad2cad5056182e49eeb7f18d8ae58447dbf9051dc0ded9ba174d4f63cbdd45
-    ingested_commit: pending
+    ingested_commit: 9319bdf
 created: 2026-05-21
 updated: 2026-05-21
 lifecycle: draft

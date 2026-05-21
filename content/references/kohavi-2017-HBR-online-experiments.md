@@ -8,17 +8,19 @@ sources:
   - id: kohavi-thomke-2017-HBR
     type: hbr-article
     rel_path: 策略管理/Kohavi_HBR2017.pdf.pdf
+    drive_url: https://drive.google.com/file/d/10B3ezgvW-uZTCERc8JhNnRqz9JLpSajl/view
     pages: 8
     size_bytes: 317726
     sha256: b53f336337645a053d33756b821dc3154592b27e0eb82e31dd4a9671e294411e
-    ingested_commit: pending
+    ingested_commit: 9319bdf
   - id: kohavi-crook-longbotham-2009-KDD
     type: research-paper
     rel_path: 策略管理/Kohavi_MS-ExP.pdf.pdf
+    drive_url: https://drive.google.com/file/d/18PD5btueWdgPc2YrZM9M7a4mHg_TqrHW/view
     pages: 11
     size_bytes: 1094486
     sha256: bfc443ecfcc16e307762dec3a585291767d67d473c3063377b3be7c97bac4bce
-    ingested_commit: pending
+    ingested_commit: 9319bdf
 created: 2026-05-21
 updated: 2026-05-21
 lifecycle: draft

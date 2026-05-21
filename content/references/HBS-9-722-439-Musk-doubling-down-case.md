@@ -8,10 +8,11 @@ sources:
   - id: Musk-lecture-slide
     type: lecture-slide
     rel_path: 策略管理/10ElonMusk2022_S.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1CMu1vULVtaRrjUHTim6V-7NoJGpDPz01/view
     pages: 14
     size_bytes: 2108307
     sha256: 837dbe8e142df9b69c0e25b581652d8592addd589f6a28466901abe6edeb757b
-    ingested_commit: pending
+    ingested_commit: a32f0ba
 created: 2026-05-21
 updated: 2026-05-21
 lifecycle: draft

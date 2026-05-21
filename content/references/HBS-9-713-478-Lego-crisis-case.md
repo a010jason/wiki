@@ -8,10 +8,11 @@ sources:
   - id: Lego-lecture-slide
     type: lecture-slide
     rel_path: 策略管理/2Lego_Crisis_S.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1CfL0qEtyKpq_vVU2U9ghNs3Nw8tx8A_j/view
     pages: 17
     size_bytes: 3535647
     sha256: 3e7d8bc5924976585c61c3574db459f55b712e81c892e32eeffda38274531e4c
-    ingested_commit: pending
+    ingested_commit: a32f0ba
 created: 2026-05-21
 updated: 2026-05-21
 lifecycle: draft

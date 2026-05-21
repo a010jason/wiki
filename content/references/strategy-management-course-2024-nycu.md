@@ -8,24 +8,27 @@ sources:
   - id: course-introduction-syllabus
     type: course-syllabus
     rel_path: 策略管理/0Introduction2024_S.pdf
+    drive_url: https://drive.google.com/file/d/1eZNt_L6AwjPv1-wF8m4Xp22Xi08ane-F/view
     pages: 12
     size_bytes: 3445938
     sha256: 9324fc8c772ebb72693aa2584ffd5d41569b2969a5d8b9e95ef673cdab4db812
-    ingested_commit: pending
+    ingested_commit: 9319bdf
   - id: course-discussion-20240604
     type: lecture-board-notes
     rel_path: 策略管理/20240604.pdf
+    drive_url: https://drive.google.com/file/d/1tsh7D8ZpjD08Yvv939AcmXTmajdtQp83/view
     pages: 2
     size_bytes: 149408
     sha256: 8e1c098f1a7efea98ba36abd4926c81a8c4dbef91c0de12723166a96028d33fc
-    ingested_commit: pending
+    ingested_commit: 9319bdf
   - id: vocus-yoffie-strategy-rules-review
     type: book-review
     rel_path: 策略管理/我們這樣改變世界：賈伯斯、比爾蓋茲與葛洛夫.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1H0P4fe4GiU-L0ZvHsrY9MKALPU0o644n/view
     pages: 2
     size_bytes: 1041924
     sha256: b44da4bf89696af42b2cf3e6ac6f480facf956f253beb811361c33c54d2fc8ba
-    ingested_commit: pending
+    ingested_commit: 9319bdf
 created: 2026-05-21
 updated: 2026-05-21
 lifecycle: draft

@@ -8,17 +8,19 @@ sources:
   - id: HBS-9-619-015-Booking-case
     type: hbs-case
     rel_path: 策略管理/14. Booking.com.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1urFXdkTDs04DWnPOheRsn_dKbu1Pv2hl/view
     pages: 27
     size_bytes: 14006093
     sha256: 3c7978b61bd5fb05e2b8adafeb06b53e8dcf37988a5f0cd7fe2c06d75babfcf3
-    ingested_commit: pending
+    ingested_commit: f9f11fb
   - id: Booking-lecture-slide
     type: lecture-slide
     rel_path: 策略管理/13Booking.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1IRT1UKftyqDa2xcf7py9GA7SpL1839hg/view
     pages: 11
     size_bytes: 3735625
     sha256: ec0a6e3a87170be15986f1adbd018105068c10ca6b1abd6b484a9a056912199c
-    ingested_commit: pending
+    ingested_commit: f9f11fb
 created: 2026-05-21
 updated: 2026-05-21
 lifecycle: draft

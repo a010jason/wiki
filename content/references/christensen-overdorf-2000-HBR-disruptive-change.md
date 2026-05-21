@@ -8,10 +8,11 @@ sources:
   - id: Christensen-Overdorf-2000-HBR
     type: hbr-article
     rel_path: 策略管理/5Meeting the Challenge of Disruptive Change.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1TeBdGXxF_AkVROTl0q6lklLV3SmMOgYo/view
     pages: 21
     size_bytes: 1249302
     sha256: 5edde3a2d4c4da0fd7ed41d714e8a500231aec6f77ca750825e9f9d00d59d550
-    ingested_commit: pending
+    ingested_commit: a32f0ba
 created: 2026-05-21
 updated: 2026-05-21
 lifecycle: draft

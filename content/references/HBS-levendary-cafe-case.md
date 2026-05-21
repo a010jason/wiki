@@ -8,17 +8,19 @@ sources:
   - id: HBS-4357-Levendary-Cafe-case
     type: hbs-case
     rel_path: 策略管理/Levendary Café.pdf.pdf
+    drive_url: https://drive.google.com/file/d/18mR4QYNEBij_Cdbr49diMXc5_xy0BWyG/view
     pages: 18
     size_bytes: 8880882
     sha256: b3363bb5f8666bdcbf488423f2a5f0a0b53179ab30e048d77ebad7fe80f74549
-    ingested_commit: pending
+    ingested_commit: f9f11fb
   - id: Levendary-lecture-slide
     type: lecture-slide
     rel_path: 策略管理/9LevendaryCafe_S.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1NISn0APn1ifvvc512uVBVYtsjFW2Z7Im/view
     pages: 10
     size_bytes: 1283917
     sha256: dfd43ebc6530a98b94f90c248a883d965b39264121f4f9455345ed1f38b1285c
-    ingested_commit: pending
+    ingested_commit: f9f11fb
 created: 2026-05-21
 updated: 2026-05-21
 lifecycle: draft

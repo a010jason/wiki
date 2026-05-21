@@ -8,10 +8,11 @@ sources:
   - id: mobileye-image-deck
     type: case-figure-deck
     rel_path: 策略管理/S0_mobileye_圖片整理_更新.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1rClmIEfuwa8EGk5MgjTdS-rQTeZPRnIJ/view
     pages: 13
     size_bytes: 1116639
     sha256: d77cebbcd08d3e97fa3844176408c18aa1043917031741996e6dbf846e0b101c
-    ingested_commit: pending
+    ingested_commit: 9319bdf
 created: 2026-05-21
 updated: 2026-05-21
 lifecycle: draft

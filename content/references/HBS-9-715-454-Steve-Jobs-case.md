@@ -8,10 +8,11 @@ sources:
   - id: Steve-Jobs-lecture-slide
     type: lecture-slide
     rel_path: 策略管理/0SteveJobs_N.pdf.pdf
+    drive_url: https://drive.google.com/file/d/19WTI9juLw790fFn1hTsm6a06hFnDNbgH/view
     pages: 12
     size_bytes: 1563722
     sha256: d217f4d3e8cf8673ab61d0efe7dc5e046885987e585357a9ac44dc5c8b67809a
-    ingested_commit: pending
+    ingested_commit: a32f0ba
 created: 2026-05-21
 updated: 2026-05-21
 lifecycle: draft

@@ -8,13 +8,15 @@ sources:
   - id: AdCenter-lecture-slide
     type: lecture-slide
     rel_path: 策略管理/1AdCenter_S.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1gOA6co7wHhvZYjKUMn8nPGfQY8Gbnz1h/view
     pages: 11
     size_bytes: 1807031
     sha256: 87b6a8a41dbdd03f015aecf43972ddc387a6840d7d5c351418c718dd6ac034cf
-    ingested_commit: pending
+    ingested_commit: f9f11fb
   - id: HBS-9-908-049-AdCenter-case
     type: hbs-case
     rel_path: 策略管理/Microsoft AdCenter.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1nQd7_DWXd6dfU7Bhi9ekvtMUSPLfrSim/view
     pages: 21
     size_bytes: 36601995
     sha256: 87b6a8a41dbdd03f015aecf43972ddc387a6840d7d5c351418c718dd6ac034cf

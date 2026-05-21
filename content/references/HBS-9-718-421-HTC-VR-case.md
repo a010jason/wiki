@@ -8,10 +8,11 @@ sources:
   - id: HTC-VR-lecture-slide
     type: lecture-slide
     rel_path: 策略管理/3HTC-VR_S.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1JG1W7y1LV-xWiMjXbiFQcVeq__xaohep/view
     pages: 13
     size_bytes: 1565295
     sha256: 368d87c406c65a4e6dd6e4f69d8e573ef10a102e767639df6a3c0821e49bd828
-    ingested_commit: pending
+    ingested_commit: a32f0ba
 created: 2026-05-21
 updated: 2026-05-21
 lifecycle: draft

@@ -8,10 +8,11 @@ sources:
   - id: Alphabet-10Things-lecture-slide
     type: lecture-slide
     rel_path: 策略管理/4Alphabet-Google-10Things_S.pdf.pdf
+    drive_url: https://drive.google.com/file/d/17w3vQfx9Jg-IGTmWBz29olixsER1AT8I/view
     pages: 16
     size_bytes: 3342743
     sha256: 43d672e3cecfecd40bdb25357a32ce54734cca69d02c1a20e8c1506918d7a277
-    ingested_commit: pending
+    ingested_commit: a32f0ba
 created: 2026-05-21
 updated: 2026-05-21
 lifecycle: draft

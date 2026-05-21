@@ -8,10 +8,11 @@ sources:
   - id: Ant-Financial-lecture-slide
     type: lecture-slide
     rel_path: 策略管理/7AntFinancial_S.pdf.pdf
+    drive_url: https://drive.google.com/file/d/16odjBsboE58pZOEWgQ8ulw7zzTu3IRnp/view
     pages: 13
     size_bytes: 2634835
     sha256: df9d78407c70f1497a3bceeb454f9eacbb4aa5faa6ce9bb66ff846bc74132db2
-    ingested_commit: pending
+    ingested_commit: a32f0ba
 created: 2026-05-21
 updated: 2026-05-21
 lifecycle: draft

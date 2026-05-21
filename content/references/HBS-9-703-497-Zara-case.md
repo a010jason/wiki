@@ -8,10 +8,11 @@ sources:
   - id: Zara-lecture-slide
     type: lecture-slide
     rel_path: 策略管理/0Zara_2024_S.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1Qqh94QZqhGirhaTtFPWyJuvLvttItMsP/view
     pages: 14
     size_bytes: 2261129
     sha256: 31bd96e4e9918a30bb79ea915e38dd63b3d7995eab642301de6f2beca47eada5
-    ingested_commit: pending
+    ingested_commit: a32f0ba
 created: 2026-05-21
 updated: 2026-05-21
 lifecycle: draft

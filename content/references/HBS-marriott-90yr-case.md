@@ -8,17 +8,19 @@ sources:
   - id: HBS-Marriott-90yr-case
     type: hbs-case
     rel_path: 策略管理/13. Marriot International.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1bxOm0yZ6yh6IGIMDHW_UpYHm9d772wfy/view
     pages: 28
     size_bytes: 12386139
     sha256: bd1fc7e026e357422efd56ea84d975dd0c79dca2a8d97e757baecbe7388bb1bc
-    ingested_commit: pending
+    ingested_commit: f9f11fb
   - id: Marriott-lecture-slide
     type: lecture-slide
     rel_path: 策略管理/11Marriott_next90yr_S.pdf.pdf
+    drive_url: https://drive.google.com/file/d/1LBTMeUfyRmm51bIX_zXX8Bh0iA1S8GQ-/view
     pages: 15
     size_bytes: 2693574
     sha256: ad53b6540c640443c0e402205a2e8a8a47dd7dff9dc066a4949eabbdc90d9dc0
-    ingested_commit: pending
+    ingested_commit: f9f11fb
 created: 2026-05-21
 updated: 2026-05-21
 lifecycle: draft
