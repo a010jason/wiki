@@ -6,6 +6,8 @@ tags: [shipping, aviation, ESG, IMO, ICAO]
 confidence: medium
 created: 2026-05-21
 updated: 2026-05-21
+summary: >-
+  航運業（IMO 主導）與航空業（ICAO 主導）為兩個高碳排但無國界的「monopoly-sector under UN agency」，ESG 路徑高度相似：國際組織制定全球減排框架 → 區域監管（EU ETS + FuelEU + CORSIA）加碼 → 企業以替代燃料 + 數位化雙軌應對。IMO 2050 淨零目標於 2025-04 批准，ICAO CORSIA 2027 起強制。共同挑戰：替代燃料成本（傳統油 1.5-4 倍）、基礎設施（港口岸電 / 機場 SAF 供應）、航線重組（紅海危機 / 烏俄戰爭）、客戶傳導壓力（B2B 客戶要求 Scope 3 揭露 / B2C 乘客碳補償）。
 lifecycle: draft
 lifecycle_changed: 2026-05-21
 ---
