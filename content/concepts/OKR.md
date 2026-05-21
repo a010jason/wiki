@@ -17,9 +17,9 @@ provenance:
   extracted: 0.7
   inferred: 0.25
   ambiguous: 0.05
-base_confidence: 0.6
-lifecycle: draft
-lifecycle_changed: 2026-05-05
+base_confidence: 0.55
+lifecycle: challenged
+lifecycle_changed: 2026-05-22
 ---
 
 # OKR (Objectives and Key Results)
@@ -94,6 +94,16 @@ CFR 解決的是「OKR 設好之後怎麼管」的執行面問題。
 - Niven, P. R. & Lamorte, B. (2016). *Objectives and Key Results*
 
 授課者：[[entities/wen-jin-feng]]
+
+## Critique 摘要
+
+> **2026-05-22 跑了一次 wiki-challenge**
+>
+> 5 條核心 claim：0 survives / 3 narrow / 2 brittle / 0 unsupported。**主要弱點**：(a) 規範性主張多（bottom-up 交互 / dev vs eval 分工）— 與 Google / 阿里 / 台灣中型公司實際導入實況不符；(b) 唯一實證依賴單一碩論（廖沛綺 2023），「參與度顯著正向」結論與 Locke-Latham goal-setting 50 年文獻部分矛盾。
+>
+> `base_confidence`：0.60 → 0.55；`lifecycle`：draft → challenged。
+>
+> 完整逐條質疑、行動項目：私人 meta 頁（不公開），路徑 `_meta/critique/OKR.md`。
 
 ## Related
 
