@@ -126,3 +126,4 @@ Path B subagent；38 頁讀完，未撞 32MB，無 fallback 升級。
 - [[entities/Shopee]]（agency vs merchant 對照）
 - [[references/grant-contemporary-strategy-analysis]] Ch3 / Ch4 / Ch9
 - [[references/measure-what-matters-doerr-2018]]（OKR ↔ A/B testing KPI freedom-constraint 對照）
+- **同課程脈絡**：[[references/strategy-management-course-2024-nycu|NYCU IBM 5635 策略管理 2024 課程 master index]]（唐瓔璋授課，14 週 + 12 HBS case）

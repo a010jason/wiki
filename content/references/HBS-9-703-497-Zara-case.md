@@ -105,3 +105,4 @@ summary: >-
 - [[entities/Zara]] / Inditex / Amancio-Ortega / Pankaj-Ghemawat / Toyota / Dell / SHEIN / H&amp;M / Gap / Benetton / Uniqlo
 - [[entities/Samsung-Electronics]]（sashimi theory 同源）
 - [[references/grant-contemporary-strategy-analysis]] Ch5 / Ch10 / Ch11
+- **同課程脈絡**：[[references/strategy-management-course-2024-nycu|NYCU IBM 5635 策略管理 2024 課程 master index]]（唐瓔璋授課，14 週 + 12 HBS case）

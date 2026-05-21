@@ -251,3 +251,4 @@ Google 後續發展，把影音 + 廣告平台整合。
 - **Synthesis（候選）**：porter generic strategy fail in digital / desktop vs platform mindset incumbents（MS / Nokia / Kodak / Blockbuster）
 
 - [[synthesis/booking-x-adcenter-platform-learning]] — vs Booking 對偶案例：Porter 在 digital 為何失靈
+- **同課程脈絡**：[[references/strategy-management-course-2024-nycu|NYCU IBM 5635 策略管理 2024 課程 master index]]（唐瓔璋授課，14 週 + 12 HBS case）

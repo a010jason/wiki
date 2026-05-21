@@ -163,3 +163,4 @@ case 自承（為 wiki-challenge 留 hook）：
 - **概念**：[[concepts/corporate-turnaround-strategy]] / brand reloaded strategy / [[concepts/sashimi-theory]] / [[concepts/vertical-integration]] / hardware only focus / digital convergence strategy / mnet marketing resource allocation / country market clusters / fcb relationship monitor / flagship product strategy / [[concepts/resource-based-view]] / [[concepts/VRIO-framework]] / [[concepts/dynamic-capabilities]] / [[concepts/strategic-innovation]]
 - **Entity**：Lee-Kun-hee / Yun-Jong-Yong / Eric-Kim / Sony / [[entities/Apple]] / Nokia / Motorola / Intel / Warner-Brothers
 - **參考**：[[references/HBS-samsung-electronics-case]] / [[references/grant-contemporary-strategy-analysis]] Ch5 RBV / Ch10 VI / Ch12 / Ch13
+- **同課程脈絡**：[[references/strategy-management-course-2024-nycu|NYCU IBM 5635 策略管理 2024 課程 master index]]（唐瓔璋授課，14 週 + 12 HBS case）

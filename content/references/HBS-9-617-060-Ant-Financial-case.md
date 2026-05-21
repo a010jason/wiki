@@ -118,3 +118,4 @@ summary: >-
 - [[entities/Ant-Group]] / Alibaba / Jack-Ma / Tencent / Pinduoduo / JD-com
 - [[entities/Booking-com]] / [[entities/Shopee]] / [[entities/Microsoft-AdCenter]]（平台戰跨案例）
 - [[references/grant-contemporary-strategy-analysis]] Ch3 industry / Ch9 innovation / Ch11 global strategy
+- **同課程脈絡**：[[references/strategy-management-course-2024-nycu|NYCU IBM 5635 策略管理 2024 課程 master index]]（唐瓔璋授課，14 週 + 12 HBS case）

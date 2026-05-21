@@ -113,3 +113,4 @@ Path B subagent；44 頁讀完。
 - [[entities/Flextronics-International]]
 - [[references/grant-contemporary-strategy-analysis]] Ch10 VI / Ch6 organization
 - [[references/kotler-keller-chernev-marketing-management-16e]]（「代工 = price taker」Wave 2 takeaway 對應）
+- **同課程脈絡**：[[references/strategy-management-course-2024-nycu|NYCU IBM 5635 策略管理 2024 課程 master index]]（唐瓔璋授課，14 週 + 12 HBS case）

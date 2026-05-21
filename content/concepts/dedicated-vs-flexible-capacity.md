@@ -111,3 +111,4 @@ slide p.5：「**Why Airbnb has high marginal- (but low investment-) cost? / The
 - [[entities/Marriott-International]] / Airbnb
 - [[references/HBS-marriott-90yr-case]]
 - [[references/grant-contemporary-strategy-analysis]] Ch10 vertical scope
+- **教師原創框架（同 NYCU 策略管理 2024 課程）**：[[concepts/desktop-vs-platform-mindset]] / [[concepts/penguin-effect]] / [[concepts/specialized-generalist-vs-generalized-specialist]] / [[concepts/substitute-complement-substitute-cycle]] / [[concepts/象-數-理-epistemology]]

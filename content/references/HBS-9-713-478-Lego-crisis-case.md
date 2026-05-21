@@ -91,3 +91,4 @@ HBS case 9-713-478「LEGO (A): The Crisis」。聚焦 Jørgen Vig Knudstorp 36 �
 - [[entities/Lego-Group]] / Jorgen-Vig-Knudstorp
 - [[entities/Samsung-Electronics]]（turnaround 對標） / [[entities/Apple]]（1997 Jobs 回歸 back-to-core 對標） / [[entities/Marriott-International]]（多角化對標）
 - [[references/grant-contemporary-strategy-analysis]] Ch8 industry evolution / Ch12 diversification / Ch13 multibusiness
+- **同課程脈絡**：[[references/strategy-management-course-2024-nycu|NYCU IBM 5635 策略管理 2024 課程 master index]]（唐瓔璋授課，14 週 + 12 HBS case）

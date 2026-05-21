@@ -106,3 +106,4 @@ summary: >-
 - [[entities/Google]] / Microsoft / Yahoo / AOL / Overture
 - [[references/hbs-gafa-case-deighton-2013]]（同 paradigm，2013 GAFA 完整版）
 - [[references/grant-contemporary-strategy-analysis]] Ch3 / Ch4 / Ch9
+- **同課程脈絡**：[[references/strategy-management-course-2024-nycu|NYCU IBM 5635 策略管理 2024 課程 master index]]（唐瓔璋授課，14 週 + 12 HBS case）

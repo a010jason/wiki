@@ -133,3 +133,4 @@ Karl Popper（1972）三世界框架：
 - **Entity**：[[entities/Zara]] / [[entities/Karl-Popper]] / Amancio-Ortega
 - **參考**：[[references/HBS-9-703-497-Zara-case]] / 古典文獻《易經》《道德經》（待建 reference）
 - **Synthesis**：[[synthesis/financial-ratio-epistemology-yi-jing]] / [[synthesis/wei-zheng-leadership-and-subsidiary-management]]（諫太宗十思疏，另一個古典中文管理框架對接）
+- **教師原創框架（同 NYCU 策略管理 2024 課程）**：[[concepts/dedicated-vs-flexible-capacity]] / [[concepts/desktop-vs-platform-mindset]] / [[concepts/penguin-effect]] / [[concepts/specialized-generalist-vs-generalized-specialist]] / [[concepts/substitute-complement-substitute-cycle]]

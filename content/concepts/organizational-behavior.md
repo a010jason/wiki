@@ -69,7 +69,7 @@ INDIVIDUAL CHARACTERISTICS              │
 | **HRM** | 實務 / 應用（nuts-and-bolts） | 怎麼設計訓練計劃 |
 | **Strategic Management** | 產品選擇 / 產業特性對獲利的影響 | 進不進新市場、買不買對手 |
 
-口訣：**OB 是 why，HRM 是 how，Strategy 是 what**。^[inferred]
+口訣：**OB 是 why，HRM 是 how，[[concepts/strategy|Strategy]] 是 what**。^[inferred]
 
 ## OB Matters — 三個層次
 

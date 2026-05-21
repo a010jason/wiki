@@ -121,3 +121,4 @@ slide 11 配 Windows Live / Nokia / Xbox / Bing / Office / Kinect 的 Global Rea
 - Microsoft / [[entities/Microsoft-AdCenter]] / [[entities/Google]] / Yahoo / AOL / Satya-Nadella / Steve-Ballmer
 - [[references/HBS-microsoft-adcenter-case]] / [[references/hbs-gafa-case-deighton-2013]] / [[references/iansiti-lakhani-competing-age-of-ai-2020]]
 - desktop vs platform mindset incumbents / [[synthesis/corporate-venturing-isolation-paradox]]
+- **教師原創框架（同 NYCU 策略管理 2024 課程）**：[[concepts/dedicated-vs-flexible-capacity]] / [[concepts/penguin-effect]] / [[concepts/specialized-generalist-vs-generalized-specialist]] / [[concepts/substitute-complement-substitute-cycle]] / [[concepts/象-數-理-epistemology]]

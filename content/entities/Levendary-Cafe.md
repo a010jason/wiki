@@ -146,3 +146,4 @@ related:
 - **參考**：[[references/HBS-levendary-cafe-case]] / [[references/grant-contemporary-strategy-analysis]] Ch11 Global Strategy
 - **synthesis**：[[synthesis/wei-zheng-leadership-and-subsidiary-management]]（諫太宗十思疏 ↔ 子公司治理 的跨領域對標）
 - **對標案例**：McDonald's-China / KFC-China / Pizza-Hut-China
+- **同課程脈絡**：[[references/strategy-management-course-2024-nycu|NYCU IBM 5635 策略管理 2024 課程 master index]]（唐瓔璋授課，14 週 + 12 HBS case）

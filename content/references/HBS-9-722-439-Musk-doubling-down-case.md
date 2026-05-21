@@ -101,3 +101,4 @@ summary: >-
 - [[entities/Elon-Musk]] / Tesla / SpaceX
 - [[entities/Steve-Jobs]]（Yoffie 同書三人之一） / Bill-Gates / Andy-Grove
 - yoffie cusumano strategy rules 2015 / [[references/grant-contemporary-strategy-analysis]] Ch5 / Ch9 / Ch10 / Ch12
+- **同課程脈絡**：[[references/strategy-management-course-2024-nycu|NYCU IBM 5635 策略管理 2024 課程 master index]]（唐瓔璋授課，14 週 + 12 HBS case）

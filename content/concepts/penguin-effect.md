@@ -125,3 +125,4 @@ Step 7: 通常無法在新產業 catch-up（先進者已有 [[concepts/winner-ta
 - **Entity**：[[entities/HTC]] / Kodak / Nokia / Microsoft / Blockbuster / Yahoo / [[entities/Apple]] / [[entities/Amazon]] / Netflix / Satya-Nadella
 - **參考**：[[references/HBS-9-718-421-HTC-VR-case]] / [[references/christensen-overdorf-2000-HBR-disruptive-change]]
 - **Synthesis**：penguin effect as pivot driver / [[synthesis/HTC-marketing-research-gap]]
+- **教師原創框架（同 NYCU 策略管理 2024 課程）**：[[concepts/dedicated-vs-flexible-capacity]] / [[concepts/desktop-vs-platform-mindset]] / [[concepts/specialized-generalist-vs-generalized-specialist]] / [[concepts/substitute-complement-substitute-cycle]] / [[concepts/象-數-理-epistemology]]

@@ -175,3 +175,4 @@ related:
 - **Entity**：Michael-Marks / Nicholas-Brathwaite / Hon-Hai-Foxconn / Quanta / Compal / Inventec / Solectron / Qualcomm / Nokia / Motorola / Philips / Palm
 - **參考**：[[references/HBS-flextronics-international-case]] / [[references/grant-contemporary-strategy-analysis]] Ch10 VI / Ch6 organization
 - **Synthesis**：ems margin compression paradox / vertical disintegration then reintegration
+- **同課程脈絡**：[[references/strategy-management-course-2024-nycu|NYCU IBM 5635 策略管理 2024 課程 master index]]（唐瓔璋授課，14 週 + 12 HBS case）

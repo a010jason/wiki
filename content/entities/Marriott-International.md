@@ -147,3 +147,4 @@ related:
 - **Entity**：Airbnb / Starwood / Marriott-Bonvoy / Ritz-Carlton / Expedia / [[entities/Booking-com]]
 - **參考**：[[references/HBS-marriott-90yr-case]] / [[references/grant-contemporary-strategy-analysis]] Ch10 vertical scope / Ch12 diversification / Ch13 multibusiness
 - **Synthesis**：asset light vs asset heavy hospitality / pipeline vs platform hospitality
+- **同課程脈絡**：[[references/strategy-management-course-2024-nycu|NYCU IBM 5635 策略管理 2024 課程 master index]]（唐瓔璋授課，14 週 + 12 HBS case）

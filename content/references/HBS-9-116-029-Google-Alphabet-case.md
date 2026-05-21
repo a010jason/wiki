@@ -116,3 +116,4 @@ summary: >-
 - [[entities/Apple]] / [[entities/Steve-Jobs]] / [[entities/Elon-Musk]] / [[entities/Booking-com]]（教師對標）
 - [[entities/Microsoft-AdCenter]]（Google 廣告對手）
 - [[references/measure-what-matters-doerr-2018]] / [[references/grant-contemporary-strategy-analysis]] Ch12 / Ch13
+- **同課程脈絡**：[[references/strategy-management-course-2024-nycu|NYCU IBM 5635 策略管理 2024 課程 master index]]（唐瓔璋授課，14 週 + 12 HBS case）

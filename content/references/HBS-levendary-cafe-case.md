@@ -94,3 +94,4 @@ Path B subagent-first；單一 subagent 一次讀完 case + slide 共 28 頁；�
 - [[entities/Levendary-Cafe]]
 - [[references/grant-contemporary-strategy-analysis]] Ch11 Global Strategy
 - [[references/kotler-keller-chernev-marketing-management-16e]]（fast-casual positioning 接 STP）
+- **同課程脈絡**：[[references/strategy-management-course-2024-nycu|NYCU IBM 5635 策略管理 2024 課程 master index]]（唐瓔璋授課，14 週 + 12 HBS case）

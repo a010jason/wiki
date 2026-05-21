@@ -174,3 +174,4 @@ Frisby 提案實驗（Exhibit 11）：全新藍色背景、Google 式單一搜�
 
 - [[synthesis/booking-x-adcenter-platform-learning]] — vs AdCenter 對偶案例：學習速度作為決勝因子
 - [[synthesis/ab-testing-x-booking-strategic-limits]] — A/B 文化的 strategic limits
+- **同課程脈絡**：[[references/strategy-management-course-2024-nycu|NYCU IBM 5635 策略管理 2024 課程 master index]]（唐瓔璋授課，14 週 + 12 HBS case）

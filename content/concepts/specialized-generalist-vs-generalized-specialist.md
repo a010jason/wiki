@@ -142,3 +142,4 @@ Alphabet Holdings
 - **Entity**：[[entities/Google]] / [[entities/Alphabet]] / [[entities/Apple]] / [[entities/Samsung-Electronics]] / [[entities/Marriott-International]] / Berkshire-Hathaway / LVMH / [[entities/Amazon]] / Microsoft
 - **參考**：[[references/HBS-9-116-029-Google-Alphabet-case]] / [[references/grant-contemporary-strategy-analysis]] Ch12 / Ch13
 - **Synthesis**：（無對應 synthesis 頁；本頁本身已是教師原創 framing 收斂）
+- **教師原創框架（同 NYCU 策略管理 2024 課程）**：[[concepts/dedicated-vs-flexible-capacity]] / [[concepts/desktop-vs-platform-mindset]] / [[concepts/penguin-effect]] / [[concepts/substitute-complement-substitute-cycle]] / [[concepts/象-數-理-epistemology]]

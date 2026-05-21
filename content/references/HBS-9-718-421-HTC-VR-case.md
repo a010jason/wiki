@@ -108,3 +108,4 @@ summary: >-
 - [[entities/HTC]] / Cher-Wang / Peter-Chou
 - [[entities/Apple]] / Sony / Microsoft / Meta / [[entities/Google]] / [[entities/Samsung-Electronics]] / Valve
 - [[references/grant-contemporary-strategy-analysis]] Ch4 hypercompetition / Ch7 industry analysis / Ch9 innovation
+- **同課程脈絡**：[[references/strategy-management-course-2024-nycu|NYCU IBM 5635 策略管理 2024 課程 master index]]（唐瓔璋授課，14 週 + 12 HBS case）

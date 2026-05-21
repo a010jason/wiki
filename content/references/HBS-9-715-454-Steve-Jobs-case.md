@@ -96,3 +96,4 @@ Path B subagent；12 頁全讀。
 - [[entities/Steve-Jobs]] / [[entities/Apple]] / Tim-Cook / Pixar / NeXT
 - yoffie cusumano strategy rules 2015（Yoffie 同框列三大 leader）
 - [[references/grant-contemporary-strategy-analysis]] Ch5 / Ch9 / Ch12 / Ch13
+- **同課程脈絡**：[[references/strategy-management-course-2024-nycu|NYCU IBM 5635 策略管理 2024 課程 master index]]（唐瓔璋授課，14 週 + 12 HBS case）

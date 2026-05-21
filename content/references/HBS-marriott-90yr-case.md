@@ -102,3 +102,4 @@ Path B subagent；43 頁讀完，採 read-main（5 頁/批）未撞 32MB。
 - [[entities/Marriott-International]]
 - [[references/grant-contemporary-strategy-analysis]] Ch10 vertical scope / Ch12 / Ch13
 - [[references/HBS-booking-com-case]]（同產業 OTA 對手視角）
+- **同課程脈絡**：[[references/strategy-management-course-2024-nycu|NYCU IBM 5635 策略管理 2024 課程 master index]]（唐瓔璋授課，14 週 + 12 HBS case）

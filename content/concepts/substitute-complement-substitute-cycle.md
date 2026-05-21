@@ -135,3 +135,4 @@ related:
 - **概念**：[[concepts/institutional-voids]] / complementary assets / ecosystem competition / tipping point platform strategy / bass diffusion model / [[concepts/disruptive-innovation]] / two sided market / [[concepts/network-externalities]] / [[concepts/agency-vs-merchant-model]] / techfin vs fintech / escrow and third party payment / KYC-to-CRM
 - **Entity**：[[entities/Ant-Group]] / Alibaba / Jack-Ma / PayPal / [[entities/Amazon]] / [[entities/Shopee]] / [[entities/Booking-com]]
 - **參考**：[[references/HBS-9-617-060-Ant-Financial-case]] / [[references/iansiti-lakhani-competing-age-of-ai-2020]] / [[references/grant-contemporary-strategy-analysis]] Ch9 innovation
+- **教師原創框架（同 NYCU 策略管理 2024 課程）**：[[concepts/dedicated-vs-flexible-capacity]] / [[concepts/desktop-vs-platform-mindset]] / [[concepts/penguin-effect]] / [[concepts/specialized-generalist-vs-generalized-specialist]] / [[concepts/象-數-理-epistemology]]
