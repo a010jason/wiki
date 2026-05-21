@@ -487,6 +487,8 @@ title: Jason 的知識庫
 - [[synthesis/VRIO-x-porter-five-forces]] — 兩個框架是策略流程的 sequential gate（外部 → 內部），不是同層雙視角；industry effect vs firm effect 的解釋力反向消長
 - [[synthesis/disruptive-innovation-x-dominant-design]] — Dominant design 三個鎖死機制（learning/switching/coordination）正是 Innovator's Dilemma 的結構前置條件
 - [[synthesis/VRIO-x-value-chain]] — VRIO 的 Inimitable 三來源全部住在 Value Chain 的 linkages 而非單一 activity；causal ambiguity 是核心保護機制
+- [[synthesis/disruptive-innovation-x-value-chain]] — Disruption 不只是更便宜的產品，是 value chain restructuring 的三種模式；為何 Porter 框架本身偵測不到 disruption
+- [[synthesis/VRIO-framework-x-OKR]] — VRIO 是「資源 lens」、OKR 是「目標 lens」；OKR 設計可逆向打造 VRIO 資源，或耗光時間追 KPI 卻不累積 VRIO
 - [[synthesis/booking-x-adcenter-platform-learning]] — 同年代雙邊平台 後進者，Booking（學習速度）vs AdCenter（Porter 框架）對偶；Porter generic strategy 在 digital 失靈 7 條
 - [[synthesis/blue-ocean-x-disruptive-innovation]] — 兩條相反軌跡到同一目的地（uncontested market）；Blue Ocean 橫向跨類別 vs Disruptive 垂直低端爬升
 - [[synthesis/3V-x-STP]] — Kotler Ch02 兩 hub 的 customer-only vs multi-stakeholder 框架差異；marketing myopia 對沖

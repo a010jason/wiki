@@ -15,8 +15,8 @@ provenance:
   inferred: 0.05
   ambiguous: 0
 base_confidence: 0.55
-lifecycle: draft
-lifecycle_changed: 2026-05-21
+lifecycle: challenged
+lifecycle_changed: 2026-05-22
 ---
 
 # Construct Validity
@@ -181,6 +181,16 @@ lifecycle_changed: 2026-05-21
 - 「constructs 之間應 low correlation」預設 constructs **本質可分** — 但社會科學 constructs 常有概念重疊（compassion vs empathy、organizational commitment vs organizational identification）
 - Hardesty-Bearden dartboard 比喻直覺但操作上不精確（dartboard 邊界由誰定？）
 - 商管研究界 95% 量表預設 reflective（[[concepts/reflective-vs-formative-measurement]] Coltman 2008）→ 對 formative construct 的 validity 評估完全 ignore
+
+## Critique 摘要
+
+> **2026-05-22 跑了一次 wiki-challenge**
+>
+> 5 條核心 claim：0 survives / 2 narrow / 3 brittle / 0 unsupported。主要弱點是 single-source dependency（Bhattacherjee Ch7），1980s heuristic 被當作硬 threshold，且 Fornell-Larcker discriminant test 已被 Henseler 2015 的 HTMT 取代 10 年；「95% reflective」claim 是 MIS 子領域 snapshot 被過度推廣。
+>
+> `base_confidence`：0.55 → 0.55（brittle cap 內）；`lifecycle`：draft → challenged。
+>
+> 完整逐條質疑、行動項目：私人 meta 頁（不公開），路徑 `_meta/critique/construct-validity.md`。
 
 ## Related
 
